@@ -9,7 +9,12 @@
 </svelte:head>
 
 <div class="container mx-auto p-8">
-  <h1 class="text-3xl font-bold mb-6">Choose a Practice Test</h1>
+  <div class="flex items-center justify-between mb-6">
+    <h1 class="text-3xl font-bold">Choose a Practice Test</h1>
+    <button class="btn btn-outline btn-primary" onclick={() => goto(`${base}/combine`)}>
+      Combine Tests
+    </button>
+  </div>
   <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
     {#each testManifest as test}
       <div class="card bg-base-100 shadow-xl">

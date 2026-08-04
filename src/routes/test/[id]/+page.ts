@@ -1,5 +1,6 @@
 import { testManifest } from '$lib/data/tests/index.js';
 import { error } from '@sveltejs/kit';
+import type { TestData } from '$lib/stores/testStore';
 
 export async function load({ params }) {
   const entry = testManifest.find((t) => t.id === params.id);
@@ -7,6 +8,6 @@ export async function load({ params }) {
   const module = await entry.file();
   return {
     testId: entry.id,
-    testData: module.default
+    testData: module.default as TestData
   };
 }
