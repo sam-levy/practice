@@ -1,0 +1,198 @@
+{
+  "id": "arc2_scaps_7_t7_t8_2025_1",
+  "test_title": "ARC 2 SCAPS 7 T7 E T8 - 2025.1",
+  "total_points": "960/1000",
+  "notes": [
+    "Fonte é um formulário do Google Forms (Medicina 9 de Julho / Uninove) já preenchido/corrigido, em PDF. A seção de consentimento do aluno (0 de 0 pontos) e a seção final de identificação do aluno (PIN, RA, nome — também 0 de 0 pontos) não são questões avaliativas e foram omitidas da lista abaixo.",
+    "Na primeira questão do Caso 1 (critérios para cirurgia de transgenitalização), o texto extraído mistura um trecho de feedback com uma lista de procedimentos cobertos pelo Processo Transexualizador do SUS, com um item marcado por asterisco ('*Plástica mamária reconstrutiva bilateral...'), sugerindo tratar-se originalmente de uma questão composta (lista de procedimentos + justificativa de elegibilidade). Reproduzido abaixo como uma única questão dissertativa, conforme aparece na fonte. O padrão de correção somado (30+30+30=90 pontos) não fecha exatamente com o denominador informado (/100).",
+    "A última questão do Caso 3 (justificativa sobre diferença nos índices de consulta médica) não apresenta, no texto disponibilizado, uma seção de 'Feedback' ou referência bibliográfica explícita, diferentemente das demais questões.",
+    "Os 'correct_answer' das questões de múltipla escolha foram inferidos a partir do conteúdo do feedback/gabarito e do contexto clínico de cada caso, já que o formulário não indica visualmente (nesta extração em texto) qual alternativa estava marcada como correta em todas as questões."
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "free_response",
+      "case_context": "CASO 1 (360 de 380 pontos). Carly, 23 anos, nasceu com cariótipo XY, presença de pênis e testículos identificada na época. Desde os 7 anos não se reconhece mais como menino e começou a ter afinidade, identificação e expressão feminina. Sempre foi apoiada pela mãe e sofreu preconceito do pai e familiares. Desde os 18 anos faz hormonioterapia, já fez mamoplastia reconstrutora com implante de silicone e tireoplastia. Está em acompanhamento ambulatorial há 2 anos e 3 meses para realizar cirurgia de transgenitalização. Mantém união estável com Eliomar, 34 anos (sexo biológico e identidade/expressão masculinas), há 2 anos.",
+      "question": "Quais são os dois principais critérios para a aprovação da cirurgia de transgenitalização do SUS? Carly é considerada elegível?",
+      "correct_answer": "Critérios: (1) estar em acompanhamento ambulatorial multidisciplinar há pelo menos 2 anos; (2) ter mais de 21 anos, sem morbidades psiquiátricas graves (hormonioterapia é liberada a partir dos 18 anos). Sim, Carly é elegível, pois está em acompanhamento há 2 anos e 3 meses e já possui mais de 21 anos.",
+      "student_score": "80/100",
+      "explanation": "Hormonioterapia é indicada para maiores de 18 anos; a cirurgia de transgenitalização é indicada para maiores de 21 anos, após 2 anos de acompanhamento com equipe multidisciplinar e sem morbidades psiquiátricas graves. O Processo Transexualizador do SUS cobre, entre outros: acompanhamento pré e pós-operatório, tratamento hormonal, redesignação sexual, tireoplastia, mastectomia bilateral, histerectomia com anexectomia e colpectomia, cirurgias complementares de redesignação sexual, e plástica mamária reconstrutiva bilateral com prótese de silicone (procedimento já realizado por Carly).",
+      "reference": "CIASCA, Saulo V.; HERCOWITZ, Andréa; JUNIOR, Ademir L. Saúde LGBTQIA+: práticas de cuidado transdisciplinar. Barueri: Manole, 2021, p. 230."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "case_context": "CASO 1 (mesmo caso de Carly).",
+      "question": "Sabemos que as mulheres trans e travestis realizam modificações corporais para terem a expressão de gênero o mais próximo da feminina. Assinale a alternativa correta conforme essas modificações:",
+      "options": [
+        "Para as mulheres trans que realizam a hormonização, o objetivo é desenvolver os caracteres sexuais femininos primário.",
+        "Durante a ocultação de pênis e testículos é recomendado a diminuição de líquidos para evitar infecções urinárias devido ao uso de fitas adesivas.",
+        "Uma prática muito comum realizada por mulheres trans é o uso de silicone industrial indicado por especialistas pelo baixo custo.",
+        "Uma das complicações relacionadas à realização dessa modificação é uma torção testicular pelo ato de ocultar o pênis e os testículos."
+      ],
+      "correct_answer": "Uma das complicações relacionadas à realização dessa modificação é uma torção testicular pelo ato de ocultar o pênis e os testículos.",
+      "student_score": "60/60",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "case_context": "CASO 1 (mesmo caso de Carly).",
+      "question": "Em relação à assistência à saúde das pessoas LGBTQIA+, é CORRETO afirmar:",
+      "options": [
+        "O processo de hormonização em pessoas transgênero deve ser realizado após os 18 anos de idade e somente por especialista focal na Atenção Terciária.",
+        "Uma das maiores vulnerabilidades clínicas desse grupo é a saúde mental, explicada pelo modelo de estresse de minorias, que é composto pela LGBTfobia internalizada, pelo estigma e pelas experiências de violência e preconceito.",
+        "Mulheres cis homossexuais não têm indicação de realização de exame preventivo de câncer de colo uterino e não necessitam de atendimento ginecológico.",
+        "O médico deve evitar questionar o paciente durante as consultas sobre identidade de gênero, orientação sexual ou práticas sexuais, pois entende-se que essas informações devem partir exclusivamente dos relatos das pessoas, quando for conveniente para elas."
+      ],
+      "correct_answer": "Uma das maiores vulnerabilidades clínicas desse grupo é a saúde mental, explicada pelo modelo de estresse de minorias, que é composto pela LGBTfobia internalizada, pelo estigma e pelas experiências de violência e preconceito.",
+      "student_score": "60/60",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 4,
+      "type": "free_response",
+      "case_context": "CASO 1 (mesmo caso de Carly).",
+      "question": "Cite duas especificidades na anamnese realizadas pela equipe de saúde a mulheres trans.",
+      "correct_answer": "Exemplos aceitos: realizar o inventário anatômico/de órgãos sem assumir a anatomia com base na apresentação de gênero; questionar se a pessoa oculta pênis/testículos e problemas relacionados; investigar sintomas de disforia de gênero; perguntar sobre desejo/realização de procedimentos de modificação corporal; interrogar condições prévias que influenciam os riscos da hormonização; questionar complicações associadas à hormonização em curso; perguntar sobre posologia e forma de acesso aos hormônios; investigar história familiar relevante à hormonização; abordar saúde e satisfação sexual com linguagem inclusiva focada em comportamentos; realizar rastreamentos para cânceres, saúde mental, uso de substâncias, violência e IST.",
+      "student_score": "100/100",
+      "explanation": "Padrão de correção: duas orientações corretas = 100%; uma orientação correta = 50%.",
+      "reference": "CIASCA, Saulo V.; HERCOWITZ, Andréa; JUNIOR, Ademir L. Saúde LGBTQIA+: práticas de cuidado transdisciplinar. Barueri: Manole, 2021, p. 230."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "case_context": "CASO 1 (mesmo caso de Carly).",
+      "question": "Conforme vimos no caso, Carly faz hormonioterapia e fez procedimentos cirúrgicos que são ofertados pelo Processo Transexualizador no SUS, o qual se insere no contexto da Política Nacional de Saúde Integral de Lésbicas, Gays, Bissexuais, Travestis e Transexuais (LGBT). O desafio subsequente é a garantia de:",
+      "options": [
+        "Acesso a todas as pessoas que necessitam desse cuidado.",
+        "Acesso aos procedimentos de mastectomia e de histerectomia.",
+        "Promoção das mudanças do corpo das pessoas, independente do gênero.",
+        "Promoção do uso do nome da certidão de nascimento de travestis e transexuais."
+      ],
+      "correct_answer": "Acesso a todas as pessoas que necessitam desse cuidado.",
+      "student_score": "60/60",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 6,
+      "type": "free_response",
+      "case_context": "CASO 2 (280 de 280 pontos). Leila, 18 anos, nasceu com cariótipo XX, branca, acaba de terminar o ensino médio e entrou na universidade para cursar odontologia. Na adolescência não apresentava interesses afetivos ou sexuais. Está em consultório, vestindo camiseta, calça jeans e tênis, cabelos compridos, unhas rosa claro, batom alaranjado, brincos de argola; entende-se por mulher. Iniciou relacionamento com Solange (também mulher), colega de classe, referindo-se apaixonada. Cogita iniciar vida sexual com a parceira, mas por inexperiência pede orientações.",
+      "question": "Forneça três orientações acerca do relacionamento sexual entre duas mulheres para Leila e Solange.",
+      "correct_answer": "Exemplos aceitos: higienização das mãos antes e depois do sexo; manter as unhas curtas e limpas para evitar machucados na(s) parceira(s); usar luvas cirúrgicas para penetração digital, com lubrificante se necessário; usar camisinha cortada/adaptada ou dental dam como barreira para sexo oral; manter higienizados os acessórios sexuais, usar preservativo neles e trocá-lo/não compartilhar entre parceiras; realizar exames de IST rotineiramente.",
+      "student_score": "100/100",
+      "explanation": "Padrão de correção: citou uma orientação correta = 30 pontos; citou duas orientações corretas = 60 pontos; citou três orientações corretas = 100 pontos.",
+      "reference": "CIASCA, Saulo V.; HERCOWITZ, Andréa; JUNIOR, Ademir L. Saúde LGBTQIA+: práticas de cuidado transdisciplinar. Barueri: Manole, 2021."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "case_context": "CASO 2 (mesmo caso de Leila).",
+      "question": "De acordo com a descrição do caso, qual é a identidade de gênero de Leila?",
+      "options": ["Mulher trans", "Agênero", "Mulher cis", "Não binária"],
+      "correct_answer": "Mulher cis",
+      "student_score": "60/60",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "case_context": "CASO 2 (mesmo caso de Leila).",
+      "question": "Qual era a orientação sexual de Leila atualmente?",
+      "options": ["Asexual", "Homossexual", "Heterosexual", "Pansexual"],
+      "correct_answer": "Homossexual",
+      "student_score": "60/60",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "case_context": "CASO 2 (mesmo caso de Leila).",
+      "question": "Qual era a orientação sexual de Leila na adolescência?",
+      "options": ["Asexual", "Heterosexual", "Homossexual", "Pansexual"],
+      "correct_answer": "Asexual",
+      "student_score": "60/60",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "case_context": "CASO 3 (320 de 340 pontos). João, homem negro de 35 anos, procura atendimento na UPA após sentir cansaço constante, dores articulares e episódios frequentes de fadiga. Mãe com diabetes mellitus tipo II, pai com hipertensão arterial; parentes próximos com histórico de anemia. Não tem convênio, usa o SUS, e relata não se sentir bem na UBS próxima por já ter sido discriminado pela equipe de saúde.",
+      "question": "Com base no caso de João e nas diretrizes da Política Nacional de Saúde Integral da População Negra, assinale a alternativa CORRETA:",
+      "options": [
+        "A Política Nacional de Saúde Integral da População Negra não sugere a realização de exames específicos para condições genéticas baseados na etnia, mas recomenda a abordagem geral das condições de saúde independentemente do histórico familiar ou etnia.",
+        "Diante do histórico familiar de diabetes mellitus tipo II e hipertensão arterial, o médico não deve priorizar a investigação de doenças genéticas comuns em sua etnia, como a anemia falciforme, que pode apresentar sintomas semelhantes aos relatados por João.",
+        "A Política Nacional de Saúde Integral da População Negra enfatiza a importância de um atendimento médico sensível e apropriado às necessidades de saúde específicas da população negra, incluindo a avaliação de condições hereditárias prevalentes.",
+        "A Política Nacional de Saúde Integral da População Negra não recomenda a consideração de condições de saúde específicas que prevalecem mais frequentemente em populações negras, como a anemia falciforme e a hipertensão, no diagnóstico e tratamento de pacientes com histórico familiar relevante."
+      ],
+      "correct_answer": "A Política Nacional de Saúde Integral da População Negra enfatiza a importância de um atendimento médico sensível e apropriado às necessidades de saúde específicas da população negra, incluindo a avaliação de condições hereditárias prevalentes.",
+      "student_score": "60/60",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "case_context": "CASO 3 (mesmo caso de João).",
+      "question": "De acordo com a Política Nacional de Saúde Integral da População Negra, sobre a percepção de discriminação no serviço de saúde no Brasil, é correto afirmar que:",
+      "options": [
+        "A discriminação no serviço de saúde foi um problema do passado e atualmente não existe mais, pois todos os profissionais de saúde atendem os pacientes de forma igualitária e adequada.",
+        "O Brasil contava com 146,3 milhões de pessoas com 18 anos ou mais de idade. Dentre elas, 10,6% (o equivalente a 15,5 milhões de pessoas) relataram já ter se sentido discriminadas ou tratadas de forma inferior em serviços de saúde, seja por médicos ou outros profissionais da área.",
+        "O Brasil contava com 146,3 milhões de pessoas com 18 anos ou mais de idade. Dentre elas, a maioria homens com ensino superior completo refere preconceito no serviço de saúde.",
+        "Os principais motivos de discriminação relatados no serviço de saúde foram a religião e o gênero, indicados pela maioria das pessoas que afirmaram ter sofrido discriminação."
+      ],
+      "correct_answer": "O Brasil contava com 146,3 milhões de pessoas com 18 anos ou mais de idade. Dentre elas, 10,6% (o equivalente a 15,5 milhões de pessoas) relataram já ter se sentido discriminadas ou tratadas de forma inferior em serviços de saúde, seja por médicos ou outros profissionais da área.",
+      "student_score": "60/60",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "case_context": "CASO 3 (mesmo caso de João).",
+      "question": "Dado o caso de João e a abordagem da Política Nacional de Saúde Integral da População Negra, qual das seguintes práticas de acompanhamento e cuidado é recomendada para garantir um atendimento adequado às necessidades de saúde de João?",
+      "options": [
+        "Implementar um plano de cuidado que inclua acompanhamento regular para as condições identificadas, levando em conta o histórico familiar e a etnia de João, para garantir um tratamento eficaz e a prevenção de complicações.",
+        "Realizar apenas exames laboratoriais e exame físico direcionado com objetivo de otimizar o atendimento, mudar de UBS e cumprir metas estabelecidas.",
+        "Realizar apenas exames laboratoriais gerais, sem considerar a necessidade de avaliações adicionais específicas para condições hereditárias comuns em sua etnia, já que a abordagem genérica é suficiente para o diagnóstico.",
+        "Evitar a coleta de informações adicionais sobre o histórico de saúde familiar e a etnia de João, focando em tratamentos para os sintomas relatados."
+      ],
+      "correct_answer": "Implementar um plano de cuidado que inclua acompanhamento regular para as condições identificadas, levando em conta o histórico familiar e a etnia de João, para garantir um tratamento eficaz e a prevenção de complicações.",
+      "student_score": "60/60",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "case_context": "CASO 3 (mesmo caso de João).",
+      "question": "De acordo com a Política Nacional de Saúde Integral da População Negra, quais são as doenças genéticas ou hereditárias mais comuns nessa população que o médico deve considerar no caso de João?",
+      "options": [
+        "Anemia falciforme, Diabetes mellitus (tipo II), Hipertensão arterial, Deficiência de glicose-6-fosfato desidrogenase.",
+        "Hemofilia, Diabetes mellitus (tipo I), Hipertensão arterial, Deficiência de glicose-6-fosfato desidrogenase.",
+        "Fibrose cística, Anemia ferropriva, Asma, Deficiência de glicose-6-fosfato desidrogenase.",
+        "Síndrome de Down, Anemia perniciosa, Hipotireoidismo, Diabetes mellitus (tipo I)."
+      ],
+      "correct_answer": "Anemia falciforme, Diabetes mellitus (tipo II), Hipertensão arterial, Deficiência de glicose-6-fosfato desidrogenase.",
+      "student_score": "60/60",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 14,
+      "type": "free_response",
+      "case_context": "CASO 3 (mesmo caso de João). Dado adicional: segundo a Política Nacional de Saúde Integral da População Negra, a proporção de pessoas que consultaram um médico nos últimos 12 meses é maior entre pessoas brancas (74,8%) do que entre pessoas pretas (69,5%) e pardas (67,8%); a população negra (pretos e pardos) apresenta índices abaixo da média nacional de 71,2% (142,8 milhões de pessoas).",
+      "question": "Com base na Política Nacional de Saúde Integral da População Negra, justifique as possíveis causas dessa diferença nos índices de consultas médicas.",
+      "correct_answer": null,
+      "student_score": "80/100",
+      "explanation": "Não há seção de feedback/gabarito explícita disponível no texto extraído para esta questão. Resposta do aluno: racismo estrutural leva pessoas negras a evitarem buscar atendimento médico por já terem sofrido preconceito ou maus-tratos no serviço de saúde; vulnerabilidades individuais e sociais; menor acesso à educação, ao emprego e à saúde; a população negra é a maior parcela da população brasileira e, ainda assim, a mais vulnerável pela carga histórica que carrega.",
+      "reference": null
+    }
+  ]
+}

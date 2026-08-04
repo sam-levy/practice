@@ -108,7 +108,7 @@
 <div class="container mx-auto p-8 max-w-4xl">
   <h1 class="text-3xl font-bold mb-2">Combinar Provas</h1>
   <p class="text-base-content/60 mb-6">
-    Selecione ao menos duas provas para combinar suas questões em uma prova
+    Selecione duas ou mais provas para combinar suas questões em uma prova
     personalizada.
   </p>
 
