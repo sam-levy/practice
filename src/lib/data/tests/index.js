@@ -29,5 +29,10 @@ export const testManifest = [
     title: "P2 GO - Turmas A/B - 22/05/26",
     file: () => import("./p2_go_turmas_ab_22_05_26.json"),
   },
+  {
+    id: "forms_ii_turmas_ab",
+    title: "Forms II - Turmas A/B",
+    file: () => import("./forms_ii_turmas_ab.json"),
+  },
   // Add more tests here later, following the same shape
 ];
