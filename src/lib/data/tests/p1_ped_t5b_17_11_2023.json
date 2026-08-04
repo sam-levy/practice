@@ -1,0 +1,281 @@
+{
+  "id": "p1_ped_t5b_17_11_2023",
+  "test_title": "P1 PED - T5B - 17/11/2023",
+  "total_points": "56/100",
+  "notes": [
+    "Fonte é um formulário do Google Forms já preenchido/corrigido; o texto extraído mistura pontuação obtida pelo aluno (ex.: '4/4', '0/8') com o gabarito/feedback. As alternativas de cada questão foram exibidas em ordem embaralhada (randomizada) para o aluno, então em uma questão (Q9) o feedback cita a 'letra a' do gabarito original, mas o conteúdo descrito corresponde à alternativa listada em outra posição nesta cópia — isso foi identificado e corrigido abaixo.",
+    "A seção 'Esta seção contém 5 questões dissertativas' foi declarada no formulário, mas o texto fornecido só permite recuperar com segurança 1 dessas 5 questões dissertativas (hiperplasia adrenal congênita) mais 2 questões que, por evidência de conteúdo, pertencem na verdade à seção de múltipla escolha (helmintíase e conduta em lactente febril), totalizando as 15 questões objetivas. As demais dissertativas dessa seção não estão presentes no texto disponibilizado."
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Lactente de seis meses é levado ao pediatra pela primeira vez. Nunca realizou exames, não fez teste do pezinho e sua vacinação está atrasada. Sua mãe informa que ele ficou um pouco \"amarelinho\" até quase dois meses de idade, tem muita dificuldade para mamar, se engasgando com frequência, e passa muitos dias sem evacuar. O exame físico mostra fontanela bregmática ampla, hipotonia, macroglossia, hérnia umbilical e pele seca. Desenvolvimento neuropsicomotor: não sustenta a cabeça, não pega objetos e não sorri quando estimulado. Diante desse caso, qual a patologia que deve ser imediatamente investigada?",
+      "options": [
+        "Sífilis congênita",
+        "Hipotireoidismo congênito",
+        "Fenilcetonúria",
+        "Deficiência de cortisol"
+      ],
+      "correct_answer": "Hipotireoidismo congênito",
+      "student_score": "4/4",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Pré-escolar, sexo feminino, três anos, foi internada com diagnóstico de pneumonia lobar e derrame pleural. Iniciada penicilina cristalina 200.000 UI/kg/dia e realizada drenagem torácica. No quinto dia de internação, ainda com dreno de tórax, a criança apresentava melhora clínica, porém persistindo com febre diária de 38,5°C (1 a 2 picos). Hemocultura: Streptococcus pneumoniae. Qual a conduta correta com relação ao tratamento com antibiótico?",
+      "options": [
+        "Substituir por amoxicilina-clavulanato.",
+        "Associar claritromicina.",
+        "Escalonar para ceftriaxona.",
+        "Manter a penicilina cristalina."
+      ],
+      "correct_answer": "Manter a penicilina cristalina.",
+      "student_score": "0/4",
+      "explanation": "O atual perfil das cepas isoladas de pacientes com pneumonia no Brasil mostra que não houve até o momento detecção de cepas com CIM maior ou igual a 8, situação que acarretaria falha terapêutica com penicilina. Portanto, na dosagem prescrita neste caso (200.000 U/Kg/dia) a penicilina cristalina é adequada para o tratamento desta pneumonia, não sendo necessária mudança na antibioticoterapia. Crianças com derrame pleural podem manter febre pelo próprio derrame.",
+      "reference": "Tratado de Pediatria, Sociedade Brasileira de Pediatria, 5a edição, volume 2, seção 29, capítulo 3 - Pneumonias comunitárias."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Escolar, 9 anos, masculino, é levado ao pronto atendimento com queixa de dor abdominal há dois dias, má aceitação alimentar e distensão abdominal. Tem histórico de constipação intestinal funcional desde os 3 anos, com má adesão ao tratamento. Não tem nenhuma alteração neurológica. Faz uso diário de óleo mineral 10 mL/dia. Ao exame, bom estado geral, peso = 45 Kg, abdômen com massa palpável em flanco e fossa ilíaca esquerdas, indolor. Qual o tratamento imediato para o diagnóstico mais provável do caso apresentado?",
+      "options": [
+        "Administrar enema fosfatado 113 mL via retal agora.",
+        "Prescrever hidróxido de magnésia 40 mL/dia por via oral uso contínuo.",
+        "Aumentar a dose do óleo mineral para 30 mL/dia via oral uso contínuo.",
+        "Prescrever lactulose 10 mL/dia por via oral por 7 dias."
+      ],
+      "correct_answer": "Administrar enema fosfatado 113 mL via retal agora.",
+      "student_score": "4/4",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Lactente de 45 dias, feminino, é levada à unidade de pronto atendimento com história de 3 picos febris aferidos nas últimas 24 horas (T = 38,5 a 39°C), medicada pela última vez há uma hora. Apresenta também recusa do seio materno (está em aleitamento materno exclusivo) e teve dois episódios pregressos de vômitos. Ao exame, lactente em regular estado geral, desidratado moderado. O plantonista deu o diagnóstico inicial de febre sem sinais localizatórios, solicitou hemograma (ainda em execução) e exame simples de urina, cujo resultado foi: pH = 6,5, densidade = 1020, leucócitos = 400/campo, teste do nitrito = positivo. Qual antibioticoterapia empírica correta para o lactente neste momento, até o resultado da urocultura?",
+      "options": [
+        "Tratamento ambulatorial com sulfametoxazol+trimetoprim via oral",
+        "Tratamento ambulatorial com cefalexina via oral",
+        "Tratamento hospitalar com amicacina via intravenosa",
+        "Tratamento hospitalar com cefalotina via intravenosa"
+      ],
+      "correct_answer": "Tratamento hospitalar com amicacina via intravenosa",
+      "student_score": "0/4",
+      "explanation": "Na ITU, a antibioticoterapia deve ser iniciada imediatamente após a coleta da urina, pois a demora para começar o tratamento é fator de risco para o aparecimento de lesão renal. A decisão por tratamento com a criança internada ou tratamento ambulatorial dependerá, principalmente, da idade da criança e da gravidade da infecção. Crianças acima de 3 meses de vida, sem sinais de toxemia, com estado geral preservado, hidratadas e capazes de ingestão oral devem receber tratamento ambulatorial. Por outro lado, naquelas com febre alta, toxemiadas, desidratadas e com vômitos persistentes, o tratamento inicial deve ser com a criança hospitalizada. Para as crianças com grave acometimento do estado geral, especialmente lactentes, com vômitos, desidratados e com distúrbios metabólicos, é necessário iniciar o tratamento parenteral até que as condições clínicas possibilitem a troca para a medicação via oral. Nesse caso, as opções de antibioticoterapia podem ser: as cefalosporinas de terceira geração (ceftriaxona ou ceftazidima), ou secundariamente os aminoglicosídeos (gentamicina ou amicacina).",
+      "reference": "Tratado de Pediatria, Sociedade Brasileira de Pediatria, 5a edição, volume 2, seção 22, capítulo 2, página 63."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Lactente de 11 meses chega ao hospital apresentando mau estado nutricional, com lesões descamativas de pele, cabelos esparsos, finos e quebradiços; fácies de tristeza; descorado e com edema de pés e tornozelos. No exame do abdome, palpa-se fígado de consistência firme a 5 cm do rebordo costal direito e a 7 cm do apêndice xifoide. Quais os diagnósticos mais prováveis?",
+      "options": [
+        "Desnutrição tipo marasmo com insuficiência cardíaca",
+        "Desnutrição tipo kwashiorkor com fibrose hepática",
+        "Desnutrição tipo kwashiorkor com esteatose hepática",
+        "Desnutrição tipo marasmo com hipertensão portal crônica"
+      ],
+      "correct_answer": "Desnutrição tipo kwashiorkor com esteatose hepática",
+      "student_score": "0/4",
+      "explanation": "Os dados de desnutrição, lesões descamativas da pele, alterações nos cabelos, fácies de tristeza, anemia e edema são comemorativos de kwashiorkor e este diagnóstico se impõe. Nestes casos o aumento do fígado é devido a infiltração gordurosa cuja etiopatogenia não está totalmente esclarecida.",
+      "reference": "Tratado de Pediatria, Sociedade Brasileira de Pediatria, 5a edição, volume 2, seção 24, capítulo 5 - Desnutrição energético-proteica."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Escolar, masculino, sete anos, apresentou febre alta, calafrios, cefaleia, adinamia e dor de garganta. Dois dias depois, surgiu exantema formado por pápulas eritematosas puntiformes próximas umas das outras, mais intenso em dobras/pregas cutâneas. Ao exame, discreto rubor facial, exceto por uma nítida palidez peribucal. Qual o diagnóstico mais provável do caso apresentado?",
+      "options": [
+        "Escarlatina.",
+        "Eritema infeccioso.",
+        "Rubéola.",
+        "Mononucleose infecciosa."
+      ],
+      "correct_answer": "Escarlatina.",
+      "student_score": "4/4",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Lactente de um ano, proveniente da Venezuela, é levado à unidade básica de saúde para atualização de calendário vacinal, e responsável é informado que não poderá receber a vacina oral para rotavírus, pelo risco de ocorrência de intussuscepção intestinal. Qual o limite máximo de idade para receber a vacina em questão?",
+      "options": [
+        "A idade máxima para iniciar a vacinação com a vacina pentavalente é 8 meses de vida.",
+        "A idade máxima para administrar a terceira dose da vacina pentavalente é 10 meses de vida.",
+        "O limite de idade para administrar a segunda dose da vacina monovalente é 7 meses e 29 dias.",
+        "O limite de idade para administrar a primeira dose da vacina monovalente é 1 mês e 15 dias."
+      ],
+      "correct_answer": "O limite de idade para administrar a segunda dose da vacina monovalente é 7 meses e 29 dias.",
+      "student_score": "0/4",
+      "explanation": "Vacinas de rotavírus são vacinas de uso oral, compostas por vírus vivos atenuados. Duas vacinas estão licenciadas no Brasil: vacina monovalente VR1 (G1P[8]), utilizada pelo Programa Nacional de Imunizações (PNI), e a vacina pentavalente VR5 (G1, G2, G3, G4 e P1A[8]), utilizada na rede privada. A vacina monovalente é administrada em duas doses, aos 2 e 4 meses de idade. O limite de idade para administrar a primeira dose é 3 meses e 15 dias, e para a segunda, de 7 meses e 29 dias. A vacina rotavírus pentavalente é administrada em três doses aos 2, 4 e 6 meses de idade. A idade máxima para iniciar a vacinação é de 3 meses e 15 dias, e a terceira dose deve ser aplicada no máximo até 8 meses e 0 dia de vida. O intervalo mínimo entre doses de ambas as vacinas é de 4 semanas. Em caso de vômitos ou regurgitação, não é recomendado repetir a vacina.",
+      "reference": "Tratado de Pediatria, Sociedade Brasileira de Pediatria, 5a edição, volume 2, seção 21, capítulo 1 - Vacinação da criança."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Lactente de nove meses é levado ao posto de saúde devido a quadro de vômitos e diarreia de fezes líquidas amareladas, que se iniciou há 24 horas. Hoje não apresentou nenhum episódio de vômito. Exame físico: irritabilidade, choro com lágrimas, boca e língua pouco ressecadas, sede intensa e um sinal da prega que desaparece rapidamente. Qual a conduta imediata correta neste caso?",
+      "options": [
+        "Referir para internação hospitalar para hidratação venosa e realização de exames complementares.",
+        "Aplicar uma dose de antiemético parenteral e iniciar, após 30 minutos, a terapia de reidratação oral na unidade.",
+        "Iniciar na unidade, terapia de reidratação oral com solução da OMS, reavaliando periodicamente.",
+        "Liberar para casa com recomendação de aumento da ingestão hídrica e administração de soro caseiro após cada evacuação."
+      ],
+      "correct_answer": "Iniciar na unidade, terapia de reidratação oral com solução da OMS, reavaliando periodicamente.",
+      "student_score": "4/4",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Lactente de 45 dias de vida é atendido no pronto-socorro com quadro de bronquiolite viral aguda. Mãe relata que ele foi prematuro de 35 semanas, classificado como adequado para idade gestacional (AIG), não necessitando de cuidados ventilatórios. Exame físico: regular estado geral, dispneico, FR: 72 irpm, sem tiragem ou batimento de aletas nasais, MV presente e diminuído universalmente, com sibilos esparsos. Exames complementares: saturação de O2 de 95% em repouso e em ar ambiente; radiografia de tórax: pulmões hiperinsuflados com reforço da trama broncovascular. O médico plantonista decide pela internação hospitalar. Quais foram as alterações clínicas ou laboratoriais corretas que determinaram essa decisão?",
+      "options": [
+        "Achado radiológico e idade do paciente.",
+        "Idade do paciente e frequência respiratória elevada.",
+        "Estado geral do paciente e saturação de O2.",
+        "Saturação de O2 e achado radiológico."
+      ],
+      "correct_answer": "Idade do paciente e frequência respiratória elevada.",
+      "student_score": "0/4",
+      "explanation": "São considerados sinais de perigo pela OMS, OPAS e revisões sistemáticas, em menores de 2 meses de idade com tosse ou dificuldade para respirar: frequência respiratória (FR) elevada, tiragem subcostal, recusa do seio materno, febre alta, entre outros. Na criança com bronquiolite, além destes, são fatores de risco a prematuridade (< 34 semanas), idade menor do que 3 meses, comorbidades como cardiopatia congênita, doença pulmonar crônica e imunodeficiência. A resposta correta contém idade e FR elevada, contempladas no caso clínico, com 45 dias e 72 irpm, respectivamente. Os outros dados estão dentro do esperado ou não constituem preocupação adicional. Observação: o gabarito original do professor referia-se a esta alternativa pela letra 'a', mas nesta cópia (com alternativas embaralhadas) o conteúdo correto corresponde à alternativa aqui listada como 'Idade do paciente e frequência respiratória elevada'.",
+      "reference": "Tratado de Pediatria, Sociedade Brasileira de Pediatria, 5a edição, volume 2, seção 29, capítulo 2 - Bronquiolite viral aguda."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Adolescente, 10 anos, portador de anemia falciforme, é atendido em uma unidade de emergência com quadro de febre elevada há 24h e sintomas gripais. Ao exame físico, REG, descorado 2+/4+, temperatura = 38°C, pulso: 108 bpm, cheio, FR: 28 irpm com uso de musculatura acessória, SpO2 = 90%. Ausculta pulmonar: murmúrio vesicular diminuído de forma discreta à esquerda. Ausculta cardíaca: 2 bulhas rítmicas normofonéticas, sem sopros. Qual o diagnóstico mais provável e a conduta correta para o caso?",
+      "options": [
+        "Embolia pulmonar aguda / Uso profilático de heparina.",
+        "Síndrome torácica aguda / Observação por 24h, analgesia, evitar a transfusão de hemácias.",
+        "Embolia pulmonar aguda / Internação, anticoagulação com dose plena de heparina.",
+        "Síndrome torácica aguda / Internação, analgesia, antibioticoterapia, e transfusão de hemácias."
+      ],
+      "correct_answer": "Síndrome torácica aguda / Internação, analgesia, antibioticoterapia, e transfusão de hemácias.",
+      "student_score": "4/4",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Escolar, 8 anos, masculino, comparece em consulta na unidade básica de saúde, para início de tratamento de asma, diagnosticada recentemente e sem tratamento regular. Quando questionado, acompanhante refere que mês passado precisou levar o paciente ao atendimento de emergência no início do mês, no meio do mês e no final do mês, sempre por \"crises de chiado\" iniciadas durante o dia, que atribui ao consumo excessivo de sorvete por causa do calor. Apesar do ocorrido, o paciente não precisou perder nenhum dia de aula, e nem deixou de fazer nenhuma das suas atividades habituais. Não acorda no meio da noite por \"crises\". Qual o tratamento de controle inicial correto para o paciente?",
+      "options": [
+        "Dose média de CI-LABA ou referenciar para serviço especializado.",
+        "SABA, se necessário.",
+        "Baixa dose diária de CI.",
+        "Baixa dose de CI-LABA ou dose média de CI."
+      ],
+      "correct_answer": "Baixa dose diária de CI.",
+      "student_score": "0/4",
+      "explanation": "O paciente apresentado no caso tem sintomas duas vezes ou mais no mês, mas não apresenta sintomas na maioria dos dias e não apresenta despertares noturnos 1x/semana. Portanto, o tratamento de controle inicial é o corticosteroide inalado em baixas doses diárias. (SABA: agente beta agonista de curta duração; CI: corticosteroide inalado; LABA: agente beta agonista de longa duração.)",
+      "reference": "Tratado de Pediatria, Sociedade Brasileira de Pediatria, 5a edição, volume 1, seção 12, capítulo 11 - Asma: abordagem ambulatorial, página 986, Figura 3."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Paciente 12 anos vem em consulta de pronto socorro acompanhado de sua mãe, que refere que há cerca de 2 semanas notou que seu filho está emagrecendo rapidamente, refere perda de 5 kg em 2 semanas, mesmo apresentando aumento da ingesta alimentar neste período, pois frequentemente se queixa de muita fome, refere também que notou um aumento da sede e que está urinando mais do que o normal. Hoje com queixa de dor abdominal e vômitos e não se alimentou. Ao exame: regular estado geral, desidratado de algum grau, acianótico, anictérico, afebril, BRNF S/Sopros em 2T, pulsos + e cheios, TEC=2seg, FC:130bpm, MV+ bilateralmente sem sinais de desconforto respiratório FR:50ipm, abdome RHA+ flácido, doloroso à palpação difusa, DB negativo, sem sinais de peritonite, Giordano negativo, glicemia capilar de 390mg/dL. Qual o diagnóstico mais provável do caso, e sua fisiopatologia?",
+      "options": [
+        "Diabetes mellitus tipo II, causada pela destruição autoimune das células beta pancreáticas produtoras de insulina.",
+        "Cetoacidose diabética, causada pelo aumento da resistência à insulina culminando na hiperglicemia.",
+        "Cetoacidose diabética, causada pela destruição autoimune das células beta pancreáticas produtoras de insulina.",
+        "Diabetes mellitus tipo I, causada pelo aumento da resistência à insulina culminando na hiperglicemia."
+      ],
+      "correct_answer": "Cetoacidose diabética, causada pela destruição autoimune das células beta pancreáticas produtoras de insulina.",
+      "student_score": "4/4",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Lactente de um ano e dois meses engatinha e anda com apoio, consegue apanhar objetos, reconhece a mãe, aponta o que quer e imita gestos, como bater palmas e dar tchau. Entretanto, ainda não fala palavra alguma nem mantém jargão (fala com emissão de sons com entonação e sem significado). Qual o diagnóstico mais provável desse lactente?",
+      "options": [
+        "Possível atraso no desenvolvimento motor",
+        "Atraso na aquisição da linguagem",
+        "Autismo",
+        "Desenvolvimento neuropsicomotor adequado para a idade"
+      ],
+      "correct_answer": "Atraso na aquisição da linguagem",
+      "student_score": "0/4",
+      "explanation": "Nas principais escalas de avaliação das etapas do desenvolvimento da criança, é demonstrado que um lactente pode começar a andar até aos 15 meses sem que isto signifique um atraso no seu desenvolvimento. Entretanto, em relação à linguagem, com um ano de idade as crianças já falam alguma palavra e mantêm uma fala com emissões de sons, mesmo que ainda sem significados, com entonação (jargão), tentando se comunicar com as pessoas. Já o autista, além de não falar, não tenta se comunicar, não aponta ou imita gestos, a não ser após terapia apropriada.",
+      "reference": "Tratado de Pediatria, Sociedade Brasileira de Pediatria, 5a edição, Volume 1, Seção 4, Capítulo 1 - Etapas do desenvolvimento neuropsicomotor."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Pré-escolar, 4 anos, feminino, está em consulta de retorno na unidade básica de saúde para investigação de parasitose intestinal. A paciente tem história de diarreia crônica com tenesmo há dois meses, e prolapso retal recorrente há duas semanas. O resultado das 3 amostras do exame protoparasitológico de fezes (PPF) veio negativo, mas o hemograma e perfil de ferro sugerem anemia ferropriva. O médico decide tratar o paciente com base na clínica do paciente. Qual é a helmintíase mais provável que deve ser tratada?",
+      "options": ["Ascaridíase", "Tricuríase", "Enterobíase", "Giardíase"],
+      "correct_answer": "Tricuríase",
+      "student_score": "4/4",
+      "explanation": "O quadro de diarreia crônica com tenesmo e prolapso retal recorrente, associado a anemia ferropriva, mesmo com PPF negativo, é clássico de tricuríase (infecção por Trichuris trichiura), cuja fixação na mucosa retal causa irritação crônica, tenesmo e prolapso retal, além de perda sanguínea oculta levando à anemia ferropriva.",
+      "reference": "Tratado de Pediatria, Sociedade Brasileira de Pediatria, volume 1, capítulo Parasitoses Intestinais."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Lactente de dois meses, previamente saudável, em bom estado geral, com história de febre (38°C) há três dias, sem outras alterações, é levado a consulta médica. Após história completa e exame físico rigoroso, não se encontram elementos para firmar um diagnóstico. Qual a conduta correta para o paciente em questão?",
+      "options": [
+        "Solicitar exames complementares (hemograma e exame simples de urina) e de acordo com o resultado dos mesmos indicar a conduta.",
+        "Internar o paciente, uma vez que nesta faixa etária, devido à pobreza do exame físico, devemos colher exames e tratar a todos com antibioticoterapia empírica (ampicilina + ceftriaxona).",
+        "Iniciar antibioticoterapia empírica ambulatorial (ceftriaxona), reavaliando o quadro após 48 horas.",
+        "Liberar o paciente com orientação, uma vez que a grande maioria dos pacientes febris, nesta faixa etária, são portadores de síndromes virais."
+      ],
+      "correct_answer": "Internar o paciente, uma vez que nesta faixa etária, devido à pobreza do exame físico, devemos colher exames e tratar a todos com antibioticoterapia empírica (ampicilina + ceftriaxona).",
+      "student_score": "4/4",
+      "explanation": "Em lactentes jovens (geralmente <2-3 meses) com febre sem sinais localizatórios, o exame físico é pouco confiável para excluir infecção bacteriana grave, de modo que a conduta padrão é a internação para coleta de exames (hemocultura, urocultura, e quando indicado LCR) e início de antibioticoterapia empírica enquanto se aguardam os resultados.",
+      "reference": null
+    },
+    {
+      "id": 16,
+      "type": "free_response",
+      "case_context": "Adolescente de 16 anos, masculino, é levado à unidade de pronto atendimento com queixa de febre aferida há 2 dias (T=38°C), diarreia sem sangue ou pus nas fezes, dor abdominal e palidez cutâneo-mucosa. Após avaliação clínica, foi solicitado hemograma: Hb: 10,2; Ht: 38; VCM: 75 (VR 80-90); HCM: 22 (VR 26-34); Leucócitos: 25.615 (60% neutrófilos, 7% bastão, 30% linfócitos, 1% basófilos, 2% monócitos); Plaquetas: 80.000.",
+      "question": "Classifique os achados da série vermelha do hemograma.",
+      "correct_answer": "Anemia microcítica e hipocrômica.",
+      "student_score": "8/8",
+      "explanation": "O exame apresentado tem hemoglobina abaixo do valor de referência, bem como o VCM, HCM e CHCM, sendo assim o paciente apresenta uma anemia, microcitose e hipocromia. Padrão de correção: anemia = 4 pontos; microcitose = 2 pontos; hipocromia = 2 pontos (sem o diagnóstico de anemia, a questão vale 0 pontos).",
+      "reference": "Tratado de Pediatria, Sociedade Brasileira de Pediatria, 5a edição, volume 2, seção 27, capítulo 1 - Interpretação do hemograma e dos exames de coagulação."
+    },
+    {
+      "id": 17,
+      "type": "free_response",
+      "case_context": "Mesmo caso clínico da questão 16 (adolescente de 16 anos com febre, diarreia, dor abdominal e palidez, hemograma com anemia microcítica hipocrômica e leucocitose com desvio à esquerda).",
+      "question": "Com base nos achados da série vermelha do hemograma, qual a anemia carencial mais provável apresentada pelo paciente?",
+      "correct_answer": "Anemia ferropriva (anemia por deficiência de ferro).",
+      "student_score": "0/8",
+      "explanation": "Paciente com anemia hipocrômica e microcítica, com número de hemácias próximo do limite inferior da normalidade, portanto a causa não é sangramento agudo, devendo-se pensar na deficiência de ferro como principal etiologia.",
+      "reference": "Tratado de Pediatria, Sociedade Brasileira de Pediatria, 5a edição, volume 2, seção 27, capítulo 1 - Interpretação do hemograma e dos exames de coagulação."
+    },
+    {
+      "id": 18,
+      "type": "free_response",
+      "case_context": "Mesmo caso clínico das questões 16 e 17.",
+      "question": "Classifique os achados da série branca do hemograma.",
+      "correct_answer": "Leucocitose com neutrofilia e desvio à esquerda.",
+      "student_score": "0/8",
+      "explanation": "O exame apresentado tem aumento do número absoluto de leucócitos, caracterizando leucocitose, com predomínio de neutrófilos e com desvio à esquerda devido à presença de bastões. Padrão de correção: leucocitose = 4 pontos; neutrofilia/desvio à esquerda = 4 pontos.",
+      "reference": "Tratado de Pediatria, Sociedade Brasileira de Pediatria, 5a edição, volume 2, seção 27, capítulo 1 - Interpretação do hemograma e dos exames de coagulação."
+    },
+    {
+      "id": 19,
+      "type": "free_response",
+      "case_context": "Mesmo caso clínico das questões 16 a 18.",
+      "question": "Classifique os achados da série plaquetária do hemograma.",
+      "correct_answer": "Plaquetopenia (trombocitopenia).",
+      "student_score": "8/8",
+      "explanation": "Paciente com número de plaquetas abaixo do valor de referência para a normalidade, portanto tem uma plaquetopenia ou trombocitopenia.",
+      "reference": "Tratado de Pediatria, Sociedade Brasileira de Pediatria, 5a edição, volume 2, seção 27, capítulo 1 - Interpretação do hemograma e dos exames de coagulação."
+    },
+    {
+      "id": 20,
+      "type": "free_response",
+      "case_context": "Recém-nascido do sexo masculino, 16 dias de vida, levado pelos pais porque não para de vomitar há dois dias com piora acentuada hoje. Nega febre, diarreia, sintomas gripais ou outros sintomas associados. Está em aleitamento materno exclusivo. Os pais não foram à UBS para coletar a triagem neonatal (teste do pezinho) após a alta da maternidade. Ao exame: lactente em mau estado geral, sonolento, fontanela deprimida, olhos encovados, boca seca, pulso fino, taquicárdico e macrogenitossomia.",
+      "question": "Qual o diagnóstico mais provável do caso apresentado?",
+      "correct_answer": "Hiperplasia adrenal congênita (por deficiência da 21-hidroxilase), forma perdedora de sal.",
+      "student_score": "8/8",
+      "explanation": "O aluno precisa saber reconhecer essa doença, que faz parte da triagem neonatal obrigatória e é fatal se não for reconhecida e tratada imediatamente, por causa da grave desidratação e distúrbio hidroeletrolítico. O ponto-chave da questão é estar atento ao achado de exame físico de macrogenitossomia, que demonstra que está havendo virilização do RN. Qualquer outro diagnóstico não é aceito pelo gabarito.",
+      "reference": "Tratado de Pediatria, Sociedade Brasileira de Pediatria, 5a edição, volume 1, seção 16, capítulo 9, páginas 1239-1241."
+    }
+  ]
+}
