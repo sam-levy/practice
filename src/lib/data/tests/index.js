@@ -19,6 +19,11 @@ export const testManifest = [
     title: "ARC 2 SCAPS 7 T7 E T8 - 2025.1",
     file: () => import("./arc2_scaps_7_t7_t8_2025_1.json"),
   },
+  {
+    id: "p1_go_turmas_ab_07_04_26",
+    title: "P1 GO - Turmas A/B - 07/04/26",
+    file: () => import("./p1_go_turmas_ab_07_04_26.json"),
+  },
 
   // Add more tests here later, following the same shape
 ];

@@ -1,0 +1,367 @@
+{
+  "id": "p1_go_turmas_ab_07_04_26",
+  "test_title": "P1 GO - Turmas A/B - 07/04/26",
+  "total_points": "49/100",
+  "notes": [
+    "Fonte é um formulário do Google Forms (Medicina 9 de Julho / Uninove) já preenchido/corrigido, em PDF. Diferente do documento de referência, o texto extraído deste PDF embaralha a ordem visual de cada 'caixa de questão' (badge de pontuação, opções, gabarito/feedback e enunciado aparecem fora de ordem), exigindo reconstrução por contexto. A seção de orientações/consentimento inicial e a seção final de identificação (nome, RA, matrícula/nome do professor, PIN) foram omitidas por não serem questões avaliativas.",
+    "Todas as questões desta prova parecem ser objetivas (múltipla escolha); não foram identificadas questões dissertativas no texto disponibilizado.",
+    "Questão 7 (figuras de insinuação fetal) e a primeira parte da Questão 18 (miomatose uterina/Yolla) são baseadas em imagens (ilustrações de posição da cabeça fetal e imagem de RM, respectivamente); as alternativas de múltipla escolha não têm rótulos textuais recuperáveis no PDF, apenas marcadores visuais (círculos preenchidos/'X'). Os textos das alternativas foram substituídos por descrições genéricas ('Figura 1', 'Figura 2' etc.) nesses casos.",
+    "O bloco de feedback que menciona 'O occipício está voltado para o quadrante esquerdo transversal da pelve materna, em posição cefálica fletida' (com referência ao Tratado de Obstetrícia Febrasgo) foi realocado para a Questão 7 (insinuação fetal), pois o conteúdo é compatível com uma questão sobre posição/estática fetal e claramente não se refere à questão de SOP (Marilda, 29 anos) onde aparecia posicionado no texto extraído.",
+    "A atribuição de pontuação (score) a cada questão foi feita com base na posição do número de pontos imediatamente anterior às alternativas de cada questão (padrão predominante no documento). A soma dos pontos obtidos e dos pontos máximos reconstruídos bate exatamente com o total informado no formulário (49/100), o que corrobora essa reconstrução.",
+    "Para a Questão 9 (Marilda, 29 anos, SOP), não foi possível recuperar o bloco de feedback/gabarito comentado no texto disponibilizado; a resposta correta foi inferida pelo conteúdo clínico e pela pontuação obtida (4/4)."
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "case_context": "Clara, 24 anos, com 39 semanas e 5 dias de gestação, é admitida em trabalho de parto ativo. Evolui com contrações regulares e progressão adequada da dilatação cervical. Ao exame vaginal, apresenta dilatação total, plano +2 de DeLee, apresentação cefálica fletida em occípito púbica. Durante o período expulsivo, observa-se exteriorização progressiva da cabeça fetal até que ocorre a saída da cabeça, seguida por rotação espontânea da mesma, alinhando-se com os ombros fetais ainda no interior do canal de parto.",
+      "question": "Esse movimento observado, para alinhamento dos ombros, corresponde a qual etapa do mecanismo de parto?",
+      "options": [
+        "Rotação externa",
+        "Desprendimento do pólo cefálico",
+        "Rotação interna",
+        "Hipomóclio"
+      ],
+      "correct_answer": "Rotação externa",
+      "student_score": "0/5",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "case_context": "Primigesta a termo iniciando trabalho de parto com 5 cm de dilatação e contrações efetivas. Fez pré-natal adequado, teve diagnóstico de sífilis no primeiro trimestre e o tratamento foi adequado (para ela e o parceiro), sem outras intercorrências. O VDRL antes do tratamento era 1/32, e o último exame, realizado há 1 semana, apresentava título de 1/4. Os demais exames de pré-natal estão normais. O teste rápido realizado na internação foi positivo.",
+      "question": "Assinale a alternativa correta em relação ao assunto.",
+      "options": [
+        "O teste rápido positivo é esperado e não indica necessariamente nenhum problema.",
+        "Iniciar novo tratamento imediatamente.",
+        "Deve ser solicitado teste treponêmico confirmatório.",
+        "O teste rápido positivo indica nova infecção."
+      ],
+      "correct_answer": "O teste rápido positivo é esperado e não indica necessariamente nenhum problema.",
+      "student_score": "5/5",
+      "explanation": "O VDRL inicial era 1:32 e, após tratamento adequado, caiu para 1:4, representando queda de pelo menos 2 diluições e evidenciando resposta sorológica adequada. O teste rápido (treponêmico) positivo na admissão não indica falha terapêutica, pois testes treponêmicos permanecem positivos por toda a vida, mesmo após tratamento adequado. A paciente é considerada adequadamente tratada, com resposta sorológica adequada e sem evidência de reinfecção; não há indicação de retratamento materno no momento do parto.",
+      "reference": null
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "case_context": "Adolescente de 16 anos procura atendimento médico acompanhada da mãe, que está preocupada porque a filha ainda não menstruou. A paciente nega outras queixas. Ao exame físico, apresenta estatura de 1,52 m e peso de 48 kg, ausência de desenvolvimento mamário e de pelos pubianos. Observa-se ainda pescoço discretamente alargado e implantação posterior baixa dos cabelos. O exame da genitália externa não revela anormalidades evidentes.",
+      "question": "Diante desse quadro clínico, o achado laboratorial mais provável é:",
+      "options": [
+        "FSH elevado e estradiol diminuído",
+        "FSH diminuído e LH elevado",
+        "Prolactina elevada e TSH normal",
+        "Testosterona elevada e DHEA-S aumentado"
+      ],
+      "correct_answer": "FSH elevado e estradiol diminuído",
+      "student_score": "0/5",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "case_context": "Gestante de 37 anos, G3P1CAb1, com 41 semanas e 2 dias de gestação, internada para indução do trabalho de parto por gestação pós-termo. Cesárea anterior há 5 anos por apresentação pélvica. Pré-natal adequado, sem intercorrências. Ultrassonografia recente: feto único, cefálico, estimativa de peso de 3.400 g, líquido amniótico normal. Ao exame obstétrico: colo posterior, grosso, 1 cm de dilatação, 30% de apagamento, apresentação alta e móvel, bolsa íntegra.",
+      "question": "Diante deste cenário, qual é a melhor conduta para indução do trabalho de parto?",
+      "options": [
+        "Utilizar método mecânico com balão intracervical.",
+        "Utilizar misoprostol vaginal para preparo cervical.",
+        "Realizar amniotomia imediata.",
+        "Iniciar ocitocina endovenosa em bomba de infusão."
+      ],
+      "correct_answer": "Utilizar método mecânico com balão intracervical.",
+      "student_score": "0/5",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "case_context": "Nileide, 34 anos, G2PC1, idade gestacional cronológica de 8 semanas, deu entrada em pronto-socorro com dor de início súbito em abdome inferior e sangramento vaginal escuro em pequena quantidade há alguns dias. Ao exame: descorada 3+/4+, PA 80x50 mmHg, FC 118 bpm. Exame especular: colo uterino sem lesões, pequena quantidade de sangue escuro em fundo de saco posterior, sem sangramento ativo. Toque vaginal: colo uterino impérvio. Abdome: descompressão brusca positiva.",
+      "question": "De acordo com o caso apresentado, assinale a alternativa que representa o diagnóstico mais provável:",
+      "options": [
+        "Mola hidatiforme",
+        "Gestação ectópica rota",
+        "Aborto retido",
+        "Aborto incompleto"
+      ],
+      "correct_answer": "Gestação ectópica rota",
+      "student_score": "4/4",
+      "explanation": "A paciente apresenta sinais e sintomas clássicos de gravidez ectópica rota: idade gestacional precoce, dor abdominal súbita e intensa, sangramento vaginal escuro em pequena quantidade, sinais de choque hipovolêmico, ausência de sangramento ativo ao exame especular, colo uterino impérvio, dor à descompressão brusca e sangue em fundo de saco posterior. Diante de instabilidade hemodinâmica e sinais de hemoperitônio, não se deve perder tempo com exames complementares; estão indicadas estabilização hemodinâmica e abordagem cirúrgica.",
+      "reference": null
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "case_context": "Paciente de 39 anos, nuligesta, procura orientação contraceptiva. Refere tabagismo de 25 cigarros/dia há 10 anos, nega outras comorbidades. Exame físico normal, PA 110x70 mmHg, IMC 22 kg/m², sem sinais de doença cardiovascular. Demonstra interesse específico em contraceptivo oral combinado igual ao de sua colega.",
+      "question": "Segundo os critérios de elegibilidade da OMS, a conduta mais adequada neste caso é:",
+      "options": [
+        "Recomendar exclusivamente métodos com progestágeno isolado devido ao tabagismo.",
+        "Prescrever métodos hormonais combinados respeitando o desejo da paciente.",
+        "Oferecer apenas métodos contraceptivos não hormonais, como o DIU de cobre, devido à idade.",
+        "Prescrever contraceptivos hormonais combinados com orientações adequadas sobre os riscos associados."
+      ],
+      "correct_answer": "Recomendar exclusivamente métodos com progestágeno isolado devido ao tabagismo.",
+      "student_score": "0/5",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "case_context": "Paciente hígida foi submetida a maturação de colo com misoprostol e posterior indução de parto por pós-datismo (partograma em anexo mostrando progressão de dilatação e De Lee de -3 a +2 ao longo de 11 horas).",
+      "question": "Qual das figuras a seguir representa a insinuação do feto nesse caso?",
+      "options": [
+        "Figura 1 (ilustração de posição/estática fetal)",
+        "Figura 2 (ilustração de posição/estática fetal)",
+        "Figura 3 (ilustração de posição/estática fetal)",
+        "Figura 4 (ilustração de posição/estática fetal)"
+      ],
+      "correct_answer": "Figura 1 (marcada como resposta correta na fonte; o aluno selecionou a Figura 2, indicada como incorreta)",
+      "student_score": "0/5",
+      "explanation": "O occipício está voltado para o quadrante esquerdo transversal da pelve materna, em posição cefálica fletida (insinuação = passagem do maior diâmetro da apresentação pelo estreito superior da pelve, correspondente ao plano 0 de DeLee).",
+      "reference": "Tratado de Obstetrícia Febrasgo / editores Cesar Eduardo Fernandes, Marcos Felipe Silva de Sá; coordenação Corintio Mariani Neto. 1. ed. Rio de Janeiro: Elsevier, 2019."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "case_context": "Luneide, 32 anos, chega ao pronto atendimento com dor hipogástrica, principalmente em fossa ilíaca esquerda, intensa, recorrente e progressiva há anos, às vezes necessitando opioides. Antecedente de dismenorreia primária intensa com piora, associada a dispareunia de profundidade a ponto de evitar atividade sexual. Duas gestações por parto normal (última há 5 anos). Ciclos regulares, 4 dias, volume moderado. Exame ginecológico: dor à mobilização do colo uterino, útero discretamente aumentado e amolecido. USG transvaginal de urgência com achado relevante em imagem anexa.",
+      "question": "Qual a principal hipótese diagnóstica?",
+      "options": [
+        "Miomatose uterina",
+        "Gestação ectópica",
+        "Abcesso tubo ovariano",
+        "Endometriose"
+      ],
+      "correct_answer": "Endometriose",
+      "student_score": "0/4",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "case_context": "Marilda, 29 anos, procura atendimento ginecológico com irregularidade menstrual — períodos de amenorreia intercalados com fluxo menstrual aumentado. Refere desejo gestacional, tentando engravidar há 3 meses. Exame físico: IMC 36 kg/m², acne em face e dorso, hirsutismo.",
+      "question": "Com base nessa situação hipotética, assinale a alternativa que apresenta a primeira linha de tratamento para a paciente:",
+      "options": [
+        "Iniciar contraceptivo oral combinado devido hiperandrogenismo",
+        "Indicar indução da ovulação devido infertilidade",
+        "Prescrever metformina para a resistência insulínica",
+        "Orientar modificações no estilo de vida e perda de peso"
+      ],
+      "correct_answer": "Orientar modificações no estilo de vida e perda de peso",
+      "student_score": "4/4",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "case_context": "Paulina, 25 anos, vem ao Pronto Socorro com dor aguda e intensa em regiões abdominal e pélvica há 2 dias, em pontada, localizada em fossa ilíaca direita, início abrupto com piora progressiva. Nuligesta, ciclos regulares, DUM há 10 dias, uso irregular de preservativo. PA 100/60 mmHg, FC 100 bpm, temperatura axilar 38,5°C. Abdome levemente distendido com descompressão brusca positiva em FID. Exame especular: conteúdo acinzentado sem odor. Toque vaginal: útero anteversoflexão, tumoração anexial direita dolorosa. USG transvaginal em anexo representando a região anexial direita.",
+      "question": "Qual é a conduta adequada?",
+      "options": [
+        "Laparotomia exploradora.",
+        "Drenagem guiada por ultrassom.",
+        "Tratamento ambulatorial com antibioticoterapia via oral.",
+        "Complementação com RM de pelve."
+      ],
+      "correct_answer": "Laparotomia exploradora.",
+      "student_score": "0/4",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "case_context": "Maria Lúcia, 35 anos, G2PN1Ab1, sangramento vaginal intermitente há 4 meses, fora do período menstrual, 1-2 dias, pequeno volume, vermelho-vivo. Ciclos regulares (28/5 dias). Sem uso de hormonais. Exame físico normal; especular: colo normal, pequena quantidade de sangue no fundo de saco. Toque bimanual: útero normal, móvel, indolor. USG transvaginal: endométrio de 8 mm, imagem hiperecoica intracavitária de contornos regulares, com pedículo vascular ao Doppler, 12 mm.",
+      "question": "Marque a alternativa com o provável diagnóstico e conduta para este caso.",
+      "options": [
+        "Hiperplasia endometrial; biópsia de endométrio com Pipelle.",
+        "Pólipo endometrial; histeroscopia diagnóstica com biópsia.",
+        "Mioma submucoso; ressonância magnética de pelve.",
+        "Endometrite crônica; antibioticoterapia via oral."
+      ],
+      "correct_answer": "Pólipo endometrial; histeroscopia diagnóstica com biópsia.",
+      "student_score": "4/4",
+      "explanation": "A imagem descrita na ultrassonografia (lesão focal intracavitária, bem delimitada, com vascularização em pedículo único) é o padrão clássico de pólipo endometrial. O mioma geralmente é hipoecoico, pode distorcer a cavidade e tem vascularização não tipicamente pedicular; a hiperplasia endometrial é espessamento difuso, não lesão focal; câncer de endométrio é mais comum acima de 45 anos, com sangramento mais volumoso e imagem irregular.",
+      "reference": null
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "case_context": "Veridiana, 23 anos, procura atendimento em hospital/maternidade referindo nodulação em intróito vaginal há 4 dias, aumentando de tamanho rapidamente, com dor intensa, dificultando relações sexuais, sentar e deambular. Episódio anterior discreto, com desaparecimento espontâneo. Exame físico ginecológico apresentado em imagem anexa (nódulo em intróito vaginal compatível com abscesso de glândula de Bartholin).",
+      "question": "A respeito da patologia em questão, assinale a alternativa correta.",
+      "options": [
+        "A marsupialização é o tratamento definitivo.",
+        "Trata-se de patologia com etiologia polimicrobiana.",
+        "O tratamento consiste em antibioticoterapia via oral.",
+        "A conduta é observação clínica e retorno se piora do quadro."
+      ],
+      "correct_answer": "Trata-se de patologia com etiologia polimicrobiana.",
+      "student_score": "0/4",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "case_context": "Deusa, 47 anos, primigesta, sem comorbidades, pré-natal com 13 semanas e 3 dias. Nega álcool, tabaco ou drogas. Sorologias iniciais normais. Uso regular de ácido fólico. Sem história familiar de doenças genéticas, sem consanguinidade. Pré-natal de risco habitual até o momento. USG morfológica de primeiro trimestre evidenciou probabilidade elevada de trissomia do 21.",
+      "question": "Dentre as alternativas abaixo, qual contém achados compatíveis com esta hipótese diagnóstica?",
+      "options": [
+        "Dilatação do trato urinário e ausência de bolha gástrica.",
+        "Aumento do ângulo frontomaxilar e ventriculomegalia.",
+        "Osso nasal hipoplásico e translucência nucal aumentada.",
+        "Alteração de ducto venoso e fenda labiopalatina."
+      ],
+      "correct_answer": "Osso nasal hipoplásico e translucência nucal aumentada.",
+      "student_score": "5/5",
+      "explanation": "Os principais marcadores ultrassonográficos de 1º trimestre para trissomia do 21 são: aumento da translucência nucal (acúmulo de líquido na região cervical fetal), osso nasal ausente ou hipoplásico, alterações no ducto venoso (fluxo anormal ao Doppler) e regurgitação tricúspide (alteração cardíaca precoce).",
+      "reference": null
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "case_context": "Paciente, 23 anos, em acompanhamento do ciclo menstrual para tratamento de infertilidade. USG transvaginal apresentada em imagem, mostrando endométrio de aparência trilaminar.",
+      "question": "Qual é o momento do ciclo menstrual desta paciente?",
+      "options": [
+        "Gravídico.",
+        "Fase folicular.",
+        "Fase secretora.",
+        "Menstrual"
+      ],
+      "correct_answer": "Fase folicular.",
+      "student_score": "5/5",
+      "explanation": "No início da fase folicular observa-se endométrio fino, mas, à medida que sofre ação proliferativa estrogênica, próximo à ovulação adquire aparência trilaminar, como representado na imagem. Na fase secretora, o endométrio é hiperecogênico.",
+      "reference": null
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "case_context": "Tatielly, 28 anos, procura a UBS com corrimento vaginal há 10 dias, odor desagradável que se intensifica após relações sexuais, sem prurido ou ardência. Novo parceiro sexual há 2 meses. Exame especular: corrimento homogêneo branco-acinzentado, sem hiperemia vulvovaginal. pH vaginal 5,1. Teste com KOH a 10% intensifica o odor. Exame microscópico: células epiteliais recobertas por cocobacilos (clue cells).",
+      "question": "Considerando os achados apresentados, a conduta mais adequada é:",
+      "options": [
+        "Prescrever metronidazol para a paciente e orientar tratamento do parceiro.",
+        "Prescrever miconazol creme para a paciente e fluconazol oral para o parceiro.",
+        "Prescrever cefalexina para a paciente e metronidazol para o parceiro.",
+        "Prescrever metronidazol para a paciente sem necessidade de tratar o parceiro."
+      ],
+      "correct_answer": "Prescrever metronidazol para a paciente sem necessidade de tratar o parceiro.",
+      "student_score": "0/4",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "case_context": "Primigesta de 39 semanas, em trabalho de parto. Ao toque vaginal, identifica-se a fontanela maior (bregmática) à esquerda, próxima à sínfise púbica, e a fontanela menor (lambdoide) à direita e posterior.",
+      "question": "Qual é a variedade de posição fetal?",
+      "options": [
+        "Occipito esquerda anterior",
+        "Occípito esquerda transversa",
+        "Occipito direita transversa",
+        "Occipito direita posterior"
+      ],
+      "correct_answer": "Occipito direita posterior",
+      "student_score": "0/5",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "case_context": "Yolla, 39 anos, aumento progressivo do volume abdominal há 3 anos. Infecções urinárias de repetição; RM de pelve em anexo realizada em episódio de pronto-socorro. Ciclos menstruais regulares, sem dismenorreia. 3 gestações, 2 partos fórceps, 1 cesárea com laqueadura tubária (há 7 anos). Há 6 meses: disquesia, obstipação intestinal, dor lombar e sensação de plenitude vesical.",
+      "question": "De acordo com esse caso acima, o diagnóstico mais provável é de:",
+      "options": [
+        "Miomatose uterina",
+        "Pólipo endometrial",
+        "Adenomiose",
+        "Câncer de colo uterino"
+      ],
+      "correct_answer": "Miomatose uterina",
+      "student_score": "4/4",
+      "explanation": "A paciente apresenta quadro de massa pélvica de crescimento lento com sintomas compressivos, típico de lesão benigna, expansiva e progressiva, comprimindo estruturas vizinhas (reto, bexiga) = miomatose uterina. O mioma apresenta como principais características: crescimento lento, aumento do volume abdominal, sintomas compressivos quando volumoso, idade típica de 30-40 anos; a paridade não exclui o diagnóstico.",
+      "reference": null
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "case_context": "Plácida, 32 anos, G3PN1PC1, 36 semanas, sem pré-natal adequado, deu entrada com sangramento vaginal vermelho vivo de início há 30 minutos. Episódio semelhante anterior, em menor quantidade, com melhora espontânea. Nega dor, fator desencadeante, trauma abdominal ou enrijecimento abdominal. Exame especular: colo sem lesões, moderada quantidade de sangue em fundo de saco posterior. BCF 140 bpm, altura uterina 36 cm, tônus uterino normal. PA 100x70 mmHg, FC 85 bpm.",
+      "question": "De acordo com esse caso acima, o diagnóstico mais provável é de:",
+      "options": [
+        "Rotura uterina",
+        "Descolamento prematuro de placenta",
+        "Rotura de seio marginal",
+        "Placenta prévia"
+      ],
+      "correct_answer": "Placenta prévia",
+      "student_score": "4/4",
+      "explanation": "Quadro clássico de placenta prévia: sangramento vaginal vermelho vivo, indolor, início súbito, podendo ser recorrente, útero sem hipertonia e feto geralmente sem sofrimento fetal inicial. Ocorre porque a placenta está implantada no segmento inferior do útero, próximo ou cobrindo o colo, levando a sangramento com pequenas alterações cervicais.",
+      "reference": null
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "case_context": "Paciente 27 anos, G3P2N, 39 semanas e 3 dias, internada devido a bolsa rota espontânea com líquido claro, evoluindo para trabalho de parto espontâneo com partograma aberto. Vitalidade fetal preservada, contrações uterinas efetivas (4 contrações de 50 segundos em 10 minutos), sem necessidade de ocitocina. Traçado do partograma em anexo (figura).",
+      "question": "Conforme quadro clínico descrito e o traçado do partograma, assinale a alternativa correta:",
+      "options": [
+        "Trata-se de uma parada secundária da descida",
+        "Trata-se de uma parada secundária da dilatação",
+        "Trata-se de parto eutócito",
+        "Trata-se de um período expulsivo prolongado"
+      ],
+      "correct_answer": "Trata-se de uma parada secundária da dilatação",
+      "student_score": "5/5",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "case_context": "Beatriz, 25 anos, primeira gestação, sangramento vaginal iniciado há 1 dia associado a cólicas leves e esporádicas. Sem pré-natal iniciado; idade gestacional pela DUM de 7 semanas e 6 dias. BhCG sérico qualitativo confirma a gestação. USG transvaginal: saco gestacional em cavidade uterina, embrião compatível com idade gestacional de 6 2/7 com 8,5 mm, vesícula vitelínica normal e ausência de batimentos cardíacos embrionários.",
+      "question": "O diagnóstico frente ao quadro é:",
+      "options": [
+        "Aborto retido",
+        "Aborto incompleto",
+        "Ameaça de aborto",
+        "Gestação anembrionada"
+      ],
+      "correct_answer": "Aborto retido",
+      "student_score": "4/4",
+      "explanation": "O detalhe que mais chama atenção é embrião com mais de 6 semanas sem batimentos cardíacos, atendendo ao critério diagnóstico de inviabilidade gestacional. No abortamento retido, o embrião está presente, sem atividade cardíaca, mas ainda não houve expulsão.",
+      "reference": null
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "case_context": "Marilda, 28 anos, sexualmente ativa, lesão em região genital há aproximadamente 2 meses, iniciada como pápula indolor evoluindo para úlcera; há 2 semanas tornou-se dolorosa, com secreção purulenta e odor fétido. Nega episódios similares anteriores. Exame físico: úlcera em grande lábio direito, cerca de 3 cm, bordas elevadas e irregulares, fundo granuloso de aspecto 'carne de peixe', friável ao toque, secreção purulenta abundante. Sem adenopatia inguinal palpável.",
+      "question": "A principal hipótese diagnóstica é:",
+      "options": [
+        "Sífilis primária com infecção secundária.",
+        "Donovanose com infecção bacteriana secundária.",
+        "Cancro mole.",
+        "Herpes genital com infecção bacteriana secundária."
+      ],
+      "correct_answer": "Donovanose com infecção bacteriana secundária.",
+      "student_score": "0/5",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "case_context": "O diagnóstico da gravidez pode ser efetuado em 90% das pacientes por meio dos sinais clínicos, dos sintomas e do exame físico em gestações mais avançadas.",
+      "question": "Analise as afirmativas abaixo e marque aquela que agrega um sinal de presunção, um sinal de probabilidade e um sinal de certeza de gravidez, respectivamente:",
+      "options": [
+        "Atraso menstrual; amolecimento da cérvice uterina; presença dos batimentos cardíacos fetais",
+        "Saída de colostro pelo mamilo; coloração violácea vulvar; percepção dos movimentos fetais.",
+        "Aumento da frequência urinária; náuseas; amolecimento do istmo uterino.",
+        "Assimetria uterina à palpação; sonolência excessiva; coloração violácea de vulva e vagina."
+      ],
+      "correct_answer": "Atraso menstrual; amolecimento da cérvice uterina; presença dos batimentos cardíacos fetais",
+      "student_score": "5/5",
+      "explanation": "Sinais de presunção (não confirmam gestação): atraso menstrual (amenorreia), náuseas e vômitos, mastalgia, polaciúria. Sinais de probabilidade (forte suspeita): β-hCG positivo, aumento do volume uterino, sinais cervicais (Hegar, Goodell — amolecimento do colo/istmo). Sinais de certeza (confirmam definitivamente a gestação): visualização do embrião/feto na ultrassonografia, ausculta de batimentos cardíacos fetais, percepção de movimentos fetais pelo examinador.",
+      "reference": null
+    }
+  ]
+}
