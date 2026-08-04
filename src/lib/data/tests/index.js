@@ -24,6 +24,10 @@ export const testManifest = [
     title: "P1 GO - Turmas A/B - 07/04/26",
     file: () => import("./p1_go_turmas_ab_07_04_26.json"),
   },
-
+  {
+    id: "p2_go_turmas_ab_22_05_26",
+    title: "P2 GO - Turmas A/B - 22/05/26",
+    file: () => import("./p2_go_turmas_ab_22_05_26.json"),
+  },
   // Add more tests here later, following the same shape
 ];
