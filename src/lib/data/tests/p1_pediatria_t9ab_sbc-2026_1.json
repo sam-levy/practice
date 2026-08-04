@@ -1,0 +1,270 @@
+{
+  "id": "p1_pediatria_t9",
+  "test_title": "P1 PEDIATRIA T9A/B SBC 2026.1",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Escolar de 8 anos, menino, em tratamento de asma com beclometasona inalatória (400 mcg ao dia) há 3 meses, sem controle dos sintomas nas últimas 4 semanas. Faz uso da medicação com espaçador, apresenta boa adesão e técnica inalatória correta. Em relação à terapia farmacológica, a conduta recomendada para a escalada terapêutica é:",
+      "options": [
+        "Manter a dose atual do corticoide inalatório e associar broncodilatador de curta ação regular.",
+        "Manter a dose atual do corticoide inalatório e associar um antileucotrieno.",
+        "Substituir o corticoide inalatório isolado pela associação de LABA e corticoide inalatório.",
+        "Aumentar a dose do corticoide inalatório e associar broncodilatador de curta ação regular."
+      ],
+      "correct_answer": "Substituir o corticoide inalatório isolado pela associação de LABA e corticoide inalatório.",
+      "explanation": "Quando o controle não é alcançado com dose baixa ou média de CI isolado, a conduta preferencial é a adição de um broncodilatador de longa ação (LABA) ao CI. Trocar para a associação CI + LABA é a estratégia mais eficaz para melhorar a função pulmonar e reduzir exacerbações nessa faixa etária, antes de considerar outras terapias. A associação de antileucotrieno (como o montelucaste) é uma opção válida, porém considerada alternativa secundária, geralmente reservada para casos em que o LABA não é tolerado ou se houver rinite alérgica associada. O uso contínuo (regular) de broncodilatadores de curta ação (SABA) não é recomendado no tratamento de manutenção, pois não trata a inflamação subjacente e pode aumentar o risco de exacerbações graves.",
+      "reference": "Tratado de pediatria, sexta edição, volume 1, CAPÍTULO 11 - ASMA: ABORDAGEM AMBULATORIAL."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Recém-nascido a termo apresenta, no segundo dia de vida, lesões papulares branco-amareladas, com erupção eritematosa circundante, dispersas em face, tronco e membros, poupando palmas e plantas. O restante do exame físico é normal. No caso, a principal hipótese diagnóstica é:",
+      "options": [
+        "eritema tóxico.",
+        "herpes simples.",
+        "melanose pustulosa.",
+        "miliária."
+      ],
+      "correct_answer": "eritema tóxico.",
+      "explanation": "O eritema tóxico do RN é uma erupção cutânea benigna, autolimitada e idiopática. Geralmente ocorre em RN a termo e deve ser reconhecido pelo pediatra geral. As lesões caracterizam-se por máculas, pápulas e pústulas eritematosas transitórias, que se iniciam em geral ao redor de 3 a 4 dias de vida e localizam-se em fronte, face, tronco e membros, tendendo a poupar palmas das mãos e plantas dos pés. O diagnóstico é na maioria das vezes clínico. O tratamento é desnecessário, pois se trata de condição autolimitada.",
+      "reference": "Tratado de pediatria, sexta edição, volume 1, CAPÍTULO 2 - DERMATOPATIAS NEONATAIS"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Recém-nascido (RN) com 18 dias de vida vem em consulta pediátrica na UBS. A mãe refere que o paciente permanece ictérico. RN termo, 38 semanas, AIG, Apgar 9/9, peso de nascimento 3050g, perda de 7% de peso nos primeiros 3 dias de vida. Segue em aleitamento materno exclusivo. A mãe descreve que há 10 dias notou paciente amarelinho e há 8 dias notou as fezes da criança mais claras e a urina mais escura, \"cor de chá\". Tipagem sanguínea: Mãe: A Rh negativo, RN: A Rh positivo. A mãe não realizou pré-natal, apenas sorologias negativas da maternidade para HIV e sífilis. Exame coletado há 1 dia: BT: 15,2mg/dl, BD: 10,1 mg/dl, BI: 5,1mg/dl. Levando em consideração o caso clínico, qual situação abaixo é menos compatível com a causa da condição atual da criança?",
+      "options": [
+        "Atresia de vias biliares.",
+        "Incompatibilidade RH.",
+        "Toxoplasmose congênita.",
+        "Hepatite neonatal idiopática."
+      ],
+      "correct_answer": "Incompatibilidade RH.",
+      "explanation": "O RN apresenta hiperbilirrubinemia com predomínio da fração direta (BD > 1,0 mg/dL ou > 20% da BT), caracterizando Colestase Neonatal. Toxoplasmose, Hepatite Neonatal e Atresia de Vias Biliares são causas estabelecidas de icterícia colestática por lesão hepatocelular ou obstrução biliar. A Incompatibilidade Rh é causa de icterícia hemolítica (indireta) e justificaria aumento da Bilirrubina Indireta nos primeiros dias de vida, e não um quadro de colestase com 18 dias e acolia fecal.",
+      "reference": "Tratado de pediatria, sexta edição, volume 2, CAPÍTULO 13 - ICTERÍCIA NEONATAL"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "RN prematuro de 31 semanas apresenta episódios de apneia com 12 horas de vida. O pediatra deve diferenciar a apneia da prematuridade de um quadro séptico. Qual característica clínica, se presente, favorece o diagnóstico de sepse em detrimento da apneia isolada da prematuridade?",
+      "options": [
+        "Ausência de instabilidade térmica ou hemodinâmica.",
+        "Presença de outros sinais clínicos de infecção associados.",
+        "Episódios que ocorrem exclusivamente durante o sono.",
+        "Recuperação rápida com estímulo tátil leve."
+      ],
+      "correct_answer": "Presença de outros sinais clínicos de infecção associados.",
+      "explanation": "As manifestações clínicas de infecção no RN são multissistêmicas e inespecíficas, podendo estar presentes também em causas não infecciosas. É necessário investigar fatores de risco maternos e neonatais para que o diagnóstico de sepse seja considerado. As condições de nascimento e a evolução clínica nas primeiras 12 a 24 horas de vida são fortes preditores de sepse precoce. A apneia séptica difere da apneia da prematuridade por ser acompanhada de outros sinais clínicos.",
+      "reference": "Tratado de pediatria, volume 1, capítulo 11.1 SEPSE PRECOCE"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Menina de 15 anos, parda, com história de febre e odinofagia há cerca de três dias, vem ao pronto-socorro acompanhada da mãe. Ao exame físico, apresentava linfonodomegalias palpáveis na região cervical, amígdalas com pontos esbranquiçados bilateralmente e esplenomegalia. O número total de leucócitos era de 27.000/mm3, com 20% de neutrófilos, 68% de linfócitos, 10% de linfócitos atípicos e 2% de monócitos. Levando em consideração o caso clínico, qual a melhor interpretação do leucograma, considerando a contagem absoluta?",
+      "options": [
+        "leucocitose com linfocitose atípica.",
+        "leucocitose com neutropenia.",
+        "leucopenia com neutrofilia.",
+        "leucocitose com linfopenia típica."
+      ],
+      "correct_answer": "leucocitose com linfocitose atípica.",
+      "explanation": "O paciente apresenta leucometria acima da média esperada para a idade, configurando leucocitose. O número absoluto de neutrófilos (5.400/mm) está normal (não há neutropenia nem neutrofilia). O número absoluto de linfócitos é de 18.360/mm, caracterizando leucocitose com linfocitose. Os linfócitos atípicos (linfocitose reativa) aparecem em resposta a processo inflamatório/infeccioso, geralmente associado à mononucleose infecciosa (vírus Epstein-Barr), condição na qual se espera pelo menos 10% de linfócitos atípicos.",
+      "reference": "Tratado de Pediatria, 6ª. Edição, Volume 1, Sessão 27 Hematologia e hemoterapia, Capítulo 1 - Interpretação do hemograma e dos exames de coagulação, Páginas 534-535."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Lactente de 12kg, com diarreia e vômitos há 48 h, chega com sinais de desidratação grave. Recebeu SF 0,9% 30ml/kg em 30min. Gasometria na sequência: acidose metabólica descompensada, sem melhora clínica relevante. A próxima conduta imediata mais adequada é:",
+      "options": [
+        "Suspender hidratação venosa e ofertar SRO 100 mL/kg em 4–6 h.",
+        "Administrar 70 mL/kg de SF 0,9% em 2 h 30 min e reavaliar continuamente.",
+        "Passar para manutenção (Holliday–Segar) com SG 5% + SF (1:4) e KCl.",
+        "Iniciar bicarbonato 8,4% 1 mL/kg em 30 min, diluído em SG 5%."
+      ],
+      "correct_answer": "Administrar 70 mL/kg de SF 0,9% em 2 h 30 min e reavaliar continuamente.",
+      "explanation": "Em desidratação grave (Plano C) o esquema é 30 mL/kg de SF rápido seguido de 70 mL/kg nas próximas 2 h 30 min, com reavaliações seriadas; o uso rotineiro de bicarbonato não é indicado, pois a acidose tende a corrigir com a perfusão adequada.",
+      "reference": "Tratado de Pediatria SBP 6ª ed Vol 1 Seção 17 Cap. 4; Manejo da diarreia em pediatria MS 2022"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Lactente de 45 dias de vida é atendido no pronto-socorro com quadro de tosse e coriza há 4 dias, hoje com redução da aceitação da amamentação e está \"mais cansadinho para mamar\", nega febre. A mãe relata que ele foi prematuro de 35 semanas, AIG, não necessitou de cuidados ventilatórios. Exame físico: regular estado geral, dispneico, FR: 72 irpm, tiragens subdiafragmáticas moderadas, MV presente com sibilos difusos, SpO2 95% em repouso e AA. Qual o provável diagnóstico desta criança e qual o provável agente causador desta doença?",
+      "options": [
+        "Pneumonia adquirida na comunidade, Streptococcus pneumoniae.",
+        "Bronquiolite viral aguda, Streptococcus pneumoniae.",
+        "Bronquiolite viral aguda, vírus sincicial respiratório.",
+        "Crise asmática, vírus sincicial respiratório."
+      ],
+      "correct_answer": "Bronquiolite viral aguda, vírus sincicial respiratório.",
+      "explanation": "A história clínica da BVA é de um quadro de infecção de via aérea superior que se inicia após 4-6 dias de incubação, com coriza, espirro e obstrução nasal, associada à febre (menor que 39°C) em cerca de 1/3 dos casos. No decorrer de 2-3 dias há evolução para acometimento de via aérea inferior, com tosse, taquipneia, dispneia, uso de musculatura acessória, gemência ou batimento de aleta nasal e hipoxemia. O agente etiológico mais comum é o vírus sincicial respiratório (VSR).",
+      "reference": "Tratado de Pediatria, SBP, 5ª edição, volume 2, seção 29, capítulo 2 - Bronquiolite viral aguda."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Paciente de 4 anos com 18 kg internado na enfermaria pediátrica apresenta um colapso súbito, presenciado por dois pediatras de plantão. A criança está inconsciente e não respira; verificado o pulso femoral, não é sentido por até 10 segundos, enquanto o outro pediatra prepara material para ventilação e aciona o time de resposta rápida. Qual a sequência correta de ações para o início da reanimação cardiopulmonar (RCP)?",
+      "options": [
+        "Priorizar a ventilação com 1 a cada 3 segundos e compressões a 100/min, preparando o desfibrilador externo automático (DEA) para desfibrilação imediata.",
+        "Iniciar compressões torácicas com duas mãos, profundidade de 5 cm, frequência de 100-120/min e relação 15:2 de compressões-ventilações.",
+        "Alternar entre os pediatras a cada minuto, com compressões usando dois dedos na metade inferior do esterno, profundidade de 4 cm, e ventilar 20-30 vezes por minuto.",
+        "Iniciar compressões com uma mão, profundidade de 4 cm, na relação de 30:2, checando o pulso braquial a cada 2 minutos."
+      ],
+      "correct_answer": "Iniciar compressões torácicas com duas mãos, profundidade de 5 cm, frequência de 100-120/min e relação 15:2 de compressões-ventilações.",
+      "explanation": "Quando dois ou mais profissionais de saúde atendem uma PCR pediátrica, a relação 15:2 é a preconizada, sendo a frequência de 100-120/min conforme as diretrizes universais. Compressões com duas mãos são adequadas para uma criança de 18 kg, sendo a profundidade de 5 cm correta para crianças.",
+      "reference": "Tratado de pediatria, volume 1, CAPÍTULO 2 - PARADA CARDIORRESPIRATÓRIA NA CRIANÇA"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Paciente lactente de 6 meses é atendido em UBS com queixa de constipação desde o nascimento. Mãe relata que paciente nasceu a termo com 38 sem, refere constipação desde o nascimento com eliminação de mecônio no terceiro dia de vida, atualmente evacua a cada 3 dias com uso de supositório, relata vômitos eventuais associados. Ao exame físico: paciente desnutrido, com distensão abdominal importante, ao toque retal com esfíncter hipertônico e fezes explosivas. Qual a principal hipótese diagnóstica?",
+      "options": [
+        "Constipação secundária à alergia à proteína do leite de vaca.",
+        "Doença do refluxo gastroesofágico.",
+        "Constipação intestinal funcional precoce.",
+        "Megacólon congênito."
+      ],
+      "correct_answer": "Megacólon congênito.",
+      "explanation": "O megacólon congênito (doença de Hirschsprung) é caracterizado pela dilatação do intestino grosso resultante de suboclusão frente à existência de um segmento colônico distal não funcionante. O quadro clínico neonatal manifesta-se pelo retardo na eliminação de mecônio nas primeiras 48 horas de vida, distensão abdominal e vômitos, com evacuação explosiva de gases e fezes ao toque retal. Em crianças maiores, observa-se intervalo aumentado entre defecações, retenção de gases, distensão abdominal e fecalomas, comprometendo o desenvolvimento ponderoestatural.",
+      "reference": "Tratado de pediatria, volume 2, CAPÍTULO 20 - MEGACÓLON CONGÊNITO"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Paciente masculino, 8 anos, chega ao pronto socorro com queixa de redução do volume urinário há cinco dias, e há três dias refere que as pernas estão mais inchadas. Há cerca de 2 semanas apresentou dor de garganta que melhorou com ibuprofeno. Exame físico: regular estado geral, descorado 2+/4+, edema generalizado, FC: 120 bpm, PA 120x80 mmHg (acima do percentil 95). Exames: Hb 9,5 g/dL; leucócitos e plaquetas normais; ureia 36 mg/dL; creatinina 0,8 mg/dL; sódio 134; potássio 4,8. EAS: pH 6,0; densidade 1.020; hemoglobina +++; proteína ++; hemácias >100.000/mm²; leucócitos 20.000/mm². Qual a hipótese diagnóstica principal e os exames complementares mais indicados para elucidar a etiologia?",
+      "options": [
+        "Síndrome nefrítica - P-ANCA.",
+        "Síndrome nefrítica - biópsia renal imediata",
+        "Síndrome nefrítica - ASLO.",
+        "Síndrome nefrótica - proteinúria de 24 horas."
+      ],
+      "correct_answer": "Síndrome nefrítica - ASLO.",
+      "explanation": "A síndrome nefrítica (SNi) é caracterizada pela associação de edema, hipertensão arterial e hematúria, com achados de hematúria, cilindros hemáticos e proteinúria no exame de urina. Nos casos de glomerulonefrite difusa aguda pós-estreptocócica (GNDA-PE), pode-se estabelecer infecção estreptocócica pregressa por meio da análise da antiestreptolisina O (ASLO) e/ou antiDNAse B (mais específica).",
+      "reference": "Tratado de pediatria, Volume 2, CAPÍTULO 7 - SÍNDROME NEFRÍTICA"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Pré-escolar, 3 anos, levado ao Pronto Socorro pelos pais com febre alta (39°C) há 24 horas, prostração intensa e recusa alimentar. Exame físico: regular a mau estado geral, sonolento porém responsivo. FC 165 bpm, FR 52 irpm, TEC 4 segundos, pulsos periféricos finos, PA 85x50 mmHg (limite inferior para idade). Extremidades frias e livedo reticular em membros inferiores. Qual deve ser a primeira medida terapêutica para estabilização hemodinâmica desta criança, conforme as recomendações do Surviving Sepsis Campaign e PALS?",
+      "options": [
+        "Administração de inotrópicos antes de qualquer intervenção.",
+        "Expansão volêmica com coloides em 1 h.",
+        "Expansão volêmica com cristaloides isotônicos em bolus.",
+        "Administração de antibióticos após 2 horas de estabilização."
+      ],
+      "correct_answer": "Expansão volêmica com cristaloides isotônicos em bolus.",
+      "explanation": "O diagnóstico do choque séptico deve ser feito com base em história sugestiva de infecção e exame físico com alteração de temperatura e sinais de perfusão inadequada. Recomenda-se utilizar cristaloides balanceados e tamponados (Ringer lactato, Plasma-lyte) em vez de coloides (albumina) para ressuscitação inicial, pois estão associados a menor taxa de mortalidade. Não se recomenda uso de amidos e gelatinas.",
+      "reference": "Tratado de pediatria, volume 1, CAPÍTULO 14 - ABORDAGEM DA SEPSE E CHOQUE SÉPTICO NA UNIDADE DE EMERGÊNCIA"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Paciente de 2 anos, filho de mãe usuária de drogas, foi encaminhado a um abrigo há 20 dias por negligência. Desde a chegada ao local, apresenta diarreia, sem vômitos, com fezes brilhantes, gordurosas e que boiam no vaso sanitário, com boa aceitação alimentar. Teste do pezinho dentro da normalidade. Exame físico: REG/BEG, descorado +/5, anictérico, acianótico, afebril, abdome globoso e flácido sem visceromegalias. Estatura 80 cm (abaixo do percentil -2); Peso 8,5kg (Z score entre -3 e -2). Dentre as opções abaixo, qual diagnóstico é pouco provável de estar acometendo o paciente?",
+      "options": [
+        "Verminose como Giardia lamblia que pode levar a esteatorreia, perda ponderal, prejuízo na absorção de nutrientes, assim como anemia ferropriva.",
+        "Fibrose cística que já pode ser desconfiada pela alteração do teste do pezinho e sinais clínicos como esteatorreia, perda ponderal e queda do estado geral.",
+        "Doença celíaca, que deve ser investigada por meio de sorologia (como o anticorpo antitransglutaminase tecidual IgA), dado o quadro de distensão abdominal, esteatorreia e déficit de crescimento.",
+        "Insuficiência pancreática exócrina secundária à Desnutrição Energético-Proteica grave, justificando a má absorção de gorduras e a necessidade de reabilitação nutricional gradual para recuperação da mucosa intestinal."
+      ],
+      "correct_answer": "Fibrose cística que já pode ser desconfiada pela alteração do teste do pezinho e sinais clínicos como esteatorreia, perda ponderal e queda do estado geral.",
+      "explanation": "A Fibrose Cística é causa clássica de insuficiência pancreática exócrina e síndrome disabsortiva na infância. Entretanto, o teste do pezinho (triagem neonatal, dosagem de IRT) está dentro da normalidade e possui alta sensibilidade, tornando o diagnóstico pouco provável. Além disso, a alternativa afirma que a doença seria \"desconfiada pela alteração\" do teste, o que contradiz o caso apresentado. As demais alternativas (giardíase, doença celíaca, insuficiência pancreática por desnutrição) são hipóteses altamente prováveis e compatíveis com o quadro.",
+      "reference": "Tratado de pediatria, sexta edição"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Paciente de 9 meses com quadro de tosse com expectoração há 4 dias, coriza, febre de até 39°C persistente há 72h. Exame físico: FR 60 rpm, estertores finos em base esquerda, SpO2 90% em ar ambiente, discreta tiragem subcostal. Realizado HD de pneumonia adquirida na comunidade (PAC). Qual deve ser a conduta indicada para este paciente?",
+      "options": [
+        "Tratamento ambulatorial com macrolídeo oral.",
+        "Tratamento ambulatorial com amoxicilina via oral.",
+        "Tratamento hospitalar com macrolídeo endovenoso.",
+        "Tratamento hospitalar com penicilina endovenosa."
+      ],
+      "correct_answer": "Tratamento hospitalar com penicilina endovenosa.",
+      "explanation": "Apesar de a maioria das crianças com PAC poder ser tratada ambulatorialmente, indicam tratamento hospitalar: menores de 2 meses, tiragem subcostal, convulsões, sonolência excessiva, estridor em repouso, desnutrição grave, ausência de ingestão de líquidos, sinais de hipoxemia, comorbidades, problemas sociais e complicações radiológicas. Esta criança necessita tratamento hospitalar devido à hipoxemia e desconforto respiratório. Para pacientes internados com suspeita de pneumonia bacteriana típica, o tratamento de escolha é Penicilina Cristalina ou Ampicilina por via endovenosa.",
+      "reference": "Tratado de pediatria, sexta edição, Volume 2, CAPÍTULO 3 - PNEUMONIAS COMUNITÁRIAS"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Paciente masculino de 2 meses e 15 dias chega ao pronto socorro infantil com queixa de febre de 38°C há 24h, vômitos, baixa aceitação de seio materno e hipoatividade associada à redução da diurese. Nasceu a termo sem complicações. Exame físico: REG, corado, desidratado +/4, eupneico, MV+ bilateral sem ruídos adventícios, FR 30 ipm, bulhas normofonéticas sem sopros, TEC<2seg, FC 120 bpm, abdome flácido indolor, RHA+, sem visceromegalias, fontanela ampla e normotensa, oroscopia e otoscopia sem alterações, pele sem lesões, testículos tópicos com fimose. Qual a melhor conduta a ser tomada?",
+      "options": [
+        "Coleta de swab nasal para painel viral e início de Oseltamivir, prescrever dipirona de horário para controle térmico e observação por 6 horas; caso o paciente apresente melhora da aceitação alimentar e se mantenha afebril, dar alta com orientações de retorno e seguimento ambulatorial em 24h.",
+        "Como febre menor do que 39°C, solicitar Urina I e urocultura; caso urina I apresente leucocitúria ≥ 50.000/ml, iniciar tratamento com antibiótico oral para infecção urinária.",
+        "Internação, solicitação de exames: Rx de abdome, Radiografia de Tórax, Hemograma, hemocultura, Urina I e urocultura, e introdução de antibiótico empírico sendo a amoxicilina com clavulanato oral uma escolha adequada neste momento.",
+        "Internação, solicitação de exames: pesquisa de vírus respiratório, Hemograma, hemocultura, Urina I e urocultura, coleta de LCR, Radiografia de Tórax e introdução de antibiótico empírico."
+      ],
+      "correct_answer": "Internação, solicitação de exames: pesquisa de vírus respiratório, Hemograma, hemocultura, Urina I e urocultura, coleta de LCR, Radiografia de Tórax e introdução de antibiótico empírico.",
+      "explanation": "A presença de aparência \"tóxica\" ou hipoatividade em lactente jovem com febre sem sinais localizatórios exige internação, pesquisa de vírus respiratório, Rx de tórax, Hemograma, Hemocultura, Urina I, Urocultura e coleta de LCR (fundamental para excluir meningite, mesmo sem sinais meníngeos típicos nessa idade). A via de administração deve ser obrigatoriamente endovenosa devido aos vômitos e à gravidade clínica, com antibioticoterapia empírica iniciada imediatamente após a coleta das culturas.",
+      "reference": "Tratado de pediatria, volume 1, CAPÍTULO 1 - FEBRE SEM SINAIS LOCALIZATÓRIOS"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Um adolescente de 14 anos apresenta obstrução nasal, rinorreia e tosse há 7 dias. No 5º dia de evolução, quando parecia estar melhorando, apresentou febre de 38,5ºC, dor facial unilateral intensa e piora da secreção nasal, que se tornou espessa. Como o médico deve proceder para confirmar o diagnóstico e avaliar a necessidade de antibióticos?",
+      "options": [
+        "O diagnóstico deve ser realizado de forma clínica com a história compatível que definem a rinossinusite bacteriana (obstrução nasal, rinorreia, dor facial, tosse, sinal da dupla piora), associado sempre ao raio x de seios da face compatível com velamento de seios da face e exame físico com gotejamento posterior.",
+        "O diagnóstico deve ser realizado de forma clínica com a história compatível que definem a rinossinusite bacteriana (obstrução nasal, rinorreia, dor facial, tosse, sinal da dupla piora), associado ao exame físico e tomografia computadorizada dos seios da face que é um exame obrigatório para diagnóstico desta doença.",
+        "O diagnóstico deve ser realizado de forma clínica com a história compatível que definem a rinossinusite bacteriana (obstrução nasal, rinorreia, dor facial, tosse, sinal da dupla piora), associado ao exame físico que deve contar com a rinoscopia anterior, que, apesar de limitada, pode mostrar edema da mucosa nasal, rinorreia purulenta e alterações anatômicas.",
+        "O diagnóstico deve ser estabelecido através da transiluminação dos seios da face, que demonstrará a ausência de passagem de luz no seio maxilar afetado, sendo obrigatória a confirmação por Tomografia Computadorizada (TC) para diferenciar a secreção purulenta de edema de mucosa antes do início da antibioticoterapia."
+      ],
+      "correct_answer": "O diagnóstico deve ser realizado de forma clínica com a história compatível que definem a rinossinusite bacteriana (obstrução nasal, rinorreia, dor facial, tosse, sinal da dupla piora), associado ao exame físico que deve contar com a rinoscopia anterior, que, apesar de limitada, pode mostrar edema da mucosa nasal, rinorreia purulenta e alterações anatômicas.",
+      "explanation": "O diagnóstico da rinossinusite bacteriana em pediatria é clínico. O sinal da dupla piora é um dos preditores mais confiáveis de infecção bacteriana secundária. Exames de imagem (Raio-X ou TC) não devem ser realizados de rotina, pois não alteram a conduta inicial e a TC submete o paciente a carga desnecessária de radiação. A TC é padrão-ouro para avaliar anatomia e complicações, mas reservada para suspeita de complicações (celulite orbitária, abscesso) ou rinossinusite crônica/recorrente. A transiluminação caiu em desuso por ser subjetiva e ter baixa acurácia.",
+      "reference": "Tratado de pediatria, volume 2, CAPÍTULO 7 - RINOSSINUSITE"
+    },
+    {
+      "id": 16,
+      "type": "free_response",
+      "case_context": "Paciente masculino, 8 anos, chega ao Pronto Socorro com febre há 2 dias, odinofagia e vômitos. Há cerca de 20 horas surgiu exantema áspero que se iniciou em axilas e virilhas e se disseminou para o tronco e extremidades. Ao exame: \"língua em framboesa\", sinal de Pastia, palidez perioral e linfonodo cervical doloroso de cerca de 2 cm.",
+      "question": "Levando em consideração o caso clínico, qual a provável doença que esse paciente apresenta?",
+      "correct_answer": "Escarlatina",
+      "explanation": "O quadro clínico descreve escarlatina: exantema de \"lixa\", linhas de Pastia, palidez perioral e língua em framboesa, geralmente 12–48 h após o início da febre/faringite.",
+      "reference": "Infectologia pediátrica 2ª ed. SOPERJ, Tânia Cristina de Mattos Barros, seção III, capítulo 9, Doenças exantemáticas."
+    },
+    {
+      "id": 17,
+      "type": "free_response",
+      "case_context": "Paciente masculino, 8 anos, chega ao Pronto Socorro com febre há 2 dias, odinofagia e vômitos. Há cerca de 20 horas surgiu exantema áspero que se iniciou em axilas e virilhas e se disseminou para o tronco e extremidades. Ao exame: \"língua em framboesa\", sinal de Pastia, palidez perioral e linfonodo cervical doloroso de cerca de 2 cm.",
+      "question": "Cite 2 possíveis complicações não supurativas dessa patologia.",
+      "correct_answer": "Febre reumática, Glomerulonefrite aguda pós estreptocócica e artrite reativa pós-estreptocócica.",
+      "explanation": "Entre as sequelas não supurativas do estreptococo do grupo A estão a febre reumática aguda (que pode levar a cardite e lesões valvares), glomerulonefrite aguda pós-estreptocócica e artrite reativa pós-estreptocócica. Métrica: acertou 2 = 100% da nota; acertou 1 = 50% da nota.",
+      "reference": "Infectologia pediátrica 2ª ed. SOPERJ, Tânia Cristina de Mattos Barros, seção III, capítulo 9, Doenças exantemáticas."
+    },
+    {
+      "id": 18,
+      "type": "free_response",
+      "case_context": "Paciente feminina, 1 ano e 3 meses, vem para consulta de acompanhamento pediátrico após mudança de cidade. A mãe relata que, desde os 6 meses de vida, a filha apresenta evacuações amolecidas, opacas e volumosas, cerca de 5 vezes ao dia, sem muco ou sangue. Observa também distensão abdominal frequente, dor abdominal difusa de baixa intensidade e irritabilidade. Refere baixo apetite em relação a outras crianças da mesma idade. Teste do pezinho normal. Comorbidades: anemia ferropriva diagnosticada anteriormente, com tratamento irregular e sem exames de controle. Exame físico: regular estado geral, irritada, descorada (+/4), hidratada, anictérica, acianótica, afebril, MV presente bilateralmente sem ruídos adventícios, FR 20 ipm, BRNF sem sopros, FC 100 bpm, pulsos + e cheios, TEC < 2s. Abdome distendido, hipertimpânico, RHA+, indolor à palpação superficial, dor leve difusa à palpação profunda, sem visceromegalias, sem sinais de peritonite. Hipotrofia de glúteos.",
+      "question": "Levando em consideração este caso, qual o diagnóstico clínico mais provável deste paciente?",
+      "correct_answer": "Doença celíaca",
+      "explanation": "Na Doença celíaca, a apresentação clínica mais evidente (forma atípica/não clássica) ocorre em qualquer idade e se apresenta com um ou poucos sinais e/ou sintomas intestinais e/ou extraintestinais, secundários à lesão intestinal, carência nutricional de micro e macronutrientes e reações imunológicas. Diarreia crônica, dor abdominal, distensão abdominal, perda ou ganho inadequado de peso, atraso no crescimento e constipação são os sinais e sintomas mais prevalentes nessa forma da doença.",
+      "reference": "Tratado de pediatria volume 1, seção 17, capítulo 6, DOENÇA CELÍACA, pág 1304-1310."
+    },
+    {
+      "id": 19,
+      "type": "free_response",
+      "case_context": "Paciente feminina, 1 ano e 3 meses, vem para consulta de acompanhamento pediátrico após mudança de cidade. A mãe relata que, desde os 6 meses de vida, a filha apresenta evacuações amolecidas, opacas e volumosas, cerca de 5 vezes ao dia, sem muco ou sangue. Observa também distensão abdominal frequente, dor abdominal difusa de baixa intensidade e irritabilidade. Refere baixo apetite em relação a outras crianças da mesma idade. Teste do pezinho normal. Comorbidades: anemia ferropriva diagnosticada anteriormente, com tratamento irregular e sem exames de controle.",
+      "question": "Caso o diagnóstico provável desta paciente se confirme, qual deve ser o tratamento definitivo indicado para esta paciente?",
+      "correct_answer": "Retirada do glúten da dieta na confirmação do diagnóstico ou dieta sem glúten.",
+      "explanation": "O tratamento da Doença Celíaca consiste em dieta totalmente sem glúten, que deve ser iniciada somente após a confirmação diagnóstica. Nunca se deve realizar teste terapêutico com essa dieta.",
+      "reference": "Tratado de pediatria volume 1, seção 17, capítulo 6, DOENÇA CELÍACA, pág 1304-1310."
+    },
+    {
+      "id": 20,
+      "type": "free_response",
+      "case_context": "Recém-nascido a termo (39 semanas), parto vaginal, apresenta-se ao nascimento com apneia e hipotonia global. O líquido amniótico é claro e sem grumos.",
+      "question": "Com base nas diretrizes de Reanimação Neonatal da SBP, descreva em quanto tempo o clampeamento do cordão umbilical deve ser realizado neste caso.",
+      "correct_answer": "Clampeamento imediato do cordão umbilical.",
+      "explanation": "Como o RN não é vigoroso (apneia e hipotonia), o clampeamento deve ser imediato para que o bebê seja levado à mesa de reanimação sem atrasos.",
+      "reference": "Tratado de pediatria, sexta edição, volume 1, CAPÍTULO 3 - ASSISTÊNCIA AO NASCIMENTO NA SALA DE PARTO."
+    },
+    {
+      "id": 21,
+      "type": "free_response",
+      "case_context": "Recém-nascido a termo (39 semanas), parto vaginal, apresenta-se ao nascimento com apneia e hipotonia global. O líquido amniótico é claro e sem grumos.",
+      "question": "Cite os passos iniciais de estabilização que devem ser realizados na mesa de reanimação nos primeiros 30 segundos de vida antes da avaliação da respiração e frequência cardíaca do RN (cite os passos iniciais na ordem em que eles devem ser realizados; ordem errada será automaticamente desconsiderada).",
+      "correct_answer": "Prover calor, Secar, Posicionar a cabeça, Aspirar (se necessário), Reposicionar.",
+      "explanation": "Passos iniciais (em até 30 segundos): Prover calor (RN sob fonte de calor radiante); Posicionar a cabeça (leve extensão para manter vias aéreas pérvias); Aspirar se necessário (boca e narinas, apenas se houver excesso de secreção obstruindo a respiração); Secar (retirar campos úmidos para evitar perda de calor); Reposicionar (garantir cabeça em posição neutra após secagem). O protocolo SBP 2022 também aceita a ordem: Prover calor, Posicionar a cabeça, Aspirar (se necessário), Secar, Reposicionar — pois a aspiração está reservada apenas a RN com suspeita de obstrução de vias aéreas por excesso de secreções. O Tratado de Pediatria 6ª edição ainda traz a sequência anterior. Métrica: erro na ordem não gera ponto; Prover calor = 25%, Posicionar a cabeça = 25%, Aspirar (se necessário) = 25%, Secar = 25%, Reposicionar = não obrigatório.",
+      "reference": "Tratado de pediatria, sexta edição, volume 1, CAPÍTULO 3 - ASSISTÊNCIA AO NASCIMENTO NA SALA DE PARTO; DIRETRIZES 2022 da Sociedade Brasileira de Pediatria, Reanimação do recém-nascido ≥34 semanas em sala de parto."
+    }
+  ]
+}
