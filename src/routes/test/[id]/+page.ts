@@ -1,0 +1,12 @@
+import { testManifest } from '$lib/data/tests/index.js';
+import { error } from '@sveltejs/kit';
+
+export async function load({ params }) {
+  const entry = testManifest.find((t) => t.id === params.id);
+  if (!entry) throw error(404, 'Test not found');
+  const module = await entry.file();
+  return {
+    testId: entry.id,
+    testData: module.default
+  };
+}
