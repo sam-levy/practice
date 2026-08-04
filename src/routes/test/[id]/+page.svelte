@@ -1,9 +1,9 @@
 <script lang="ts">
-  import { onMount } from 'svelte';
-  import { goto } from '$app/navigation';
-  import { base } from '$app/paths';
-  import { testSession } from '$lib/stores/testStore';
-  import type { Question } from '$lib/stores/testStore';
+  import { onMount } from "svelte";
+  import { goto } from "$app/navigation";
+  import { base } from "$app/paths";
+  import { testSession } from "$lib/stores/testStore";
+  import type { Question } from "$lib/stores/testStore";
 
   let { data } = $props();
 
@@ -25,11 +25,14 @@
   }
 
   let answeredCount = $derived(
-    data.testData.questions.filter((q: Question) => $testSession.answers[q.id]).length
+    data.testData.questions.filter((q: Question) => $testSession.answers[q.id])
+      .length,
   );
 
   let totalCount = $derived(data.testData.questions.length);
-  let progressPercent = $derived(Math.round((answeredCount / totalCount) * 100));
+  let progressPercent = $derived(
+    Math.round((answeredCount / totalCount) * 100),
+  );
 </script>
 
 <svelte:head>
@@ -44,7 +47,11 @@
       <span>{answeredCount} of {totalCount} answered</span>
       <span>{progressPercent}%</span>
     </div>
-    <progress class="progress progress-primary w-full" value={progressPercent} max="100"></progress>
+    <progress
+      class="progress progress-primary w-full"
+      value={progressPercent}
+      max="100"
+    ></progress>
   </div>
 
   <div class="space-y-6">
@@ -53,7 +60,7 @@
         <div class="card-body">
           <h3 class="card-title text-sm font-semibold text-base-content/70">
             Question {i + 1}
-            {#if question.type === 'free_response'}
+            {#if question.type === "free_response"}
               <span class="badge badge-ghost badge-sm">Free Response</span>
             {:else}
               <span class="badge badge-primary badge-sm">Multiple Choice</span>
@@ -68,10 +75,12 @@
 
           <p class="mb-4">{question.question}</p>
 
-          {#if question.type === 'multiple_choice' && question.options}
+          {#if question.type === "multiple_choice" && question.options}
             <div class="space-y-2">
               {#each question.options as option, optIdx}
-                <label class="flex items-start gap-3 cursor-pointer p-2 rounded-lg hover:bg-base-200">
+                <label
+                  class="flex items-start gap-3 cursor-pointer p-2 rounded-lg hover:bg-base-200"
+                >
                   <input
                     type="radio"
                     name="q-{question.id}"
@@ -80,18 +89,23 @@
                     checked={$testSession.answers[question.id] === option}
                     onchange={() => handleAnswerChange(question.id, option)}
                   />
-                  <span class="text-sm">{String.fromCharCode(65 + optIdx)}. {option}</span>
+                  <span class="text-sm"
+                    >{String.fromCharCode(65 + optIdx)}. {option}</span
+                  >
                 </label>
               {/each}
             </div>
-          {:else if question.type === 'free_response'}
+          {:else if question.type === "free_response"}
             <textarea
               class="textarea textarea-bordered w-full"
               rows="4"
               placeholder="Type your answer here..."
-              value={$testSession.answers[question.id] || ''}
-              oninput={(e) => handleAnswerChange(question.id, (e.target as HTMLTextAreaElement).value)}
-            ></textarea>
+              value={$testSession.answers[question.id] || ""}
+              oninput={(e) =>
+                handleAnswerChange(
+                  question.id,
+                  (e.target as HTMLTextAreaElement).value,
+                )}></textarea>
           {/if}
         </div>
       </div>

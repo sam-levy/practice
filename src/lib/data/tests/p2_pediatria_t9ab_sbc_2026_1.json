@@ -1,0 +1,265 @@
+{
+  "id": "p2_pediatria_t9ab_sbc_2026_1",
+  "test_title": "P2 PEDIATRIA SBC T9A/B - 2026",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "\"As manifestações clínicas de infecção no RN são multissistêmicas e inespecíficas, podendo estar presentes também em causas não infecciosas.\" Diferenciar a instabilidade que pode ocorrer no recém-nascido no momento da transição cardiorrespiratória ao nascer da sepse neonatal é um grande desafio. Qual dado clínico é apontado como um forte preditor de sepse precoce nesse período inicial?",
+      "options": [
+        "A evolução clínica nas primeiras 12 a 24 horas de vida.",
+        "A tipagem sanguínea materna e do recém-nascido.",
+        "A realização de ultrassonografia morfológica no 2º trimestre.",
+        "O peso de nascimento acima do percentil 90."
+      ],
+      "correct_answer": "A evolução clínica nas primeiras 12 a 24 horas de vida.",
+      "explanation": "As manifestações clínicas de infecção no RN são multissistêmicas e inespecíficas, podendo estar presentes também em causas não infecciosas. É necessário que se investiguem os fatores de risco maternos e neonatais para que o diagnóstico de sepse seja considerado e logo investigado. As condições de nascimento e a evolução clínica nas primeiras 12 a 24 horas de vida são fortes preditores de sepse precoce, independentemente do agente causal.",
+      "reference": "Tratado de pediatria, volume 1, capítulo 11.1 SEPSE PRECOCE."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "As parasitoses intestinais podem afetar até 36% da população brasileira. Considerando a possibilidade de complicações dependentes do tipo de parasita e levando em consideração o quadro de associação abaixo, assinale a alternativa com as associações corretas:\n\nQUADRO DE ASSOCIAÇÕES\n1. Ascaris lumbricoides | A. Abscesso hepático\n2. Taenia solium | B. Prolapso retal\n3. Strongyloides stercoralis | C. Suboclusão intestinal\n4. Giardia lamblia | D. Síndrome de Löeffler\n5. Entamoeba histolytica | E. Cisticercose\n6. Schistosoma mansoni | F. Desnutrição\n7. Ancylostoma duodenale | G. Anemia ferropriva\n8. Trichuris trichiura | H. Hipertensão portal",
+      "options": ["1C, 8B, 4F.", "3B, 5A, 7F.", "2E, 4G, 8D.", "1D, 4F, 6E."],
+      "correct_answer": "1C, 8B, 4F.",
+      "explanation": "Ascaris lumbricoides (1) = C - Suboclusão intestinal: o \"bolo de áscaris\" pode causar obstrução física no lúmen intestinal. Trichuris trichiura (8) = B - Prolapso retal: anemia ferropriva secundária à perda de sangue oculto nas fezes, diarreia crônica com tenesmo e prolapso retal. Giardia lamblia (4) = F - Desnutrição: esteatorreia, perda ponderal, prejuízo na absorção de nutrientes, déficit de vitaminas lipossolúveis (A, D, E e K), vitamina B12, ferro e lactase.",
+      "reference": "Tratado de pediatria, volume 1, CAPÍTULO 20 PARASITOSES INTESTINAIS."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Recém-nascido de 38 semanas apresenta icterícia com 12 horas de vida. Mãe: O+, recém-nascido: A+. O bebê está ictérico até a zona 3 de Kramer. Qual a principal hipótese diagnóstica e mecanismo fisiopatológico?",
+      "options": [
+        "Doença hemolítica por incompatibilidade ABO, causada por aumento da produção de bilirrubina indireta.",
+        "Atresia de vias biliares, causada por colestase neonatal.",
+        "Icterícia do leite materno, causada por aumento da circulação entero-hepática.",
+        "Icterícia fisiológica, causada por imaturidade da conjugação hepática."
+      ],
+      "correct_answer": "Doença hemolítica por incompatibilidade ABO, causada por aumento da produção de bilirrubina indireta.",
+      "explanation": "Icterícia nas primeiras 24 horas de vida é sempre considerada patológica. Uma causa comum é a incompatibilidade ABO, especialmente quando a mãe é do grupo O. Anticorpos IgG maternos anti-A ou anti-B atravessam a placenta e provocam hemólise fetal, levando ao aumento da produção de bilirrubina indireta.",
+      "reference": "Sociedade Brasileira de Pediatria, Tratado de Pediatria; American Academy of Pediatrics, Management of Hyperbilirubinemia in the Newborn Infant; Nelson Textbook of Pediatrics."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Durante a assistência a um parto com líquido amniótico meconial, o pediatra avalia um RN pós-termo que, após os passos iniciais de aquecimento e posicionamento, permanece em apneia persistente, com frequência cardíaca aferida em 85 bpm aos 50 segundos de vida. Segundo o Tratado de Pediatria e as normas do Programa de Reanimação Neonatal da SBP, a conduta prioritária neste momento é:",
+      "options": [
+        "Realizar intubação orotraqueal imediata para proteção da via aérea contra a aspiração meconial.",
+        "Iniciar massagem cardíaca externa em conjunto com a ventilação por pressão positiva em 3:1.",
+        "Proceder com laringoscopia direta para visualização de resíduos e aspiração traqueal sistemática.",
+        "Iniciar ventilação por pressão positiva (VPP) com máscara facial e ar ambiente no primeiro minuto."
+      ],
+      "correct_answer": "Iniciar ventilação por pressão positiva (VPP) com máscara facial e ar ambiente no primeiro minuto.",
+      "explanation": "No RN com líquido amniótico meconial de qualquer viscosidade levado à mesa de reanimação para os passos iniciais, que apresenta apneia, respiração irregular e/ou FC < 100 bpm, é fundamental iniciar a VPP com máscara facial e ar ambiente nos primeiros 60 segundos de vida. A laringoscopia direta imediata com ou sem aspiração traqueal não deve ser realizada. Raramente, o RN necessita de intubação e aspiração traqueal para desobstruir a traqueia.",
+      "reference": "Tratado de pediatria, volume 1, CAPÍTULO 3 ASSISTÊNCIA AO NASCIMENTO NA SALA DE PARTO"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Sobre a evolução do exantema no sarampo clássico, assinale a alternativa que descreve corretamente a progressão e a característica da involução das lesões cutâneas:",
+      "options": [
+        "A febre desaparece subitamente no momento em que o exantema atinge a extremidade dos membros inferiores.",
+        "O exantema começa a esmaecer no 3º ou 4º dia, seguindo a ordem de aparecimento e deixando descamação furfurácea ou manchas acastanhadas.",
+        "As lesões são vesiculares, evoluindo para crostas melicéricas que não deixam manchas na pele.",
+        "O exantema surge inicialmente nos membros e progride de forma centrípeta em direção à face."
+      ],
+      "correct_answer": "O exantema começa a esmaecer no 3º ou 4º dia, seguindo a ordem de aparecimento e deixando descamação furfurácea ou manchas acastanhadas.",
+      "explanation": "O exantema se inicia atrás do pavilhão auricular, disseminando-se rapidamente para o pescoço, face, tronco e atinge a extremidade dos membros por volta do terceiro dia. É maculopapular eritematoso, morbiliforme como regra. Na fase do exantema a doença atinge seu auge, com o paciente toxemiado, febril, olhos hiperemiados, intensa rinorreia e tosse. O exantema começa a esmaecer em torno do terceiro ou quarto dia, na mesma sequência que apareceu, deixando manchas acastanhadas.",
+      "reference": "Tratado de pediatria, volume 1, CAPÍTULO 13 VIROSES EXANTEMÁTICAS."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Um lactente de 8 meses, pesando 8 kg, é levado à Unidade Básica de Saúde com história de 5 episódios de diarreia líquida e 3 vômitos nas últimas 24 horas. Ao exame físico, apresenta-se irritado, com olhos fundos, lágrimas ausentes e sinal da prega que desaparece lentamente. O pulso está cheio e o paciente bebe água avidamente quando oferecida, sem náuseas ou vômitos no momento. De acordo com o novo fluxograma do Ministério da Saúde (2023), qual a classificação e a conduta imediata?",
+      "options": [
+        "Com desidratação; iniciar Plano B e administrar dose única de metoclopramida para os vômitos.",
+        "Desidratação grave; iniciar Plano C com fase de expansão venosa de 30 mL/kg em 1 hora.",
+        "Com desidratação; iniciar Plano B com oferta de 400 a 800 mL de SRO em 4 a 6 horas na UBS.",
+        "Sem desidratação; iniciar Plano A com oferta de 50 a 100 mL de SRO após cada evacuação."
+      ],
+      "correct_answer": "Com desidratação; iniciar Plano B com oferta de 400 a 800 mL de SRO em 4 a 6 horas na UBS.",
+      "explanation": "O paciente tem sinais de desidratação (irritado, olhos fundos, lágrimas ausentes, sinal da prega que desaparece lentamente) e bebe avidamente, sem sinais que o classifiquem como desidratado grave. É classificado como \"com desidratação\", devendo ser tratado com o Plano B: 50 a 100 mL/kg de SRO em quatro a seis horas — para 8 kg, de 400 a 800 mL de 4 a 6h na unidade de saúde. A metoclopramida é proibida para menores de 18 anos; em caso de vômitos persistentes, o antiemético de escolha na pediatria é a ondansetrona.",
+      "reference": "Guia Prático de Atualização Departamento Científico de Gastroenterologia (gestão 2022-2024), Nº 74, 06 de Junho de 2023, Sociedade Brasileira de Pediatria, Diarreia Aguda Infecciosa."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Escolar de 8 anos apresenta episódios de sibilância e tosse seca noturna duas vezes por semana nos últimos dois meses. Não apresenta limitação de atividades e utiliza salbutamol raramente. Segundo as atualizações do GINA 2025 para o tratamento de manutenção da asma nesta faixa etária, qual a conduta inicial preferencial?",
+      "options": [
+        "Prescrever corticoide inalatório (CI) em dose baixa diária associado a beta-2 agonista de curta duração (SABA) se necessário.",
+        "Iniciar uso de beta-2 agonista de curta duração (SABA) isolado, apenas nos momentos de crise ou exacerbação dos sintomas.",
+        "Prescrever montelucaste de sódio isolado diariamente e manter o uso de SABA para alívio imediato dos sintomas respiratórios.",
+        "Iniciar associação de corticoide inalatório e formoterol em dose baixa como terapia de manutenção e também de alívio (MART)."
+      ],
+      "correct_answer": "Iniciar associação de corticoide inalatório e formoterol em dose baixa como terapia de manutenção e também de alívio (MART).",
+      "explanation": "O GINA 2025 consolidou a mudança de paradigma para crianças acima de 6 anos e adolescentes. A estratégia preferencial (Etapa 1 e 2) agora é o uso de CI + Formoterol sob demanda (terapia de alívio que trata a inflamação) ou a terapia MART (manutenção e alívio com o mesmo inalador). O uso de SABA isolado não é mais recomendado como primeira linha devido ao risco de exacerbações.",
+      "reference": "GINA 2025"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Uma adolescente de 13 anos, pesando 45 kg, apresenta quadro de febre vespertina, sudorese noturna e tosse produtiva há 3 semanas. O RX de tórax evidencia cavitação no ápice direito. Apresentava história de contato com avô diagnosticado com tuberculose pulmonar há 15 dias. Paciente foi encaminhada para avaliação médica, realizado PT que se mostrou de 15mm, exames microbiológicos para tuberculose negativos. Durante sua evolução, a paciente apresentou sinais de gravidade, sendo classificada como portadora de tuberculose pulmonar grave. Aplicando as diretrizes atuais para a faixa etária e peso da paciente, qual a duração do tratamento adequado para esse paciente na Fase intensiva e na Fase de manutenção respectivamente?",
+      "options": [
+        "Fase intensiva por 4 meses e Fase de manutenção por 2 meses.",
+        "Fase intensiva por 2 meses e Fase de manutenção por 4 meses.",
+        "Fase intensiva por 2 meses e Fase de manutenção por 6 meses.",
+        "Não deve ser realizado tratamento para paciente já que exames microbiológicos para tuberculose vieram negativos."
+      ],
+      "correct_answer": "Fase intensiva por 2 meses e Fase de manutenção por 4 meses.",
+      "explanation": "Crianças maiores de 10 anos com tuberculose pulmonar grave devem ser tratadas na Fase intensiva com 4 drogas (RHZE - Rifampicina, Isoniazida, Pirazinamida e Etambutol) por 2 meses e na Fase de manutenção com Rifampicina e Isoniazida por mais 4 meses. A inclusão do Etambutol a partir dos 10 anos se justifica pela maior facilidade em realizar acompanhamento oftalmológico para detecção de neurite óptica. Os exames microbiológicos devem sempre ser realizados quando disponíveis, mas o diagnóstico de tuberculose pulmonar na infância é fundamentado no sistema de escore, especialmente quando os exames microbiológicos são negativos.",
+      "reference": "Tratado de Pediatria SBP, 6ª Edição; Manual de Recomendações para o Controle da Tuberculose no Brasil (Ministério da Saúde)."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Paciente recém-nascido (RN) com infecção congênita diagnosticada no período neonatal apresenta ao exame hidrocefalia, corioretinite e calcificações cerebrais difusas evidenciadas em tomografia computadorizada. Levando em consideração o caso clínico, qual a provável infecção congênita que este RN apresenta?",
+      "options": [
+        "Toxoplasmose congênita",
+        "Citomegalovirose congênita",
+        "Rubéola congênita",
+        "Sífilis congênita"
+      ],
+      "correct_answer": "Toxoplasmose congênita",
+      "explanation": "Na toxoplasmose congênita, mais de 90% das crianças nascem com exame físico sem alterações. Dentre a minoria sintomática ao nascimento, cerca de 1/3 dos casos apresenta manifestação sistêmica e 2/3 apresentam manifestações neurológicas (hidrocefalia, calcificações cerebrais, convulsões, micro ou macrocefalia, hipotonia ou espasticidade) e/ou oculares (retinocoroidite extensa, nistagmo, catarata, microftalmia). A tríade clássica ocorre com menor frequência e é descrita quando há associação de hidrocefalia, calcificações cerebrais e retinocoroidite.",
+      "reference": "Tratado de pediatria volume 2; Tratado de pediatria volume 1, seção 20, capítulo 14, pág 781-798."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "RN de 3 dias de vida apresenta irritabilidade, choro ao manuseio dos membros superiores, que se encontram flácidos e estendidos ao lado do corpo. O exame físico revela rinite serossanguinolenta e hepatoesplenomegalia. A hipótese diagnóstica e a fisiopatologia da alteração motora são:",
+      "options": [
+        "Sífilis congênita tardia e paralisia braquial obstétrica por trauma de parto vaginal.",
+        "Sífilis congênita precoce e Pseudoparalisia de Parrot por alteração neurológica central.",
+        "Sífilis congênita precoce e Pseudoparalisia de Parrot decorrente de metástase óssea.",
+        "Sífilis congênita precoce e lesão de plexo braquial por infiltração treponêmica nervosa."
+      ],
+      "correct_answer": "Sífilis congênita precoce e Pseudoparalisia de Parrot decorrente de metástase óssea.",
+      "explanation": "Pseudoparalisia de Parrot: ausência de movimentação de um membro causada por dor associada à lesão óssea. Afeta com mais frequência membros superiores que inferiores; geralmente unilateral; raramente presente ao nascimento.",
+      "reference": "Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis (IST)"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Lactente de 2 anos, internado em Unidade de Terapia Intensiva há 6 meses por sequela de traumatismo cranioencefálico, faz uso de traqueostomia e cateter venoso central há 14 dias. Evolui há 24 horas com picos febris (38,8°C), surgimento de petéquias em tronco e novo sopro sistólico em foco mitral (ausente em exames prévios). O ecocardiograma transtorácico revelou presença de imagem móvel compatível com vegetação em valva mitral e regurgitação valvar moderada. Considerando os Critérios de Duke Modificados, qual o diagnóstico clínico mais provável?",
+      "options": [
+        "Pericardite bacteriana.",
+        "Endocardite infecciosa.",
+        "Febre reumática aguda.",
+        "Miocardite viral."
+      ],
+      "correct_answer": "Endocardite infecciosa.",
+      "explanation": "O diagnóstico de Endocardite Infecciosa (EI) na pediatria exige alto índice de suspeita, especialmente em pacientes com dispositivos intravasculares, e é firmado pelos Critérios de Duke Modificados. No caso descrito, o paciente preenche os requisitos para EI Definitiva por critérios clínicos: 1 Critério Maior (evidência ecocardiográfica de vegetação e nova regurgitação valvar) e 3 Critérios Menores (uso de CVC como fator predisponente, febre de 38,8°C e petéquias como fenômeno vascular). O uso de CVC é o principal fator de risco para EI nosocomial, comumente causado por Staphylococcus aureus.",
+      "reference": "Tratado de pediatria, sexta edição, volume 1, CAPÍTULO 4 ENDOCARDITE, PERICARDITE E MIOCARDITE."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Recém-nascido do sexo masculino, com 3 dias de vida, nascido a termo (39 semanas), parto vaginal sem intercorrências, Apgar 8/9, peso adequado para a idade gestacional. Mãe saudável, pré-natal completo sem alterações estruturais cardíacas detectadas. Desde o nascimento, o RN apresenta cianose central persistente, não responsiva ao oxigênio suplementar por cateter nasal, sem desconforto respiratório evidente. À ausculta cardíaca, sopro sistólico 2+/6+ no foco tricúspide. Saturação pré-ductal 85% e pós-ductal 84%. Gasometria arterial mostra acidose respiratória leve com hipoxemia. Ecocardiograma transtorácico evidenciou transposição das grandes artérias (TGA), com septo interventricular íntegro e comunicação interatrial pequena. Com base no quadro clínico e nos achados ecocardiográficos, a conduta prioritária imediata é:",
+      "options": [
+        "Iniciar a infusão de prostaglandina E1.",
+        "Aguardar estabilidade clínica para realização de cirurgia corretiva tardia.",
+        "Solicitar angiotomografia de tórax.",
+        "Indicar intubação e ventilação mecânica com FIO2 100%."
+      ],
+      "correct_answer": "Iniciar a infusão de prostaglandina E1.",
+      "explanation": "Na transposição das grandes artérias com septo íntegro, o canal arterial é a principal via de comunicação que permite alguma mistura entre os circuitos sistêmico e pulmonar, melhorando a oxigenação sistêmica. A prostaglandina E1 (PGE1) deve ser iniciada imediatamente para evitar o fechamento fisiológico do canal arterial, enquanto se prepara para procedimentos definitivos ou cirurgia corretiva.",
+      "reference": "Tratado de pediatria, sexta edição, CAPÍTULO 2 PRINCIPAIS CARDIOPATIAS CONGÊNITAS: RECONHECIMENTO E CONDUTA."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Criança de 4 anos é trazida por palidez progressiva, febre intermitente e dor em membros inferiores há aproximadamente 3 semanas. Evoluiu com recusa para deambular e aparecimento de equimoses espontâneas. Ao exame: hipocorada (+++/4+), petéquias difusas, linfonodomegalia cervical e axilar, hepatoesplenomegalia e dor à palpação de ossos longos. Hemograma: Hb 7,0 g/dL; Leucócitos 16.000/mm³ (com presença de blastos); Plaquetas 35.000/mm³. Qual é a conduta mais adequada para confirmação diagnóstica?",
+      "options": [
+        "Iniciar antibioticoterapia e reavaliar em 48 horas.",
+        "Realizar mielograma com estudo imunofenotípico.",
+        "Iniciar corticoterapia empírica.",
+        "Solicitar exames de ferro e repetir o hemograma."
+      ],
+      "correct_answer": "Realizar mielograma com estudo imunofenotípico.",
+      "explanation": "O quadro é altamente sugestivo de leucemia aguda, com base em citopenias (anemia e plaquetopenia), presença de blastos em sangue periférico, sintomas sistêmicos (febre, dor óssea) e sinais de infiltração (hepatoesplenomegalia, linfonodomegalia). O diagnóstico definitivo requer mielograma (aspirado de medula óssea) com imunofenotipagem, essencial para classificação da leucemia. É fundamental evitar intervenções que possam mascarar o diagnóstico, especialmente o uso de corticosteroides antes da coleta da medula, pois podem alterar a morfologia celular e dificultar a confirmação.",
+      "reference": "PIZZO, P. A.; POPLACK, D. G. Principles and Practice of Pediatric Oncology, 7ª ed.; Tratado de Pediatria, SBP, 6ª ed.; HOFFMAN, R. et al. Hematology: Basic Principles and Practice, 7ª ed."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Um paciente de 2 anos de idade é levado pela mãe à primeira consulta em ambulatório de pediatria. Durante a anamnese, a mãe relata preocupação com o comportamento do filho, descrevendo-o como \"muito quietinho\". Ela questiona o pediatra sobre a aplicação do teste M-CHAT, que ouviu ser capaz de realizar o diagnóstico definitivo de Autismo. Com base nas diretrizes de vigilância do desenvolvimento infantil, qual orientação deve ser fornecida a essa mãe?",
+      "options": [
+        "O teste M-CHAT deve ser realizado exclusivamente por especialistas em neuropediatria, uma vez que sua baixa sensibilidade exige uma interpretação técnica complexa para evitar a ocorrência de casos falso-negativos.",
+        "O M-CHAT-R/F é um instrumento de triagem com alta sensibilidade para detecção precoce de sinais de TEA, devendo ser aplicado entre 16 e 30 meses, embora um resultado positivo não confirme o diagnóstico isoladamente.",
+        "O M-CHAT-R/F é uma escala diagnóstica padrão-ouro que, se apresentar resultado positivo na consulta de rotina, define o Transtorno do Espectro Autista (TEA) e dispensa a necessidade de avaliações complementares.",
+        "A aplicação do questionário M-CHAT tem como objetivo principal a avaliação global de todos os domínios do neurodesenvolvimento infantil, sendo o teste de escolha para identificar atrasos motores e de linguagem."
+      ],
+      "correct_answer": "O M-CHAT-R/F é um instrumento de triagem com alta sensibilidade para detecção precoce de sinais de TEA, devendo ser aplicado entre 16 e 30 meses, embora um resultado positivo não confirme o diagnóstico isoladamente.",
+      "explanation": "O M-CHAT é um teste de triagem (e não de diagnóstico) exclusivo para captação dos sinais precoces de autismo (e não para uma análise global do neurodesenvolvimento). A recomendação é o Questionário Modificado para Triagem do Autismo em Crianças entre 16 e 30 meses, revisado, com Entrevista de Seguimento (M-CHAT-R/F). Pode ser aplicado pelo pediatra durante consulta de rotina, com objetivo de aumentar ao máximo a sensibilidade. Ainda assim, existem casos de falso-positivos, que terão o rastreio positivo mas não terão o diagnóstico final de autismo.",
+      "reference": "Tratado de pediatria, volume 1, CAPÍTULO 5 ESCALAS DE TRIAGEM E AVALIAÇÃO DO DESENVOLVIMENTO NEUROPSICOMOTOR"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Criança de 2 anos é levada ao pronto atendimento em crise convulsiva tônico-clônica generalizada com duração aproximada de 8 minutos. Não há história prévia de epilepsia. Na admissão: via aérea pérvia, oxigenação suplementar iniciada, glicemia capilar normal e acesso venoso obtido. Foi administrado diazepam intravenoso por três vezes, com intervalo de 5 minutos entre as administrações, sem resolução da crise após 10 minutos. A crise persiste, totalizando 20 minutos de atividade convulsiva contínua. Qual é o próximo passo mais adequado no manejo?",
+      "options": [
+        "Iniciar droga anticonvulsivante de segunda linha como a fenitoína.",
+        "Postergar tratamento farmacológico até completar 20 minutos de crise.",
+        "Administrar fenobarbital como primeira opção após falha inicial.",
+        "Repetir benzodiazepínico em dose plena como única estratégia."
+      ],
+      "correct_answer": "Iniciar droga anticonvulsivante de segunda linha como a fenitoína.",
+      "explanation": "O caso caracteriza estado de mal convulsivo estabelecido, definido por atividade convulsiva contínua ≥5 minutos ou crises repetidas sem recuperação da consciência. A abordagem segue sequência escalonada: benzodiazepínico (primeira linha), anticonvulsivante de segunda linha (fenitoína, levetiracetam ou ácido valproico), terapias de terceira linha (ex.: fenobarbital, anestésicos). Diante da falha do benzodiazepínico inicial, a progressão adequada é a introdução imediata de droga de segunda linha. Repetições indefinidas de benzodiazepínicos aumentam o risco de depressão respiratória sem ganho terapêutico, e o atraso na progressão do tratamento está associado a pior prognóstico neurológico.",
+      "reference": "TRINKA, E. et al. A definition and classification of status epilepticus. Epilepsia, 2015; Sociedade Brasileira de Pediatria, Convulsões na infância, 2023; UpToDate, Management of convulsive status epilepticus in children, 2025."
+    },
+    {
+      "id": 16,
+      "type": "free_response",
+      "case_context": "Criança de 5 anos, com diagnóstico de asma, sem uso de medicação de controle, retorna para consulta. A mãe afirma que \"ele está bem\", mas admite que ele usa a \"bombinha de alívio - Salbutamol\" (SABA) quase todos os dias devido a acordar com tosse seca (mais de 3x na semana).",
+      "question": "Qual a interpretação do controle da asma deste paciente segundo o GINA?",
+      "correct_answer": "Asma não controlada (uso de SABA > 2x/semana).",
+      "explanation": "Segundo os critérios de avaliação de controle do GINA 2025 (últimas 4 semanas), o paciente apresenta dois marcadores de descontrole: uso de medicação de alívio (SABA) > 2 vezes na semana, indicando que a inflamação de base não está sendo tratada, apenas o sintoma agudo; e sintomas noturnos, que são sinais de alerta para risco iminente de crise grave. É crucial ignorar a percepção da mãe (\"ele está bem\") e aplicar a ferramenta objetiva de controle.",
+      "reference": "GINA 2025."
+    },
+    {
+      "id": 17,
+      "type": "free_response",
+      "case_context": "Criança de 5 anos, com diagnóstico de asma, sem uso de medicação de controle, retorna para consulta. A mãe afirma que \"ele está bem\", mas admite que ele usa a \"bombinha de alívio - Salbutamol\" (SABA) quase todos os dias devido a acordar com tosse seca (mais de 3x na semana).",
+      "question": "Qual a conduta medicamentosa necessária para evitar o remodelamento brônquico?",
+      "correct_answer": "Iniciar terapia de Manutenção com Corticoide Inalatório (CI).",
+      "explanation": "O remodelamento é a alteração estrutural definitiva da via aérea (espessamento da parede, fibrose e hipertrofia muscular) causada pela inflamação crônica não tratada. O SABA trata apenas o broncoespasmo, mas não tem efeito sobre a cascata inflamatória. O uso de 3 ou mais frascos de SABA por ano está associado a risco aumentado de exacerbações graves. A única medicação capaz de reduzir a hiperreatividade brônquica e prevenir o remodelamento a longo prazo é o Corticoide Inalatório. Para uma criança de 5 anos com este nível de descontrole, a conduta padrão é o Step 2 (CI em dose baixa diária), com técnica inalatória revisada e uso de espaçador mandatório.",
+      "reference": "GINA 2025"
+    },
+    {
+      "id": 18,
+      "type": "free_response",
+      "case_context": "L.M., 6 anos, sexo masculino, é levado à Unidade de Pronto Atendimento com febre de 39°C há dois dias. Ao exame físico, a criança apresenta orofaringe hiperemiada e língua com papilas proeminentes. Nota-se exantema avermelhado micropapular que se iniciou no pescoço e tronco, com textura áspera ao toque (pele em lixa). Observa-se que a erupção é mais intensa nas pregas axilares e região antecubital, formando linhas eritematosas que não desaparecem à digitopressão, além de uma nítida palidez perioral.",
+      "question": "Qual o diagnóstico clínico principal e quais os nomes dos dois sinais semiológicos descritos (palidez perioral e acentuação nas dobras)?",
+      "correct_answer": "Diagnóstico: Escarlatina. Sinais: Linhas de Pastia (dobras) e Sinal de Filatow (palidez perioral).",
+      "explanation": "A escarlatina é uma infecção bacteriana aguda, de origem estreptocócica, causada pelo Streptococcus pyogenes (GABHS). A manifestação clínica está relacionada à produção de exotoxinas eritrogênicas. O exantema aparece nas primeiras 24-48h, inicialmente na região cervical e tronco, com coloração avermelhada, distribuição pontilhada e textura áspera (lixa fina). Intensifica-se em regiões de dobras naturais, como axilas e virilhas, formando as linhas de Pastia. A região perioral permanece mais pálida em relação ao restante da face — Sinal de Filatow. Métrica: Escarlatina + 2 sinais = 100%; Escarlatina + 1 sinal = 80%; apenas Escarlatina = 60%; somente 2 sinais = 40%.",
+      "reference": "Livro Estomatologia em Foco, cap 9, infecções bacterianas, seção 9.1."
+    },
+    {
+      "id": 19,
+      "type": "free_response",
+      "case_context": "L.M., 6 anos, sexo masculino, apresentou o quadro de escarlatina descrito anteriormente. Três semanas após a resolução do quadro, a mãe retorna com a criança relatando que as pálpebras do filho estão inchadas ao amanhecer e que a urina tornou-se escura, \"cor de Coca-Cola\". Ao exame, o paciente apresenta PA de 135x85 mmHg (> P95 para idade).",
+      "question": "Qual a síndrome clínica e o diagnóstico etiológico da complicação?",
+      "correct_answer": "Síndrome Nefrítica Aguda. Diagnóstico etiológico: Glomerulonefrite Difusa Aguda Pós-Estreptocócica (GNDA).",
+      "explanation": "A síndrome nefrítica (SNi) é caracterizada pela associação de edema, hipertensão arterial (HA) e hematúria, frequentemente com proteinúria associada. A GNDA é a principal causa de síndrome nefrítica na infância e ocorre após uma infecção pelo Streptococcus pyogenes (neste caso, a escarlatina). Métrica: somente síndrome nefrítica = 50%; somente GNDA = 50%; síndrome + diagnóstico etiológico = 100%.",
+      "reference": "Tratado de pediatria, volume 1, CAPÍTULO 7 SÍNDROME NEFRÍTICA."
+    },
+    {
+      "id": 20,
+      "type": "free_response",
+      "case_context": "Menino 6 meses chega ao pronto socorro acompanhado de sua mãe, que refere que ele vem apresentando tosse com expectoração e coriza há 4 dias, há 2 dias febre de 38,5°C e hoje na madrugada iniciou desconforto respiratório. Nega episódios semelhantes, alergias medicamentosas ou alterações urinárias/evacuatórias. Ao exame físico: BEG, corado, hidratado, MV+ bilateralmente com sibilos difusos expiratórios e estertores finos em base direita, com tiragem subcostal, FR: 60 ipm, sat: 95% em ar ambiente. BRNF sem sopros, FC: 150 bpm, pulsos periféricos + e cheios, TEC< 2 seg, abdome inocente, oroscopia e otoscopia normais, sem lesões de pele, fontanela ampla e normotensa, ausência de sinais meníngeos. Foram prescritos os tratamentos iniciais no pronto socorro, porém o paciente manteve sinal de desconforto respiratório presente na entrada.",
+      "question": "Levando em consideração o quadro clínico, cite 2 diagnósticos clínicos diferenciais para essa criança neste momento.",
+      "correct_answer": "Bronquiolite viral aguda, Pneumonia adquirida na comunidade",
+      "explanation": "Os principais sinais e sintomas da PAC são febre, tosse, taquipneia e dispneia. O diagnóstico de PAC é eminentemente clínico. Em crianças pequenas dificilmente se encontram alterações localizadas à ausculta; a sibilância ocorre em IRA do trato respiratório inferior, geralmente na bronquiolite viral aguda, raramente na PAC, sendo assim seu diagnóstico diferencial. A bronquiolite viral aguda (BVA) é uma doença inflamatória inespecífica que afeta vias aéreas de pequeno calibre, geralmente causada pelo vírus sincicial respiratório (VSR), aplicando-se ao primeiro episódio de sibilância em lactentes menores de 12 meses. Métrica: Bronquiolite viral aguda e Pneumonia adquirida na comunidade = 100%; somente 1 resposta correta = 50%; outras respostas = zero.",
+      "reference": "Tratado de pediatria, sexta edição, volume 2, CAPÍTULO 2 BRONQUIOLITE VIRAL AGUDA e CAPÍTULO 3 PNEUMONIAS COMUNITÁRIAS."
+    },
+    {
+      "id": 21,
+      "type": "free_response",
+      "case_context": "Menino 6 meses com bronquiolite viral aguda / pneumonia adquirida na comunidade (caso descrito anteriormente), com FR: 60 ipm, tiragem subcostal e sat 95% em ar ambiente, mantendo desconforto respiratório após tratamento inicial no pronto socorro.",
+      "question": "Qual a conduta imediata em relação ao local de tratamento (ambulatorial ou hospitalar)? Cite 1 critério específico da história ou exame físico do paciente que foi utilizado para definir o local de tratamento.",
+      "correct_answer": "Tratamento hospitalar devido à presença de tiragem subcostal ou taquipneia.",
+      "explanation": "Apesar de a maioria das crianças com PAC poder ser tratada ambulatorialmente, situações como presença de tiragem subcostal, convulsões, sonolência excessiva, estridor em repouso, desnutrição grave, ausência de ingestão de líquidos, sinais de hipoxemia, comorbidades e complicações radiológicas indicam tratamento hospitalar. A necessidade de internação é infrequente (1-2% dos pacientes menores de 1 ano), centrada no grau de comprometimento respiratório (taquipneia acentuada) e fatores de risco associados. Métrica: 100% = tratamento hospitalar + justificativa com tiragem subcostal ou taquipneia (FR: 56); 50% = tratamento hospitalar mas justificativa genérica ou ausente; 0% = tratamento ambulatorial ou outra resposta.",
+      "reference": "Tratado de pediatria, volume 2, CAPÍTULO 2 BRONQUIOLITE VIRAL AGUDA."
+    }
+  ]
+}
