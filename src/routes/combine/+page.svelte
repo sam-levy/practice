@@ -86,7 +86,7 @@
       // Re-map IDs sequentially
       const remapped = selected.map((q, i) => ({ ...q, id: i + 1 }));
 
-      const combinedTitle = `Combined Test: ${titles.join(" + ")}`;
+      const combinedTitle = `Prova Combinada: ${titles.join(" + ")}`;
       const combinedData: TestData = {
         id: "combined",
         test_title: combinedTitle,
@@ -102,14 +102,14 @@
 </script>
 
 <svelte:head>
-  <title>Combine Tests</title>
+  <title>Combinar Provas</title>
 </svelte:head>
 
 <div class="container mx-auto p-8 max-w-4xl">
-  <h1 class="text-3xl font-bold mb-2">Combine Tests</h1>
+  <h1 class="text-3xl font-bold mb-2">Combinar Provas</h1>
   <p class="text-base-content/60 mb-6">
-    Select at least 2 tests to combine their questions into a custom practice
-    test.
+    Selecione ao menos duas provas para combinar suas questões em uma prova
+    personalizada.
   </p>
 
   <div class="grid gap-4 md:grid-cols-2 mb-8">
@@ -131,7 +131,7 @@
             />
             <div class="flex-1">
               <h2 class="card-title text-base">{test.title}</h2>
-              <p class="text-sm text-base-content/60">{count} questions</p>
+              <p class="text-sm text-base-content/60">{count} questões</p>
             </div>
           </div>
         </div>
@@ -142,17 +142,17 @@
   {#if selectedIds.size >= 2}
     <div class="card bg-base-100 shadow-xl mb-8">
       <div class="card-body">
-        <h2 class="card-title text-lg mb-4">Test Settings</h2>
+        <h2 class="card-title text-lg mb-4">Configurações da Prova</h2>
 
         <div class="form-control">
           <div class="label">
             <span class="label-text">
-              Total available questions: <strong>{totalAvailable}</strong>
+              Total de questões disponíveis: <strong>{totalAvailable}</strong>
             </span>
           </div>
           <label class="label" for="max-questions">
             <span class="label-text"
-              >Number of questions (max {totalAvailable})</span
+              >Número de questões (máx. {totalAvailable})</span
             >
           </label>
           <input
@@ -173,9 +173,9 @@
           >
             {#if generating}
               <span class="loading loading-spinner"></span>
-              Generating...
+              Gerando...
             {:else}
-              Generate Combined Test
+              Gerar Prova Combinada
             {/if}
           </button>
         </div>
@@ -183,7 +183,7 @@
     </div>
   {:else}
     <div class="alert alert-info">
-      <span>Select at least 2 tests to continue.</span>
+      <span>Selecione pelo menos 2 provas para continuar.</span>
     </div>
   {/if}
 </div>

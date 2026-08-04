@@ -34,7 +34,7 @@
 
   <div class="mb-6">
     <div class="flex justify-between text-sm mb-1">
-      <span>{answeredCount} of {totalCount} answered</span>
+      <span>{answeredCount} de {totalCount} respondidas</span>
       <span>{progressPercent}%</span>
     </div>
     <progress
@@ -49,11 +49,11 @@
       <div class="card bg-base-100 shadow-md">
         <div class="card-body">
           <h3 class="card-title text-sm font-semibold text-base-content/70">
-            Question {i + 1}
+            Questão {i + 1}
             {#if question.type === "free_response"}
-              <span class="badge badge-ghost badge-sm">Free Response</span>
+              <span class="badge badge-ghost badge-sm">Dissertativa</span>
             {:else}
-              <span class="badge badge-primary badge-sm">Multiple Choice</span>
+              <span class="badge badge-primary badge-sm">Múltipla Escolha</span>
             {/if}
           </h3>
 
@@ -89,7 +89,7 @@
             <textarea
               class="textarea textarea-bordered w-full"
               rows="4"
-              placeholder="Type your answer here..."
+              placeholder="Digite sua resposta aqui..."
               value={$testSession.answers[question.id] || ""}
               oninput={(e) =>
                 handleAnswerChange(
@@ -106,7 +106,7 @@
 <div class="sticky bottom-0 bg-base-100 border-t border-base-300 p-4 shadow-lg">
   <div class="container mx-auto max-w-4xl flex justify-end">
     <button class="btn btn-success btn-lg" onclick={submitTest}>
-      Submit Test
+      Enviar Prova
     </button>
   </div>
 </div>

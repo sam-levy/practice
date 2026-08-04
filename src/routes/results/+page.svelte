@@ -29,12 +29,12 @@
 </script>
 
 <svelte:head>
-  <title>Results</title>
+  <title>Resultados</title>
 </svelte:head>
 
 {#if $testSession.testData}
   <div class="container mx-auto p-4 max-w-4xl">
-    <h1 class="text-2xl font-bold mb-6">Results</h1>
+    <h1 class="text-2xl font-bold mb-6">Resultados</h1>
 
     <div class="card bg-base-100 shadow-xl mb-8">
       <div class="card-body items-center text-center">
@@ -44,21 +44,21 @@
         </div>
         <div class="stats stats-horizontal shadow mt-4">
           <div class="stat">
-            <div class="stat-title">Correct</div>
+            <div class="stat-title">Corretas</div>
             <div class="stat-value text-success">{correctCount}</div>
           </div>
           <div class="stat">
-            <div class="stat-title">Total (MC)</div>
+            <div class="stat-title">Total (Múltipla Escolha)</div>
             <div class="stat-value">{totalMC}</div>
           </div>
         </div>
         <p class="text-sm text-base-content/60 mt-2">
-          Score based on {totalMC} multiple-choice questions. Free-response questions are shown for review but not graded.
+          Pontuação baseada em {totalMC} questões de múltipla escolha. Questões dissertativas são exibidas para revisão, mas não são pontuadas.
         </p>
       </div>
     </div>
 
-    <h2 class="text-xl font-bold mb-4">Question Review</h2>
+    <h2 class="text-xl font-bold mb-4">Revisão das Questões</h2>
 
     <div class="space-y-4 mb-8">
       {#each $testSession.testData.questions as question, i}
@@ -70,15 +70,15 @@
           <div class="card-body">
             <div class="flex items-start justify-between gap-2">
               <h3 class="card-title text-sm font-semibold">
-                Question {i + 1}
+                Questão {i + 1}
                 {#if isMC}
                   {#if isCorrect}
-                    <span class="badge badge-success badge-sm">Correct</span>
+                    <span class="badge badge-success badge-sm">Correta</span>
                   {:else}
-                    <span class="badge badge-error badge-sm">Incorrect</span>
+                    <span class="badge badge-error badge-sm">Incorreta</span>
                   {/if}
                 {:else}
-                  <span class="badge badge-ghost badge-sm">Not graded</span>
+                  <span class="badge badge-ghost badge-sm">Não pontuada</span>
                 {/if}
               </h3>
             </div>
@@ -104,7 +104,7 @@
                       <span class="text-success font-bold ml-1">✓</span>
                     {/if}
                     {#if isUserChoice && !isCorrectOption}
-                      <span class="text-error font-bold ml-1">✗ (your answer)</span>
+                      <span class="text-error font-bold ml-1">✗ (sua resposta)</span>
                     {/if}
                   </div>
                 {/each}
@@ -112,18 +112,18 @@
             {:else}
               <div class="grid gap-3 mb-3">
                 <div class="bg-base-200 rounded-lg p-3">
-                  <div class="text-xs font-semibold text-base-content/60 mb-1">Your answer</div>
-                  <div class="text-sm">{userAnswer || '(no answer)'}</div>
+                  <div class="text-xs font-semibold text-base-content/60 mb-1">Sua resposta</div>
+                  <div class="text-sm">{userAnswer || '(sem resposta)'}</div>
                 </div>
                 <div class="bg-base-200 rounded-lg p-3">
-                  <div class="text-xs font-semibold text-base-content/60 mb-1">Sample answer</div>
+                  <div class="text-xs font-semibold text-base-content/60 mb-1">Resposta esperada</div>
                   <div class="text-sm">{question.correct_answer}</div>
                 </div>
               </div>
             {/if}
 
             <details class="collapse collapse-arrow bg-base-200 rounded-lg">
-              <summary class="collapse-title text-sm font-medium">Explanation & Reference</summary>
+              <summary class="collapse-title text-sm font-medium">Explicação e Referência</summary>
               <div class="collapse-content text-sm space-y-2">
                 <p>{question.explanation}</p>
                 <p class="text-base-content/60 italic">{question.reference}</p>
@@ -136,7 +136,7 @@
 
     <div class="flex justify-center pb-8">
       <button class="btn btn-outline btn-lg" onclick={tryAnother}>
-        Try Another Test
+        Fazer Outra Prova
       </button>
     </div>
   </div>
