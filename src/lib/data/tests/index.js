@@ -34,5 +34,10 @@ export const testManifest = [
     title: "Forms II - Turmas A/B",
     file: () => import("./forms_ii_turmas_ab.json"),
   },
+  {
+    id: "scaps_medicina_09_07",
+    title: "MEDICINA 9 DE JULHO - Prova Digital - SCAPS",
+    file: () => import("./scaps_medicina_09_07.json"),
+  },
   // Add more tests here later, following the same shape
 ];

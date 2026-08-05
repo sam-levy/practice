@@ -1,0 +1,220 @@
+{
+  "id": "scaps_medicina_09_07",
+  "test_title": "MEDICINA 9 DE JULHO - Prova Digital - SCAPS",
+  "student_name": "Talita Dias Antunes Fukuma",
+  "student_ra": "1121200039",
+  "total_points": "940/1000",
+  "notes": [
+    "Fonte é uma sequência de capturas de tela de um Google Forms já corrigido, com colunas de texto (enunciado, alternativas, nota, feedback) sobrepostas de forma não-linear pela extração de texto. As atribuições de nota a cada questão foram reconstruídas cruzando a soma dos pontos parciais com os totais declarados por caso (Caso 1: 340/400: em 6 questões de 60+60+60+100+60+60; Caso 2: 600/600 em 8 questões de 100+60+60+100+60+60+100+60).",
+    "Diversos erros de OCR (ligaduras 'fi'/'ti' lidas como 'V', 'M' ou 'cc' — ex.: 'Vagrado'→'flagrado', 'inVuenciado'→'influenciado', 'diccultando'→'dificultando', 'concrmar'→'confirmar', 'noticcação'→'notificação') foram corrigidos no texto abaixo.",
+    "A seção de 'Instruções/Consentimento' e a identificação do aluno não valem pontos (0/0) e foram resumidas nos metadados acima, não como questões."
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "case": "Caso 1 - Yara (Yanomami)",
+      "case_context": "Yara, 3 anos, etnia Yanomami (Amazonas), filha mais nova de família de 5. Histórico de baixo peso e calendário vacinal incompleto (60% das crianças da aldeia com vacinas atrasadas). Aldeia sob intensa atividade de garimpo ilegal, com contaminação por mercúrio dos rios/peixes; ASI identificou níveis alarmantes de mercúrio no sangue das crianças e confirmou desnutrição proteico-calórica em Yara. Moradores acreditam que 'as doenças não afetam os membros da comunidade'.",
+      "type": "multiple_choice",
+      "question": "Leia atentamente as alternativas abaixo e assinale a correta:",
+      "options": [
+        "A primeira grande conquista dos povos originários do Brasil é a Constituição Federal 1988, onde garante e reconhece a cidadania indígena, influenciada pela primeira Conferência Nacional de Saúde Indígena 1986.",
+        "Os agentes de saúde indígena são os profissionais médicos que permanecem aldeados por 6 meses a um ano para compreender a cultura, tradições e doenças específicas do indígena.",
+        "Os índios são uma população atrasada, de cultura cosmológica que busca respostas lógicas para a origem do universo, dificultando o exercício da função e o atendimento dos agentes de saúde.",
+        "A cultura indígena é oralizada, valorizando seus ancestrais. A linguagem tem origem em dois troncos linguísticos (Tupi e Macro-jê) e, por isso, a maioria das aldeias tem os mesmos costumes, facilitando o atendimento da SESAI."
+      ],
+      "correct_answer": "A primeira grande conquista dos povos originários do Brasil é a Constituição Federal 1988, onde garante e reconhece a cidadania indígena, influenciada pela primeira Conferência Nacional de Saúde Indígena 1986.",
+      "student_score": "60/60",
+      "explanation": "A Constituição da República Federativa do Brasil de 1988 é a lei fundamental e suprema do Brasil, servindo de parâmetro de validade a todas as demais espécies normativas, situando-se no topo do ordenamento jurídico. A Constituição Federal foi um elemento importante, pois deu garantia e reconhecimento da cidadania indígena.",
+      "reference": "https://bvsms.saude.gov.br"
+    },
+    {
+      "id": 2,
+      "case": "Caso 1 - Yara (Yanomami)",
+      "type": "multiple_choice",
+      "question": "A crise humanitária enfrentada pelos Yanomami, marcada pela alta taxa de desnutrição infantil, expõe fragilidades na garantia do direito à saúde dessa população. Considerando os princípios do Sistema Único de Saúde (SUS) e os objetivos da Política Nacional de Atenção Integral à Saúde da Criança (PNAISC), assinale a alternativa correta:",
+      "options": [
+        "A PNAISC não prevê situações específicas de vulnerabilidade às crianças como no caso das Yanomamis e, para isso, faz-se necessário novas políticas de saúde para abordar esse caso.",
+        "A PNAISC possui ações específicas para o aleitamento materno e ações complementares saudáveis, porém não se aplicam aos Yanomamis, já que os indígenas têm uma cultura diferente e primitiva.",
+        "A PNAISC propõe a atenção integral da criança; logo, a situação das crianças Yanomamis mostra a importância dos agentes de saúde indígena e dos polos base, que estão controlando as vacinas.",
+        "A vigilância em saúde indígena é uma estratégia essencial para monitorar a situação de saúde dos povos indígenas, principalmente das crianças, reduzindo a mortalidade materno-infantil."
+      ],
+      "correct_answer": "A vigilância em saúde indígena é uma estratégia essencial para monitorar a situação de saúde dos povos indígenas, principalmente das crianças, reduzindo a mortalidade materno-infantil.",
+      "student_score": "0/60",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 3,
+      "case": "Caso 1 - Yara (Yanomami)",
+      "type": "multiple_choice",
+      "question": "Qual das alternativas abaixo melhor representa como a história colonial e a política indigenista brasileira contribuíram para a situação atual dos Yanomami?",
+      "options": [
+        "A política indigenista brasileira sempre priorizou a proteção dos territórios indígenas, mas a história colonial deixou um legado de desconfiança entre indígenas e não indígenas, dificultando a implementação de políticas eficazes.",
+        "A história colonial e a política indigenista brasileira, marcadas pela expropriação de terras e pela imposição de uma cultura dominante, criaram as bases para a vulnerabilidade atual dos Yanomami, facilitando a invasão de seus territórios e a exploração de seus recursos.",
+        "A história colonial e a política indigenista brasileira não possuem relação direta com a situação atual dos Yanomami, pois os problemas enfrentados por esse povo são resultado de fatores mais recentes, como o crescimento da população e a globalização.",
+        "A política indigenista brasileira evoluiu ao longo dos anos e não tem mais a visão paternalista e assistencialista que limitava a autonomia dos povos indígenas Yanomamis e dificultava a resolução de seus problemas."
+      ],
+      "correct_answer": "A história colonial e a política indigenista brasileira, marcadas pela expropriação de terras e pela imposição de uma cultura dominante, criaram as bases para a vulnerabilidade atual dos Yanomami, facilitando a invasão de seus territórios e a exploração de seus recursos.",
+      "student_score": "60/60",
+      "explanation": "Ao longo da história, os Yanomami e outros povos indígenas foram submetidos a processos de expropriação de suas terras, imposição de uma cultura dominante e discriminação, o que enfraqueceu suas instituições e dificultou sua capacidade de resistir a invasões e exploração de seus territórios.",
+      "reference": "https://bvsms.saude.gov.br"
+    },
+    {
+      "id": 4,
+      "case": "Caso 1 - Yara (Yanomami)",
+      "type": "free_response",
+      "question": "Respeitando a visão de mundo do indígena, exemplifique, por meio dos atributos derivados da atenção primária, formas de mitigar a crença dos Yanomamis de que as doenças não afetam os membros da comunidade, promovendo um entendimento mais amplo sobre saúde e prevenção.",
+      "correct_answer": "Rubrica: competência cultural; orientação familiar e comunidade; educação em saúde; respeito pela crença.",
+      "student_answer": "Os profissionais da área da saúde devem deixar seus valores (étnico-culturais) de lado para que assim consigam atender de forma efetiva e de qualidade, respeitando a cultura, história, geografia, etnia e seus costumes; tendo essa maior amplitude de acolhimento e com uma escuta acolhedora, podemos passar nossos entendimentos biomédicos, esclarecendo a importância sobre a saúde e a prevenção que a população indígena necessita.",
+      "student_score": "100/100",
+      "explanation": "Competência cultural e orientação família/comunidade: escuta ativa (demonstrar interesse genuíno em compreender a perspectiva Yanomami sobre saúde e doença); respeito pelas crenças (evitar julgamentos, reconhecer a importância da cultura e espiritualidade); educação em saúde e construção de vínculo. A chave para mitigar a crença e promover a saúde dos Yanomami está na construção de confiança baseada no respeito mútuo e na valorização da cultura local, integrando conhecimentos da medicina tradicional com práticas da medicina ocidental.",
+      "reference": "OLIVEIRA, Maria Amélia de Campos; PEREIRA, Iara Cristina. Atributos essenciais da Atenção Primária e a Estratégia Saúde da Família. Revista Brasileira de Enfermagem, Brasília, v. 66, n. spe, p. 158-164, set. 2013."
+    },
+    {
+      "id": 5,
+      "case": "Caso 1 - Yara (Yanomami)",
+      "type": "multiple_choice",
+      "question": "De acordo com o caso, qual conduta descrita abaixo deveria ser a que melhor representa a ação do agente de saúde indígena frente às condições das crianças Yanomamis?",
+      "options": [
+        "Deve atender as crianças nos polos base e referenciá-las à CASAI (Casa de Saúde do Índio), que facilita o acesso da população indígena ao atendimento secundário e terciário coordenado pelos DSEI; investigar a situação de saúde de toda a aldeia; e comunicar a vigilância ambiental e a FUNAI sobre as condições ambientais e a invasão do território demarcado.",
+        "Relatar a situação de saúde com urgência à FUNAI, pois ela é o órgão indigenista responsável pela promoção da saúde da população indígena, chamada de 'mini SUS'. Este órgão municipalizado e descentralizado possui financiamento direto dos impostos pagos aos municípios, como IPTU.",
+        "Deve acionar os DSEI (Distritos Sanitários Especiais Indígenas), pois é o órgão responsável por coordenar, monitorar, executar e modificar a Política Nacional de Atenção à População Indígena e, portanto, pode demarcar as terras indígenas a fim de impedir a entrada do garimpo ilegal na região.",
+        "O agente de saúde deve notificar ao SINAN, órgão responsável pela notificação de doenças e agravos à saúde da população, uma vez que a desnutrição é grave e a notificação é obrigatória, além de acionar a vigilância em saúde através da FUNAI e do IBGE para impedir a invasão do território demarcado."
+      ],
+      "correct_answer": "Deve atender as crianças nos polos base e referenciá-las à CASAI (Casa de Saúde do Índio), que facilita o acesso da população indígena ao atendimento secundário e terciário coordenado pelos DSEI; investigar a situação de saúde de toda a aldeia; e comunicar a vigilância ambiental e a FUNAI sobre as condições ambientais e a invasão do território demarcado.",
+      "student_score": "60/60",
+      "explanation": "Os Polos Base e as CASAI atuam de forma integrada para garantir o acesso da população indígena a serviços de saúde de qualidade, respeitando suas especificidades culturais e sociais. Eles são essenciais para promover a saúde, prevenir doenças e cuidar daqueles que vivem nas aldeias.",
+      "reference": "https://bvsms.saude.gov.br"
+    },
+    {
+      "id": 6,
+      "case": "Caso 1 - Yara (Yanomami)",
+      "type": "multiple_choice",
+      "question": "A Fundação Nacional do Índio (FUNAI) é um órgão governamental criado em 1967 para dar suporte às populações indígenas e promover seus direitos. Entre suas atribuições, podemos destacar:",
+      "options": [
+        "Investir na proteção dos não indígenas, uma vez que a separação entre indígenas e não indígenas é a melhor forma para o trabalho com essas populações.",
+        "Promover estudos que identifiquem, delimitem, demarquem e regularizem as terras ocupadas pelos indígenas.",
+        "Investir na promoção de pesquisas sobre como as terras indígenas brasileiras são ricas em minérios, de maneira a reivindicar condições necessárias para que essas terras sejam exploradas pelos indígenas.",
+        "Promover um bem-estar entre indígenas e não indígenas, de maneira a levar as populações indígenas rumo a modelos mais civilizatórios de vida, educando e ensinando as tecnologias do mundo moderno."
+      ],
+      "correct_answer": "Promover estudos que identifiquem, delimitem, demarquem e regularizem as terras ocupadas pelos indígenas.",
+      "student_score": "60/60",
+      "explanation": "A FUNAI é o órgão indigenista oficial do Estado brasileiro (Lei nº 5.371/1967), vinculado ao Ministério da Justiça e Segurança Pública. Cabe à FUNAI promover estudos de identificação, delimitação, demarcação, regularização fundiária e registro das terras tradicionalmente ocupadas pelos povos indígenas, além de monitorar e fiscalizar as terras indígenas e coordenar políticas de proteção aos povos isolados e recém-contatados.",
+      "reference": "https://www.gov.br/funai/pt-br/acesso-a-informacao/institucional"
+    },
+    {
+      "id": 7,
+      "case": "Caso 2 - Raja (refugiada síria)",
+      "case_context": "Raja, 28 anos, síria, refugiada (documento CONARE), acompanhada de duas crianças menores de 5 anos, procurou atendimento na UBS com queixa de febre alta e tosse persistente em uma das crianças. A recepcionista negou o atendimento por falta de documento de identidade brasileiro e cartão do SUS, com fala discriminatória. Raja saiu sem tratamento para os filhos. Veio ao Brasil devido a instabilidade política/insegurança em seu país de origem.",
+      "type": "free_response",
+      "question": "Qual princípio do SUS foi ferido com a negação de atendimento a Raja e seus filhos? (Responda com apenas uma palavra)",
+      "correct_answer": "Universalidade",
+      "student_answer": "universalidade",
+      "student_score": "100/100",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 8,
+      "case": "Caso 2 - Raja (refugiada síria)",
+      "type": "multiple_choice",
+      "question": "O caso de Raja evidencia a importância de discutir a violência no contexto da saúde. Considerando os elementos presentes no caso, assinale a alternativa que melhor define a forma de violência sofrida por Raja:",
+      "options": [
+        "Houve violência física, porque a negativa de atendimento poderá causar danos físicos à saúde de Raja e de seus filhos.",
+        "A violência institucional é vista na negativa de atendimento, representando uma falha do sistema de saúde em garantir o acesso universal e equânime.",
+        "A violência comunitária é aquela que acontece entre dois ou mais indivíduos, manifestada em ambientes coletivos.",
+        "A violência simbólica foi explícita e verbalizada pela atendente, causando danos psicológicos e gerando sofrimento emocional em Raja."
+      ],
+      "correct_answer": "A violência institucional é vista na negativa de atendimento, representando uma falha do sistema de saúde em garantir o acesso universal e equânime.",
+      "student_score": "60/60",
+      "explanation": "Violência institucional: a negativa de atendimento representa uma falha do sistema de saúde em cumprir seu papel de garantir o acesso universal e equânime à saúde. (Violência física, psicológica e comunitária foram descartadas por não se encaixarem precisamente no caso.)",
+      "reference": null
+    },
+    {
+      "id": 9,
+      "case": "Caso 2 - Raja (refugiada síria)",
+      "type": "multiple_choice",
+      "question": "Mesmo antes da criação do SUS, a primeira versão do PAISM previa ações voltadas para a saúde da mulher de forma descentralizada, hierarquizada e regionalizada, prevendo integralidade e equidade da atenção. Em 2004 esse programa se torna o PNAISM. Qual seu objetivo geral?",
+      "options": [
+        "Promover a melhoria das condições de vida e saúde das mulheres brasileiras mediante a garantia e ampliação de direitos e ampliação do acesso aos meios e serviços voltados para a atenção especializada à saúde da mulher em todo território brasileiro.",
+        "Contribuir para a redução da morbidade e mortalidade materna e infantil no Brasil, especialmente por causas evitáveis, nos diversos grupos populacionais, sem discriminação de qualquer espécie.",
+        "Promover a melhoria das condições de vida e saúde das mulheres brasileiras gays, lésbicas e transexuais, mediante a garantia e ampliação de direitos e ampliação do acesso aos meios e serviços de promoção, prevenção, assistência e recuperação da saúde em todo território brasileiro.",
+        "Contribuir para a redução da morbidade e mortalidade feminina no Brasil, especialmente por causas evitáveis, em todos os ciclos de vida e nos diversos grupos populacionais, sem discriminação de qualquer espécie."
+      ],
+      "correct_answer": "Contribuir para a redução da morbidade e mortalidade feminina no Brasil, especialmente por causas evitáveis, em todos os ciclos de vida e nos diversos grupos populacionais, sem discriminação de qualquer espécie.",
+      "student_score": "60/60",
+      "explanation": "Objetivos gerais da PNAISM: promover a melhoria das condições de vida e saúde das mulheres brasileiras mediante garantia de direitos legalmente constituídos e ampliação do acesso; contribuir para a redução da morbidade e mortalidade feminina no Brasil, especialmente por causas evitáveis, em todos os ciclos de vida; ampliar, qualificar e humanizar a atenção integral à saúde da mulher no SUS.",
+      "reference": "BRASIL. Ministério da Saúde. Política Nacional de Atenção Integral à Saúde da Mulher: Princípios e Diretrizes. 1. ed., 2. reimpr. Brasília: Editora do Ministério da Saúde, 2011."
+    },
+    {
+      "id": 10,
+      "case": "Caso 2 - Raja (refugiada síria)",
+      "type": "free_response",
+      "question": "A negligência do serviço de saúde com os filhos de Raja feriu todo atendimento humanizado, os direitos da criança e os princípios da Política Nacional de Atenção Integral à Saúde da Criança (PNAISC). Cite 4 princípios da PNAISC.",
+      "correct_answer": "Rubrica (25 pontos cada, máx. 100): direito à vida e à saúde; prioridade absoluta da criança; acesso universal à saúde; integralidade do cuidado; equidade em saúde; ambiente facilitador à vida; humanização da atenção; gestão participativa e controle social.",
+      "student_answer": "Direito à saúde e à vida, direito à educação, direito à atenção humanizada e direito à integralidade de serviço com acesso ao SUS.",
+      "student_score": "100/100",
+      "explanation": "Regra de correção: 25 pontos para cada princípio correto, máximo de 100 pontos.",
+      "reference": null
+    },
+    {
+      "id": 11,
+      "case": "Caso 2 - Raja (refugiada síria)",
+      "type": "multiple_choice",
+      "question": "Com relação ao conceito da vinda de Raja de outro país para o Brasil, assinale a alternativa correta:",
+      "options": [
+        "No texto ela é chamada de refugiada, mas Raja é uma imigrante, pois é alguém que deixou seu país para se estabelecer em outro.",
+        "No texto ela é chamada de refugiada, mas o termo correto para Raja é emigrante, pois é usado para a pessoa que chega de outro país, ou seja, entra em um país diferente do seu para morar.",
+        "No texto ela é chamada de refugiada, mas Raja é uma expatriada, termo genérico que descreve qualquer pessoa que se mova de um lugar para outro, seja dentro do próprio país ou entre países.",
+        "No texto ela é chamada de refugiada, o que está correto, uma vez que ela se viu forçada a abandonar seu país devido a perseguições graves e violação dos direitos humanos."
+      ],
+      "correct_answer": "No texto ela é chamada de refugiada, o que está correto, uma vez que ela se viu forçada a abandonar seu país devido a perseguições graves e violação dos direitos humanos.",
+      "student_score": "60/60",
+      "explanation": null,
+      "reference": "BRASIL. Lei nº 13.445, de 24 de maio de 2017 (Lei de Imigração)."
+    },
+    {
+      "id": 12,
+      "case": "Caso 2 - Raja (refugiada síria)",
+      "type": "multiple_choice",
+      "question": "Quando se fala em Política Nacional de Atenção Integral à Saúde da Mulher, um dos eixos mais enfatizados consiste na prevenção do câncer de colo de útero. Estima-se, para o Brasil (biênio 2018-2019), a ocorrência de 600 mil casos novos de câncer por ano, com o câncer de colo do útero, estômago e esôfago ainda com taxas altas. Diante deste cenário, é correto afirmar que uma forma de prevenção secundária consiste:",
+      "options": [
+        "No agendamento de exames citopatológicos, que devem ser realizados somente até o início da menopausa.",
+        "No exame de Papanicolaou, que é um procedimento de realização periódica que visa ao rastreamento do câncer do colo do útero e de suas lesões precursoras.",
+        "Na busca ativa de forma intensificada, para que se inicie a realização do exame citopatológico a partir dos doze anos de idade.",
+        "Na vacinação contra o HPV em adolescentes de nove a dezesseis anos de idade, que tem eficácia importante na prevenção do câncer do colo do útero."
+      ],
+      "correct_answer": "No exame de Papanicolaou, que é um procedimento de realização periódica que visa ao rastreamento do câncer do colo do útero e de suas lesões precursoras.",
+      "student_score": "60/60",
+      "explanation": "Correta: consiste no exame ginecológico com abordagem preventiva e detecção precoce do câncer do colo do útero.",
+      "reference": "BRASIL. Ministério da Saúde. Política Nacional de Atenção Integral à Saúde da Mulher: Princípios e Diretrizes. Brasília: Ministério da Saúde, 2004."
+    },
+    {
+      "id": 13,
+      "case": "Caso 2 - Raja (refugiada síria)",
+      "type": "free_response",
+      "question": "Cite dois documentos essenciais para o acompanhamento da saúde dos filhos de Raja que deveriam ter sido oferecidos a eles no atendimento.",
+      "correct_answer": "Cartão de vacinação e Caderneta da Criança.",
+      "student_answer": "Caderneta da criança (que tem informações importantes relacionadas ao desenvolvimento da criança, vacinação, orientações, uso de telas, puberdade, etc.) e folheto multilinguístico para que a mãe entenda os horários de funcionamento do local onde está sendo atendida, o calendário de vacinação, os procedimentos oferecidos na unidade e os horários de distribuição de medicamentos, para maior adesão ao tratamento.",
+      "student_score": "100/100",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 14,
+      "case": "Caso 2 - Raja (refugiada síria)",
+      "type": "multiple_choice",
+      "question": "A Convenção de 1951 é a base legal para o direito internacional dos refugiados e estabeleceu um sistema global de proteção para os refugiados. Assinale a alternativa correta:",
+      "options": [
+        "A Convenção de 1951 obriga os Estados signatários a conceder a cidadania aos refugiados, garantindo assim sua integração plena na sociedade de acolhida.",
+        "A Convenção de 1951 define refugiado como qualquer pessoa que se encontre fora de seu país de origem devido a perseguição por motivos de raça, religião, nacionalidade, opinião política ou participação em grupos sociais, mas não inclui aqueles que fogem de conflitos armados.",
+        "A Convenção de 1951 proíbe a devolução de um refugiado a um país onde sua vida ou liberdade estariam ameaçadas por causa de sua raça, religião, nacionalidade, opinião política ou participação em grupos sociais.",
+        "A Convenção de 1951 define refugiado como qualquer pessoa que se encontre fora de seu país de origem; logo, não se aplica a refugiados menores de idade, sendo necessária legislação específica (como o ECA) para proteger os direitos dessa população."
+      ],
+      "correct_answer": "A Convenção de 1951 proíbe a devolução de um refugiado a um país onde sua vida ou liberdade estariam ameaçadas por causa de sua raça, religião, nacionalidade, opinião política ou participação em grupos sociais.",
+      "student_score": "60/60",
+      "explanation": "Esse princípio é conhecido como não-refoulement e é um dos pilares da proteção internacional aos refugiados.",
+      "reference": "ACNUR – Alto Comissariado das Nações Unidas para Refugiados."
+    }
+  ]
+}
