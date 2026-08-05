@@ -1,259 +1,222 @@
 {
   "id": "p1_scaps_7_t9_a_e_b",
   "test_title": "PROVA P1 SCAPS 7 T9 A E B",
-  "total_points": "700/1000",
-  "notes": [
-    "Fonte é um formulário do Google Forms já preenchido/corrigido (aluna: Jéssica Patricia Souza Maia). O documento é organizado em 4 casos clínicos, cada um com 3 questões de múltipla escolha e 1 questão dissertativa. Para as dissertativas, foi mantida a resposta literal dada pela aluna (campo 'student_answer'), além do resumo do conteúdo esperado extraído do feedback do professor (campo 'expected_answer_summary').",
-    "Pontuação por caso: Caso 1 = 120/260; Caso 2 = 220/260; Caso 3 = 230/260; Caso 4 = 130/220. Soma = 700/1000, conforme total do formulário."
-  ],
-  "cases": [
+  "questions": [
     {
-      "case_title": "CASO 1 - DIREITOS HUMANOS",
-      "case_context": "Durante um estágio em saúde coletiva, um grupo de estudantes de medicina acompanha o atendimento em uma unidade pública de saúde e se depara com uma situação complexa: um paciente em situação de rua, com diagnóstico de tuberculose ativa, recusa-se a seguir o tratamento proposto. A equipe discute a possibilidade de intervenção mais coercitiva, considerando o risco de transmissão para a comunidade. Paralelamente, durante a discussão, um professor relembra que, ao longo da história, políticas de saúde pública já adotaram medidas autoritárias, como isolamento compulsório e exclusão social, muitas vezes em conflito com os direitos individuais. A equipe passa então a refletir sobre os limites entre proteção coletiva e respeito à autonomia individual.",
-      "case_points": "120/260",
-      "questions": [
-        {
-          "id": 1,
-          "type": "multiple_choice",
-          "question": "Considerando o caso apresentado e a evolução histórica das práticas em saúde pública, analise a tensão entre autonomia individual e proteção coletiva. Assinale a alternativa que melhor expressa uma abordagem eticamente fundamentada no contexto contemporâneo.",
-          "options": [
-            "A intervenção coercitiva deve ser aplicada automaticamente em casos de doenças transmissíveis, como estratégia padrão de saúde pública",
-            "A autonomia do paciente deve ser respeitada de forma irrestrita, mesmo quando há risco significativo de transmissão de doenças a terceiros",
-            "A proteção da saúde coletiva deve prevalecer de forma absoluta sobre a autonomia individual, legitimando intervenções coercitivas independentemente do contexto social e das condições do paciente",
-            "A tomada de decisão deve buscar equilíbrio entre autonomia e proteção coletiva, utilizando medidas proporcionais, justificadas e baseadas em evidências, respeitando os direitos humanos"
-          ],
-          "correct_answer": "A tomada de decisão deve buscar equilíbrio entre autonomia e proteção coletiva, utilizando medidas proporcionais, justificadas e baseadas em evidências, respeitando os direitos humanos",
-          "student_score": "60/60",
-          "explanation": "Modelo bioético moderno: proporcionalidade + necessidade + direitos humanos.",
-          "reference": "https://www.unicef.org/brazil/declaracao-universal-dos-direitos-humanos"
-        },
-        {
-          "id": 2,
-          "type": "multiple_choice",
-          "question": "Durante a discussão do caso, a equipe aborda os princípios da bioética (autonomia, beneficência, não maleficência e justiça). Considerando a situação apresentada, assinale a alternativa que melhor expressa a aplicação integrada desses princípios na prática clínica e em saúde pública.",
-          "options": [
-            "A não maleficência impede qualquer intervenção que possa causar desconforto ao paciente",
-            "A aplicação dos princípios bioéticos exige análise contextualizada, considerando riscos, benefícios, vulnerabilidade social e impacto coletivo",
-            "A justiça implica tratar todos os pacientes de forma idêntica, independentemente de suas condições sociais",
-            "A beneficência deve sempre prevalecer sobre a autonomia, justificando qualquer intervenção considerada benéfica pelo profissional de saúde"
-          ],
-          "correct_answer": "A aplicação dos princípios bioéticos exige análise contextualizada, considerando riscos, benefícios, vulnerabilidade social e impacto coletivo",
-          "student_score": "0/60",
-          "explanation": null,
-          "reference": null
-        },
-        {
-          "id": 3,
-          "type": "multiple_choice",
-          "question": "Ao refletir sobre práticas históricas como o isolamento compulsório de indivíduos com tuberculose ativa no Brasil, a equipe reconhece a necessidade de análise crítica dessas políticas. Considerando esse contexto, assinale a alternativa que melhor expressa a relação entre história, ética e direitos humanos na saúde.",
-          "options": [
-            "As políticas sanitárias históricas não têm relevância para a prática contemporânea",
-            "A análise histórica revela que políticas de saúde podem violar direitos humanos quando desconsideram dignidade, autonomia e inclusão social",
-            "Medidas como o isolamento compulsório foram eticamente adequadas, pois priorizavam o controle da doença independentemente de seus impactos sociais",
-            "As práticas históricas devem ser analisadas exclusivamente com base no conhecimento científico disponível à época, sem considerar implicações éticas"
-          ],
-          "correct_answer": "A análise histórica revela que políticas de saúde podem violar direitos humanos quando desconsideram dignidade, autonomia e inclusão social",
-          "student_score": "0/60",
-          "explanation": null,
-          "reference": null
-        },
-        {
-          "id": 4,
-          "type": "free_response",
-          "question": "A partir do caso apresentado, discuta os conflitos entre autonomia individual, proteção coletiva e direitos humanos na prática em saúde pública. Em sua resposta, analise como a história das políticas de saúde contribui para a construção de uma abordagem ética contemporânea e quais são os limites das intervenções do Estado frente à liberdade individual.",
-          "student_answer": "As Politica de saúde pública visa uma abordagem mais ampla, tentando entender quais são as vulnerabilidades desse cidadão para que ele não queira aderir ao tratamento, sempre o tratando de forma humanizada, os limites de intervenção do estado vem quando a questão entra risco a outros cidadãos.",
-          "student_score": "60/80",
-          "expected_answer_summary": "A prática em saúde pública frequentemente envolve tensões entre autonomia individual e proteção coletiva, especialmente em situações de doenças transmissíveis. A abordagem ética contemporânea busca equilibrar esses elementos, utilizando princípios da bioética e dos direitos humanos, como proporcionalidade, necessidade e respeito à dignidade. Historicamente, políticas sanitárias adotaram medidas autoritárias, como isolamento compulsório, que resultaram em violações de direitos. A análise crítica dessas práticas contribui para o desenvolvimento de modelos mais éticos e inclusivos. O Estado tem papel fundamental na garantia do direito à saúde, mas suas intervenções devem respeitar limites éticos, sendo justificadas apenas quando necessárias, baseadas em evidências e realizadas com o menor grau de restrição possível. A atenção deve considerar também a vulnerabilidade social dos indivíduos, promovendo cuidado integral e não apenas controle sanitário.",
-          "reference": null
-        }
-      ]
+      "id": 1,
+      "type": "multiple_choice",
+      "case_context": "CASO 1 - DIREITOS HUMANOS: Durante um estágio em saúde coletiva, um grupo de estudantes de medicina acompanha o atendimento em uma unidade pública de saúde e se depara com uma situação complexa: um paciente em situação de rua, com diagnóstico de tuberculose ativa, recusa-se a seguir o tratamento proposto. A equipe discute a possibilidade de intervenção mais coercitiva, considerando o risco de transmissão para a comunidade. Paralelamente, durante a discussão, um professor relembra que, ao longo da história, políticas de saúde pública já adotaram medidas autoritárias, como isolamento compulsório e exclusão social, muitas vezes em conflito com os direitos individuais. A equipe passa então a refletir sobre os limites entre proteção coletiva e respeito à autonomia individual.",
+      "question": "Considerando o caso apresentado e a evolução histórica das práticas em saúde pública, analise a tensão entre autonomia individual e proteção coletiva. Assinale a alternativa que melhor expressa uma abordagem eticamente fundamentada no contexto contemporâneo.",
+      "options": [
+        "A intervenção coercitiva deve ser aplicada automaticamente em casos de doenças transmissíveis, como estratégia padrão de saúde pública",
+        "A autonomia do paciente deve ser respeitada de forma irrestrita, mesmo quando há risco significativo de transmissão de doenças a terceiros",
+        "A proteção da saúde coletiva deve prevalecer de forma absoluta sobre a autonomia individual, legitimando intervenções coercitivas independentemente do contexto social e das condições do paciente",
+        "A tomada de decisão deve buscar equilíbrio entre autonomia e proteção coletiva, utilizando medidas proporcionais, justificadas e baseadas em evidências, respeitando os direitos humanos"
+      ],
+      "correct_answer": "A tomada de decisão deve buscar equilíbrio entre autonomia e proteção coletiva, utilizando medidas proporcionais, justificadas e baseadas em evidências, respeitando os direitos humanos",
+      "explanation": "Modelo bioético moderno: proporcionalidade + necessidade + direitos humanos.",
+      "reference": "https://www.unicef.org/brazil/declaracao-universal-dos-direitos-humanos"
     },
     {
-      "case_title": "CASO 2 - MULHER E CRIANÇA",
-      "case_context": "Mulher de 19 anos, comparece à Unidade Básica de Saúde (UBS) acompanhada de uma vizinha, relatando atraso menstrual há cerca de 10 semanas, associado a náuseas, vômitos matinais e fadiga. Durante a consulta, apresenta-se visivelmente ansiosa, agitada e não realiza contato visual com a equipe. Após um tempo e se sentindo mais segura, a paciente revela que foi violentada sexualmente por um tio há aproximadamente 3 meses. Refere não ter procurado atendimento de saúde ou policial na ocasião por medo de sofrer represália da família e de não acreditarem nela. Nega uso de contracepção no momento do ocorrido. O teste rápido de gravidez realizado na UBS confirma gestação. A paciente demonstra incertezas em relação à gestação, referindo uma grande angústia com episódios de insônia, choro frequente e dificuldade de aceitação da gravidez. Durante o atendimento, a equipe identifica ausência de rede de apoio estruturada, vulnerabilidade social e sinais de sofrimento psíquico. A equipe da UBS inicia acolhimento, oferece escuta qualificada, orienta sobre seus direitos e realiza encaminhamento para serviços especializados da rede de atenção, incluindo acompanhamento psicológico e social, além de iniciar o pré-natal. Ao longo do acompanhamento, a paciente opta por manter a gestação. O pré-natal é classificado como de risco habitual, porém com necessidade de atenção ampliada devido ao contexto psicossocial. A equipe multiprofissional realiza acompanhamento contínuo. O parto ocorre em maternidade de referência do SUS, sem intercorrências clínicas. O recém-nascido é do sexo masculino, a termo, com bom peso ao nascer e Apgar adequado. No puerpério, observa-se dificuldade inicial de vínculo materno, além de sinais de tristeza persistente na mãe. A equipe de saúde mantém seguimento conjunto mãe-bebê, com foco no fortalecimento do vínculo, promoção do aleitamento materno e vigilância do crescimento e desenvolvimento infantil.",
-      "case_points": "220/260",
-      "questions": [
-        {
-          "id": 5,
-          "type": "multiple_choice",
-          "question": "Sobre a Política Nacional de Atenção Integral à Saúde da Criança, assinale a alternativa correta quanto à definição de criança e primeira infância:",
-          "options": [
-            "Criança é a pessoa de 0 a 12 anos incompletos, sendo a primeira infância o período de 0 a 6 anos completos.",
-            "Criança é a pessoa de 0 a 9 anos, sendo a primeira infância o período de 0 a 5 anos completos.",
-            "Criança é a pessoa de 0 a 10 anos incompletos, sendo a primeira infância o período de 0 a 3 anos completos.",
-            "Criança é a pessoa de 0 a 9 anos, sendo a primeira infância o período de 0 a 9 anos completos."
-          ],
-          "correct_answer": "Criança é a pessoa de 0 a 9 anos, sendo a primeira infância o período de 0 a 5 anos completos.",
-          "student_score": "60/60",
-          "explanation": "Art. 3º Para fins da PNAISC, considera-se: I - criança: pessoa na faixa etária de 0 (zero) a 9 (nove) anos, ou seja, de 0 (zero) a 120 (cento e vinte) meses; e II - primeira infância: pessoa na faixa etária de 0 (zero) a 5 (cinco) anos, ou seja, de 0 (zero) a 72 (setenta e dois) meses.",
-          "reference": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2015/prt1130_05_08_2015.html"
-        },
-        {
-          "id": 6,
-          "type": "multiple_choice",
-          "question": "A mortalidade infantil na primeira infância ainda representa um importante desafio em saúde pública no Brasil, apesar da redução progressiva nas últimas décadas. Dados recentes mostram taxas em torno de 12,3 óbitos por mil nascidos vivos, evidenciando avanços, porém com persistência de causas evitáveis, especialmente associadas a vulnerabilidades sociais e falhas na assistência pré-natal e ao recém-nascido. Considerando o caso clínico apresentado (gestação decorrente de violência, sofrimento psíquico materno e dificuldade de vínculo), e as diretrizes da Política Nacional de Atenção Integral à Saúde da Criança, assinale a alternativa que representa a estratégia mais efetiva para redução da mortalidade infantil nesse contexto:",
-          "options": [
-            "Realizar acompanhamento da criança apenas após o primeiro ano de vida, quando os riscos de mortalidade são menores.",
-            "Priorizar o atendimento hospitalar apenas em situações de intercorrência clínica aguda no recém-nascido.",
-            "Garantir acompanhamento integral desde o pré-natal, com atenção ao contexto psicossocial, promoção do vínculo, apoio ao aleitamento materno e vigilância do crescimento e desenvolvimento.",
-            "Focar exclusivamente em intervenções tecnológicas de alta complexidade no período neonatal."
-          ],
-          "correct_answer": "Garantir acompanhamento integral desde o pré-natal, com atenção ao contexto psicossocial, promoção do vínculo, apoio ao aleitamento materno e vigilância do crescimento e desenvolvimento.",
-          "student_score": "60/60",
-          "explanation": null,
-          "reference": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/pnaisc"
-        },
-        {
-          "id": 7,
-          "type": "multiple_choice",
-          "question": "No caso descrito, e de acordo com a Política Nacional de Atenção Integral à Saúde da Mulher – PNAISM, o encaminhamento para a Rede Alyne de assistência seria indicado?",
-          "options": [
-            "Sim. A Rede Alyne tem como foco exclusivo a assistência ao parto hospitalar, não abrangendo o pré-natal ou o puerpério.",
-            "Não. A Rede Alyne substitui integralmente a Atenção Primária, centralizando o cuidado apenas em maternidades de alta complexidade.",
-            "Sim. A Rede Alyne organiza a atenção de forma integrada, garantindo acesso ao pré-natal qualificado, parto seguro, puerpério e cuidado à criança, com articulação entre os diferentes níveis de atenção.",
-            "Não. A Rede Alyne é voltada apenas para gestantes de alto risco, não contemplando casos de risco habitual."
-          ],
-          "correct_answer": "Sim. A Rede Alyne organiza a atenção de forma integrada, garantindo acesso ao pré-natal qualificado, parto seguro, puerpério e cuidado à criança, com articulação entre os diferentes níveis de atenção.",
-          "student_score": "60/60",
-          "explanation": null,
-          "reference": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2024/prt5350_13_09_2024.html"
-        },
-        {
-          "id": 8,
-          "type": "free_response",
-          "question": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança, cite ao menos dois eixos estratégicos.",
-          "student_answer": "Aleitamento materno e desmame; Alimentação complementar",
-          "student_score": "40/80",
-          "correct_answer": "Eixos estratégicos da PNAISC: I. Atenção humanizada e qualificada à gestação, ao parto, ao nascimento e ao recém-nascido; II. Aleitamento materno e alimentação complementar saudável; III. Promoção e acompanhamento do crescimento e do desenvolvimento integral; IV. Atenção integral a crianças com agravos prevalentes na infância e com doenças crônicas; V. Atenção integral a crianças em situação de violências, prevenção de acidentes e promoção da cultura de paz; VI. Atenção à saúde de crianças com deficiência ou em situações específicas e de vulnerabilidade; VII. Vigilância e prevenção do óbito infantil, fetal e materno.",
-          "grading_criteria": "0% → não responde ou resposta incorreta; 50% → define corretamente apenas um eixo; 100% → define corretamente dois eixos.",
-          "reference": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/pnaisc"
-        }
-      ]
+      "id": 2,
+      "type": "multiple_choice",
+      "case_context": "CASO 1 - DIREITOS HUMANOS: Durante um estágio em saúde coletiva, um grupo de estudantes de medicina acompanha o atendimento em uma unidade pública de saúde e se depara com uma situação complexa: um paciente em situação de rua, com diagnóstico de tuberculose ativa, recusa-se a seguir o tratamento proposto. A equipe discute a possibilidade de intervenção mais coercitiva, considerando o risco de transmissão para a comunidade. Paralelamente, durante a discussão, um professor relembra que, ao longo da história, políticas de saúde pública já adotaram medidas autoritárias, como isolamento compulsório e exclusão social, muitas vezes em conflito com os direitos individuais. A equipe passa então a refletir sobre os limites entre proteção coletiva e respeito à autonomia individual.",
+      "question": "Durante a discussão do caso, a equipe aborda os princípios da bioética (autonomia, beneficência, não maleficência e justiça). Considerando a situação apresentada, assinale a alternativa que melhor expressa a aplicação integrada desses princípios na prática clínica e em saúde pública.",
+      "options": [
+        "A não maleficência impede qualquer intervenção que possa causar desconforto ao paciente",
+        "A aplicação dos princípios bioéticos exige análise contextualizada, considerando riscos, benefícios, vulnerabilidade social e impacto coletivo",
+        "A justiça implica tratar todos os pacientes de forma idêntica, independentemente de suas condições sociais",
+        "A beneficência deve sempre prevalecer sobre a autonomia, justificando qualquer intervenção considerada benéfica pelo profissional de saúde"
+      ],
+      "correct_answer": "A aplicação dos princípios bioéticos exige análise contextualizada, considerando riscos, benefícios, vulnerabilidade social e impacto coletivo",
+      "explanation": null,
+      "reference": null
     },
     {
-      "case_title": "CASO 3 - IMIGRANTE",
-      "case_context": "Em uma unidade de pronto atendimento, um homem refugiado chamado Yves, proveniente do Congo, recentemente chegado ao Brasil, procura atendimento com quadro de dor abdominal intensa. Durante a admissão, relata histórico de tortura no país de origem e demonstra sinais de sofrimento psíquico importante. A equipe identifica dificuldades de comunicação, ausência de documentos formais e desconhecimento do funcionamento do sistema de saúde. Durante a discussão clínica, surgem dúvidas sobre limites éticos, acolhimento, autonomia e responsabilidade institucional.",
-      "case_points": "230/260",
-      "questions": [
-        {
-          "id": 9,
-          "type": "multiple_choice",
-          "question": "Durante a admissão hospitalar, a equipe questiona a necessidade de registro da condição de refugiado e de informações sensíveis no prontuário. Considerando aspectos legais e éticos, assinale a alternativa mais adequada.",
-          "options": [
-            "Informações sobre a condição migratória devem ser registradas de forma detalhada, independentemente de sua relevância clínica, para garantir rastreabilidade institucional",
-            "Informações sensíveis devem ser registradas e compartilhadas entre setores administrativos para facilitar a gestão do caso",
-            "A ausência de documentação formal impede o registro adequado em prontuário, devendo o atendimento ser limitado até regularização",
-            "O registro deve priorizar informações clinicamente relevantes, evitando exposição desnecessária de dados sensíveis que possam gerar estigmatização ou risco ao paciente"
-          ],
-          "correct_answer": "O registro deve priorizar informações clinicamente relevantes, evitando exposição desnecessária de dados sensíveis que possam gerar estigmatização ou risco ao paciente",
-          "student_score": "60/60",
-          "explanation": "Princípio da necessidade e proporcionalidade no registro de dados.",
-          "reference": "https://www.refugiobrasil.org/sa%C3%BAde"
-        },
-        {
-          "id": 10,
-          "type": "multiple_choice",
-          "question": "Ao discutir a continuidade do cuidado, a equipe identifica que o paciente apresenta dificuldades de compreensão sobre o funcionamento do sistema de saúde brasileiro. Considerando aspectos atitudinais e organizacionais, assinale a alternativa mais adequada.",
-          "options": [
-            "A responsabilidade pela compreensão do sistema deve ser atribuída ao paciente, uma vez que o serviço de saúde não dispõe de recursos para educação individualizada",
-            "A orientação deve ser adaptada ao contexto do paciente, incluindo explicações acessíveis sobre o funcionamento do sistema, direitos e fluxos de cuidado",
-            "A continuidade do cuidado deve ser condicionada à capacidade do paciente de compreender integralmente as orientações fornecidas",
-            "A equipe deve fornecer orientações básicas padronizadas, independentemente das especificidades culturais ou do nível de compreensão do paciente"
-          ],
-          "correct_answer": "A orientação deve ser adaptada ao contexto do paciente, incluindo explicações acessíveis sobre o funcionamento do sistema, direitos e fluxos de cuidado",
-          "student_score": "60/60",
-          "explanation": "Educação em saúde + competência cultural.",
-          "reference": "https://www.refugiobrasil.org/sa%C3%BAde"
-        },
-        {
-          "id": 11,
-          "type": "multiple_choice",
-          "question": "Considerando o contexto apresentado, que envolve histórico de violência, sofrimento psíquico e barreiras de acesso, analise o papel do profissional de saúde frente à condição de refugiado e assinale a alternativa que melhor expressa uma conduta alinhada aos direitos humanos e à ética médica.",
-          "options": [
-            "A investigação de experiências traumáticas deve ser evitada, pois pode comprometer a objetividade clínica e gerar desconforto desnecessário",
-            "A atenção deve integrar dimensões físicas e psicossociais, reconhecendo o impacto de traumas prévios e adotando postura acolhedora, evitando revitimização e promovendo cuidado integral",
-            "O reconhecimento do contexto de violência deve ser considerado, porém sua abordagem deve ser condicionada à disponibilidade de serviços especializados, não sendo responsabilidade direta do atendimento inicial",
-            "A abordagem clínica deve priorizar exclusivamente a queixa orgânica apresentada, evitando aprofundamento em aspectos subjetivos que possam extrapolar a competência técnica do profissional"
-          ],
-          "correct_answer": "A atenção deve integrar dimensões físicas e psicossociais, reconhecendo o impacto de traumas prévios e adotando postura acolhedora, evitando revitimização e promovendo cuidado integral",
-          "student_score": "60/60",
-          "explanation": null,
-          "reference": "https://www.refugiobrasil.org/sa%C3%BAde"
-        },
-        {
-          "id": 12,
-          "type": "free_response",
-          "question": "Analise os desafios relacionados ao atendimento de pessoas refugiadas com histórico de violência e sofrimento psíquico no sistema de saúde. Escreva como os princípios éticos, os direitos humanos e as competências atitudinais do profissional de saúde devem orientar a prática clínica, considerando o risco de revitimização e as barreiras de acesso.",
-          "student_answer": "A orientação deve ser feita com acolhimento e escuta, uma vez que o profissional deve perguntar se ele tem algum amigo, alguém que possa acompanhá-lo nesse atendimento para ajudá-lo na melhor compreensão ou fazer uso de tradutor, para ajudar na comunicação atendendo o paciente com universalidade sem discriminação e promovendo o cuidado integral para ajudá-lo também na adesão ao tratamento.",
-          "student_score": "50/80",
-          "expected_answer_summary": "O atendimento a refugiados com histórico de violência exige abordagem sensível, integrada e baseada em direitos humanos. O profissional deve reconhecer o impacto do trauma, evitando práticas que possam revitimizar o paciente, como exposição desnecessária ou comunicação inadequada. Os princípios bioéticos orientam essa prática: a autonomia deve ser respeitada, a beneficência e a não maleficência guiam a abordagem clínica, e a justiça exige atenção às vulnerabilidades. A competência cultural e a comunicação adaptada são fundamentais para garantir adesão e compreensão.",
-          "reference": null
-        }
-      ]
+      "id": 3,
+      "type": "multiple_choice",
+      "case_context": "CASO 1 - DIREITOS HUMANOS: Durante um estágio em saúde coletiva, um grupo de estudantes de medicina acompanha o atendimento em uma unidade pública de saúde e se depara com uma situação complexa: um paciente em situação de rua, com diagnóstico de tuberculose ativa, recusa-se a seguir o tratamento proposto. A equipe discute a possibilidade de intervenção mais coercitiva, considerando o risco de transmissão para a comunidade. Paralelamente, durante a discussão, um professor relembra que, ao longo da história, políticas de saúde pública já adotaram medidas autoritárias, como isolamento compulsório e exclusão social, muitas vezes em conflito com os direitos individuais. A equipe passa então a refletir sobre os limites entre proteção coletiva e respeito à autonomia individual.",
+      "question": "Ao refletir sobre práticas históricas como o isolamento compulsório de indivíduos com tuberculose ativa no Brasil, a equipe reconhece a necessidade de análise crítica dessas políticas. Considerando esse contexto, assinale a alternativa que melhor expressa a relação entre história, ética e direitos humanos na saúde.",
+      "options": [
+        "As políticas sanitárias históricas não têm relevância para a prática contemporânea",
+        "A análise histórica revela que políticas de saúde podem violar direitos humanos quando desconsideram dignidade, autonomia e inclusão social",
+        "Medidas como o isolamento compulsório foram eticamente adequadas, pois priorizavam o controle da doença independentemente de seus impactos sociais",
+        "As práticas históricas devem ser analisadas exclusivamente com base no conhecimento científico disponível à época, sem considerar implicações éticas"
+      ],
+      "correct_answer": "A análise histórica revela que políticas de saúde podem violar direitos humanos quando desconsideram dignidade, autonomia e inclusão social",
+      "explanation": null,
+      "reference": null
     },
     {
-      "case_title": "CASO 4 - MULHER E GÊNERO",
-      "case_context": "Paciente feminina, negra, 34 anos, comparece à Unidade Básica de Saúde com queixa de \"dor no corpo\" há cerca de 2 meses, associada a cefaleia frequente, insônia e episódios de ansiedade. Relata cansaço constante e dificuldade de concentração. Nega doenças crônicas conhecidas. Durante a consulta, apresenta-se retraída, evita contato visual e responde de forma monossilábica. Ao exame físico, observam-se equimoses em região de braços e dor à palpação em região costal, sem sinais de fratura evidente. Questionada inicialmente sobre traumas, nega causas específicas, referindo apenas \"andar muito cansada\". Ao aprofundar a anamnese em ambiente privativo (sem o acompanhante que estava na recepção), a paciente relata, com hesitação, que seu parceiro tem se tornado agressivo nos últimos meses, com episódios de violência física e psicológica. Refere medo de retornar para casa e preocupação com seus dois filhos pequenos, que presenciam as discussões. Diz depender financeiramente do parceiro e não ter familiares próximos na cidade. Nega uso de álcool ou drogas. Não faz acompanhamento psicológico. Nunca procurou serviços de apoio anteriormente. Demonstra ambivalência quanto a denunciar o parceiro.",
-      "case_points": "130/220",
-      "questions": [
-        {
-          "id": 13,
-          "type": "multiple_choice",
-          "question": "Considerando a organização das políticas públicas de atenção à saúde da mulher e a rede de enfrentamento à violência no Brasil, especialmente a atuação da Casa da Mulher Brasileira, assinale a alternativa correta:",
-          "options": [
-            "A Casa da Mulher Brasileira é um serviço exclusivo para atendimento policial, sendo necessário encaminhamento prévio por autoridade judicial para acesso.",
-            "A atuação da equipe da Atenção Básica deve se restringir ao tratamento das queixas físicas, sendo o manejo da violência de responsabilidade exclusiva da rede de segurança pública.",
-            "O encaminhamento para a Casa da Mulher Brasileira só deve ocorrer após confirmação de lesão corporal grave e formalização de denúncia pela vítima.",
-            "A Casa da Mulher Brasileira integra, em um mesmo espaço, serviços especializados como acolhimento psicossocial, apoio jurídico, delegacia, Ministério Público e orientação para autonomia econômica da mulher."
-          ],
-          "correct_answer": "A Casa da Mulher Brasileira integra, em um mesmo espaço, serviços especializados como acolhimento psicossocial, apoio jurídico, delegacia, Ministério Público e orientação para autonomia econômica da mulher.",
-          "student_score": "50/50",
-          "explanation": null,
-          "reference": "https://prefeitura.sp.gov.br/web/direitos_humanos/w/mulheres/equipamentos/288423"
-        },
-        {
-          "id": 14,
-          "type": "multiple_choice",
-          "question": "Diante da suspeita de violência, a conduta mais adequada na condução da consulta que você está realizando acima é:",
-          "options": [
-            "Realizar a notificação compulsória imediata, uma vez que ela já é a denúncia formal.",
-            "Garantir ambiente privativo, escuta qualificada e construção de vínculo com a paciente",
-            "Questionar diretamente na presença do acompanhante para acareação da situação.",
-            "Encaminhar imediatamente para a polícia já que \"em briga de marido e mulher deve-se meter a colher\""
-          ],
-          "correct_answer": "Garantir ambiente privativo, escuta qualificada e construção de vínculo com a paciente",
-          "student_score": "0/60",
-          "explanation": null,
-          "reference": null
-        },
-        {
-          "id": 15,
-          "type": "multiple_choice",
-          "question": "No caso acima qual o papel da Atenção Primária?",
-          "options": [
-            "Atuar de forma pontual",
-            "Encaminhar o caso",
-            "Coordenar cuidado longitudinal e integral",
-            "Focar no sintoma físico"
-          ],
-          "correct_answer": "Coordenar cuidado longitudinal e integral",
-          "student_score": "50/50",
-          "explanation": "Sempre manter os princípios da APS como coordenar cuidado longitudinal e integral para que a paciente possa receber um atendimento acolhedor e com escuta qualificada.",
-          "reference": "https://www.gov.br/saude/pt-br/composicao/saps"
-        },
-        {
-          "id": 16,
-          "type": "free_response",
-          "question": "Quais são as barreiras encontradas pela paciente baseadas no racismo institucional que impedem sua denúncia e o acolhimento na rede de saúde?",
-          "student_answer": "A vulnerabilidade dela em ser dependente financeiramente do marido é uma delas, mas, baseada no racismo vem a questão. Ela não querer trabalhar. Uma vez que oportunidade de emprego é mais difícil. As vezes o impedimento de sair de casa por que lugar de mulher é dentro de casa fazendo faxina e cozinhando... dentre outras.",
-          "student_score": "30/60",
-          "expected_answer_summary": "Devem mencionar o estereótipo da 'mulher negra forte' (que suporta mais dor/sofrimento), a desconfiança histórica nas instituições policiais e de justiça, e o menor tempo de consulta dedicado a mulheres negras. A notificação com recorte racial é essencial para dar visibilidade às iniquidades e direcionar recursos para áreas de maior vulnerabilidade.",
-          "reference": null
-        }
-      ]
+      "id": 4,
+      "type": "free_response",
+      "case_context": "CASO 1 - DIREITOS HUMANOS: Durante um estágio em saúde coletiva, um grupo de estudantes de medicina acompanha o atendimento em uma unidade pública de saúde e se depara com uma situação complexa: um paciente em situação de rua, com diagnóstico de tuberculose ativa, recusa-se a seguir o tratamento proposto. A equipe discute a possibilidade de intervenção mais coercitiva, considerando o risco de transmissão para a comunidade. Paralelamente, durante a discussão, um professor relembra que, ao longo da história, políticas de saúde pública já adotaram medidas autoritárias, como isolamento compulsório e exclusão social, muitas vezes em conflito com os direitos individuais. A equipe passa então a refletir sobre os limites entre proteção coletiva e respeito à autonomia individual.",
+      "question": "A partir do caso apresentado, discuta os conflitos entre autonomia individual, proteção coletiva e direitos humanos na prática em saúde pública. Em sua resposta, analise como a história das políticas de saúde contribui para a construção de uma abordagem ética contemporânea e quais são os limites das intervenções do Estado frente à liberdade individual.",
+      "correct_answer": "A prática em saúde pública envolve tensões entre autonomia individual e proteção coletiva, especialmente em doenças transmissíveis. A abordagem ética contemporânea busca equilíbrio, usando proporcionalidade, necessidade e respeito à dignidade (princípios bioéticos e de direitos humanos). O Estado deve intervir apenas quando necessário, de forma justificada, baseada em evidências e com o menor grau de restrição possível, considerando também a vulnerabilidade social do indivíduo.",
+      "explanation": "Historicamente, políticas sanitárias adotaram medidas autoritárias, como isolamento compulsório, que resultaram em violações de direitos. A análise crítica dessas práticas contribui para o desenvolvimento de modelos mais éticos e inclusivos, que promovem cuidado integral e não apenas controle sanitário.",
+      "reference": null
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "case_context": "CASO 2 - MULHER E CRIANÇA: Mulher de 19 anos, comparece à Unidade Básica de Saúde (UBS) acompanhada de uma vizinha, relatando atraso menstrual há cerca de 10 semanas, associado a náuseas, vômitos matinais e fadiga. Durante a consulta, apresenta-se visivelmente ansiosa, agitada e não realiza contato visual com a equipe. Após um tempo e se sentindo mais segura, a paciente revela que foi violentada sexualmente por um tio há aproximadamente 3 meses. Refere não ter procurado atendimento de saúde ou policial na ocasião por medo de sofrer represália da família e de não acreditarem nela. Nega uso de contracepção no momento do ocorrido. O teste rápido de gravidez realizado na UBS confirma gestação. A paciente demonstra incertezas em relação à gestação, referindo uma grande angústia com episódios de insônia, choro frequente e dificuldade de aceitação da gravidez. Durante o atendimento, a equipe identifica ausência de rede de apoio estruturada, vulnerabilidade social e sinais de sofrimento psíquico. A equipe da UBS inicia acolhimento, oferece escuta qualificada, orienta sobre seus direitos e realiza encaminhamento para serviços especializados da rede de atenção, incluindo acompanhamento psicológico e social, além de iniciar o pré-natal. Ao longo do acompanhamento, a paciente opta por manter a gestação. O pré-natal é classificado como de risco habitual, porém com necessidade de atenção ampliada devido ao contexto psicossocial. A equipe multiprofissional realiza acompanhamento contínuo. O parto ocorre em maternidade de referência do SUS, sem intercorrências clínicas. O recém-nascido é do sexo masculino, a termo, com bom peso ao nascer e Apgar adequado. No puerpério, observa-se dificuldade inicial de vínculo materno, além de sinais de tristeza persistente na mãe. A equipe de saúde mantém seguimento conjunto mãe-bebê, com foco no fortalecimento do vínculo, promoção do aleitamento materno e vigilância do crescimento e desenvolvimento infantil.",
+      "question": "Sobre a Política Nacional de Atenção Integral à Saúde da Criança, assinale a alternativa correta quanto à definição de criança e primeira infância:",
+      "options": [
+        "Criança é a pessoa de 0 a 12 anos incompletos, sendo a primeira infância o período de 0 a 6 anos completos.",
+        "Criança é a pessoa de 0 a 9 anos, sendo a primeira infância o período de 0 a 5 anos completos.",
+        "Criança é a pessoa de 0 a 10 anos incompletos, sendo a primeira infância o período de 0 a 3 anos completos.",
+        "Criança é a pessoa de 0 a 9 anos, sendo a primeira infância o período de 0 a 9 anos completos."
+      ],
+      "correct_answer": "Criança é a pessoa de 0 a 9 anos, sendo a primeira infância o período de 0 a 5 anos completos.",
+      "explanation": "Art. 3º Para fins da PNAISC, considera-se: I - criança: pessoa na faixa etária de 0 a 9 anos, ou seja, de 0 a 120 meses; e II - primeira infância: pessoa na faixa etária de 0 a 5 anos, ou seja, de 0 a 72 meses.",
+      "reference": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2015/prt1130_05_08_2015.html"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "case_context": "CASO 2 - MULHER E CRIANÇA: Mulher de 19 anos, comparece à Unidade Básica de Saúde (UBS) acompanhada de uma vizinha, relatando atraso menstrual há cerca de 10 semanas, associado a náuseas, vômitos matinais e fadiga. Durante a consulta, apresenta-se visivelmente ansiosa, agitada e não realiza contato visual com a equipe. Após um tempo e se sentindo mais segura, a paciente revela que foi violentada sexualmente por um tio há aproximadamente 3 meses. Refere não ter procurado atendimento de saúde ou policial na ocasião por medo de sofrer represália da família e de não acreditarem nela. Nega uso de contracepção no momento do ocorrido. O teste rápido de gravidez realizado na UBS confirma gestação. A paciente demonstra incertezas em relação à gestação, referindo uma grande angústia com episódios de insônia, choro frequente e dificuldade de aceitação da gravidez. Durante o atendimento, a equipe identifica ausência de rede de apoio estruturada, vulnerabilidade social e sinais de sofrimento psíquico. A equipe da UBS inicia acolhimento, oferece escuta qualificada, orienta sobre seus direitos e realiza encaminhamento para serviços especializados da rede de atenção, incluindo acompanhamento psicológico e social, além de iniciar o pré-natal. Ao longo do acompanhamento, a paciente opta por manter a gestação. O pré-natal é classificado como de risco habitual, porém com necessidade de atenção ampliada devido ao contexto psicossocial. A equipe multiprofissional realiza acompanhamento contínuo. O parto ocorre em maternidade de referência do SUS, sem intercorrências clínicas. O recém-nascido é do sexo masculino, a termo, com bom peso ao nascer e Apgar adequado. No puerpério, observa-se dificuldade inicial de vínculo materno, além de sinais de tristeza persistente na mãe. A equipe de saúde mantém seguimento conjunto mãe-bebê, com foco no fortalecimento do vínculo, promoção do aleitamento materno e vigilância do crescimento e desenvolvimento infantil.",
+      "question": "A mortalidade infantil na primeira infância ainda representa um importante desafio em saúde pública no Brasil, apesar da redução progressiva nas últimas décadas. Dados recentes mostram taxas em torno de 12,3 óbitos por mil nascidos vivos, evidenciando avanços, porém com persistência de causas evitáveis, especialmente associadas a vulnerabilidades sociais e falhas na assistência pré-natal e ao recém-nascido. Considerando o caso clínico apresentado (gestação decorrente de violência, sofrimento psíquico materno e dificuldade de vínculo), e as diretrizes da Política Nacional de Atenção Integral à Saúde da Criança, assinale a alternativa que representa a estratégia mais efetiva para redução da mortalidade infantil nesse contexto:",
+      "options": [
+        "Realizar acompanhamento da criança apenas após o primeiro ano de vida, quando os riscos de mortalidade são menores.",
+        "Priorizar o atendimento hospitalar apenas em situações de intercorrência clínica aguda no recém-nascido.",
+        "Garantir acompanhamento integral desde o pré-natal, com atenção ao contexto psicossocial, promoção do vínculo, apoio ao aleitamento materno e vigilância do crescimento e desenvolvimento.",
+        "Focar exclusivamente em intervenções tecnológicas de alta complexidade no período neonatal."
+      ],
+      "correct_answer": "Garantir acompanhamento integral desde o pré-natal, com atenção ao contexto psicossocial, promoção do vínculo, apoio ao aleitamento materno e vigilância do crescimento e desenvolvimento.",
+      "explanation": null,
+      "reference": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/pnaisc"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "case_context": "CASO 2 - MULHER E CRIANÇA: Mulher de 19 anos, comparece à Unidade Básica de Saúde (UBS) acompanhada de uma vizinha, relatando atraso menstrual há cerca de 10 semanas, associado a náuseas, vômitos matinais e fadiga. Durante a consulta, apresenta-se visivelmente ansiosa, agitada e não realiza contato visual com a equipe. Após um tempo e se sentindo mais segura, a paciente revela que foi violentada sexualmente por um tio há aproximadamente 3 meses. Refere não ter procurado atendimento de saúde ou policial na ocasião por medo de sofrer represália da família e de não acreditarem nela. Nega uso de contracepção no momento do ocorrido. O teste rápido de gravidez realizado na UBS confirma gestação. A paciente demonstra incertezas em relação à gestação, referindo uma grande angústia com episódios de insônia, choro frequente e dificuldade de aceitação da gravidez. Durante o atendimento, a equipe identifica ausência de rede de apoio estruturada, vulnerabilidade social e sinais de sofrimento psíquico. A equipe da UBS inicia acolhimento, oferece escuta qualificada, orienta sobre seus direitos e realiza encaminhamento para serviços especializados da rede de atenção, incluindo acompanhamento psicológico e social, além de iniciar o pré-natal. Ao longo do acompanhamento, a paciente opta por manter a gestação. O pré-natal é classificado como de risco habitual, porém com necessidade de atenção ampliada devido ao contexto psicossocial. A equipe multiprofissional realiza acompanhamento contínuo. O parto ocorre em maternidade de referência do SUS, sem intercorrências clínicas. O recém-nascido é do sexo masculino, a termo, com bom peso ao nascer e Apgar adequado. No puerpério, observa-se dificuldade inicial de vínculo materno, além de sinais de tristeza persistente na mãe. A equipe de saúde mantém seguimento conjunto mãe-bebê, com foco no fortalecimento do vínculo, promoção do aleitamento materno e vigilância do crescimento e desenvolvimento infantil.",
+      "question": "No caso descrito, e de acordo com a Política Nacional de Atenção Integral à Saúde da Mulher – PNAISM, o encaminhamento para a Rede Alyne de assistência seria indicado?",
+      "options": [
+        "Sim. A Rede Alyne tem como foco exclusivo a assistência ao parto hospitalar, não abrangendo o pré-natal ou o puerpério.",
+        "Não. A Rede Alyne substitui integralmente a Atenção Primária, centralizando o cuidado apenas em maternidades de alta complexidade.",
+        "Sim. A Rede Alyne organiza a atenção de forma integrada, garantindo acesso ao pré-natal qualificado, parto seguro, puerpério e cuidado à criança, com articulação entre os diferentes níveis de atenção.",
+        "Não. A Rede Alyne é voltada apenas para gestantes de alto risco, não contemplando casos de risco habitual."
+      ],
+      "correct_answer": "Sim. A Rede Alyne organiza a atenção de forma integrada, garantindo acesso ao pré-natal qualificado, parto seguro, puerpério e cuidado à criança, com articulação entre os diferentes níveis de atenção.",
+      "explanation": null,
+      "reference": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2024/prt5350_13_09_2024.html"
+    },
+    {
+      "id": 8,
+      "type": "free_response",
+      "case_context": "CASO 2 - MULHER E CRIANÇA: Mulher de 19 anos, comparece à Unidade Básica de Saúde (UBS) acompanhada de uma vizinha, relatando atraso menstrual há cerca de 10 semanas, associado a náuseas, vômitos matinais e fadiga. Durante a consulta, apresenta-se visivelmente ansiosa, agitada e não realiza contato visual com a equipe. Após um tempo e se sentindo mais segura, a paciente revela que foi violentada sexualmente por um tio há aproximadamente 3 meses. Refere não ter procurado atendimento de saúde ou policial na ocasião por medo de sofrer represália da família e de não acreditarem nela. Nega uso de contracepção no momento do ocorrido. O teste rápido de gravidez realizado na UBS confirma gestação. A paciente demonstra incertezas em relação à gestação, referindo uma grande angústia com episódios de insônia, choro frequente e dificuldade de aceitação da gravidez. Durante o atendimento, a equipe identifica ausência de rede de apoio estruturada, vulnerabilidade social e sinais de sofrimento psíquico. A equipe da UBS inicia acolhimento, oferece escuta qualificada, orienta sobre seus direitos e realiza encaminhamento para serviços especializados da rede de atenção, incluindo acompanhamento psicológico e social, além de iniciar o pré-natal. Ao longo do acompanhamento, a paciente opta por manter a gestação. O pré-natal é classificado como de risco habitual, porém com necessidade de atenção ampliada devido ao contexto psicossocial. A equipe multiprofissional realiza acompanhamento contínuo. O parto ocorre em maternidade de referência do SUS, sem intercorrências clínicas. O recém-nascido é do sexo masculino, a termo, com bom peso ao nascer e Apgar adequado. No puerpério, observa-se dificuldade inicial de vínculo materno, além de sinais de tristeza persistente na mãe. A equipe de saúde mantém seguimento conjunto mãe-bebê, com foco no fortalecimento do vínculo, promoção do aleitamento materno e vigilância do crescimento e desenvolvimento infantil.",
+      "question": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança, cite ao menos dois eixos estratégicos.",
+      "correct_answer": "Quaisquer dois dos sete eixos estratégicos da PNAISC: I. Atenção humanizada e qualificada à gestação, ao parto, ao nascimento e ao recém-nascido; II. Aleitamento materno e alimentação complementar saudável; III. Promoção e acompanhamento do crescimento e do desenvolvimento integral; IV. Atenção integral a crianças com agravos prevalentes na infância e com doenças crônicas; V. Atenção integral a crianças em situação de violências, prevenção de acidentes e promoção da cultura de paz; VI. Atenção à saúde de crianças com deficiência ou em situações específicas e de vulnerabilidade; VII. Vigilância e prevenção do óbito infantil, fetal e materno.",
+      "explanation": "Padrão de correção: 0% → não responde ou resposta incorreta; 50% → define corretamente apenas um eixo; 100% → define corretamente dois eixos.",
+      "reference": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/pnaisc"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "case_context": "CASO 3 - IMIGRANTE: Em uma unidade de pronto atendimento, um homem refugiado chamado Yves, proveniente do Congo, recentemente chegado ao Brasil, procura atendimento com quadro de dor abdominal intensa. Durante a admissão, relata histórico de tortura no país de origem e demonstra sinais de sofrimento psíquico importante. A equipe identifica dificuldades de comunicação, ausência de documentos formais e desconhecimento do funcionamento do sistema de saúde. Durante a discussão clínica, surgem dúvidas sobre limites éticos, acolhimento, autonomia e responsabilidade institucional.",
+      "question": "Durante a admissão hospitalar, a equipe questiona a necessidade de registro da condição de refugiado e de informações sensíveis no prontuário. Considerando aspectos legais e éticos, assinale a alternativa mais adequada.",
+      "options": [
+        "Informações sobre a condição migratória devem ser registradas de forma detalhada, independentemente de sua relevância clínica, para garantir rastreabilidade institucional",
+        "Informações sensíveis devem ser registradas e compartilhadas entre setores administrativos para facilitar a gestão do caso",
+        "A ausência de documentação formal impede o registro adequado em prontuário, devendo o atendimento ser limitado até regularização",
+        "O registro deve priorizar informações clinicamente relevantes, evitando exposição desnecessária de dados sensíveis que possam gerar estigmatização ou risco ao paciente"
+      ],
+      "correct_answer": "O registro deve priorizar informações clinicamente relevantes, evitando exposição desnecessária de dados sensíveis que possam gerar estigmatização ou risco ao paciente",
+      "explanation": "Princípio da necessidade e proporcionalidade no registro de dados.",
+      "reference": "https://www.refugiobrasil.org/sa%C3%BAde"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "case_context": "CASO 3 - IMIGRANTE: Em uma unidade de pronto atendimento, um homem refugiado chamado Yves, proveniente do Congo, recentemente chegado ao Brasil, procura atendimento com quadro de dor abdominal intensa. Durante a admissão, relata histórico de tortura no país de origem e demonstra sinais de sofrimento psíquico importante. A equipe identifica dificuldades de comunicação, ausência de documentos formais e desconhecimento do funcionamento do sistema de saúde. Durante a discussão clínica, surgem dúvidas sobre limites éticos, acolhimento, autonomia e responsabilidade institucional.",
+      "question": "Ao discutir a continuidade do cuidado, a equipe identifica que o paciente apresenta dificuldades de compreensão sobre o funcionamento do sistema de saúde brasileiro. Considerando aspectos atitudinais e organizacionais, assinale a alternativa mais adequada.",
+      "options": [
+        "A responsabilidade pela compreensão do sistema deve ser atribuída ao paciente, uma vez que o serviço de saúde não dispõe de recursos para educação individualizada",
+        "A orientação deve ser adaptada ao contexto do paciente, incluindo explicações acessíveis sobre o funcionamento do sistema, direitos e fluxos de cuidado",
+        "A continuidade do cuidado deve ser condicionada à capacidade do paciente de compreender integralmente as orientações fornecidas",
+        "A equipe deve fornecer orientações básicas padronizadas, independentemente das especificidades culturais ou do nível de compreensão do paciente"
+      ],
+      "correct_answer": "A orientação deve ser adaptada ao contexto do paciente, incluindo explicações acessíveis sobre o funcionamento do sistema, direitos e fluxos de cuidado",
+      "explanation": "Educação em saúde + competência cultural.",
+      "reference": "https://www.refugiobrasil.org/sa%C3%BAde"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "case_context": "CASO 3 - IMIGRANTE: Em uma unidade de pronto atendimento, um homem refugiado chamado Yves, proveniente do Congo, recentemente chegado ao Brasil, procura atendimento com quadro de dor abdominal intensa. Durante a admissão, relata histórico de tortura no país de origem e demonstra sinais de sofrimento psíquico importante. A equipe identifica dificuldades de comunicação, ausência de documentos formais e desconhecimento do funcionamento do sistema de saúde. Durante a discussão clínica, surgem dúvidas sobre limites éticos, acolhimento, autonomia e responsabilidade institucional.",
+      "question": "Considerando o contexto apresentado, que envolve histórico de violência, sofrimento psíquico e barreiras de acesso, analise o papel do profissional de saúde frente à condição de refugiado e assinale a alternativa que melhor expressa uma conduta alinhada aos direitos humanos e à ética médica.",
+      "options": [
+        "A investigação de experiências traumáticas deve ser evitada, pois pode comprometer a objetividade clínica e gerar desconforto desnecessário",
+        "A atenção deve integrar dimensões físicas e psicossociais, reconhecendo o impacto de traumas prévios e adotando postura acolhedora, evitando revitimização e promovendo cuidado integral",
+        "O reconhecimento do contexto de violência deve ser considerado, porém sua abordagem deve ser condicionada à disponibilidade de serviços especializados, não sendo responsabilidade direta do atendimento inicial",
+        "A abordagem clínica deve priorizar exclusivamente a queixa orgânica apresentada, evitando aprofundamento em aspectos subjetivos que possam extrapolar a competência técnica do profissional"
+      ],
+      "correct_answer": "A atenção deve integrar dimensões físicas e psicossociais, reconhecendo o impacto de traumas prévios e adotando postura acolhedora, evitando revitimização e promovendo cuidado integral",
+      "explanation": null,
+      "reference": "https://www.refugiobrasil.org/sa%C3%BAde"
+    },
+    {
+      "id": 12,
+      "type": "free_response",
+      "case_context": "CASO 3 - IMIGRANTE: Em uma unidade de pronto atendimento, um homem refugiado chamado Yves, proveniente do Congo, recentemente chegado ao Brasil, procura atendimento com quadro de dor abdominal intensa. Durante a admissão, relata histórico de tortura no país de origem e demonstra sinais de sofrimento psíquico importante. A equipe identifica dificuldades de comunicação, ausência de documentos formais e desconhecimento do funcionamento do sistema de saúde. Durante a discussão clínica, surgem dúvidas sobre limites éticos, acolhimento, autonomia e responsabilidade institucional.",
+      "question": "Analise os desafios relacionados ao atendimento de pessoas refugiadas com histórico de violência e sofrimento psíquico no sistema de saúde. Escreva como os princípios éticos, os direitos humanos e as competências atitudinais do profissional de saúde devem orientar a prática clínica, considerando o risco de revitimização e as barreiras de acesso.",
+      "correct_answer": "O atendimento a refugiados com histórico de violência exige abordagem sensível, integrada e baseada em direitos humanos, reconhecendo o impacto do trauma e evitando práticas que possam revitimizar o paciente, como exposição desnecessária ou comunicação inadequada.",
+      "explanation": "Os princípios bioéticos orientam essa prática: a autonomia deve ser respeitada, a beneficência e a não maleficência guiam a abordagem clínica, e a justiça exige atenção às vulnerabilidades. A competência cultural e a comunicação adaptada (uso de tradutor, acompanhante de confiança) são fundamentais para garantir adesão e compreensão.",
+      "reference": null
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "case_context": "CASO 4 - MULHER E GÊNERO: Paciente feminina, negra, 34 anos, comparece à Unidade Básica de Saúde com queixa de \"dor no corpo\" há cerca de 2 meses, associada a cefaleia frequente, insônia e episódios de ansiedade. Relata cansaço constante e dificuldade de concentração. Nega doenças crônicas conhecidas. Durante a consulta, apresenta-se retraída, evita contato visual e responde de forma monossilábica. Ao exame físico, observam-se equimoses em região de braços e dor à palpação em região costal, sem sinais de fratura evidente. Questionada inicialmente sobre traumas, nega causas específicas, referindo apenas \"andar muito cansada\". Ao aprofundar a anamnese em ambiente privativo (sem o acompanhante que estava na recepção), a paciente relata, com hesitação, que seu parceiro tem se tornado agressivo nos últimos meses, com episódios de violência física e psicológica. Refere medo de retornar para casa e preocupação com seus dois filhos pequenos, que presenciam as discussões. Diz depender financeiramente do parceiro e não ter familiares próximos na cidade. Nega uso de álcool ou drogas. Não faz acompanhamento psicológico. Nunca procurou serviços de apoio anteriormente. Demonstra ambivalência quanto a denunciar o parceiro.",
+      "question": "Considerando a organização das políticas públicas de atenção à saúde da mulher e a rede de enfrentamento à violência no Brasil, especialmente a atuação da Casa da Mulher Brasileira, assinale a alternativa correta:",
+      "options": [
+        "A Casa da Mulher Brasileira é um serviço exclusivo para atendimento policial, sendo necessário encaminhamento prévio por autoridade judicial para acesso.",
+        "A atuação da equipe da Atenção Básica deve se restringir ao tratamento das queixas físicas, sendo o manejo da violência de responsabilidade exclusiva da rede de segurança pública.",
+        "O encaminhamento para a Casa da Mulher Brasileira só deve ocorrer após confirmação de lesão corporal grave e formalização de denúncia pela vítima.",
+        "A Casa da Mulher Brasileira integra, em um mesmo espaço, serviços especializados como acolhimento psicossocial, apoio jurídico, delegacia, Ministério Público e orientação para autonomia econômica da mulher."
+      ],
+      "correct_answer": "A Casa da Mulher Brasileira integra, em um mesmo espaço, serviços especializados como acolhimento psicossocial, apoio jurídico, delegacia, Ministério Público e orientação para autonomia econômica da mulher.",
+      "explanation": null,
+      "reference": "https://prefeitura.sp.gov.br/web/direitos_humanos/w/mulheres/equipamentos/288423"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "case_context": "CASO 4 - MULHER E GÊNERO: Paciente feminina, negra, 34 anos, comparece à Unidade Básica de Saúde com queixa de \"dor no corpo\" há cerca de 2 meses, associada a cefaleia frequente, insônia e episódios de ansiedade. Relata cansaço constante e dificuldade de concentração. Nega doenças crônicas conhecidas. Durante a consulta, apresenta-se retraída, evita contato visual e responde de forma monossilábica. Ao exame físico, observam-se equimoses em região de braços e dor à palpação em região costal, sem sinais de fratura evidente. Questionada inicialmente sobre traumas, nega causas específicas, referindo apenas \"andar muito cansada\". Ao aprofundar a anamnese em ambiente privativo (sem o acompanhante que estava na recepção), a paciente relata, com hesitação, que seu parceiro tem se tornado agressivo nos últimos meses, com episódios de violência física e psicológica. Refere medo de retornar para casa e preocupação com seus dois filhos pequenos, que presenciam as discussões. Diz depender financeiramente do parceiro e não ter familiares próximos na cidade. Nega uso de álcool ou drogas. Não faz acompanhamento psicológico. Nunca procurou serviços de apoio anteriormente. Demonstra ambivalência quanto a denunciar o parceiro.",
+      "question": "Diante da suspeita de violência, a conduta mais adequada na condução da consulta que você está realizando acima é:",
+      "options": [
+        "Realizar a notificação compulsória imediata, uma vez que ela já é a denúncia formal.",
+        "Garantir ambiente privativo, escuta qualificada e construção de vínculo com a paciente",
+        "Questionar diretamente na presença do acompanhante para acareação da situação.",
+        "Encaminhar imediatamente para a polícia já que \"em briga de marido e mulher deve-se meter a colher\""
+      ],
+      "correct_answer": "Garantir ambiente privativo, escuta qualificada e construção de vínculo com a paciente",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "case_context": "CASO 4 - MULHER E GÊNERO: Paciente feminina, negra, 34 anos, comparece à Unidade Básica de Saúde com queixa de \"dor no corpo\" há cerca de 2 meses, associada a cefaleia frequente, insônia e episódios de ansiedade. Relata cansaço constante e dificuldade de concentração. Nega doenças crônicas conhecidas. Durante a consulta, apresenta-se retraída, evita contato visual e responde de forma monossilábica. Ao exame físico, observam-se equimoses em região de braços e dor à palpação em região costal, sem sinais de fratura evidente. Questionada inicialmente sobre traumas, nega causas específicas, referindo apenas \"andar muito cansada\". Ao aprofundar a anamnese em ambiente privativo (sem o acompanhante que estava na recepção), a paciente relata, com hesitação, que seu parceiro tem se tornado agressivo nos últimos meses, com episódios de violência física e psicológica. Refere medo de retornar para casa e preocupação com seus dois filhos pequenos, que presenciam as discussões. Diz depender financeiramente do parceiro e não ter familiares próximos na cidade. Nega uso de álcool ou drogas. Não faz acompanhamento psicológico. Nunca procurou serviços de apoio anteriormente. Demonstra ambivalência quanto a denunciar o parceiro.",
+      "question": "No caso acima qual o papel da Atenção Primária?",
+      "options": [
+        "Atuar de forma pontual",
+        "Encaminhar o caso",
+        "Coordenar cuidado longitudinal e integral",
+        "Focar no sintoma físico"
+      ],
+      "correct_answer": "Coordenar cuidado longitudinal e integral",
+      "explanation": "Sempre manter os princípios da APS como coordenar cuidado longitudinal e integral para que a paciente possa receber um atendimento acolhedor e com escuta qualificada.",
+      "reference": "https://www.gov.br/saude/pt-br/composicao/saps"
+    },
+    {
+      "id": 16,
+      "type": "free_response",
+      "case_context": "CASO 4 - MULHER E GÊNERO: Paciente feminina, negra, 34 anos, comparece à Unidade Básica de Saúde com queixa de \"dor no corpo\" há cerca de 2 meses, associada a cefaleia frequente, insônia e episódios de ansiedade. Relata cansaço constante e dificuldade de concentração. Nega doenças crônicas conhecidas. Durante a consulta, apresenta-se retraída, evita contato visual e responde de forma monossilábica. Ao exame físico, observam-se equimoses em região de braços e dor à palpação em região costal, sem sinais de fratura evidente. Questionada inicialmente sobre traumas, nega causas específicas, referindo apenas \"andar muito cansada\". Ao aprofundar a anamnese em ambiente privativo (sem o acompanhante que estava na recepção), a paciente relata, com hesitação, que seu parceiro tem se tornado agressivo nos últimos meses, com episódios de violência física e psicológica. Refere medo de retornar para casa e preocupação com seus dois filhos pequenos, que presenciam as discussões. Diz depender financeiramente do parceiro e não ter familiares próximos na cidade. Nega uso de álcool ou drogas. Não faz acompanhamento psicológico. Nunca procurou serviços de apoio anteriormente. Demonstra ambivalência quanto a denunciar o parceiro.",
+      "question": "Quais são as barreiras encontradas pela paciente baseadas no racismo institucional que impedem sua denúncia e o acolhimento na rede de saúde?",
+      "correct_answer": "O estereótipo da 'mulher negra forte' (que supostamente suporta mais dor/sofrimento), a desconfiança histórica nas instituições policiais e de justiça, e o menor tempo de consulta dedicado a mulheres negras.",
+      "explanation": "A notificação com recorte racial é essencial para dar visibilidade às iniquidades e direcionar recursos para áreas de maior vulnerabilidade.",
+      "reference": null
     }
-  ],
-  "student_identification": {
-    "nome_do_aluno": "Jéssica Patricia Souza Maia"
-  }
+  ]
 }
