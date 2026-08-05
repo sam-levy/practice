@@ -44,5 +44,10 @@ export const testManifest = [
     title: "PROVA P1 SCAPS 7 T9 A E B",
     file: () => import("./p1_scaps_7_t9_a_e_b.json"),
   },
+  {
+    id: "p2_scaps_7",
+    title: "PROVA P2 SCAPS 7.",
+    file: () => import("./p2_scaps_7.json"),
+  },
   // Add more tests here later, following the same shape
 ];

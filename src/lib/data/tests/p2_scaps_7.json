@@ -1,0 +1,189 @@
+{
+  "id": "p2_scaps_7",
+  "test_title": "PROVA P2 SCAPS 7.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "case_context": "CASO 1 - SAÚDE POP LGBTQIAPN+: A.P.S., 34 anos, e M.C.L., 38 anos, casal de mulheres cisgênero, em união estável há 6 anos. Comparecem à consulta de ginecologia em uma Unidade Básica de Saúde (UBS). História Clínica: M.C.L. (38 anos) possui diagnóstico de reserva ovariana reduzida (AMH 0,8 ng/mL) e deseja ser a gestante. A.P.S. (34 anos) tem ciclos regulares e deseja ser a fornecedora dos oócitos. O casal expressa o desejo de realizar a \"Gestação Compartilhada\". Elas solicitam orientações sobre o acesso a esse procedimento via SUS e as garantias de atendimento humanizado conforme a Política Nacional de Saúde LGBT.",
+      "question": "No atendimento a A. P. S. e M. C. L., o médico deve observar as diretrizes de equidade. De acordo com a Política Nacional de Saúde Integral LGBT, qual ação é prioritária para reduzir a vulnerabilidade institucional dessa população no acesso à reprodução assistida?",
+      "options": [
+        "A aplicação de protocolos de triagem socioeconômica específicos para casais homoafetivos, visando a otimização de recursos.",
+        "A garantia do acesso a ações e serviços de saúde de forma resolutiva, eliminando o preconceito e a discriminação por orientação sexual e identidade de gênero.",
+        "O encaminhamento compulsório para avaliação psiquiátrica visando a emissão de laudo de aptidão parental, conforme a Portaria 2.836/2011.",
+        "A oferta de tratamento apenas em serviços privados conveniados, dado que a reprodução assistida não faz parte das obrigações de universalidade do SUS para casais saudáveis."
+      ],
+      "correct_answer": "A garantia do acesso a ações e serviços de saúde de forma resolutiva, eliminando o preconceito e a discriminação por orientação sexual e identidade de gênero.",
+      "explanation": "A Portaria 2.836/2011 estabelece que o SUS deve eliminar preconceitos e discriminações no acesso à saúde, garantindo a universalidade e a resolutividade.",
+      "reference": "BRASIL. Ministério da Saúde. Política Nacional de Saúde Integral de Lésbicas, Gays, Bissexuais, Travestis e Transexuais. Secretaria de Gestão Estratégica e Participativa. Brasília: MS, 2011."
+    },
+    {
+      "id": 2,
+      "type": "free_response",
+      "case_context": "CASO 1 - SAÚDE POP LGBTQIAPN+: A.P.S., 34 anos, e M.C.L., 38 anos, casal de mulheres cisgênero, em união estável há 6 anos. Comparecem à consulta de ginecologia em uma Unidade Básica de Saúde (UBS). História Clínica: M.C.L. (38 anos) possui diagnóstico de reserva ovariana reduzida (AMH 0,8 ng/mL) e deseja ser a gestante. A.P.S. (34 anos) tem ciclos regulares e deseja ser a fornecedora dos oócitos. O casal expressa o desejo de realizar a \"Gestação Compartilhada\". Elas solicitam orientações sobre o acesso a esse procedimento via SUS e as garantias de atendimento humanizado conforme a Política Nacional de Saúde LGBT.",
+      "question": "Qual é o método chamado de \"Gestação Compartilhada\"? Muito utilizado em casais cis lésbico.",
+      "correct_answer": "Método ROPA (Recepção de Oócitos da Parceira) — procedimento de reprodução assistida em que uma das mulheres é a doadora dos óvulos (carga genética do bebê) e a outra é a receptora do embrião, sendo a gestante.",
+      "explanation": "A indicação do método ocorre em dois casos: por escolha própria, quando as duas mulheres desejam compartilhar o processo de gravidez e ter um papel ativo e conjunto na criação da vida do filho; ou por recomendação médica, se uma das mulheres tem dificuldades reprodutivas (como alterações ovarianas) ou risco de transmissão de doenças hereditárias.",
+      "reference": null
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "case_context": "CASO 1 - SAÚDE POP LGBTQIAPN+: A.P.S., 34 anos, e M.C.L., 38 anos, casal de mulheres cisgênero, em união estável há 6 anos. Comparecem à consulta de ginecologia em uma Unidade Básica de Saúde (UBS). História Clínica: M.C.L. (38 anos) possui diagnóstico de reserva ovariana reduzida (AMH 0,8 ng/mL) e deseja ser a gestante. A.P.S. (34 anos) tem ciclos regulares e deseja ser a fornecedora dos oócitos. O casal expressa o desejo de realizar a \"Gestação Compartilhada\". Elas solicitam orientações sobre o acesso a esse procedimento via SUS e as garantias de atendimento humanizado conforme a Política Nacional de Saúde LGBT.",
+      "question": "Durante o atendimento de M. C. L. (38 anos) na UBS, o médico demonstra desconforto com a configuração familiar e utiliza perguntas como \"Quem será o pai da criança?\" e \"Por que vocês não optam pela adoção, que é mais natural?\". Com base na Política Nacional de Saúde Integral LGBT e nos preceitos de Ética Médica, a conduta do profissional caracteriza:",
+      "options": [
+        "Manejo clínico padrão de \"Planejamento Familiar\", onde a adoção deve ser sempre a primeira linha de recomendação para casais com idade materna avançada.",
+        "Exercício da autonomia profissional, garantindo que o médico manifeste suas convicções morais e religiosas durante o aconselhamento reprodutivo.",
+        "Prática de Medicina Defensiva, visando alertar o casal sobre os riscos sociais e jurídicos de uma gestação sem figura paterna biológica presente.",
+        "Violência Institucional e descumprimento do Princípio da Beneficência, ao criar barreiras de acesso e estigmatizar o desejo reprodutivo da paciente."
+      ],
+      "correct_answer": "Violência Institucional e descumprimento do Princípio da Beneficência, ao criar barreiras de acesso e estigmatizar o desejo reprodutivo da paciente.",
+      "explanation": "A Política LGBT do SUS combate exatamente a heteronormatividade no atendimento. Questionar \"quem é o pai\" ou desencorajar a reprodução assistida baseando-se em valores pessoais do médico viola o direito à autodeterminação e o acesso equânime à saúde. O Código de Ética Médica proíbe o médico de usar sua profissão para corromper costumes ou exercer discriminação de qualquer natureza.",
+      "reference": "BRASIL. Ministério da Saúde. Política Nacional de Saúde Integral de Lésbicas, Gays, Bissexuais, Travestis e Transexuais. Brasília: MS, 2011. CONSELHO FEDERAL DE MEDICINA. Código de Ética Médica: Resolução CFM nº 2.217/2018. Brasília: CFM, 2019."
+    },
+    {
+      "id": 4,
+      "type": "free_response",
+      "case_context": "CASO 1 - SAÚDE POP LGBTQIAPN+: A.P.S., 34 anos, e M.C.L., 38 anos, casal de mulheres cisgênero, em união estável há 6 anos. Comparecem à consulta de ginecologia em uma Unidade Básica de Saúde (UBS). História Clínica: M.C.L. (38 anos) possui diagnóstico de reserva ovariana reduzida (AMH 0,8 ng/mL) e deseja ser a gestante. A.P.S. (34 anos) tem ciclos regulares e deseja ser a fornecedora dos oócitos. O casal expressa o desejo de realizar a \"Gestação Compartilhada\". Elas solicitam orientações sobre o acesso a esse procedimento via SUS e as garantias de atendimento humanizado conforme a Política Nacional de Saúde LGBT.",
+      "question": "Explique o conceito de \"Equidade\" no contexto da Política Nacional de Saúde Integral LGBT e como ele se aplica ao acesso à Reprodução Assistida por casais lésbicos no SUS.",
+      "correct_answer": "A equidade reconhece que existem grupos sociais com necessidades distintas e que sofrem diferentes níveis de exclusão. No contexto LGBT, implica remover barreiras institucionais (como o preconceito e a heteronormatividade) que impedem o acesso à saúde. Para casais lésbicos, a equidade manifesta-se na garantia de que a impossibilidade biológica de procriação entre duas mulheres seja tratada com o mesmo rigor assistencial que a infertilidade patológica de casais heterossexuais, permitindo o acesso a tecnologias de Reprodução Assistida sem discriminação.",
+      "explanation": null,
+      "reference": "Brasil. Ministério da Saúde. Política Nacional de Saúde Integral de Lésbicas, Gays, Bissexuais, Travestis e Transexuais. Brasília, 2011."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "case_context": "CASO 1 - SAÚDE POP LGBTQIAPN+: A.P.S., 34 anos, e M.C.L., 38 anos, casal de mulheres cisgênero, em união estável há 6 anos. Comparecem à consulta de ginecologia em uma Unidade Básica de Saúde (UBS). História Clínica: M.C.L. (38 anos) possui diagnóstico de reserva ovariana reduzida (AMH 0,8 ng/mL) e deseja ser a gestante. A.P.S. (34 anos) tem ciclos regulares e deseja ser a fornecedora dos oócitos. O casal expressa o desejo de realizar a \"Gestação Compartilhada\". Elas solicitam orientações sobre o acesso a esse procedimento via SUS e as garantias de atendimento humanizado conforme a Política Nacional de Saúde LGBT.",
+      "question": "Com base na Política Nacional de Saúde Integral de Lésbicas, Gays, Bissexuais, Travestis e Transexuais (Portaria nº 2.836/2011), qual é a diretriz fundamental que deve nortear o acolhimento de casais transexuais e travestis na atenção primária?",
+      "options": [
+        "Priorização do atendimento em centros de referência especializados em IST/AIDS, conforme preconizado pela política de equidade.",
+        "Exigência de parecer psicológico prévio ratificando a estabilidade da união para o início da investigação de fertilidade.",
+        "Garantia do uso do nome social no Cartão SUS e prontuário, independentemente do registro civil, respeitando a autodeterminação.",
+        "Encaminhamento imediato ao serviço de alta complexidade, visto que o SUS não realiza procedimentos de baixa complexidade para casais homoafetivos."
+      ],
+      "correct_answer": "Garantia do uso do nome social no Cartão SUS e prontuário, independentemente do registro civil, respeitando a autodeterminação.",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "case_context": "CASO 1 - SAÚDE POP LGBTQIAPN+: A.P.S., 34 anos, e M.C.L., 38 anos, casal de mulheres cisgênero, em união estável há 6 anos. Comparecem à consulta de ginecologia em uma Unidade Básica de Saúde (UBS). História Clínica: M.C.L. (38 anos) possui diagnóstico de reserva ovariana reduzida (AMH 0,8 ng/mL) e deseja ser a gestante. A.P.S. (34 anos) tem ciclos regulares e deseja ser a fornecedora dos oócitos. O casal expressa o desejo de realizar a \"Gestação Compartilhada\". Elas solicitam orientações sobre o acesso a esse procedimento via SUS e as garantias de atendimento humanizado conforme a Política Nacional de Saúde LGBT.",
+      "question": "A Política Nacional de Saúde Integral LGBT (2011) destaca o \"Cuidado em Saúde\" como um eixo fundamental. Diante do desejo de gestação de R.M.O. (38 anos), como a política de saúde do SUS deve orientar a conduta do médico da Estratégia de Saúde da Família (ESF)?",
+      "options": [
+        "O médico deve considerar o desejo reprodutivo como um direito humano, promovendo o acompanhamento pré-concepcional e a regulação para centros de média/alta complexidade, sem discriminação.",
+        "O médico deve focar exclusivamente na prevenção de ISTs, dado que a população LGBT é considerada grupo de risco majoritário na política de saúde.",
+        "O médico deve informar que o SUS não possui amparo legal para oferecer tecnologia reprodutiva a casais do mesmo sexo, limitando-se ao acolhimento humanizado.",
+        "A política orienta que o planejamento reprodutivo para casais lésbicos deve ser mediado apenas por psicólogos e assistentes sociais, retirando o viés médico-assistencialista."
+      ],
+      "correct_answer": "O médico deve considerar o desejo reprodutivo como um direito humano, promovendo o acompanhamento pré-concepcional e a regulação para centros de média/alta complexidade, sem discriminação.",
+      "explanation": "O planejamento reprodutivo é um direito assegurado constitucionalmente e reforçado pela política LGBT como parte do cuidado integral, sem restrição por orientação sexual.",
+      "reference": "https://bvsms.saude.gov.br/bvs/publicacoes/politica_nacional_saude_lesbicas_gays.pdf"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "case_context": "CASO 1 - SAÚDE POP LGBTQIAPN+: A.P.S., 34 anos, e M.C.L., 38 anos, casal de mulheres cisgênero, em união estável há 6 anos. Comparecem à consulta de ginecologia em uma Unidade Básica de Saúde (UBS). História Clínica: M.C.L. (38 anos) possui diagnóstico de reserva ovariana reduzida (AMH 0,8 ng/mL) e deseja ser a gestante. A.P.S. (34 anos) tem ciclos regulares e deseja ser a fornecedora dos oócitos. O casal expressa o desejo de realizar a \"Gestação Compartilhada\". Elas solicitam orientações sobre o acesso a esse procedimento via SUS e as garantias de atendimento humanizado conforme a Política Nacional de Saúde LGBT.",
+      "question": "A.P.S. (34 anos) relata que, em sua última consulta ginecológica, o profissional não realizou a coleta do citopatológico (Papanicolau) após saber que ela mantinha relações sexuais exclusivamente com outra mulher, justificando que \"não havia risco de contaminação\". De acordo com as Diretrizes Brasileiras para o Rastreamento do Câncer do Colo do Útero e a Política LGBT do SUS, qual a conduta correta?",
+      "options": [
+        "A coleta deve ser realizada em mulheres lésbicas seguindo a mesma periodicidade da população geral (dos 25 aos 64 anos, após início da vida sexual), pois o HPV pode ser transmitido por fômites, contato orogenital e digital-vaginal.",
+        "O rastreio deve ser anual e ininterrupto para mulheres lésbicas, devido à maior prevalência de vaginose bacteriana e outras ISTs que mimetizam lesões precursoras de câncer.",
+        "A conduta do profissional foi adequada, visto que a transmissão do HPV ocorre exclusivamente através da penetração peniana-vaginal.",
+        "O rastreio é facultativo e deve ser baseado no critério médico de risco individual, sendo obrigatório apenas se houver histórico de relações heterossexuais prévias.",
+        "Uma conduta clínica correta, visto que mulheres que não fazem sexo com homens não possuem risco de infecção por HPV."
+      ],
+      "correct_answer": "A coleta deve ser realizada em mulheres lésbicas seguindo a mesma periodicidade da população geral (dos 25 aos 64 anos, após início da vida sexual), pois o HPV pode ser transmitido por fômites, contato orogenital e digital-vaginal.",
+      "explanation": "É um erro comum acreditar que mulheres lésbicas estão \"imunes\" ao HPV. O vírus pode ser transmitido pelo contato pele a pele da região anogenital, mucosa oral e dedos. Portanto, as diretrizes do Ministério da Saúde para o rastreio do câncer de colo de útero são universais para todas as pessoas com colo do útero que tenham ou já tiveram vida sexual ativa, independentemente da orientação sexual.",
+      "reference": "https://bvsms.saude.gov.br/bvs/publicacoes/politica_nacional_saude_lesbicas_gays.pdf"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "case_context": "CASO 1 - SAÚDE POP LGBTQIAPN+: A.P.S., 34 anos, e M.C.L., 38 anos, casal de mulheres cisgênero, em união estável há 6 anos. Comparecem à consulta de ginecologia em uma Unidade Básica de Saúde (UBS). História Clínica: M.C.L. (38 anos) possui diagnóstico de reserva ovariana reduzida (AMH 0,8 ng/mL) e deseja ser a gestante. A.P.S. (34 anos) tem ciclos regulares e deseja ser a fornecedora dos oócitos. O casal expressa o desejo de realizar a \"Gestação Compartilhada\". Elas solicitam orientações sobre o acesso a esse procedimento via SUS e as garantias de atendimento humanizado conforme a Política Nacional de Saúde LGBT.",
+      "question": "No caso acima, o manejo clínico deve considerar a vulnerabilidade programática. De acordo com o Plano Operativo da Política Nacional de Saúde Integral LGBT, qual estratégia de gestão é fundamental para garantir o acesso deste casal aos serviços de Reprodução Assistida (RA) no SUS?",
+      "options": [
+        "A criação de uma fila de espera exclusiva para casais homoafetivos, separada da fila de casais heteroafetivos, para garantir a celeridade do processo.",
+        "A obrigatoriedade de realização de fertilização in vitro (FIV) em todas as pacientes lésbicas, independentemente da idade ou patologia, dada a urgência reprodutiva social.",
+        "O fomento à inclusão dos quesitos \"orientação sexual\" e \"identidade de gênero\" nos sistemas de informação (SISREG), permitindo o monitoramento da equidade no acesso às especialidades.",
+        "A exigência de que o casal apresente uma Declaração de União Estável registrada em cartório para que o processo administrativo de alta complexidade seja deferido."
+      ],
+      "correct_answer": "O fomento à inclusão dos quesitos \"orientação sexual\" e \"identidade de gênero\" nos sistemas de informação (SISREG), permitindo o monitoramento da equidade no acesso às especialidades.",
+      "explanation": "A visibilidade dos dados é um eixo estratégico da Política Nacional de Saúde Integral LGBT. Sem o preenchimento correto dos quesitos de orientação sexual nos sistemas de regulação (SISREG), o gestor não consegue identificar se a população LGBT está conseguindo acessar a alta complexidade ou se há barreiras discriminatórias no fluxo.",
+      "reference": "https://bvsms.saude.gov.br/bvs/publicacoes/politica_nacional_saude_lesbicas_gays.pdf"
+    },
+    {
+      "id": 9,
+      "type": "free_response",
+      "case_context": "CASO 2 - SAÚDE POP NEGRA: João, 56 anos, homem negro, pedreiro, procura a UBS para acompanhamento de hipertensão arterial sistêmica. Relata dificuldade para manter o tratamento devido à rotina de trabalho, dificuldade de acesso regular aos medicamentos e longos períodos de espera para consultas. Mora em região periférica com violência frequente e poucas opções de alimentação saudável. Apesar do uso de anti-hipertensivos, mantém níveis pressóricos elevados. Em consultas anteriores, ouviu de profissionais que \"pacientes negros costumam ter hipertensão mais resistente\". Durante o atendimento atual, a equipe discute os impactos dos determinantes sociais e do racismo estrutural sobre a saúde cardiovascular da população negra.",
+      "question": "Explique por que interpretar o descontrole pressórico de João apenas como \"resistência biológica\" representa uma visão inadequada do processo saúde-doença, citando diretamente dois determinantes sociais presentes no caso que podem contribuir para o descontrole da hipertensão.",
+      "correct_answer": "Interpretar o descontrole pressórico de João apenas como \"resistência biológica\" é inadequado porque reduz um problema complexo exclusivamente a uma característica natural da população negra, desconsiderando a influência do racismo estrutural e dos determinantes sociais da saúde no processo saúde-doença. Dois determinantes sociais do caso: a rotina de trabalho exaustiva que dificulta o acesso regular aos medicamentos, e a moradia em região periférica marcada por violência e poucas opções de alimentação saudável.",
+      "explanation": "Padrão de correção: crítica ao reducionismo biológico (50 pontos) — o aluno deve reconhecer que a HAS não pode ser interpretada apenas por fatores biológicos/raciais, que o racismo estrutural e os DSS influenciam o adoecimento, e que desigualdades sociais interferem no controle pressórico (termos-chave: racismo estrutural, determinantes sociais, falácia biológica, processo multifatorial, desigualdade de acesso, estresse crônico, carga alostática). Identificação de dois DSS do caso (50 pontos - 25 cada): dificuldade de acesso aos medicamentos, alimentação inadequada, violência territorial, dificuldade de acesso ao serviço, rotina de trabalho exaustiva, vulnerabilidade socioeconômica.",
+      "reference": null
+    },
+    {
+      "id": 10,
+      "type": "free_response",
+      "case_context": "CASO 2 - SAÚDE POP NEGRA: João, 56 anos, homem negro, pedreiro, procura a UBS para acompanhamento de hipertensão arterial sistêmica. Relata dificuldade para manter o tratamento devido à rotina de trabalho, dificuldade de acesso regular aos medicamentos e longos períodos de espera para consultas. Mora em região periférica com violência frequente e poucas opções de alimentação saudável. Apesar do uso de anti-hipertensivos, mantém níveis pressóricos elevados. Em consultas anteriores, ouviu de profissionais que \"pacientes negros costumam ter hipertensão mais resistente\". Durante o atendimento atual, a equipe discute os impactos dos determinantes sociais e do racismo estrutural sobre a saúde cardiovascular da população negra.",
+      "question": "Explique como o racismo estrutural pode influenciar o risco cardiovascular da população negra e cite duas ações da Atenção Primária ou da PNSIPN que poderiam contribuir para reduzir essas desigualdades no caso de João.",
+      "correct_answer": "O racismo estrutural influencia o risco cardiovascular da população negra ao produzir desigualdades persistentes nas condições de vida, no acesso aos serviços de saúde e na qualidade do cuidado recebido. Além disso, a exposição contínua ao estresse social relacionado à discriminação pode aumentar a carga alostática e contribuir para hipertensão e doenças cardiovasculares. Ações da APS/PNSIPN: intensificar o seguimento clínico, garantir acesso regular aos medicamentos, considerar os determinantes sociais no plano terapêutico, qualificar o registro do quesito raça/cor, promover educação permanente da equipe e adotar abordagens antirracistas no atendimento.",
+      "explanation": "Padrão de correção: explicação do impacto do racismo estrutural (50 pontos) — o aluno deve relacionar racismo estrutural, desigualdade social, estresse crônico/carga alostática e maior risco cardiovascular. Citação de duas ações da APS/PNSIPN (50 pontos - 25 cada): intensificar seguimento/rastreamento, garantir acesso ao tratamento, educação permanente da equipe, abordagem antirracista, considerar DSS no cuidado, registro do quesito raça/cor, promoção da equidade, ampliação do acesso.",
+      "reference": null
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Uma equipe de Saúde da Família percebe que a maioria das gestantes que iniciam tardiamente o pré-natal vive em regiões periféricas e se autodeclara preta ou parda. Entretanto, o município não registra adequadamente o quesito raça/cor nos sistemas de informação, dificultando a análise das desigualdades e o planejamento das ações. Segundo a PNSIPN, a inclusão do quesito raça/cor nos sistemas de informação em saúde tem como principal objetivo:",
+      "options": [
+        "Estabelecer classificação racial padronizada baseada em ancestralidade biológica",
+        "Priorizar grupos populacionais para acesso diferenciado a serviços especializados",
+        "Identificar diferenças genéticas populacionais que justifiquem protocolos terapêuticos específicos",
+        "Produzir dados epidemiológicos capazes de identificar desigualdades e orientar políticas de equidade em saúde"
+      ],
+      "correct_answer": "Produzir dados epidemiológicos capazes de identificar desigualdades e orientar políticas de equidade em saúde",
+      "explanation": "O quesito raça/cor permite monitorar desigualdades e subsidiar planejamento e ações de equidade no SUS. A PNSIPN não se fundamenta em diferenças biológicas raciais, mas no reconhecimento das desigualdades sociais e institucionais; a classificação racial utilizada nas políticas públicas brasileiras é social e baseada principalmente na autodeclaração; o objetivo central é promover equidade e monitorar desigualdades, não criar acesso seletivo baseado em raça.",
+      "reference": null
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Uma comunidade periférica apresenta maior exposição à violência, insegurança alimentar, desemprego e ausência de saneamento básico. Dados epidemiológicos mostram que a população negra local concentra maior carga de doenças crônicas, sofrimento psíquico e mortalidade precoce. Esse cenário exemplifica principalmente:",
+      "options": [
+        "Determinantes sociais da saúde influenciados por desigualdades estruturais associadas ao racismo",
+        "Consequências biológicas relacionadas à composição genética da população local",
+        "Impactos temporários decorrentes exclusivamente do processo recente de urbanização",
+        "Diferenças culturais inevitáveis entre grupos populacionais urbanos e periféricos"
+      ],
+      "correct_answer": "Determinantes sociais da saúde influenciados por desigualdades estruturais associadas ao racismo",
+      "explanation": "Violência, pobreza, insegurança alimentar e ausência de saneamento remetem a determinantes sociais da saúde atravessados pelo racismo estrutural, e não a diferenças genéticas, culturais ou a um processo recente e temporário de urbanização.",
+      "reference": null
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Uma mulher negra de 32 anos procura atendimento em uma UPA com dor abdominal intensa. Durante a consulta, relata que a dor está \"insuportável\", mas percebe que o profissional minimiza suas queixas e demora a oferecer analgesia. Em outro leito, uma paciente branca com quadro semelhante recebe medicação rapidamente. A residente que acompanha o caso questiona se fatores raciais podem influenciar microdecisões clínicas. Segundo a discussão da aula e a Política Nacional de Saúde Integral da População Negra (PNSIPN), a situação descrita exemplifica principalmente:",
+      "options": [
+        "Uso de critérios clínicos individualizados baseados na percepção subjetiva da dor de cada paciente",
+        "Diferenças epidemiológicas esperadas entre grupos raciais, justificando abordagens terapêuticas distintas",
+        "Racismo institucional expresso por vieses implícitos que influenciam condutas e qualidade do cuidado",
+        "Estratégia de priorização clínica relacionada à gravidade presumida dos casos em serviços de urgência"
+      ],
+      "correct_answer": "Racismo institucional expresso por vieses implícitos que influenciam condutas e qualidade do cuidado",
+      "explanation": "O caso exemplifica microdecisões clínicas influenciadas por vieses raciais, impactando a escuta, a analgesia e a qualidade da assistência — não se trata de subjetividade clínica, diferenças biológicas raciais ou diferença objetiva de gravidade entre os casos.",
+      "reference": null
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Durante uma discussão em sala, um estudante afirma que \"o Brasil não é um país racista porque houve miscigenação entre povos indígenas, africanos e europeus\". Outro colega argumenta que a miscigenação ocorreu em um contexto marcado por escravidão, violência e profundas desigualdades sociais. Qual alternativa melhor expressa a crítica ao mito da democracia racial brasileira?",
+      "options": [
+        "A narrativa de harmonia racial pode invisibilizar desigualdades estruturais historicamente produzidas",
+        "As diferenças raciais persistem principalmente devido a fatores culturais próprios de cada grupo",
+        "O Brasil desenvolveu formas sutis de segregação semelhantes às observadas em países com separação racial explícita",
+        "A miscigenação eliminou conflitos raciais formais, mas não as desigualdades sociais e institucionais"
+      ],
+      "correct_answer": "A narrativa de harmonia racial pode invisibilizar desigualdades estruturais historicamente produzidas",
+      "explanation": "A crítica ao mito da democracia racial destaca que a miscigenação não eliminou o racismo nem as desigualdades estruturais. As demais alternativas não expressam diretamente essa crítica: uma foca em fatores culturais intrínsecos (não é o enfoque da aula), outra equivale erroneamente o caso brasileiro a modelos formais de segregação racial, e outra apenas reconhece desigualdades persistentes sem atacar diretamente a narrativa da harmonia racial.",
+      "reference": null
+    }
+  ]
+}
