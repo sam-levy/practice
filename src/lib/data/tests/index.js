@@ -39,5 +39,10 @@ export const testManifest = [
     title: "MEDICINA 9 DE JULHO - Prova Digital - SCAPS",
     file: () => import("./scaps_medicina_09_07.json"),
   },
+  {
+    id: "p1_scaps_7_t9_a_e_b",
+    title: "PROVA P1 SCAPS 7 T9 A E B",
+    file: () => import("./p1_scaps_7_t9_a_e_b.json"),
+  },
   // Add more tests here later, following the same shape
 ];
