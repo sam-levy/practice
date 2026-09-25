@@ -1,0 +1,293 @@
+{
+  "id": "p2_bmf4",
+  "test_title": "P2 - BMF4",
+  "notes": [
+    "Fonte: P2 - BMF4 (1).pdf. Cópias duplicadas da mesma prova, na pasta do Desktop, não foram importadas de novo.",
+    "Gabarito tirado do formulário corrigido: alternativa marcada quando a questão foi aceita, ou o bloco Resposta correta / feedback quando não foi.",
+    "Nome, RA, PIN e e-mail foram omitidos. Onde a questão aponta uma figura, a imagem não entrou no JSON."
+  ],
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question": "Paciente DF, 30 anos, apresenta ganho de peso significativo, apesar de uma dieta restrita. Ele relata excesso de fome e episódios ocasionais de compulsão alimentar. Exames revelam disfunções nos núcleos hipotalâmicos, incluindo o núcleo arqueado, o núcleo paraventricular e a área hipotalâmica lateral, bem como níveis elevados de leptina. De acordo com o caso clínico apresentado, assinale a alternativa que responde, respectivamente, qual é o núcleo hipotalâmico responsável por detectar os níveis de leptina na corrente sanguínea? E qual é o papel principal da leptina no controle do comportamento alimentar?",
+      "options": [
+        "O aumento nos níveis de leptina na corrente sanguínea é detectado pelo núcleo arqueado do hipotálamo, o qual estimula a área hipotalâmica lateral e inibe o núcleo paraventricular estimulando o apetite.",
+        "O aumento nos níveis de leptina na corrente sanguínea é detectado pelo órgão subfornicial, o qual estimula o núcleo paraventricular e inibe a área hipotalâmica lateral inibindo o apetite.",
+        "O aumento nos níveis de leptina na corrente sanguínea é detectado pelo órgão vascular da lâmina terminal, o qual estimula o núcleo paraventricular e inibe a área hipotalâmica lateral inibindo o apetite.",
+        "O aumento nos níveis de leptina na corrente sanguínea é detectado pelo núcleo arqueado do hipotálamo, o qual estimula o núcleo paraventricular e inibe a área hipotalâmica lateral inibindo o apetite."
+      ],
+      "correct_answer": "O aumento nos níveis de leptina na corrente sanguínea é detectado pelo núcleo arqueado do hipotálamo, o qual estimula o núcleo paraventricular e inibe a área hipotalâmica lateral inibindo o apetite.",
+      "explanation": null,
+      "reference": null,
+      "id": 1
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Paciente do sexo masculino, 25 anos, comparece à emergência com queixa de febre alta, dor de cabeça intensa e rigidez na nuca, com evolução de 48 horas. O paciente foi submetido a um procedimento médico invasivo na região de sua coluna lombar. Em tal procedimento uma agulha foi inserida entre os processos espinhosos das vértebras L3 e L4, atravessando respectivamente as seguintes estruturas anatômicas: pele → tela subcutânea → lig. supraespinal → lig. interespinal → lig. amarelo → gordura epidural → dura-máter e aracnóide-máter. Assinale a alternativa que contempla o espaço anatômico no qual a agulha foi inserida.",
+      "options": [
+        "Espaço subdural",
+        "Espaço extradural",
+        "Espaço subaracnóideo",
+        "Espaço epidural"
+      ],
+      "correct_answer": "Espaço subaracnóideo",
+      "explanation": null,
+      "reference": null,
+      "id": 2
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Um paciente de 38 anos sofreu uma encefalite viral que causou danos bilaterais ao hipocampo. Após a recuperação, ele não consegue se lembrar de eventos que ocorreram após sua hospitalização, mas tem uma memória intacta de eventos anteriores à encefalite. Além disso, ele aprendeu a realizar uma tarefa simples de desenho por repetição, embora não se lembre de ter praticado essa tarefa anteriormente. Qual é o tipo de amnésia que este paciente apresenta e o que explica sua capacidade de aprender novas habilidades motoras?",
+      "options": [
+        "Amnésia anterógrada; o paciente consegue aprender habilidades motoras porque a memória procedural depende do hipocampo, que ainda mantém alguma função residual.",
+        "Amnésia retrógrada; o paciente é incapaz de formar novas memórias porque o hipocampo está envolvido no armazenamento de memórias de curto prazo e procedural.",
+        "Amnésia anterógrada; sua capacidade de aprender habilidades motoras permanece intacta porque o hipocampo não é necessário para a memória procedural, que depende de outras estruturas, como os núcleos da base e o cerebelo.",
+        "Amnésia retrógrada; o paciente é capaz de aprender habilidades motoras porque o hipocampo não participa da memória procedural, que depende de outras estruturas, como os núcleos da base e o cerebelo."
+      ],
+      "correct_answer": "Amnésia anterógrada; sua capacidade de aprender habilidades motoras permanece intacta porque o hipocampo não é necessário para a memória procedural, que depende de outras estruturas, como os núcleos da base e o cerebelo.",
+      "explanation": null,
+      "reference": null,
+      "id": 3
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Paciente do sexo masculino, 26 anos, chega ao Pronto Atendimento em protocolo de trauma trazido pelo Corpo de Bombeiros, devido a acidente de carro há 20 minutos com trauma cabeça/vidro. Deu entrada sem perda de consciência, convulsões ou vômitos e em Glasgow 13. Apresentava pupilas isocóricas e fotorreagentes. Tomografia computadorizada (imagem A) de crânio em corte axial evidenciando uma coleção hiperdensa biconvexa temporoparietal direita de grande volume (OBS: a imagem B é apenas para orientar na resolução do caso e na resposta). De acordo com as imagens, o acúmulo de sangue localiza-se:",
+      "options": [
+        "No espaço extradural, que fica entre a lâmina interna da dura-máter e a aracnóide-máter.",
+        "No espaço epidural, que fica entre os ossos do crânio e a lâmina externa da dura-máter.",
+        "No espaço subaracnóideo, que fica entre os ossos do crânio e a lâmina externa da aracnóide-máter.",
+        "No espaço subdural, que fica entre a lâmina interna da dura-máter e a pia- máter."
+      ],
+      "correct_answer": "No espaço epidural, que fica entre os ossos do crânio e a lâmina externa da dura-máter.",
+      "explanation": null,
+      "reference": null,
+      "id": 4
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Paciente procurou atendimento médico pois não sentia que seu sono era reparador. O médico indicou a realização de polissonografia, a qual inclui a realização de eletroencefalograma (EEG) que estava normal. Durante a passagem da vigília para o sono não-REM (sono de ondas lentas) o médico observou uma alteração fisiológica no EEG. Qual foi essa alteração e por que isso acontece?",
+      "options": [
+        "O EEG passou a apresentar um ritmo dessincronizado pela atuação do neurotransmissor acetilcolina do SARA (sistema ativador reticular ascendente)",
+        "O EEG passou a apresentar um ritmo sincronizado pela atuação do neurotransmissor histamina liberado pelo SARA (sistema ativador reticular ascendente)",
+        "O EEG passou a apresentar um ritmo sincronizado pela atuação do locus ceruleus e núcleos da Rafe do SARA (sistema ativador reticular ascendente)",
+        "O EEG passou a apresentar um ritmo dessincronizado pela atuação do neurotransmissor dopamina do SARA (sistema ativador reticular ascendente)"
+      ],
+      "correct_answer": "O EEG passou a apresentar um ritmo sincronizado pela atuação do locus ceruleus e núcleos da Rafe do SARA (sistema ativador reticular ascendente)",
+      "explanation": null,
+      "reference": null,
+      "id": 5
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Paciente comparece ao consultório médico queixando-se de lesões dolorosas conforme a figura 1. Possui histórico de varicela na infância. O diagnóstico foi de herpes-zoster. Compare o local da lesão (figura 1) com o mapa de dermátomos (figura 2) e explique o porquê desta lesão tão bem delimitada.",
+      "options": [
+        "a área da pele acometida é inervada por fibras provenientes apenas do funículo posterior",
+        "a área da pele acometida é inervada por fibras provenientes apenas do funículo lateral",
+        "a área da pele acometida é inervada por fibras provenientes apenas do funículo anterior",
+        "a área da pele acometida é inervada por fibras provenientes de uma mesma raiz dorsal"
+      ],
+      "correct_answer": "a área da pele acometida é inervada por fibras provenientes de uma mesma raiz dorsal",
+      "explanation": null,
+      "reference": null,
+      "id": 6
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Paciente: Masculino, 45 anos. Queixa principal: Dificuldade para mover o ombro e dor na região cervical direita após cirurgia. História da doença atual: Paciente relata que há 3 meses foi submetido a uma cirurgia para a remoção de um linfonodo cervical aumentado à direita. Desde então, percebeu dificuldade para levantar o braço acima da cabeça e fraqueza no ombro direito. Refere dor constante na região do trapézio direito, especialmente ao tentar movimentos acima da linha do ombro. Nega trauma direto ou outros sintomas neurológicos. A dor é de intensidade moderada (6/10) e piora com esforço físico ao tentar movimentar a cabeça para o mesmo lado. Inspeção: Atrofia visível e depressão do músculo trapézio do lado direito. Diagnóstico: Lesão iatrogênica do nervo ___________ direito, provavelmente causada durante a cirurgia de biópsia de linfonodo cervical. Qual seria o nervo para este caso?",
+      "options": [
+        "XI",
+        "XII",
+        "X",
+        "IX"
+      ],
+      "correct_answer": "XII",
+      "explanation": null,
+      "reference": null,
+      "id": 7
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Paciente comparece ao consultório médico queixando-se de ataques de pânicos recorrentes. Ele relata sintomas como aumento de frequência cardíaca e sudorese intensa durante os ataques. O diagnóstico foi de transtorno de pânico, no qual há uma ativação exacerbada de uma estrutura do sistema límbico associada ao medo. (1) Qual estrutura é essa e (2) qual a relação dela com os sintomas descritos?",
+      "options": [
+        "(1) área tegmentar ventral. (2) os sintomas são associados à ativação córtex cingulado anterior",
+        "(1) amígdala. (2) os sintomas são associados ao disparo do sistema nervoso autônomo via hipotálamo",
+        "(1) área tegmentar ventral. (2) os sintomas são associados ao disparo do sistema nervoso autônomo via hipotálamo",
+        "(1) amígdala. (2) os sintomas são associados à ativação do córtex cingulado anterior"
+      ],
+      "correct_answer": "(1) amígdala. (2) os sintomas são associados ao disparo do sistema nervoso autônomo via hipotálamo",
+      "explanation": null,
+      "reference": null,
+      "id": 8
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Paciente RP, 28 anos, sofreu um grave acidente de carro e foi trazido ao hospital inconsciente. Ele apresenta sinais de trauma encefálico e suspeita de comprometimento da barreira hematoencefálica. Qual característica da barreira o médico suspeita de alteração, o que permitiria a entrada de microrganismos no sistema nervoso central?",
+      "options": [
+        "Junções oclusivas do endotélio",
+        "Capilares fenestrados",
+        "Órgãos circunventriculares",
+        "Junções comunicantes do endotélio"
+      ],
+      "correct_answer": "Junções oclusivas do endotélio",
+      "explanation": null,
+      "reference": null,
+      "id": 9
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Paciente: masculino, 64 anos, aposentado, procurou atendimento com otorrinolaringologista. Queixa principal: perda auditiva (hipoacusia) à esquerda há 3 meses. Notou que quando coloca o telefone na orelha esquerda, não consegue ouvir. Refere, também, sentir que os líquidos parecem escapar da boca. “Eu pareço estar babando o tempo todo, doutor. Não consigo fechar completamente a minha boca”. O otorrino o examinou e solicitou exame de imagem (imagem à esquerda). Que encontrou um neurinoma à esquerda. De acordo com as imagens, o tumor estaria comprimindo qual estrutura anatômica? Os losangos das imagens à direita representam o local da compressão.",
+      "options": [
+        "Sulco pontino superior",
+        "Sulco retro-olivar",
+        "Sulco bulbopontino",
+        "Sulco pré-olivar"
+      ],
+      "correct_answer": "Sulco bulbopontino",
+      "explanation": null,
+      "reference": null,
+      "id": 10
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Paciente: masculino, 35 anos. História clínica: foi admitido no pronto-socorro após se envolver em um acidente automobilístico. Ele estava dirigindo em alta velocidade quando perdeu o controle do veículo e colidiu com uma árvore. O paciente estava usando cinto de segurança, mas o impacto causou um trauma significativo na região cervical. Queixa principal: Dor intensa na região do pescoço e dificuldade para movimentar a cabeça. Exame físico: O paciente apresenta dor à palpação da coluna cervical, especialmente na região de C6. Movimentos do pescoço limitados e dolorosos. RX da coluna cervical: Fratura isolada do processo espinhoso da vértebra C6. De acordo com a caracterização da fratura, até qual segmento medular poderia ser prejudicado para este paciente?",
+      "options": [
+        "C7",
+        "T1",
+        "C6",
+        "C8"
+      ],
+      "correct_answer": "C8",
+      "explanation": null,
+      "reference": null,
+      "id": 11
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Paciente: Masculino, 45 anos. Queixa principal: Dor intensa e dificuldade para mastigar do lado direito do rosto há 2 semanas. O paciente relata início de dor súbita do tipo “pontadas” na região mandibular direita, que piora ao mastigar ou tocar a área. A dor é intermitente e descrita como choque elétrico, irradiando-se para região da e orelha para a mandíbula. Não há história de trauma ou cirurgia recente. O paciente nega alterações visuais ou auditivas. RM de crânio: Demonstrou possível compressão nervosa em forame oval, sem lesões expansivas visíveis. De acordo com as características apresentadas, qual nervo ou ramo estaria sendo comprimido?",
+      "options": [
+        "VII",
+        "V3",
+        "XII",
+        "V2"
+      ],
+      "correct_answer": "V3",
+      "explanation": null,
+      "reference": null,
+      "id": 12
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Durante uma consulta de rotina, um paciente queixa-se de dormência e formigamento. Ele possui diabetes de difícil controle há 20 anos. Durante o exame neurológico, o médico realizou o teste de discriminação de dois pontos, no qual dois pontos são estimulados ao mesmo tempo na ponta dos dedos. Com o resultado deste teste, o médico observou alteração do tato epicrítico, provavelmente devido à neuropatia diabética. O teste mostrou acometimento de qual tipo de fibra e por que ele foi feito na ponta dos dedos?",
+      "options": [
+        "Fibras C; porque na ponta dos dedos ocorre convergência",
+        "Fibras A-beta; porque o tamanho dos campos receptivos na ponta dos dedos é pequeno",
+        "Fibras C; porque o tamanho dos campos receptivos na ponta dos dedos é pequeno",
+        "Fibras A-beta; porque na ponta dos dedos ocorre convergência"
+      ],
+      "correct_answer": "Fibras A-beta; porque o tamanho dos campos receptivos na ponta dos dedos é pequeno",
+      "explanation": null,
+      "reference": null,
+      "id": 13
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Um paciente comparece ao laboratório para realizar um exame de imagem. Ao entrar na sala para realizar o exame, acaba batendo sua mão na porta. O paciente sente primeiro uma dor forte e que consegue localizar muito bem, em seguida sente uma dor em queimação. A via responsável pela segunda dor:",
+      "options": [
+        "cruza no bulbo, formando o lemnisco medial, e se projeta para o tálamo",
+        "envia fibras para a formação reticular, sistema límbico e hipotálamo",
+        "apresenta organização somatotópica, sendo possível localizá-la com facilidade",
+        "possui fibras A-beta e se projeta apenas para o córtex somestésico primário"
+      ],
+      "correct_answer": "envia fibras para a formação reticular, sistema límbico e hipotálamo",
+      "explanation": null,
+      "reference": null,
+      "id": 14
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Paciente com histórico de hipertensão, foi internado devido a um acidente vascular cerebral (AVC). Durante o exame neurológico, o médico detectou alteração de propriocepção consciente, sensibilidade vibratória e tato epicrítico do lado oposto à lesão. Considerando que a lesão ocorreu no córtex somestésico primário, porque os sintomas foram contralaterais?",
+      "options": [
+        "pois as fibras da via avaliada cruzam na comissura branca da medula espinal",
+        "pois as fibras da via avaliada cruzam no núcleo ventral posterolateral do tálamo",
+        "pois as fibras da via avaliada cruzam no lemnisco espinal após a ponte",
+        "pois as fibras da via avaliada formam as fibras arqueadas internas, cruzando no bulbo"
+      ],
+      "correct_answer": "pois as fibras da via avaliada formam as fibras arqueadas internas, cruzando no bulbo",
+      "explanation": null,
+      "reference": null,
+      "id": 15
+    },
+    {
+      "type": "free_response",
+      "question": "Qual o nervo craniano foi acometido?",
+      "correct_answer": "Nervo facial - VII",
+      "explanation": "Padrão de correção: 100% da pontuação - nervo facial ou VII Bibliografia: Machado, A. Neuroanatomia funcional. 4ª edição, 2022. Cap. 29. Questão 2",
+      "reference": null,
+      "id": 16,
+      "case_context": "Paciente levado por familiar porque a face parecia desviada para a esquerda. Hemiface direita paralisada, poupando mastigatórios e o levantador da pálpebra (abria os olhos). Língua para fora, na linha média. Sem alteração de sensibilidade somestésica na face. Perda da gustação em parte da língua. Hiperacusia à direita. Diagnóstico: lesão de nervo craniano."
+    },
+    {
+      "type": "free_response",
+      "question": "O paciente perdeu a gustação em qual porção da língua?",
+      "correct_answer": "⅔ anteriores 1/3 anterior ou apenas anterior = metade da pontuação 2/3 anteriores = 100% da pontuação",
+      "explanation": null,
+      "reference": "Bibliografia: Machado, A. Neuroanatomia funcional. 4ª edição, 2022. Cap. 29.",
+      "id": 17,
+      "case_context": "Paciente levado por familiar porque a face parecia desviada para a esquerda. Hemiface direita paralisada, poupando mastigatórios e o levantador da pálpebra (abria os olhos). Língua para fora, na linha média. Sem alteração de sensibilidade somestésica na face. Perda da gustação em parte da língua. Hiperacusia à direita. Diagnóstico: lesão de nervo craniano."
+    },
+    {
+      "type": "free_response",
+      "question": "Durante o exame físico, quando o médico pediu para colocar a língua para fora, qual o nervo estava sendo avaliado?",
+      "correct_answer": "Nervo hipoglosso (NC XII) Padrão de correção = 100% da nota apenas para respostas corretas.",
+      "explanation": null,
+      "reference": "Bibliografia: Machado, A. Neuroanatomia funcional. 4ª edição, 2022. Cap. 29.",
+      "id": 18,
+      "case_context": "Paciente levado por familiar porque a face parecia desviada para a esquerda. Hemiface direita paralisada, poupando mastigatórios e o levantador da pálpebra (abria os olhos). Língua para fora, na linha média. Sem alteração de sensibilidade somestésica na face. Perda da gustação em parte da língua. Hiperacusia à direita. Diagnóstico: lesão de nervo craniano."
+    },
+    {
+      "type": "free_response",
+      "question": "O paciente conseguia abrir os olhos, pois a inervação do músculo levantador da pálpebra superior estava íntegra. Qual o nervo testado neste caso?",
+      "correct_answer": "Nervo oculomotor ou NC III Padrão de correção = 100% da nota apenas para respostas corretas.",
+      "explanation": null,
+      "reference": "Bibliografia: Machado, A. Neuroanatomia funcional. 4ª edição, 2022. Cap. 10. Caso Clínico 2 100 de 200 pontos Paciente apresenta lesão medular na altura de medula lombar do lado direito Exame físico: Perda de tato epicrítico, sensibilidade vibratória, propriocepção consciente, sensibilidade térmica e sensibilidade dolorosa (dor rápida ou aguda) em um dos membros inferiores. Paralisia de um dos membros inferiores Exames de imagem: Mostraram lesão dos funículos posterior, lateral e anterior do lado direito.",
+      "id": 19,
+      "case_context": "Paciente levado por familiar porque a face parecia desviada para a esquerda. Hemiface direita paralisada, poupando mastigatórios e o levantador da pálpebra (abria os olhos). Língua para fora, na linha média. Sem alteração de sensibilidade somestésica na face. Perda da gustação em parte da língua. Hiperacusia à direita. Diagnóstico: lesão de nervo craniano."
+    },
+    {
+      "type": "free_response",
+      "question": "Considerando a avaliação do tato epicrítico, qual a lateralidade da perda da sensibilidade?",
+      "correct_answer": "lado direito",
+      "explanation": "Padrão de correção: lado direito (100% da pontuação) Bibliografia: Machado, A. Neuroanatomia funcional. 4ª edição, 2022. Cap. 29. Questão 2",
+      "reference": null,
+      "id": 20,
+      "case_context": "Lesão medular na medula lombar, à direita. Perda de tato epicrítico, sensibilidade vibratória, propriocepção consciente, sensibilidade térmica e dor rápida em um dos membros inferiores, e paralisia de um dos membros inferiores. Imagem: lesão dos funículos posterior, lateral e anterior do lado direito."
+    },
+    {
+      "type": "free_response",
+      "question": "Considerando a avaliação do tato epicrítico, qual o nome do trato ou fascículo acometido? Uma parte da pontuação será descontada para cada resposta errada.",
+      "correct_answer": "fascículo grácil",
+      "explanation": "Padrão de correção: fascículo grácil (100% da pontuação) Caso o aluno escreva fascículo grácil e escreva mais alguma resposta que esteja errada (como fascículo cuneiforme), serão descontado 10 pontos para cada resposta errada. Bibliografia: Machado, A. Neuroanatomia funcional. 4ª edição, 2022. Cap. 29. Questão 3",
+      "reference": null,
+      "id": 21,
+      "case_context": "Lesão medular na medula lombar, à direita. Perda de tato epicrítico, sensibilidade vibratória, propriocepção consciente, sensibilidade térmica e dor rápida em um dos membros inferiores, e paralisia de um dos membros inferiores. Imagem: lesão dos funículos posterior, lateral e anterior do lado direito."
+    },
+    {
+      "type": "free_response",
+      "question": "Considerando a avaliação da sensibilidade térmica, quais os tipos de fibras acometidos? Uma parte da pontuação será descontada para cada resposta errada.",
+      "correct_answer": "fibras C e A-delta Padrão de pontuação: apenas fibras C ou A-delta (50% da pontuação) Caso o aluno escreva a fibra correta e mais alguma fibra errada, serão descontados 5 pontos para cada fibra errada Fibras C e A-delta (100% da pontuação)",
+      "explanation": null,
+      "reference": "Bibliografia: Machado, A. Neuroanatomia funcional. 4ª edição, 2022. Cap. 29.",
+      "id": 22,
+      "case_context": "Lesão medular na medula lombar, à direita. Perda de tato epicrítico, sensibilidade vibratória, propriocepção consciente, sensibilidade térmica e dor rápida em um dos membros inferiores, e paralisia de um dos membros inferiores. Imagem: lesão dos funículos posterior, lateral e anterior do lado direito."
+    },
+    {
+      "type": "free_response",
+      "question": "Considerando a avaliação de sensibilidade térmica e dolorosa (dor aguda/rápida), qual o local de cruzamento dessa via? (seja específico, escrever apenas medula espinal ou bulbo ou tálamo não será aceito)",
+      "correct_answer": "comissura branca",
+      "explanation": "Padrão de correção: comissura branca (100% da pontuação) Bibliografia: Machado, A. Neuroanatomia funcional. 4ª edição, 2022. Cap. 29. 432",
+      "reference": null,
+      "id": 23,
+      "case_context": "Lesão medular na medula lombar, à direita. Perda de tato epicrítico, sensibilidade vibratória, propriocepção consciente, sensibilidade térmica e dor rápida em um dos membros inferiores, e paralisia de um dos membros inferiores. Imagem: lesão dos funículos posterior, lateral e anterior do lado direito."
+    }
+  ]
+}

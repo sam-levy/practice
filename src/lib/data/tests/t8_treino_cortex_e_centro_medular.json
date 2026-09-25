@@ -1,0 +1,375 @@
+{
+  "id": "t8_treino_cortex_e_centro_medular",
+  "test_title": "T8 - Treino: córtex e centro medular",
+  "notes": [
+    "Fonte: T8 - Treino_ cortex e centro medular.pdf. Cópias duplicadas da mesma prova, na pasta do Desktop, não foram importadas de novo.",
+    "Gabarito tirado do formulário corrigido: alternativa marcada quando a questão foi aceita, ou o bloco Resposta correta / feedback quando não foi.",
+    "Nome, RA, PIN e e-mail foram omitidos. Onde a questão aponta uma figura, a imagem não entrou no JSON."
+  ],
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question": "1-O corpo caloso é um exemplo de:",
+      "options": [
+        "Fibras de associação inter-hemisféricas ou comissurais",
+        "Fibras de associação intra-hemisféricas",
+        "Fibras de projeção",
+        "Fibras amielínicas"
+      ],
+      "correct_answer": "Fibras de associação inter-hemisféricas ou comissurais",
+      "explanation": null,
+      "reference": null,
+      "id": 1
+    },
+    {
+      "type": "multiple_choice",
+      "question": "2-A cápsula interna é um feixe de fibras:",
+      "options": [
+        "De projeção",
+        "Comissurais",
+        "Fibras de associação inter-hemisféricas",
+        "Fibras de associação intra-hemisféricas"
+      ],
+      "correct_answer": "De projeção",
+      "explanation": null,
+      "reference": null,
+      "id": 2
+    },
+    {
+      "type": "multiple_choice",
+      "question": "3-Qual tipo de fibra ligam diferentes áreas corticais?",
+      "options": [
+        "Fibras de associação",
+        "Fibras de projeção",
+        "Fibras da cápsula interna",
+        "Fibras do fórnice"
+      ],
+      "correct_answer": "Fibras de associação",
+      "explanation": null,
+      "reference": null,
+      "id": 3
+    },
+    {
+      "type": "multiple_choice",
+      "question": "4-As células piramidais são predominantes nas camadas corticais:",
+      "options": [
+        "III e V",
+        "II e IV",
+        "I e VI",
+        "I e II"
+      ],
+      "correct_answer": "III e V",
+      "explanation": null,
+      "reference": null,
+      "id": 4
+    },
+    {
+      "type": "multiple_choice",
+      "question": "5-Qual córtex apresenta 3 camadas após o seu desenvolvimento?",
+      "options": [
+        "alocórtex",
+        "isocórtex homotípico",
+        "isocórtex heterotípico agranular",
+        "isocórtex heterotípico granular"
+      ],
+      "correct_answer": "alocórtex",
+      "explanation": null,
+      "reference": null,
+      "id": 5
+    },
+    {
+      "type": "multiple_choice",
+      "question": "6-O arquicórtex está localizado no:",
+      "options": [
+        "hipocampo",
+        "unco",
+        "Giro pré-central",
+        "giro para hipocampal"
+      ],
+      "correct_answer": "hipocampo",
+      "explanation": null,
+      "reference": null,
+      "id": 6
+    },
+    {
+      "type": "multiple_choice",
+      "question": "7-As áreas unimodais do córtex são denominadas de:",
+      "options": [
+        "áreas primárias e secundárias",
+        "áreas secundárias e terciárias",
+        "apenas áreas secundárias",
+        "áreas primárias e terciárias"
+      ],
+      "correct_answer": "áreas primárias e secundárias",
+      "explanation": null,
+      "reference": null,
+      "id": 7
+    },
+    {
+      "type": "multiple_choice",
+      "question": "8-A área sensitiva primária possui:",
+      "options": [
+        "isocórtex heterotípico granular",
+        "isocórtex heterotípico agranular",
+        "isocórtex homotípico",
+        "alocórtex"
+      ],
+      "correct_answer": "isocórtex heterotípico granular",
+      "explanation": null,
+      "reference": null,
+      "id": 8
+    },
+    {
+      "type": "multiple_choice",
+      "question": "9-As áreas corticais responsáveis pela memória e emoções são consideradas áreas:",
+      "options": [
+        "Terciárias",
+        "Secundárias",
+        "Primárias",
+        "Alocórtex"
+      ],
+      "correct_answer": "Terciárias",
+      "explanation": null,
+      "reference": null,
+      "id": 9
+    },
+    {
+      "type": "multiple_choice",
+      "question": "10-Nas apraxias observamos dificuldade em realizar o movimento, devido a lesões nas áreas de planejamento motor, as lesões estão localizadas no:",
+      "options": [
+        "lobo parietal",
+        "lobo temporal",
+        "lobo frontal",
+        "lobo insular"
+      ],
+      "correct_answer": "lobo frontal",
+      "explanation": null,
+      "reference": null,
+      "id": 10
+    },
+    {
+      "type": "multiple_choice",
+      "question": "11-A área motora da fala (de Broca) está localizada no:",
+      "options": [
+        "giro pré-central esquerdo",
+        "giro frontal superior esquerdo",
+        "giro frontal inferior esquerdo",
+        "giro pós-central esquerdo"
+      ],
+      "correct_answer": "giro frontal inferior esquerdo",
+      "explanation": null,
+      "reference": null,
+      "id": 11
+    },
+    {
+      "type": "multiple_choice",
+      "question": "12-Fibras de projeção são:",
+      "options": [
+        "Fibras que ligam o córtex a centros subcorticais",
+        "Fibras que ligam centros subcorticais a outros centros subcorticais",
+        "Fibras que ligam áreas diferentes do córtex",
+        "Fibras que ligam áreas primarias com áreas secundárias do córtex"
+      ],
+      "correct_answer": "Fibras que ligam o córtex a centros subcorticais",
+      "explanation": null,
+      "reference": null,
+      "id": 12
+    },
+    {
+      "type": "multiple_choice",
+      "question": "13-As células granulares são predominantes nas camadas corticais:",
+      "options": [
+        "II e IV",
+        "III e V",
+        "I e VI",
+        "I e II"
+      ],
+      "correct_answer": "II e IV",
+      "explanation": null,
+      "reference": null,
+      "id": 13
+    },
+    {
+      "type": "multiple_choice",
+      "question": "14-Qual córtex apresenta 6 camadas bem definidas e iguais?",
+      "options": [
+        "isocórtex homotípico",
+        "isocórtex heterotípico agranular",
+        "alocórtex",
+        "isocórtex heterotípico granular"
+      ],
+      "correct_answer": "isocórtex homotípico",
+      "explanation": null,
+      "reference": null,
+      "id": 14
+    },
+    {
+      "type": "multiple_choice",
+      "question": "15-Qual região abaixo representa o paleocórtex?",
+      "options": [
+        "unco",
+        "hipocampo",
+        "giro pré-central",
+        "giro do cíngulo"
+      ],
+      "correct_answer": "unco",
+      "explanation": null,
+      "reference": null,
+      "id": 15
+    },
+    {
+      "type": "multiple_choice",
+      "question": "16-As áreas supramodais do córtex são denominadas de:",
+      "options": [
+        "áreas terciárias",
+        "áreas secundárias e terciárias",
+        "apenas áreas secundárias",
+        "áreas primárias e terciárias"
+      ],
+      "correct_answer": "áreas terciárias",
+      "explanation": null,
+      "reference": null,
+      "id": 16
+    },
+    {
+      "type": "multiple_choice",
+      "question": "17-A área motora primária é constituída por um córtex de qual tipo?",
+      "options": [
+        "isocórtex heterotípico agranular",
+        "isocórtex homotípico",
+        "isocórtex heterotípico granular",
+        "alocórtex"
+      ],
+      "correct_answer": "isocórtex heterotípico agranular",
+      "explanation": null,
+      "reference": null,
+      "id": 17
+    },
+    {
+      "type": "multiple_choice",
+      "question": "18-A capacidade de reconhecer objetos, por meio de estímulos táteis (gnosia tátil), é desempenhada:",
+      "options": [
+        "Na área somestésica secundária localizada no lóbulo parietal superior",
+        "Na área somestésica secundária localizada no giro pós-central",
+        "Na área somestésica primária localizada no lóbulo parietal inferior",
+        "Na área somestésica primária localizada no giro pré-central"
+      ],
+      "correct_answer": "Na área somestésica secundária localizada no lóbulo parietal superior",
+      "explanation": null,
+      "reference": null,
+      "id": 18
+    },
+    {
+      "type": "multiple_choice",
+      "question": "19-A área de Wernicke (área sensitiva da fala) está localizada entre os lobos:",
+      "options": [
+        "parietal e temporal",
+        "frontal e parietal",
+        "frontal e temporal",
+        "occipital e temporal"
+      ],
+      "correct_answer": "parietal e temporal",
+      "explanation": null,
+      "reference": null,
+      "id": 19
+    },
+    {
+      "type": "multiple_choice",
+      "question": "20-A área cortical relacionada com o comportamento inteligente está localizada no lobo:",
+      "options": [
+        "Frontal",
+        "Temporal",
+        "Parietal",
+        "Insular"
+      ],
+      "correct_answer": "Frontal",
+      "explanation": null,
+      "reference": null,
+      "id": 20
+    },
+    {
+      "type": "multiple_choice",
+      "question": "21 - Assinale um exemplo de fibras de associação inter- hemisféricas ou comissurais:",
+      "options": [
+        "corpo caloso",
+        "cápsula interna",
+        "coroa radiada",
+        "fibras arqueadas do cérebro"
+      ],
+      "correct_answer": "corpo caloso",
+      "explanation": null,
+      "reference": null,
+      "id": 21
+    },
+    {
+      "type": "multiple_choice",
+      "question": "22 - Assinale um exemplo de fibras de projeção",
+      "options": [
+        "cápsula interna",
+        "corpo caloso",
+        "comissura anterior",
+        "fibras arqueadas do cérebro"
+      ],
+      "correct_answer": "cápsula interna",
+      "explanation": null,
+      "reference": null,
+      "id": 22
+    },
+    {
+      "type": "multiple_choice",
+      "question": "23 - Qual a área relacionada com a expressão da linguagem?",
+      "options": [
+        "área de Broca, localizada no hemisfério esquerdo",
+        "área de Wernicke, localizado no hemisfério esquerdo",
+        "área de Broca, nos dos hemisférios cerebrais",
+        "área de Wernicke, nos dois hemisférios cerebrais"
+      ],
+      "correct_answer": "área de Broca, localizada no hemisfério esquerdo",
+      "explanation": null,
+      "reference": null,
+      "id": 23
+    },
+    {
+      "type": "multiple_choice",
+      "question": "23 - Qual a área relacionada com a percepção da linguagem?",
+      "options": [
+        "área de Wernicke, localizado no hemisfério esquerdo",
+        "área de Broca, localizada no hemisfério esquerdo",
+        "área de Broca, nos dos hemisférios cerebrais",
+        "área de Wernicke, nos dois hemisférios cerebrais"
+      ],
+      "correct_answer": "área de Wernicke, localizado no hemisfério esquerdo",
+      "explanation": null,
+      "reference": null,
+      "id": 24
+    },
+    {
+      "type": "multiple_choice",
+      "question": "24 - O córtex motor primário está localizado no:",
+      "options": [
+        "giro pré-central",
+        "giro pós-central",
+        "giro frontal inferior",
+        "giro temporal superior"
+      ],
+      "correct_answer": "giro pré-central",
+      "explanation": null,
+      "reference": null,
+      "id": 25
+    },
+    {
+      "type": "multiple_choice",
+      "question": "25 - O pé e a perna estão representados no córtex motor, na face:",
+      "options": [
+        "medial",
+        "súpero-lateral",
+        "inferior",
+        "dorsal"
+      ],
+      "correct_answer": "medial",
+      "explanation": null,
+      "reference": null,
+      "id": 26
+    }
+  ]
+}

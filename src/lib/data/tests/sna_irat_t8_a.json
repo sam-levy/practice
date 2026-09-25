@@ -1,0 +1,151 @@
+{
+  "id": "sna_irat_t8_a",
+  "test_title": "SNA (IRAT) T8 A",
+  "notes": [
+    "Fonte: SNA (IRAT) T8 A (1).pdf. Cópias duplicadas da mesma prova, na pasta do Desktop, não foram importadas de novo.",
+    "Gabarito tirado do formulário corrigido: alternativa marcada quando a questão foi aceita, ou o bloco Resposta correta / feedback quando não foi.",
+    "Nome, RA, PIN e e-mail foram omitidos. Onde a questão aponta uma figura, a imagem não entrou no JSON."
+  ],
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question": "Os corpos de neurônios autônomos estão localizados:",
+      "options": [
+        "nas partes central e periférica do sistema nervoso",
+        "apenas nas paredes das vísceras",
+        "apenas na parte periférica do sistema nervoso",
+        "apenas na parte central do sistema nervoso"
+      ],
+      "correct_answer": "nas partes central e periférica do sistema nervoso",
+      "explanation": null,
+      "reference": null,
+      "id": 1
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Sobre a cadeia ganglionar simpática podemos afirmar que apresenta:",
+      "options": [
+        "gânglios paravertebrais: aórtico, celíaco e mesentéricos.",
+        "gânglios pré-vertebrais: ciliar, ótico e pterigopalatino.",
+        "gânglios cervicais à coccígeos.",
+        "gânglios de T1 à L2."
+      ],
+      "correct_answer": "gânglios cervicais à coccígeos.",
+      "explanation": null,
+      "reference": null,
+      "id": 2
+    },
+    {
+      "type": "multiple_choice",
+      "question": "As fibras pré-ganglionares simpáticas estão presentes no:",
+      "options": [
+        "no ramo comunicante branco e são amielínicas",
+        "ramo comunicante cinzento e são amielínicas",
+        "no ramo comunicante cinzento e são mielínicas",
+        "no ramo comunicante branco e são mielínicas"
+      ],
+      "correct_answer": "no ramo comunicante branco e são mielínicas",
+      "explanation": null,
+      "reference": null,
+      "id": 3
+    },
+    {
+      "type": "multiple_choice",
+      "question": "As fibras pós-ganglionares parassimpáticas e pré-ganglionares simpática, são fibras, respectivamente:",
+      "options": [
+        "curtas - curtas",
+        "curtas – longas",
+        "longas - curtas",
+        "longas – longas"
+      ],
+      "correct_answer": "curtas - curtas",
+      "explanation": null,
+      "reference": null,
+      "id": 4
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A midríase (dilatação da pupila), relaxamento dos esfíncteres e secreção salivar fluida e abundantes são efeitos desencadeados, RESPECTIVAMENTE pela ação do:",
+      "options": [
+        "simpático – parassimpático – parassimpático",
+        "simpático – simpático – simpático",
+        "parassimpático – parassimpático – parassimpático",
+        "parassimpático – simpático – parassimpático"
+      ],
+      "correct_answer": "simpático – parassimpático – parassimpático",
+      "explanation": null,
+      "reference": null,
+      "id": 5
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Qual divisão do sistema nervoso autônomo tem ação difusa? Por quê?",
+      "options": [
+        "simpático, pois o neurônio pré-ganglionar pode fazer sinapse com um neurônio pós-ganglionar em diferentes gânglios",
+        "simpático, pois este pode estimular a glândula suprarrenal a liberar acetilcolina",
+        "parassimpático, pois o neurônio pré-ganglionar pode fazer sinapse com um neurônio pós-ganglionar em diferentes gânglios",
+        "parassimpático, pois o neurônio pré-ganglionar pode fazer sinapse com neurônios modificados da glândula supra-renal"
+      ],
+      "correct_answer": "simpático, pois o neurônio pré-ganglionar pode fazer sinapse com um neurônio pós-ganglionar em diferentes gânglios",
+      "explanation": null,
+      "reference": null,
+      "id": 6
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Quais nervos cranianos possuem fibras parassimpáticas?",
+      "options": [
+        "III, VII, IX e X",
+        "III, V, VII e X",
+        "III, V, IX e X",
+        "II, V, IX e X"
+      ],
+      "correct_answer": "III, VII, IX e X",
+      "explanation": null,
+      "reference": null,
+      "id": 7
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A porção eferente do arco reflexo da micção é formada por:",
+      "options": [
+        "fibras parassimpáticas que contraem o músculo detrusor",
+        "fibras simpáticas que contraem o músculo detrusor",
+        "fibras simpáticas que relaxam o músculo detrusor",
+        "fibras parassimpáticas que relaxam o músculo detrusor"
+      ],
+      "correct_answer": "fibras parassimpáticas que contraem o músculo detrusor",
+      "explanation": null,
+      "reference": null,
+      "id": 8
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Assinale a alternativa correta a respeito dos nervos esplâncnicos (maior, menor e imo):",
+      "options": [
+        "contém fibras pós-ganglionares simpáticas",
+        "se direcionam diretamente aos órgãos alvos do sistema nervoso simpático",
+        "contém fibras pré-ganglionares parassimpáticas",
+        "suas fibras se direcionam aos gânglios pré-vertebrais"
+      ],
+      "correct_answer": "suas fibras se direcionam aos gânglios pré-vertebrais",
+      "explanation": null,
+      "reference": null,
+      "id": 9
+    },
+    {
+      "type": "multiple_choice",
+      "question": "O neurônio pré-ganglionar localizado em T10 pode fazer sinapse com um neurônio pós-ganglionar localizado:",
+      "options": [
+        "na cadeia paravertebral, apenas no gânglio de mesmo nível",
+        "em um gânglio parassimpático, longe do órgão efetor",
+        "em um gânglio parassimpático, perto do órgão efetor",
+        "na cadeia paravertebral em um gânglio no mesmo nível, abaixo ou acima de T10"
+      ],
+      "correct_answer": "na cadeia paravertebral em um gânglio no mesmo nível, abaixo ou acima de T10",
+      "explanation": null,
+      "reference": null,
+      "id": 10
+    }
+  ]
+}

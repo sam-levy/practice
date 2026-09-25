@@ -1,0 +1,59 @@
+{
+  "id": "tecido_nervoso_glia",
+  "test_title": "Tecido nervoso (glia)",
+  "notes": [
+    "Fonte: Tecido nervoso (glia).PDF. Formulário não enviado, sem gabarito marcado. As respostas foram preenchidas para o app corrigir."
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Quais células da glia formam a bainha de mielina?",
+      "options": [
+        "astrócitos protoplasmáticos (SNC) e astrócitos fibrosos (SNP)",
+        "oligodendrócitos (SNP) e células de Schwann (SNC)",
+        "oligodendrócitos (SNC) e células de Schwann (SNP)",
+        "astrócitos protoplasmáticos (SNP) e astrócitos fibrosos (SNC)"
+      ],
+      "correct_answer": "oligodendrócitos (SNC) e células de Schwann (SNP)",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Quais astrócitos são presentes na substância branca?",
+      "options": ["fibrosos", "Nissl", "Schwann", "protoplasmáticos"],
+      "correct_answer": "fibrosos",
+      "explanation": "Astrócitos fibrosos predominam na substância branca. Os protoplasmáticos predominam na cinzenta.",
+      "reference": null
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Considere as seguintes funções: controle da composição iônica extracelular; presença de pés vasculares e recaptação de neurotransmissor. Qual célula é responsável por essas funções?",
+      "options": ["astrócitos", "microglia", "oligodendrócitos", "células satélites"],
+      "correct_answer": "astrócitos",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Quais células da glia revestem o canal central da medula?",
+      "options": ["células ependimárias", "astrócitos", "microglia", "oligodendrócitos"],
+      "correct_answer": "células ependimárias",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Quais células da glia estão relacionadas com processos de fagocitose no SNC?",
+      "options": ["astrócitos", "microglia", "células de Schwann", "oligodendrócitos"],
+      "correct_answer": "microglia",
+      "explanation": null,
+      "reference": null
+    }
+  ]
+}

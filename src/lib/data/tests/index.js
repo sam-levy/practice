@@ -49,5 +49,130 @@ export const testManifest = [
     title: "PROVA P2 SCAPS 7.",
     file: () => import("./p2_scaps_7.json"),
   },
+  {
+    id: "fr_sono_dor",
+    title: "FR_Sono_Dor",
+    file: () => import("./fr_sono_dor.json"),
+  },
+  {
+    id: "forms_8_cerebelo_e_nb",
+    title: "Forms 8 - Cerebelo e NB",
+    file: () => import("./forms_8_cerebelo_e_nb.json"),
+  },
+  {
+    id: "bmf4",
+    title: "BMF4",
+    file: () => import("./bmf4.json"),
+  },
+  {
+    id: "arc_2_grat_t8_a",
+    title: "ARC 2 (GRAT) T8-A",
+    file: () => import("./arc_2_grat_t8_a.json"),
+  },
+  {
+    id: "arc_3_nervos_cranianos",
+    title: "ARC 3 - nervos cranianos",
+    file: () => import("./arc_3_nervos_cranianos.json"),
+  },
+  {
+    id: "arc_4",
+    title: "ARC 4",
+    file: () => import("./arc_4.json"),
+  },
+  {
+    id: "av2_bmf4",
+    title: "AV2 - BMF4",
+    file: () => import("./av2_bmf4.json"),
+  },
+  {
+    id: "anatomia_do_diencefalo",
+    title: "Anatomia do diencéfalo",
+    file: () => import("./anatomia_do_diencefalo.json"),
+  },
+  {
+    id: "anatomia_do_telencefalo",
+    title: "Anatomia do telencéfalo",
+    file: () => import("./anatomia_do_telencefalo.json"),
+  },
+  {
+    id: "fase_individual_t8a",
+    title: "Fase individual (T8A)",
+    file: () => import("./fase_individual_t8a.json"),
+  },
+  {
+    id: "forms_opioides",
+    title: "Forms OPIÓIDES",
+    file: () => import("./forms_opioides.json"),
+  },
+  {
+    id: "p1_bmf4",
+    title: "P1 - BMF4",
+    file: () => import("./p1_bmf4.json"),
+  },
+  {
+    id: "p2_bmf4",
+    title: "P2 - BMF4",
+    file: () => import("./p2_bmf4.json"),
+  },
+  {
+    id: "potencial_de_acao",
+    title: "Potencial de ação",
+    file: () => import("./potencial_de_acao.json"),
+  },
+  {
+    id: "prova_pratica_1_bmf4",
+    title: "Prova Prática 1 - BMF 4",
+    file: () => import("./prova_pratica_1_bmf4.json"),
+  },
+  {
+    id: "prova_pratica_2_bmf4",
+    title: "Prova Prática 2 - BMF 4",
+    file: () => import("./prova_pratica_2_bmf4.json"),
+  },
+  {
+    id: "prova_pratica_3_bmf4",
+    title: "Prova Prática 3 - BMF 4",
+    file: () => import("./prova_pratica_3_bmf4.json"),
+  },
+  {
+    id: "sna_grat_t8_bd",
+    title: "SNA (GRAT) T8-BD",
+    file: () => import("./sna_grat_t8_bd.json"),
+  },
+  {
+    id: "sna_irat_t8_a",
+    title: "SNA (IRAT) T8 A",
+    file: () => import("./sna_irat_t8_a.json"),
+  },
+  {
+    id: "t8_treino_cortex_e_centro_medular",
+    title: "T8 - Treino: córtex e centro medular",
+    file: () => import("./t8_treino_cortex_e_centro_medular.json"),
+  },
+  {
+    id: "t8a_pp1_bmf4",
+    title: "T8A - PP1 (BMF4)",
+    file: () => import("./t8a_pp1_bmf4.json"),
+  },
+  {
+    id: "tbl_vascularizacao",
+    title: "TBL vascularização",
+    file: () => import("./tbl_vascularizacao.json"),
+  },
+  {
+    id: "tecido_nervoso_glia",
+    title: "Tecido nervoso (glia)",
+    file: () => import("./tecido_nervoso_glia.json"),
+  },
+  {
+    id: "tecido_nervoso_neuronio",
+    title: "Tecido nervoso (neurônio)",
+    file: () => import("./tecido_nervoso_neuronio.json"),
+  },
+  {
+    id: "cortex_cerebral",
+    title: "Córtex cerebral",
+    file: () => import("./cortex_cerebral.json"),
+  },
   // Add more tests here later, following the same shape
 ];

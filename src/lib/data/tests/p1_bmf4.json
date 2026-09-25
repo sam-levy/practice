@@ -1,0 +1,293 @@
+{
+  "id": "p1_bmf4",
+  "test_title": "P1 - BMF4",
+  "notes": [
+    "Fonte: P1 - BMF4 (1).pdf. Cópias duplicadas da mesma prova, na pasta do Desktop, não foram importadas de novo.",
+    "Gabarito tirado do formulário corrigido: alternativa marcada quando a questão foi aceita, ou o bloco Resposta correta / feedback quando não foi.",
+    "Nome, RA, PIN e e-mail foram omitidos. Onde a questão aponta uma figura, a imagem não entrou no JSON."
+  ],
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question": "Paciente é diagnosticado como portador de uma rara doença neurodegenerativa acometendo uma área diencefálica que participa da formação das paredes laterais do terceiro ventrículo. Podemos afirmar que a área comprometida é o:",
+      "options": [
+        "hipotálamo",
+        "tálamo",
+        "epitálamo",
+        "subtálamo"
+      ],
+      "correct_answer": "tálamo",
+      "explanation": null,
+      "reference": null,
+      "id": 1
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Uma paciente de 50 anos chegou a uma UPA (Unidade de Pronto Atendimento), relatando uma dor difusa na parte superior do abdômen. Após a realização de um ultrassom e uma endoscopia, a dor difusa foi diagnosticada como um caso de gastrite aguda. Qual parte funcional do sistema nervoso está mais provavelmente envolvida na transmissão dessa dor difusa do estômago até o centro integrador (sistema nervoso central)?",
+      "options": [
+        "Sistema nervoso visceral eferente",
+        "Sistema nervoso somático eferente",
+        "Sistema nervoso visceral aferente",
+        "Sistema nervoso somático aferente"
+      ],
+      "correct_answer": "Sistema nervoso visceral aferente",
+      "explanation": null,
+      "reference": null,
+      "id": 2
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Um paciente realizou uma neurocirurgia para epilepsia, na qual uma parte do corpo caloso foi removida. Após o procedimento, o paciente começou a apresentar dificuldades em nomear objetos visualizados apenas no campo visual esquerdo. A neurocirurgia afetou a comunicação entre quais partes do cérebro?",
+      "options": [
+        "O córtex motor e o córtex somestésico do hemisfério esquerdo",
+        "O lobo frontal e o lobo occipital do hemisfério esquerdo",
+        "O lobo parietal e o lobo temporal do hemisfério direito",
+        "O hemisfério esquerdo e o hemisfério direito"
+      ],
+      "correct_answer": "O hemisfério esquerdo e o hemisfério direito",
+      "explanation": null,
+      "reference": null,
+      "id": 3
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Paciente procurou o serviço médico relatando fraqueza em membro superior esquerdo. Após exames de imagem o diagnóstico foi de lesão em córtex motor primário. Qual a classificação citoarquitetural da região lesionada?",
+      "options": [
+        "isocórtex heterotípico agranular",
+        "isocórtex homotípico",
+        "isocórtex heterotípico granular",
+        "alocórtex"
+      ],
+      "correct_answer": "isocórtex heterotípico agranular",
+      "explanation": null,
+      "reference": null,
+      "id": 4
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Há uma infinidade de sinapses químicas inibitórias no sistema nervoso central. Elas são importantíssimas para ajustar as funções desempenhadas no dia a dia. Nesse tipo de sinapse, há influxo de cálcio no terminal pré-sináptico por meio de canais de cálcio dependentes de voltagem. Qual será a consequência desse influxo?",
+      "options": [
+        "despolarização do neurônio pré-sináptico",
+        "liberação do neurotransmissor do neurônio pré-sináptico",
+        "geração do potencial de ação no neurônio pré-sináptico",
+        "despolarização do neurônio pós-sináptico"
+      ],
+      "correct_answer": "liberação do neurotransmissor do neurônio pré-sináptico",
+      "explanation": null,
+      "reference": null,
+      "id": 5
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Um recém-nascido diagnosticado com anencefalia (não desenvolvimento do cérebro), anomalia que foi detectada durante a gestação por uma ultrassonografia durante o pré-natal. Por opção dos pais a gestação não foi interrompida, porém a criança veio a óbito pouco mais de uma hora após o parto. Qual das seguintes vesículas primárias do cérebro é mais diretamente afetada na anencefalia?",
+      "options": [
+        "Rombencéfalo",
+        "Medula espinal",
+        "Mesencéfalo",
+        "Prosencéfalo"
+      ],
+      "correct_answer": "Prosencéfalo",
+      "explanation": null,
+      "reference": null,
+      "id": 6
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Um médico patologista estava analisando uma lâmina da substância branca do encéfalo, sua tarefa era observar a morfologia da célula da glia responsável por fazer recaptação do neurotransmissor nesta região. Qual célula ele estava observando?",
+      "options": [
+        "astrócito fibroso",
+        "astrócito protoplasmático",
+        "célula de Schwann",
+        "oligodendrócito"
+      ],
+      "correct_answer": "astrócito fibroso",
+      "explanation": null,
+      "reference": null,
+      "id": 7
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Um médico foi chamado para avaliar o reflexo fotomotor de um paciente. Para isso, o médico iluminou as pupilas do paciente, observando que houve contração da pupila (miose) em ambos os olhos. Assim, o médico concluiu que o reflexo estava preservado. Qual divisão do sistema nervoso autônomo foi responsável pela miose e qual par de nervos cranianos estava envolvido neste processo?",
+      "options": [
+        "parassimpático, V par",
+        "parassimpático, III par",
+        "simpático, V par",
+        "simpático, III par"
+      ],
+      "correct_answer": "parassimpático, III par",
+      "explanation": null,
+      "reference": null,
+      "id": 8
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Paciente hipertenso e tabagista procura atendimento médico queixando-se de alteração de sensibilidade e dificuldade de movimentar o hemicorpo esquerdo. Após avaliação neurológica e exames de imagem, o diagnóstico foi de acidente vascular cerebral, acometendo cápsula interna. Qual a classificação desse tipo de fibra e qual o lado da lesão?",
+      "options": [
+        "fibras de projeção, lado direito",
+        "fibras de projeção, lado esquerdo",
+        "fibras de associação inter-hemisféricas, lado direito",
+        "fibras de associação inter-hemisféricas, lado esquerdo"
+      ],
+      "correct_answer": "fibras de projeção, lado direito",
+      "explanation": null,
+      "reference": null,
+      "id": 9
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Paciente: sexo masculino, 62 anos. Histórico: apresenta episódios recorrentes de cefaleia intensa, acompanhados de náuseas e vômitos, com evolução de 2 meses. Recentemente, familiares notaram alterações no comportamento, incluindo desorientação e apatia. Exame de imagem: Ressonância Magnética (RM) de crânio evidenciou dilatação significativa (1) dos ventrículos laterais e (2) do terceiro ventrículo. Diagnóstico: estenose do aqueduto do mesencéfalo, sem outras lesões ocupando espaço. Com relação aos elementos anatômicos representados, respectivamente, pelos números (1) e (2) assinale a alternativa correta.",
+      "options": [
+        "O cérebro é constituído pelas regiões 1 e 2, sendo o (1) telencéfalo e (2) diencéfalo",
+        "O cérebro é constituído pelas regiões 1 e 2, sendo o (1) diencéfalo e (2) telencéfalo",
+        "O encéfalo é constituído apenas pelas regiões 1 e 2, sendo o (1) telencéfalo e (2) diencéfalo",
+        "O mesencéfalo é constituído pelas regiões 1 e 2, sendo o (1) diencéfalo e (2) telencéfalo"
+      ],
+      "correct_answer": "O cérebro é constituído pelas regiões 1 e 2, sendo o (1) telencéfalo e (2) diencéfalo",
+      "explanation": null,
+      "reference": null,
+      "id": 10
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Uma adolescente de 16 anos de idade comparece à consulta com sua mãe com história de diversos episódios de confusão nos últimos meses. A mãe diz que a filha fica alheia por alguns minutos e não consegue falar. O diagnóstico foi de epilepsia. Após uma investigação detalhada, o médico indica o uso de um anticonvulsivante que faz com que mais receptores ionotrópicos (canais de cloreto) sejam abertos. Qual o objetivo deste medicamento?",
+      "options": [
+        "gerar PIPS (potencial inibitório pós-sináptico), dificultando a geração do potencial de ação",
+        "aumentar o efluxo de cloreto, gerando PIPS (potencial inibitório pós- sináptico)",
+        "aumentar o influxo de cloreto, gerando PEPS (potencial excitatório pós- sináptico)",
+        "gerar PEPS (potencial excitatório pós-sináptico), facilitando a geração do potencial de ação"
+      ],
+      "correct_answer": "gerar PIPS (potencial inibitório pós-sináptico), dificultando a geração do potencial de ação",
+      "explanation": null,
+      "reference": null,
+      "id": 11
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Paciente sofreu um acidente vascular cerebral. Apresenta alterações motoras no pé esquerdo. Não apresenta alterações sensoriais ou cognitivas. Exames de imagem mostraram lesão em córtex motor primário. Onde a lesão ocorreu:",
+      "options": [
+        "na face superolateral do telencéfalo",
+        "lobo occipital, margens do sulco calcarino",
+        "na face medial do telencéfalo",
+        "lobo temporal, giro temporal superior"
+      ],
+      "correct_answer": "na face medial do telencéfalo",
+      "explanation": null,
+      "reference": null,
+      "id": 12
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Uma pessoa foi submetida a uma cirurgia para reparação de um nervo, após acidente de moto. Os axônios do paciente podem se regenerar adequadamente, pois as células que formam a bainha de mielina neste local permitem esse tipo de regeneração. Quais são essas células?",
+      "options": [
+        "células de Schwann",
+        "oligodendrócitos",
+        "astrócitos",
+        "células ependimárias"
+      ],
+      "correct_answer": "células de Schwann",
+      "explanation": null,
+      "reference": null,
+      "id": 13
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Uma mulher de 66 anos de idade relata que não consegue segurar a urina quando tosse. Ela relata que isso passou a acontecer após a gestação. O médico explicou que provavelmente ela está com o músculo esfíncter externo da uretra mais fraco. Qual a inervação deste músculo?",
+      "options": [
+        "aferente visceral simpático pelo nervo esplâncnico pélvico",
+        "eferente visceral parassimpático pelo nervo esplâncnico pélvico",
+        "inervação somática pelo nervo pudendo",
+        "inervação somática por fibras parassimpáticas"
+      ],
+      "correct_answer": "inervação somática pelo nervo pudendo",
+      "explanation": null,
+      "reference": null,
+      "id": 14
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Paciente procura atendimento médico relatando redução da nitidez da visão. Nenhuma doença subjacente conhecida foi relatada e nem mesmo nenhum outro sintoma. Uma ressonância magnética foi solicitada, e pode ser observada uma pequena lesão bem circunscrita identificada no diencéfalo, inferiormente ao pulvinar do tálamo, correspondendo a um infarto lacunar pequeno. Assinale abaixo a alternativa que contenha qual é o componente diencefálico afetado pelo infarto.",
+      "options": [
+        "Epitálamo e corpos mamilares",
+        "Hipotálamo e trígono das habênulas",
+        "Metatálamo e núcleo geniculado lateral",
+        "Tálamo e núcleo geniculado medial"
+      ],
+      "correct_answer": "Metatálamo e núcleo geniculado lateral",
+      "explanation": null,
+      "reference": null,
+      "id": 15
+    },
+    {
+      "type": "free_response",
+      "question": "Em relação à alteração motora, qual giro do telencéfalo foi comprometido pela isquemia? Inclua o lado em sua resposta.",
+      "correct_answer": "giro pré-central esquerdo",
+      "explanation": "Padrão de correção: giro pré-central (50% da pontuação); esquerdo (50% da pontuação)",
+      "reference": "Bibliografia: Machado. Neuroanatomia funcional. 4ªed. Atheneu, 2022. Questão 2",
+      "id": 16,
+      "case_context": "Paciente: sexo masculino, 70 anos, tabagista, hipertenso. Ao acordar, dor de cabeça severa, incapacidade de mover o braço direito e dificuldade para falar. Tomografia e tratamento medicamentoso; quadro estável. Diagnóstico: acidente vascular cerebral isquêmico. Paralisia do membro superior direito (área motora primária), somestesia do membro superior direito abolida, fala sem fluência com compreensão preservada. Depois houve melhora motora e somestésica, sem evolução da fala. Foi indicado antidepressivo que impede a recaptação do neurotransmissor em uma sinapse excitatória."
+    },
+    {
+      "type": "free_response",
+      "question": "Em relação à alteração somestésica, qual é a classificação funcional (Luria) da área comprometida pela isquemia?",
+      "correct_answer": "sensorial primária",
+      "explanation": "Padrão de correção: área sensorial primária ou área de projeção sensorial (100% da pontuação). Não será aceito nem 50% da pontuação para sensorial secundária ou somestésica secundária, pois estava escrito no enunciado que se tratava de somestesia.",
+      "reference": "Bibliografia: Machado. Neuroanatomia funcional. 4ªed. Atheneu, 2022. Questão 3",
+      "id": 17,
+      "case_context": "Paciente: sexo masculino, 70 anos, tabagista, hipertenso. Ao acordar, dor de cabeça severa, incapacidade de mover o braço direito e dificuldade para falar. Tomografia e tratamento medicamentoso; quadro estável. Diagnóstico: acidente vascular cerebral isquêmico. Paralisia do membro superior direito (área motora primária), somestesia do membro superior direito abolida, fala sem fluência com compreensão preservada. Depois houve melhora motora e somestésica, sem evolução da fala. Foi indicado antidepressivo que impede a recaptação do neurotransmissor em uma sinapse excitatória."
+    },
+    {
+      "type": "free_response",
+      "question": "Em relação à alteração somestésica, qual giro do telencéfalo foi comprometido pela isquemia? Inclua o lado em sua resposta.",
+      "correct_answer": "giro pós-central esquerdo",
+      "explanation": "Padrão de correção: giro pós-central (50% da pontuação); esquerdo (50% da pontuação)",
+      "reference": "Bibliografia: Machado. Neuroanatomia funcional. 4ªed. Atheneu, 2022. Questão 4",
+      "id": 18,
+      "case_context": "Paciente: sexo masculino, 70 anos, tabagista, hipertenso. Ao acordar, dor de cabeça severa, incapacidade de mover o braço direito e dificuldade para falar. Tomografia e tratamento medicamentoso; quadro estável. Diagnóstico: acidente vascular cerebral isquêmico. Paralisia do membro superior direito (área motora primária), somestesia do membro superior direito abolida, fala sem fluência com compreensão preservada. Depois houve melhora motora e somestésica, sem evolução da fala. Foi indicado antidepressivo que impede a recaptação do neurotransmissor em uma sinapse excitatória."
+    },
+    {
+      "type": "free_response",
+      "question": "Em relação à alteração da fala, qual giro foi comprometido? Inclua o lado em sua resposta.",
+      "correct_answer": "giro frontal inferior esquerdo",
+      "explanation": "Padrão de correção: giro frontal inferior (50% da pontuação), lado esquerdo (50% da pontuação) Bibliografia: Machado. Neuroanatomia funcional. 4ªed. Atheneu, 2022. Questão 5",
+      "reference": null,
+      "id": 19,
+      "case_context": "Paciente: sexo masculino, 70 anos, tabagista, hipertenso. Ao acordar, dor de cabeça severa, incapacidade de mover o braço direito e dificuldade para falar. Tomografia e tratamento medicamentoso; quadro estável. Diagnóstico: acidente vascular cerebral isquêmico. Paralisia do membro superior direito (área motora primária), somestesia do membro superior direito abolida, fala sem fluência com compreensão preservada. Depois houve melhora motora e somestésica, sem evolução da fala. Foi indicado antidepressivo que impede a recaptação do neurotransmissor em uma sinapse excitatória."
+    },
+    {
+      "type": "free_response",
+      "question": "O que acontecerá com a amplitude do PEPS (potencial excitatório pós-sináptico) durante o uso do medicamento anti-depressivo?",
+      "correct_answer": "amplitude do PEPS será maior",
+      "explanation": "Padrão de correção: PEPS de maior amplitude (100% da pontuação)",
+      "reference": "Bibliografia: Bear, MF. Neurociências: desvendando o sistema nervoso. 4º edição. Porto Alegre: Artmed, 2017 Caso Clínico 2 150 de 150 pontos Lucia foi se maquiar para uma festa. Ao se olhar no espelho percebeu que o lado direito de seu rosto estava seco e muito mais vermelho do que o do esquerdo. Decidiu procurar um especialista. A médica confirmou todos os achados descritos por Lucia, e observou que a paciente apresentava anisocoria (tamanho desigual das pupilas), com miose do lado direito. Foi solicitada uma radiografia do tórax, que evidenciou áreas radiopacas na região do ápice do pulmão direito (sugestivo de tumor de Pancoast). Questão 1",
+      "id": 20,
+      "case_context": "Paciente: sexo masculino, 70 anos, tabagista, hipertenso. Ao acordar, dor de cabeça severa, incapacidade de mover o braço direito e dificuldade para falar. Tomografia e tratamento medicamentoso; quadro estável. Diagnóstico: acidente vascular cerebral isquêmico. Paralisia do membro superior direito (área motora primária), somestesia do membro superior direito abolida, fala sem fluência com compreensão preservada. Depois houve melhora motora e somestésica, sem evolução da fala. Foi indicado antidepressivo que impede a recaptação do neurotransmissor em uma sinapse excitatória."
+    },
+    {
+      "type": "free_response",
+      "question": "O tumor provavelmente está pressionando alguma estrutura, qual seria?",
+      "correct_answer": "tronco simpático/cadeia paravertebral/ gânglio estrelado/gânglio cervicotorácico",
+      "explanation": "Padrão de correção: tronco simpático/cadeia paravertebral/ gânglio estrelado/gânglio cervicotorácico (100% da pontuação)",
+      "reference": "Bibliografia:Machado. Neuroanatomia funcional. 4ªed. Atheneu, 2022. Questão 2",
+      "id": 21,
+      "case_context": "Lucia, ao se maquiar, notou o lado direito do rosto seco e mais vermelho que o esquerdo. A médica confirmou anisocoria com miose à direita. Radiografia de tórax com áreas radiopacas no ápice do pulmão direito, sugestivas de tumor de Pancoast."
+    },
+    {
+      "type": "free_response",
+      "question": "Onde estão localizados os corpos de neurônios pré-ganglionares do sistema que está sendo pressionado?",
+      "correct_answer": "T1-L2",
+      "explanation": "Padrão de correção: medula tóraco-lombar ou T1-L2 (100% da pontuação)",
+      "reference": "Bibliografia:Machado. Neuroanatomia funcional. 4ªed. Atheneu, 2022. Questão 3",
+      "id": 22,
+      "case_context": "Lucia, ao se maquiar, notou o lado direito do rosto seco e mais vermelho que o esquerdo. A médica confirmou anisocoria com miose à direita. Radiografia de tórax com áreas radiopacas no ápice do pulmão direito, sugestivas de tumor de Pancoast."
+    },
+    {
+      "type": "free_response",
+      "question": "O sistema que está com atividade reduzida utiliza qual neurotransmissor na sinapse entre neurônio pré-ganglionar e pós-ganglionar?",
+      "correct_answer": "acetilcolina",
+      "explanation": "Padrão de correção: acetilcolina (100% da pontuação)",
+      "reference": "Bibliografia: Machado. Neuroanatomia funcional. 4ªed. Atheneu, 2022.",
+      "id": 23,
+      "case_context": "Lucia, ao se maquiar, notou o lado direito do rosto seco e mais vermelho que o esquerdo. A médica confirmou anisocoria com miose à direita. Radiografia de tórax com áreas radiopacas no ápice do pulmão direito, sugestivas de tumor de Pancoast."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "id": "fase_individual_t8a",
+  "test_title": "Fase individual (T8A)",
+  "notes": [
+    "Fonte: Fase individual (T8A) (1).pdf. Cópias duplicadas da mesma prova, na pasta do Desktop, não foram importadas de novo.",
+    "Gabarito tirado do formulário corrigido: alternativa marcada quando a questão foi aceita, ou o bloco Resposta correta / feedback quando não foi.",
+    "Nome, RA, PIN e e-mail foram omitidos. Onde a questão aponta uma figura, a imagem não entrou no JSON."
+  ],
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question": "As artérias: carótida interna e a artéria basilar se originam, respectivamente:",
+      "options": [
+        "a. carótida comum e arco da aorta",
+        "arco da aorta e a. subclávia",
+        "a. carótida externa e a. subclávia",
+        "a. carótida comum e aa. Vertebrais"
+      ],
+      "correct_answer": "a. carótida comum e aa. Vertebrais",
+      "explanation": null,
+      "reference": null,
+      "id": 1
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Assinale a alternativa que contenha apenas ramos da artéria carótida interna:",
+      "options": [
+        "a. cerebral anterior, a. cerebral média, a. cerebral posterior, a. comunicante posterior e a. corióidea anterior",
+        "a. cerebral anterior, a. cerebral média, a. comunicante posterior, a. corióidea anterior e a. oftálmica.",
+        "a. cerebral anterior, a. comunicante anterior, a. cerebral média, a. comunicante posterior e a. oftálmica.",
+        "a. corióidea anterior, a. cerebral posterior, a. comunicante posterior, a. cerebral anterior e a. oftálmica."
+      ],
+      "correct_answer": "a. cerebral anterior, a. cerebral média, a. comunicante posterior, a. corióidea anterior e a. oftálmica.",
+      "explanation": null,
+      "reference": null,
+      "id": 2
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A artéria basilar tem trajeto anterior na ponte. Em seu término se bifurca para formar as artérias:",
+      "options": [
+        "espinais posteriores",
+        "comunicantes posteriores",
+        "vertebrais direita e esquerda",
+        "cerebrais posteriores"
+      ],
+      "correct_answer": "cerebrais posteriores",
+      "explanation": null,
+      "reference": null,
+      "id": 3
+    },
+    {
+      "type": "multiple_choice",
+      "question": "São vasos do círculo arterial do cérebro (polígono de Willis), exceto:",
+      "options": [
+        "a. cerebral posterior",
+        "a. vertebral",
+        "a. comunicante anterior",
+        "a. comunicante posterior"
+      ],
+      "correct_answer": "a. vertebral",
+      "explanation": null,
+      "reference": null,
+      "id": 4
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A artéria cerebelar inferior posterior tem origem da artéria:",
+      "options": [
+        "cerebral posterior",
+        "basilar",
+        "cerebral média",
+        "vertebral"
+      ],
+      "correct_answer": "vertebral",
+      "explanation": null,
+      "reference": null,
+      "id": 5
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Assinale o único ramo abaixo com origem na artéria basilar:",
+      "options": [
+        "a. espinal posterior",
+        "a. cerebelar superior",
+        "a. espinal anterior",
+        "a. comunicante posterior"
+      ],
+      "correct_answer": "a. cerebelar superior",
+      "explanation": null,
+      "reference": null,
+      "id": 6
+    },
+    {
+      "type": "multiple_choice",
+      "question": "O funículo posterior da medula espinal é irrigado por uma artéria, com origem nas:",
+      "options": [
+        "artérias cerebrais posteriores",
+        "artérias vertebrais",
+        "artérias cerebelares inferiores posteriores",
+        "artérias comunicantes posteriores"
+      ],
+      "correct_answer": "artérias vertebrais",
+      "explanation": null,
+      "reference": null,
+      "id": 7
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A anastomose entre as carótidas internas e os ramos da artéria basilar, para formar o polígono de Willis é realizado pelas artérias:",
+      "options": [
+        "cerebelares superiores",
+        "comunicantes anteriores",
+        "cerebrais posteriores",
+        "comunicantes posteriores"
+      ],
+      "correct_answer": "comunicantes posteriores",
+      "explanation": null,
+      "reference": null,
+      "id": 8
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A face medial dos giros pré e pós centrais é irrigada pela artéria:",
+      "options": [
+        "cerebral posterior",
+        "comunicante anterior",
+        "cerebral anterior",
+        "cerebral média"
+      ],
+      "correct_answer": "cerebral anterior",
+      "explanation": null,
+      "reference": null,
+      "id": 9
+    },
+    {
+      "type": "multiple_choice",
+      "question": "O trato corticospinal atravessa a perna posterior da cápsula interna. Esse local pode ser comprometido por uma obstrução vascular localizada na artéria:",
+      "options": [
+        "cerebral posterior",
+        "basilar",
+        "cerebral anterior",
+        "cerebral média"
+      ],
+      "correct_answer": "cerebral média",
+      "explanation": null,
+      "reference": null,
+      "id": 10
+    }
+  ]
+}

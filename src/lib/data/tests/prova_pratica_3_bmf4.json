@@ -1,0 +1,211 @@
+{
+  "id": "prova_pratica_3_bmf4",
+  "test_title": "Prova Prática 3 - BMF 4",
+  "notes": [
+    "Fonte: Prova Pratica 3 - BMF 4.pdf. Cópias duplicadas da mesma prova, na pasta do Desktop, não foram importadas de novo.",
+    "Gabarito tirado do formulário corrigido: alternativa marcada quando a questão foi aceita, ou o bloco Resposta correta / feedback quando não foi.",
+    "Nome, RA, PIN e e-mail foram omitidos. Onde a questão aponta uma figura, a imagem não entrou no JSON."
+  ],
+  "questions": [
+    {
+      "type": "free_response",
+      "question": "Qual o nome da estrutura apontada na imagem?",
+      "correct_answer": "Tonsila do cerebelo",
+      "explanation": null,
+      "reference": null,
+      "id": 1
+    },
+    {
+      "type": "free_response",
+      "question": "Qual o nome da estrutura em destaque (verde) na imagem?",
+      "correct_answer": "Foice do cérebro",
+      "explanation": null,
+      "reference": null,
+      "id": 2
+    },
+    {
+      "type": "free_response",
+      "question": "Qual o nome do vaso em destaque (rosa) na imagem?",
+      "correct_answer": "Artéria basilar (ou a. basilar)",
+      "explanation": null,
+      "reference": null,
+      "id": 3
+    },
+    {
+      "type": "free_response",
+      "question": "Qual o nome da estrutura localizada dentro do ventrículo lateral apontada na imagem?",
+      "correct_answer": "Plexo corióide",
+      "explanation": null,
+      "reference": null,
+      "id": 4
+    },
+    {
+      "type": "free_response",
+      "question": "Qual o nome da região em destaque (verde) na imagem?",
+      "correct_answer": "Giro pré-central",
+      "explanation": null,
+      "reference": null,
+      "id": 5
+    },
+    {
+      "type": "free_response",
+      "question": "Nomear o acidente ósseo indicado pelo marcador vermelho. (não é necessário especificar o lado)",
+      "correct_answer": "Canal óptico",
+      "explanation": null,
+      "reference": null,
+      "id": 6
+    },
+    {
+      "type": "free_response",
+      "question": "Qual o nome da estrutura em destaque na imagem?",
+      "correct_answer": "Glândula pineal",
+      "explanation": null,
+      "reference": null,
+      "id": 7
+    },
+    {
+      "type": "free_response",
+      "question": "Qual o nome da estrutura anatômica apontada na imagem?",
+      "correct_answer": "Bigorna",
+      "explanation": null,
+      "reference": null,
+      "id": 8
+    },
+    {
+      "type": "free_response",
+      "question": "Qual o nome da estrutura apontada na imagem?",
+      "correct_answer": "Istmo do giro do cíngulo",
+      "explanation": null,
+      "reference": null,
+      "id": 9
+    },
+    {
+      "type": "free_response",
+      "question": "Nomear a estrutura anatômica indicada pelo círculo azul (corte sagital mediano).",
+      "correct_answer": "Quiasma óptico",
+      "explanation": null,
+      "reference": null,
+      "id": 10
+    },
+    {
+      "type": "free_response",
+      "question": "Qual o nome da abertura apontada na imagem?",
+      "correct_answer": "Fissura mediana anterior",
+      "explanation": null,
+      "reference": null,
+      "id": 11
+    },
+    {
+      "type": "free_response",
+      "question": "Qual o nome do nervo destacado (rosa) na imagem?",
+      "correct_answer": "N. troclear ou NC IV",
+      "explanation": null,
+      "reference": null,
+      "id": 12
+    },
+    {
+      "type": "free_response",
+      "question": "Nomear a estrutura anatômica indicada pelo círculo azul.",
+      "correct_answer": "Funículo lateral",
+      "explanation": null,
+      "reference": null,
+      "id": 13
+    },
+    {
+      "type": "free_response",
+      "question": "Nomear a estrutura anatômica indicada pelo círculo azul (vista anterior do tronco encefálico).",
+      "correct_answer": "Pedúnculo cerebral",
+      "explanation": null,
+      "reference": null,
+      "id": 14
+    },
+    {
+      "type": "free_response",
+      "question": "Nomear a estrutura do sistema nervoso indicada pelo círculo azul.",
+      "correct_answer": "Giro temporal superior",
+      "explanation": null,
+      "reference": null,
+      "id": 15
+    },
+    {
+      "type": "free_response",
+      "question": "Qual o nome do vaso em destaque (rosa) na imagem?",
+      "correct_answer": "Artéria vertebral",
+      "explanation": null,
+      "reference": null,
+      "id": 16
+    },
+    {
+      "type": "free_response",
+      "question": "Qual o nome do músculo apontado na imagem?",
+      "correct_answer": "Músculo ciliar",
+      "explanation": null,
+      "reference": null,
+      "id": 17
+    },
+    {
+      "type": "free_response",
+      "question": "Nomear a estrutura anatômica indicada pelo círculo azul (vista posterior do tronco encefálico e diencéfalo).",
+      "correct_answer": "Corpo geniculado lateral",
+      "explanation": null,
+      "reference": null,
+      "id": 18
+    },
+    {
+      "type": "free_response",
+      "question": "Qual o nome da estrutura apontada na imagem?",
+      "correct_answer": "Córnea",
+      "explanation": null,
+      "reference": null,
+      "id": 19
+    },
+    {
+      "type": "free_response",
+      "question": "Nomear a estrutura anatômica identificada pelo círculo azul (vista posterior do tronco encefálico).",
+      "correct_answer": "Tubérculo cuneiforme (ou tubérculo do núcleo cuneiforme)",
+      "explanation": null,
+      "reference": null,
+      "id": 20
+    },
+    {
+      "type": "free_response",
+      "question": "Qual o nome do orifício anatômico em destaque na imagem?",
+      "correct_answer": "Forame oval.",
+      "explanation": null,
+      "reference": null,
+      "id": 21
+    },
+    {
+      "type": "free_response",
+      "question": "Nomeie a estrutura destacada na imagem.",
+      "correct_answer": "Trago da orelha (aceitar apenas trago)",
+      "explanation": null,
+      "reference": null,
+      "id": 22
+    },
+    {
+      "type": "free_response",
+      "question": "Nomeie a estrutura apontada na imagem:",
+      "correct_answer": "a. comunicante posterior",
+      "explanation": null,
+      "reference": null,
+      "id": 23
+    },
+    {
+      "type": "free_response",
+      "question": "Nomeie a estrutura apontada na imagem:",
+      "correct_answer": "A. cerebral anterior",
+      "explanation": null,
+      "reference": null,
+      "id": 24
+    },
+    {
+      "type": "free_response",
+      "question": "Qual o nome da estrutura em destaque (verde) na imagem?",
+      "correct_answer": "Verme do cerebelo",
+      "explanation": null,
+      "reference": null,
+      "id": 25
+    }
+  ]
+}

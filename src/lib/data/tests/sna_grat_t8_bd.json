@@ -1,0 +1,149 @@
+{
+  "id": "sna_grat_t8_bd",
+  "test_title": "SNA (GRAT) T8-BD",
+  "notes": [
+    "Fonte: SNA (GRAT) T8-BD.pdf. Formulário não enviado, sem gabarito marcado. As respostas foram preenchidas para o app corrigir. Cada questão vale 50 pontos."
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "A região medular na qual estão localizados os corpos dos neurônios pré-ganglionares simpáticos é denominada:",
+      "options": [
+        "Coluna intermédio lateral crânio-sacral no tronco e em S2, S3 e S4.",
+        "Coluna ventral tóraco-lombar de T1 à L5.",
+        "Coluna dorsal tóraco-lombar de T1 à L5.",
+        "Coluna intermédio lateral tóraco-lombar de T1 à L2."
+      ],
+      "correct_answer": "Coluna intermédio lateral tóraco-lombar de T1 à L2.",
+      "explanation": "O pré-ganglionar simpático fica na coluna intermédia lateral de T1 a L2. A saída craniossacral é parassimpática.",
+      "reference": null
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "As fibras nervosas do SNA que secretam acetilcolina, na maioria dos casos, são:",
+      "options": [
+        "pós-ganglionares simpáticas, pré-ganglionares parassimpáticas e pós-ganglionares parassimpáticas",
+        "pré-ganglionares simpáticas, pré-ganglionares parassimpáticas e pós-ganglionares parassimpáticas",
+        "pré-ganglionares simpáticas, pré-ganglionares parassimpáticas e pós-ganglionares simpáticas",
+        "pós-ganglionares simpáticas e pré-ganglionares parassimpáticas"
+      ],
+      "correct_answer": "pré-ganglionares simpáticas, pré-ganglionares parassimpáticas e pós-ganglionares parassimpáticas",
+      "explanation": "Toda fibra pré-ganglionar é colinérgica, e a pós-ganglionar parassimpática também. A pós-ganglionar simpática em geral libera noradrenalina.",
+      "reference": null
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "As fibras pós-ganglionares simpáticas estão presentes no:",
+      "options": [
+        "ramo comunicante branco e são mielínicas",
+        "ramo comunicante cinzento e são mielínicas",
+        "ramo comunicante branco e são amielínicas",
+        "no ramo comunicante cinzento e são amielínicas"
+      ],
+      "correct_answer": "no ramo comunicante cinzento e são amielínicas",
+      "explanation": "O ramo branco leva fibras pré-ganglionares mielínicas. O ramo cinzento leva as pós-ganglionares simpáticas, amielínicas.",
+      "reference": null
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "As fibras pré-ganglionares parassimpáticas e pós-ganglionares simpáticas são fibras, respectivamente:",
+      "options": [
+        "longas – longas",
+        "curtas – longas",
+        "longas - curtas",
+        "curtas - curtas"
+      ],
+      "correct_answer": "longas – longas",
+      "explanation": "No parassimpático o pré-ganglionar é longo (gânglio perto do órgão). No simpático o pós-ganglionar é longo.",
+      "reference": null
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "O aumento da frequência cardíaca, a broncodilatação e a contração da pupila (midríase) ocorrem por inervação, respectivamente:",
+      "options": [
+        "simpático – simpático – simpática",
+        "parassimpático – simpático – parassimpático",
+        "simpático – simpático – parassimpático",
+        "parassimpático – parassimpático – parassimpático"
+      ],
+      "correct_answer": "simpático – simpático – simpática",
+      "explanation": "Taquicardia, broncodilatação e midríase são efeitos simpáticos. No enunciado, midríase é dilatação da pupila, não contração do esfíncter.",
+      "reference": null
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Os neurônios pré-ganglionares parassimpáticos estão localizados:",
+      "options": [
+        "nas partes cervical e torácica da medula",
+        "no tronco encefálico e na parte torácica da medula",
+        "nas partes torácica e lombar da medula",
+        "no tronco encefálico e na parte sacral da medula"
+      ],
+      "correct_answer": "no tronco encefálico e na parte sacral da medula",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "O que acontece quando o arco reflexo da micção é desencadeado?",
+      "options": [
+        "contração do detrusor e enchimento vesical",
+        "relaxamento do músculo esfíncter interno e esvaziamento vesical",
+        "contração do músculo esfíncter interno e esvaziamento vesical",
+        "contração do detrusor e esvaziamento vesical"
+      ],
+      "correct_answer": "contração do detrusor e esvaziamento vesical",
+      "explanation": "O parassimpático contrai o detrusor e relaxa o esfíncter interno, esvaziando a bexiga.",
+      "reference": null
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "A porção eferente do arco reflexo da micção é formada por:",
+      "options": [
+        "fibras simpáticas que relaxam o músculo esfíncter interno",
+        "fibras parassimpáticas que relaxam o músculo esfíncter interno",
+        "fibras parassimpáticas que contraem o músculo esfíncter interno",
+        "fibras simpáticas que contraem o músculo esfíncter interno"
+      ],
+      "correct_answer": "fibras parassimpáticas que relaxam o músculo esfíncter interno",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "O nervo esplâncnico é constituído por:",
+      "options": [
+        "fibras amielínicas simpáticas pré-ganglionares",
+        "fibras mielínicas simpáticas pré-ganglionares",
+        "fibras mielínicas simpáticas pós-ganglionares",
+        "fibras amielínicas simpáticas pós-ganglionares"
+      ],
+      "correct_answer": "fibras mielínicas simpáticas pré-ganglionares",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "A cadeia simpática paravertebral cervical é constituída por:",
+      "options": [
+        "um gânglio cervical, próximo do atlas",
+        "três gânglios cervicais: inferior, médio e superior",
+        "sete gânglios cervicais paralelos as sete vértebras cervicais",
+        "cinco gânglios cervicais, paralelos as vértebras de C3, C4, C5, C6 e C7"
+      ],
+      "correct_answer": "três gânglios cervicais: inferior, médio e superior",
+      "explanation": null,
+      "reference": null
+    }
+  ]
+}

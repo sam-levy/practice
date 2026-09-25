@@ -1,0 +1,288 @@
+{
+  "id": "anatomia_do_telencefalo",
+  "test_title": "Anatomia do telencéfalo",
+  "notes": [
+    "Fonte: Anatomia do telencfalo.PDF. Cópias duplicadas da mesma prova, na pasta do Desktop, não foram importadas de novo.",
+    "Gabarito tirado do formulário corrigido: alternativa marcada quando a questão foi aceita, ou o bloco Resposta correta / feedback quando não foi.",
+    "Nome, RA, PIN e e-mail foram omitidos. Onde a questão aponta uma figura, a imagem não entrou no JSON."
+  ],
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question": "O giro pré-central está localizado no lobo parietal e apresenta função motora",
+      "options": [
+        "Verdadeiro",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "explanation": null,
+      "reference": null,
+      "id": 1
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Fibras de associação são:",
+      "options": [
+        "axônios amielínicos que conectam áreas corticais com áreas subcorticias",
+        "axônios mielínicos que conectam áreas corticais entre si",
+        "axônios amielínicos que conectam áreas corticais entre si",
+        "axônios mielínicos que conectam áreas corticais com áreas subcorticias"
+      ],
+      "correct_answer": "axônios mielínicos que conectam áreas corticais entre si",
+      "explanation": null,
+      "reference": null,
+      "id": 2
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Podemos localizar o giro do cíngulo:",
+      "options": [
+        "entre os lobos parietal e temporal, na face inferior do telencéfalo",
+        "acima do corpo caloso, na face medial do telencéfalo",
+        "abaixo do corpo caloso, na face medial do telencéfalo",
+        "entre os lobos parietal e temporal, na face súpero-lateral do telencéfalo"
+      ],
+      "correct_answer": "acima do corpo caloso, na face medial do telencéfalo",
+      "explanation": null,
+      "reference": null,
+      "id": 3
+    },
+    {
+      "type": "multiple_choice",
+      "question": "O lóbulo paracentral apresenta funções motoras e sensitivas relacionadas com as áreas:",
+      "options": [
+        "do pé e da perna",
+        "do braço e antebraço",
+        "do tronco e pescoço",
+        "da mão e da cabeça"
+      ],
+      "correct_answer": "do pé e da perna",
+      "explanation": null,
+      "reference": null,
+      "id": 4
+    },
+    {
+      "type": "multiple_choice",
+      "question": "O hipocampo é um componente anatômico relacionado a memória e aprendizagem, localizado no lobo:",
+      "options": [
+        "frontal",
+        "occipital",
+        "temporal",
+        "parietal"
+      ],
+      "correct_answer": "temporal",
+      "explanation": null,
+      "reference": null,
+      "id": 5
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A cavidade da luz do tubo neural, relacionada com o telencéfalo é o:",
+      "options": [
+        "ventrículo lateral",
+        "canal ependimário",
+        "terceiro ventrículo",
+        "quarto ventrículo"
+      ],
+      "correct_answer": "ventrículo lateral",
+      "explanation": null,
+      "reference": null,
+      "id": 6
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Podemos realizar a correlação correta de: face do telencéfalo e artérias, sendo:",
+      "options": [
+        "face inferior - artéria cerebral anterior",
+        "face medial - artéria cerebral posterior",
+        "face súpero-lateral - artéria cerebral média"
+      ],
+      "correct_answer": "face súpero-lateral - artéria cerebral média",
+      "explanation": null,
+      "reference": null,
+      "id": 7
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Os lobos do telencéfalo que não estão apoiado na base do crânio são:",
+      "options": [
+        "frontal e parietal",
+        "occipital e parietal",
+        "parietal e temporal",
+        "temporal e occipital"
+      ],
+      "correct_answer": "occipital e parietal",
+      "explanation": null,
+      "reference": null,
+      "id": 8
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Os lobos frontal e parietal, na face súpero-lateral, são separados pelo sulco:",
+      "options": [
+        "central",
+        "do cíngulo",
+        "calcarino",
+        "lateral"
+      ],
+      "correct_answer": "central",
+      "explanation": null,
+      "reference": null,
+      "id": 9
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Assinale abaixo a fibra de projeção que conecta o hipocampo com o hipotálamo",
+      "options": [
+        "fórnice",
+        "comissura anterior",
+        "corpo caloso",
+        "cápsula interna"
+      ],
+      "correct_answer": "fórnice",
+      "explanation": null,
+      "reference": null,
+      "id": 10
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Escolha a alternativa que contém o nome anatômico da região indicada na imagem abaixo:",
+      "options": [
+        "giro do cíngulo",
+        "giro olfatório",
+        "giro reto",
+        "giro orbital"
+      ],
+      "correct_answer": "giro reto",
+      "explanation": null,
+      "reference": null,
+      "id": 11
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Escolha a alternativa que contém o nome anatômico da região indicada na imagem abaixo:",
+      "options": [
+        "parte triangular do giro frontal inferior",
+        "parte angular do giro frontal inferior",
+        "parte orbital do giro frontal inferior",
+        "parte opercular do giro frontal inferior"
+      ],
+      "correct_answer": "parte triangular do giro frontal inferior",
+      "explanation": null,
+      "reference": null,
+      "id": 12
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Escolha a alternativa que contém o nome anatômico da região indicada na imagem abaixo:",
+      "options": [
+        "rostro do corpo caloso",
+        "comissura do corpo caloso",
+        "joelho do corpo caloso",
+        "esplênio do corpo caloso"
+      ],
+      "correct_answer": "esplênio do corpo caloso",
+      "explanation": null,
+      "reference": null,
+      "id": 13
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Escolha a alternativa que contém o nome anatômico da região indicada na imagem abaixo:",
+      "options": [
+        "cúneo",
+        "giro lingual",
+        "lóbulo paracentral",
+        "pré-cúneo"
+      ],
+      "correct_answer": "pré-cúneo",
+      "explanation": null,
+      "reference": null,
+      "id": 14
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Escolha a alternativa que contém o nome anatômico da região indicada na imagem abaixo:",
+      "options": [
+        "esplênio",
+        "giro angular",
+        "unco",
+        "cúneo"
+      ],
+      "correct_answer": "unco",
+      "explanation": null,
+      "reference": null,
+      "id": 15
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Escolha a alternativa que contém o nome anatômico da região indicada na imagem abaixo:",
+      "options": [
+        "giro parietal inferior",
+        "giro temporoparietal",
+        "giro supramarginal",
+        "giro angular"
+      ],
+      "correct_answer": "giro angular",
+      "explanation": null,
+      "reference": null,
+      "id": 16
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Escolha a alternativa que contém o nome anatômico da região indicada na imagem abaixo:",
+      "options": [
+        "sulco occipitotemporal lateral",
+        "sulco occipitotemporal medial",
+        "sulco colateral",
+        "sulco rinal"
+      ],
+      "correct_answer": "sulco colateral",
+      "explanation": null,
+      "reference": null,
+      "id": 17
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Escolha a alternativa que contém o nome anatômico da região indicada na imagem abaixo:",
+      "options": [
+        "giro occipitotemporal medial",
+        "giro occipitotemporal lateral",
+        "giro temporal inferior",
+        "giro colateral"
+      ],
+      "correct_answer": "giro occipitotemporal lateral",
+      "explanation": null,
+      "reference": null,
+      "id": 18
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Escolha a alternativa que contém o nome anatômico da região indicada na imagem abaixo:",
+      "options": [
+        "cúneo",
+        "pré-cúneo",
+        "unco",
+        "lóbulo paracentral"
+      ],
+      "correct_answer": "lóbulo paracentral",
+      "explanation": null,
+      "reference": null,
+      "id": 19
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Escolha a alternativa que contém o nome anatômico da região indicada na imagem abaixo:",
+      "options": [
+        "ramo marginal do sulco lateral",
+        "ramo posterior do sulco lateral",
+        "ramo anterior do sulco lateral",
+        "ramo ascendente do sulco lateral"
+      ],
+      "correct_answer": "ramo ascendente do sulco lateral",
+      "explanation": null,
+      "reference": null,
+      "id": 20
+    }
+  ]
+}
