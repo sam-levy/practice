@@ -174,5 +174,30 @@ export const testManifest = [
     title: "Córtex cerebral",
     file: () => import("./cortex_cerebral.json"),
   },
+  {
+    id: "forms_4_pra_tutorada_nervos_cranianos",
+    title: "Forms 4 - PRA TUTORADA - NERVOS CRANIANOS",
+    file: () => import("./forms_4_pra_tutorada_nervos_cranianos.json"),
+  },
+  {
+    id: "sistema_limbico_medula_espinal_vias_aferentes",
+    title: "Sistema Límbico/Medula espinal/Vias aferentes",
+    file: () => import("./sistema_limbico_medula_espinal_vias_aferentes.json"),
+  },
+  {
+    id: "pra_bmf4_p1",
+    title: "PRA_BMF4_P1",
+    file: () => import("./pra_bmf4_p1.json"),
+  },
+  {
+    id: "forms6_visao_audicao_somestesia",
+    title: "Forms6_Visão_Audição_Somestesia",
+    file: () => import("./forms6_visao_audicao_somestesia.json"),
+  },
+  {
+    id: "propriocepcao_vias_eferentes_reflexos",
+    title: "Propriocepção_vias eferentes_reflexos",
+    file: () => import("./propriocepcao_vias_eferentes_reflexos.json"),
+  },
   // Add more tests here later, following the same shape
 ];

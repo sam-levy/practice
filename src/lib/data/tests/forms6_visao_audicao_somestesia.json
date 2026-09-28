@@ -1,0 +1,295 @@
+{
+  "id": "forms6_visao_audicao_somestesia",
+  "test_title": "Forms6_Visão_Audição_Somestesia",
+  "notes": [
+    "Fonte: Forms6_Visão_Audição_Somestesia.html (viewscore). Nome e a pergunta de envio foram omitidos.",
+    "Nas questões aceitas, o gabarito é a alternativa marcada como Correto. Nas erradas, é o bloco Resposta correta.",
+    "A questão 'Qual estrutura está lesionada?' aponta uma figura que não entrou no JSON."
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "As fibras acometidas foram: as homolaterais provenientes da retina temporal (olho direito) e, as fibras contralaterais provenientes da retina nasal (olho esquerdo). Portanto, qual a estrutura lesionada?",
+      "options": [
+        "trato óptico esquerdo",
+        "nervo óptico direito",
+        "trato óptico direito",
+        "nervo óptico esquerdo"
+      ],
+      "correct_answer": "trato óptico direito",
+      "explanation": null,
+      "reference": null,
+      "case_context": "Paciente foi encaminhado ao serviço de oftalmologia por perda de parte do campo visual. O médico responsável pelo exame informou a paciente sobre seu quadro e o encaminhou para a realização de um exame de ressonância magnética da cabeça."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Como será a perda visual do paciente?",
+      "options": [
+        "perda do hemicampo temporal do olho direito e nasal do olho esquerdo",
+        "perda do hemicampo nasal do olho direito e esquerdo",
+        "perda do hemicampo temporal do olho direito e esquerdo",
+        "perda do hemicampo nasal do olho direito e temporal do olho esquerdo"
+      ],
+      "correct_answer": "perda do hemicampo nasal do olho direito e temporal do olho esquerdo",
+      "explanation": null,
+      "reference": null,
+      "case_context": "Paciente foi encaminhado ao serviço de oftalmologia por perda de parte do campo visual. O médico responsável pelo exame informou a paciente sobre seu quadro e o encaminhou para a realização de um exame de ressonância magnética da cabeça."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Quais fibras foram acometidas?",
+      "options": [
+        "as fibras provenientes da hemirretina temporal do olho homolateral e nasal do olho contrlateral",
+        "as fibras provenientes da hemirretina temporal de cada olho",
+        "as fibras provenientes da hemirretina nasal do olho homolateral e temporal do olho contrlateral",
+        "as fibras provenientes da hemirretina nasal de cada olho"
+      ],
+      "correct_answer": "as fibras provenientes da hemirretina nasal de cada olho",
+      "explanation": null,
+      "reference": null,
+      "case_context": "Um paciente relata que tem batido em objetos com uma frequência maior do que de costume. Ele relata também cefaleia há alguns meses. Exame físico mostrou obesidade e perda de massa muscular de músculos proximais em membros superiores e inferiores. Sabendo que a lesão ocorreu no quiasma óptico, responda:"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Como será a perda do campo visual?",
+      "options": [
+        "hemicampo nasal de ambos os olhos",
+        "hemicampo temporal de ambos os olhos",
+        "hemicampo temporal do olho homolateral e hemicampo nasal do olho contralateral",
+        "hemicampo nasal do olho homolateral e hemicampo temporal do olho contralateral"
+      ],
+      "correct_answer": "hemicampo temporal de ambos os olhos",
+      "explanation": null,
+      "reference": null,
+      "case_context": "Um paciente relata que tem batido em objetos com uma frequência maior do que de costume. Ele relata também cefaleia há alguns meses. Exame físico mostrou obesidade e perda de massa muscular de músculos proximais em membros superiores e inferiores. Sabendo que a lesão ocorreu no quiasma óptico, responda:"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Uma mulher de 35 anos, residente em área rural e com dieta pobre, procura atendimento relatando dificuldade para enxergar em ambientes com pouca luz, especialmente à noite.\nO médico suspeita de hipovitaminose A. Por que este diagnóstico tem relação com o prejuízo visual?",
+      "options": [
+        "Porque a vitamina A compõe o pigmento dos cones, portanto sua deficiência estava levando ao prejuízo da visão noturna",
+        "Porque a vitamina A compõe o neurotransmissor liberado na presença de luz",
+        "Porque a vitamina A compõe a rodopsina, portanto sua deficiência estava levando ao prejuízo da visão noturna",
+        "Porque a vitamina A compõe o neurotransmissor liberado na ausência de luz"
+      ],
+      "correct_answer": "Porque a vitamina A compõe a rodopsina, portanto sua deficiência estava levando ao prejuízo da visão noturna",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Durante uma consulta oftalmológica, um fotógrafo de 28 anos comenta que, ao tentar focar objetos muito pequenos, como o brilho de uma estrela ou letras minúsculas, precisa olhar diretamente para eles para vê-los com nitidez.\nEle percebe que, quando tenta observá-los “de lado”, a imagem fica menos nítida e levemente borrada.\nO oftalmologista explica que isso é um fenômeno normal e está relacionado à estrutura especial da fóvea central, responsável pela visão de alta acuidade. Por que isso acontece?",
+      "options": [
+        "porque na fóvea há convergência do sinal e presença predominante de bastonetes",
+        "porque na fóvea há divergência do sinal e presença predominante de cones",
+        "porque na fóvea há divergência do sinal e presença predominante de bastonetes",
+        "porque na fóvea há convergência do sinal e presença predominante de cones"
+      ],
+      "correct_answer": "porque na fóvea há divergência do sinal e presença predominante de cones",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Um paciente sofreu um acidente vascular cerebral envolvendo o lobo temporal inferior esquerdo.\nApós a recuperação motora e da acuidade visual, ele relata que enxerga os objetos claramente, mas não consegue reconhecê-los.\nDurante o exame, ao mostrar uma caneta, ele diz que tem alguma coisa em seu campo visual, mas não consegue dizer o que é até tocar a caneta.\nO exame oftalmológico é normal, e o campo visual está preservado. O que foi lesionado?",
+      "options": [
+        "via visual dorsal",
+        "córtex visual primário",
+        "quiasma óptico",
+        "via visual ventral"
+      ],
+      "correct_answer": "via visual ventral",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Uma mulher de 54 anos, após um episódio de isquemia cerebral, relata uma alteração curiosa na visão:\nela vê os objetos parados nitidamente, mas tem grande dificuldade em perceber quando estão se movendo.\nDiz que, ao atravessar a rua, não consegue julgar a velocidade dos carros, e que as pessoas parecem “surgir” em novas posições, como se se deslocassem em “quadros congelados”.\nSua acuidade visual, percepção de cor e reconhecimento de formas estão preservados. Qual o local da lesão?",
+      "options": [
+        "via dorsal",
+        "trato óptico",
+        "quiasma óptico",
+        "via ventral"
+      ],
+      "correct_answer": "via dorsal",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Qual estrutura está lesionada?",
+      "options": [
+        "nervo oculomotor esquerdo",
+        "nervo óptico direito",
+        "nervo oculomotor direito",
+        "nervo óptico esquerdo"
+      ],
+      "correct_answer": "nervo oculomotor esquerdo",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Durante avaliação do reflexo fotomotor o neurologista observou que quando a luz era direcionada para o olho direito, nenhum dos olhos respondia com miose. E quando a luz era direcionada para o olho esquerdo, ambos os olhos respondiam com miose. Qual a conclusão do médico?",
+      "options": [
+        "lesão do nervo oculomotor direito",
+        "lesão do nervo óptico esquerdo",
+        "lesão do nervo óptico direito",
+        "lesão do nervo oculomotor esquerdo"
+      ],
+      "correct_answer": "lesão do nervo óptico direito",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Paciente apresenta lesão medular na altura de medula lombar do lado direito\nExame físico:\nPerda de tato epicrítico, sensibilidade vibratória e propriocepção consciente em um dos membros inferiores\nQuais tipos de fibras estão envolvidas com a sensibilidade acometida?",
+      "options": [
+        "fibras A-delta e C",
+        "fibras A-alfa e A-beta",
+        "fibras A-beta e A-delta",
+        "fibras C e A-beta"
+      ],
+      "correct_answer": "fibras A-alfa e A-beta",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Um paciente com herpes-zoster procura atendimento com lesões e dor em uma região bem delimitada. Sabendo que o vírus fica latente em um gânglio da raiz dorsal (gânglio espinal), por que os sintomas ocorrem dessa forma?",
+      "options": [
+        "pelo acometimento de um campo receptivo (área de inervação de um neurônio)",
+        "pelo acometimento de um campo receptivo (território cutâneo inervado por fibras de uma única raiz dorsal)",
+        "pelo acometimento de um dermátomo (território cutâneo inervado por fibras de uma única raiz dorsal)",
+        "pelo acometimento de um dermátomo (área de inervação de um neurônio)"
+      ],
+      "correct_answer": "pelo acometimento de um dermátomo (território cutâneo inervado por fibras de uma única raiz dorsal)",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Durante a avaliação da sensibilidade somestésica, um médico pegou realizou o teste de discriminação de dois pontos. Neste teste, o médico utilizou dois monofilamentos com uma distância de 2mm entre eles e os aplicou nos dedos do paciente e depois no dorso. O paciente não foi capaz de perceber dois pontos distintos quando os monofilamentos foram aplicados no dorso. O médico explicou que isso é normal. Por que isso acontece?",
+      "options": [
+        "porque poucos neurônios inervam os dedos em relação ao dorso",
+        "porque o tamanho dos campos receptivos no dorso são pequenos",
+        "porque ocorre maior convergência neste local",
+        "porque os mecanoceptores são mais sensíveis nos dedos do que no dorso"
+      ],
+      "correct_answer": "porque ocorre maior convergência neste local",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Durante uma consulta de rotina, um paciente queixa-se de dormência e formigamento. Ele possui diabetes de difícil controle há 20 anos. Durante o exame neurológico, o médico realizou o teste de discriminação de dois pontos, no qual dois pontos são estimulados ao mesmo tempo na ponta dos dedos. Com o resultado deste teste, o médico observou alteração do tato epicrítico, provavelmente devido à neuropatia diabética. O teste mostrou acometimento de qual tipo de fibra e por que ele foi feito na ponta dos dedos?",
+      "options": [
+        "Fibras A-beta; porque o tamanho dos campos receptivos na ponta dos dedos é pequeno",
+        "Fibras A-beta; porque na ponta dos dedos ocorre convergência",
+        "Fibras C; porque o tamanho dos campos receptivos na ponta dos dedos é pequeno",
+        "Fibras C; porque na ponta dos dedos ocorre convergência"
+      ],
+      "correct_answer": "Fibras A-beta; porque o tamanho dos campos receptivos na ponta dos dedos é pequeno",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Paciente de 70 anos observou que não conseguia levantar uma xícara de café com sua mão esquerda. Ele ficou preocupado e procurou atendimento médico. O exame neurológico evidenciou perda de força muscular. O médico também avaliou sensibilidade tátil realizando o teste de discriminação de dois pontos, concluindo que não havia alteração dessa sensibilidade. Neste teste, o médico realizou dois estímulos ao mesmo tempo com uma pequena distância entre eles nas pontas dos dedos e uma distância bem maior no dorso. O paciente foi capaz de detectar os dois pontos tanto nos dedos como no dorso. \nRelacione o mapa cortical (somatotopia) com a diferença na distância aplicada entre os pontos nos dedos e no dorso.",
+      "options": [
+        "a representação cortical dos dedos é menor do que a do dorso",
+        "a neuroplasticidade é maior nos dedos",
+        "a representação dos dedos está no córtex somestésico secundário",
+        "a representação cortical dos dedos é maior do que a do dorso"
+      ],
+      "correct_answer": "a representação cortical dos dedos é maior do que a do dorso",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Lesão em qual dos pontos da via auditiva poderá produzir surdez em uma das orelhas?",
+      "options": [
+        "Gânglio espiral ou oliva superior",
+        "Oliva superior e lemnisco lateral",
+        "Fibras do nervo auditivo (coclear) ou núcleo coclear",
+        "Lemnisco lateral e córtex auditivo"
+      ],
+      "correct_answer": "Fibras do nervo auditivo (coclear) ou núcleo coclear",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Paciente do sexo feminino, brasileira, 22 anos, portadora de surdez congênita, que apresentava um volumoso bócio multinodular e hipotireoidismo desde a puberdade. Foi diagnosticada com Síndrome de Pendred, provavelmente a principal causa de surdez sindrômica. Pacientes que possuem essa síndrome apresentam mutação em um trocador iônico do ouvido interno, expresso no epitélio do ducto coclear. Mutação na proteína citada pode causar surdez porque:",
+      "options": [
+        "A composição iônica da endolinfa é importante para que haja influxo de K+, e então despolarização da célula ciliada",
+        "A formação de uma perilinfa mais concentrada de K+ e Ca2+ é essencial para a despolarização da célula ciliada",
+        "Esse trocador iônico é importante porque é através dele que os neurotransmissores são exocitados das células ciliadas",
+        "Esse trocador iônico é o responsável pela entrada de Na+ na célula ciliada, e saída de K+, levando à despolarização"
+      ],
+      "correct_answer": "A composição iônica da endolinfa é importante para que haja influxo de K+, e então despolarização da célula ciliada",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Paciente apresenta presbiacusia, na qual, inicialmente, ocorre um processo de degeneração na base da membrana coclear. Neste caso, qual frequência sonora o paciente deixará de ouvir?",
+      "options": [
+        "frequência baixa (sons agudos)",
+        "frequência alta (sons agudos)",
+        "frequência baixa (sons graves)",
+        "frequência alta (sons graves)"
+      ],
+      "correct_answer": "frequência alta (sons agudos)",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "A otosclerose cursa com ossificação anormal do estribo no osso adjacente, impedindo a articulação entre eles. Qual será o resultado disso?",
+      "options": [
+        "amplificação do som, pela perda da proteção contra sons altos que os ossículos da orelha média realizam",
+        "perda auditiva, pela alteração das concentrações iônicas na perilinfa",
+        "perda auditiva, pela perda da capacidade de amplificação do som",
+        "paciente escuta sons mais altos, pois os ossículos presentes na orelha externa deixam de controlar o músculo estapédio"
+      ],
+      "correct_answer": "perda auditiva, pela perda da capacidade de amplificação do som",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Paciente de 58 anos de idade comparece ao pronto-socorro. Toda a hemiface do paciente está paralisada. Paciente relata dos sons da sala, diz que está tudo muito alto (hiperacusia). A lesão de qual nervo craniano explica o caso?",
+      "options": [
+        "nervo facial (VII), pois ele leva a informação auditiva até o núcleo olivar",
+        "nervo vestíbulo-coclear (VIII), pois ele leva a informação auditiva até o núcleo olivar",
+        "nervo facial (VII), pois ele inerva o músculo estapédio",
+        "nervo vestíbulo-coclear (VIII), pois ele inerva o músculo estapédio"
+      ],
+      "correct_answer": "nervo facial (VII), pois ele inerva o músculo estapédio",
+      "explanation": null,
+      "reference": null
+    }
+  ]
+}
