@@ -3,8 +3,7 @@
   "test_title": "Forms6_Visão_Audição_Somestesia",
   "notes": [
     "Fonte: Forms6_Visão_Audição_Somestesia.html (viewscore). Nome e a pergunta de envio foram omitidos.",
-    "Nas questões aceitas, o gabarito é a alternativa marcada como Correto. Nas erradas, é o bloco Resposta correta.",
-    "A questão 'Qual estrutura está lesionada?' aponta uma figura que não entrou no JSON."
+    "Nas questões aceitas, o gabarito é a alternativa marcada como Correto. Nas erradas, é o bloco Resposta correta."
   ],
   "questions": [
     {
@@ -231,7 +230,12 @@
       "id": 9,
       "type": "multiple_choice",
       "question": "Qual estrutura está lesionada?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms6_visao_audicao_somestesia/q9-1.webp",
+          "description": "Figura da lesão."
+        }
+      ],
       "options": {
         "a": {
           "content": "nervo oculomotor esquerdo",

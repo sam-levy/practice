@@ -3,8 +3,7 @@
   "test_title": "AV2 - BMF4",
   "notes": [
     "Fonte: AV2 - BMF4 (1).pdf. Cópias duplicadas da mesma prova, na pasta do Desktop, não foram importadas de novo.",
-    "Gabarito tirado do formulário corrigido: alternativa marcada quando a questão foi aceita, ou o bloco Resposta correta / feedback quando não foi.",
-    "Nome, RA, PIN e e-mail foram omitidos. Onde a questão aponta uma figura, a imagem não entrou no JSON."
+    "Gabarito tirado do formulário corrigido: alternativa marcada quando a questão foi aceita, ou o bloco Resposta correta / feedback quando não foi."
   ],
   "questions": [
     {
@@ -335,7 +334,12 @@
       "id": 13,
       "type": "multiple_choice",
       "question": "Em uma visita ao setor de neurologia, o médico responsável pelo setor decidiu fazer um teste com os alunos antes de passar os casos do dia. Ele apontou uma estrutura encefálica em uma imagem (imagem anexa) e pediu para os alunos discorrerem a respeito da mesma. Assinale a alternativa que apresenta informações corretas a respeito da estrutura em questão.",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/av2_bmf4/q13-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "options": {
         "a": {
           "content": "A estrutura apontada trata-se da pirâmide bulbar constituída por feixes de fibras sensitivas (fibras ascendentes).",

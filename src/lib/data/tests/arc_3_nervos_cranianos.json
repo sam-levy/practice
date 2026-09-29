@@ -2,7 +2,7 @@
   "id": "arc_3_nervos_cranianos",
   "test_title": "ARC 3 - nervos cranianos",
   "notes": [
-    "Fonte: ARC 3 - nervos cranianos (1).pdf. As respostas já estavam escritas no PDF, junto dos casos. As figuras citadas não entraram no JSON."
+    "Fonte: ARC 3 - nervos cranianos (1).pdf. As respostas já estavam escritas no PDF, junto dos casos."
   ],
   "questions": [
     {
@@ -10,7 +10,12 @@
       "type": "free_response",
       "case_context": "Homem, 43 anos: perda da gustação no 1/3 posterior da língua, paralisia da prega vocal, paralisia do palato mole, disfagia e fraqueza de esternocleidomastóideo e trapézio. RM: tumor expansivo no forame jugular.",
       "question": "Quais nervos cranianos estão comprometidos pelo tumor no forame jugular?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/arc_3_nervos_cranianos/caso1-trapezio.webp",
+          "description": "Foto do pescoço e da cintura escapular, com fraqueza de esternocleidomastóideo e trapézio."
+        }
+      ],
       "correct_answer": "NC IX (glossofaríngeo), NC X (vago) e NC XI (acessório).",
       "explanation": null,
       "reference": null
@@ -20,7 +25,12 @@
       "type": "free_response",
       "case_context": "Homem, 43 anos: perda da gustação no 1/3 posterior da língua, paralisia da prega vocal, paralisia do palato mole, disfagia e fraqueza de esternocleidomastóideo e trapézio. RM: tumor expansivo no forame jugular.",
       "question": "Correlacione os sintomas do paciente com seus respectivos nervos comprometidos.",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/arc_3_nervos_cranianos/caso1-trapezio.webp",
+          "description": "Foto do pescoço e da cintura escapular, com fraqueza de esternocleidomastóideo e trapézio."
+        }
+      ],
       "correct_answer": "Gustação do 1/3 posterior da língua: NC IX. Paralisia da prega vocal e do palato mole: NC X (palato e laringe, inclusive pelo laríngeo recorrente). Disfagia e fraqueza de esternocleidomastóideo e trapézio: NC XI.",
       "explanation": null,
       "reference": null
@@ -30,7 +40,12 @@
       "type": "free_response",
       "case_context": "Homem, 43 anos: perda da gustação no 1/3 posterior da língua, paralisia da prega vocal, paralisia do palato mole, disfagia e fraqueza de esternocleidomastóideo e trapézio. RM: tumor expansivo no forame jugular.",
       "question": "Qual é a origem aparente dos nervos comprometidos?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/arc_3_nervos_cranianos/caso1-trapezio.webp",
+          "description": "Foto do pescoço e da cintura escapular, com fraqueza de esternocleidomastóideo e trapézio."
+        }
+      ],
       "correct_answer": "Origem óssea: forame jugular. Origem aparente de IX, X e XI: sulco póstero-lateral do bulbo (sulco retro-olivar).",
       "explanation": null,
       "reference": null
@@ -40,7 +55,12 @@
       "type": "free_response",
       "case_context": "Homem, 64 anos, com movimentação do bulbo ocular direito comprometida e diplopia. TC: aneurisma da artéria carótida interna direita.",
       "question": "Qual nervo craniano está comprometido?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/arc_3_nervos_cranianos/caso2-aneurisma.webp",
+          "description": "Tomografia da artéria carótida interna e fotos do olhar."
+        }
+      ],
       "correct_answer": "Nervo abducente direito (NC VI).",
       "explanation": null,
       "reference": null
@@ -50,7 +70,12 @@
       "type": "free_response",
       "case_context": "Homem, 64 anos, com movimentação do bulbo ocular direito comprometida e diplopia. TC: aneurisma da artéria carótida interna direita.",
       "question": "Qual a relação do aneurisma da artéria carótida interna com os sintomas?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/arc_3_nervos_cranianos/caso2-aneurisma.webp",
+          "description": "Tomografia da artéria carótida interna e fotos do olhar."
+        }
+      ],
       "correct_answer": "A artéria carótida interna fica próxima do NC VI. O aneurisma comprime o nervo abducente.",
       "explanation": null,
       "reference": null
@@ -60,7 +85,12 @@
       "type": "free_response",
       "case_context": "Homem, 64 anos, com movimentação do bulbo ocular direito comprometida e diplopia. TC: aneurisma da artéria carótida interna direita.",
       "question": "Quais são as origens real, aparente e óssea do nervo comprometido?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/arc_3_nervos_cranianos/caso2-aneurisma.webp",
+          "description": "Tomografia da artéria carótida interna e fotos do olhar."
+        }
+      ],
       "correct_answer": "NC VI: origem real na ponte, origem aparente no sulco bulbopontino, origem óssea na fissura orbitária superior.",
       "explanation": null,
       "reference": null
@@ -120,9 +150,18 @@
       "type": "free_response",
       "case_context": "Figura 1: lesões por herpes-zóster. Figura 2: desvio da língua.",
       "question": "Quais nervos estão comprometidos nas figuras 1 e 2?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/arc_3_nervos_cranianos/q12-figura1.webp",
+          "description": "Figura 1: lesões por herpes-zóster."
+        },
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/arc_3_nervos_cranianos/q12-figura2.webp",
+          "description": "Figura 2: desvio da língua."
+        }
+      ],
       "correct_answer": "Figura 1: ramo mandibular do trigêmeo esquerdo (NC V3). Figura 2: hipoglosso esquerdo (NC XII); a língua desvia para o lado da lesão.",
-      "explanation": "As figuras não entraram no JSON.",
+      "explanation": null,
       "reference": null
     }
   ]

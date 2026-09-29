@@ -145,7 +145,12 @@
       "id": 6,
       "type": "multiple_choice",
       "question": "Em uma visita ao setor de neurologia, o médico responsável pelo setor decidiu fazer um teste com os alunos antes de passar os casos do dia. Ele apontou uma estrutura encefálica em uma imagem (imagem anexa) e pediu para os alunos discorrerem a respeito da mesma. Assinale a alternativa que apresenta informações corretas a respeito da estrutura em questão.",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/propriocepcao_vias_eferentes_reflexos/q6-1.webp",
+          "description": "Estrutura encefálica indicada na questão."
+        }
+      ],
       "options": {
         "a": {
           "content": "A estrutura apontada trata-se da pirâmide bulbar constituída por feixes de fibras sensitivas (fibras ascendentes).",

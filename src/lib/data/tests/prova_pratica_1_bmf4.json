@@ -3,15 +3,19 @@
   "test_title": "Prova Prática 1 - BMF 4",
   "notes": [
     "Fonte: Prova Pratica 1 - BMF 4 (1).pdf. Cópias duplicadas da mesma prova, na pasta do Desktop, não foram importadas de novo.",
-    "Gabarito tirado do formulário corrigido: alternativa marcada quando a questão foi aceita, ou o bloco Resposta correta / feedback quando não foi.",
-    "Nome, RA, PIN e e-mail foram omitidos. Onde a questão aponta uma figura, a imagem não entrou no JSON."
+    "Gabarito tirado do formulário corrigido: alternativa marcada quando a questão foi aceita, ou o bloco Resposta correta / feedback quando não foi."
   ],
   "questions": [
     {
       "id": 1,
       "type": "free_response",
       "question": "Qual é o osso marcado na imagem?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q1-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "etmóide QUESTÃO 2",
       "explanation": null,
       "reference": null
@@ -20,7 +24,12 @@
       "id": 2,
       "type": "free_response",
       "question": "Qual forame está apontado na imagem?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q2-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "Forame espinhoso QUESTÃO 3",
       "explanation": null,
       "reference": null
@@ -29,7 +38,12 @@
       "id": 3,
       "type": "free_response",
       "question": "Qual forame está apontado na imagem?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q3-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "Forame oval QUESTÃO 4",
       "explanation": null,
       "reference": null
@@ -38,7 +52,12 @@
       "id": 4,
       "type": "free_response",
       "question": "Qual é o osso marcado na imagem?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q4-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "occipital QUESTÃO 5",
       "explanation": null,
       "reference": null
@@ -47,7 +66,12 @@
       "id": 5,
       "type": "free_response",
       "question": "Qual é o nome da estrutura apontada na imagem abaixo?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q5-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "Aderência intertalâmica QUESTÃO 6",
       "explanation": null,
       "reference": null
@@ -56,7 +80,12 @@
       "id": 6,
       "type": "free_response",
       "question": "Qual é o nome da estrutura apontada na imagem abaixo?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q6-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "Corpo mamilar / Corpo mamilar do hipotálamo / Corpo mamilar (esquerdo) / Copor mamilar do hipotálamo (esquerdo) QUESTÃO 7",
       "explanation": null,
       "reference": null
@@ -65,7 +94,12 @@
       "id": 7,
       "type": "free_response",
       "question": "Qual estrutura está apontada na imagem?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q7-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "Núcleo talâmico anterior Tubérculo anterior Núcleos anteriores do tálamo Grupo anterior de núcleos talâmicos OBS.: Para aqueles que mencionaram o lado: esquerdo. QUESTÃO 8",
       "explanation": null,
       "reference": null
@@ -74,7 +108,12 @@
       "id": 8,
       "type": "free_response",
       "question": "Qual estrutura está apontada na imagem?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q8-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "Corpo geniculado medial OBS.: Para aqueles que mencionaram o lado: esquerdo. QUESTÃO 9",
       "explanation": null,
       "reference": null
@@ -83,7 +122,12 @@
       "id": 9,
       "type": "free_response",
       "question": "Qual estrutura está apontada na imagem?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q9-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "Giro frontal médio OBS.: Para aqueles que mencionaram o lado: esquerdo. QUESTÃO 10",
       "explanation": null,
       "reference": null
@@ -92,7 +136,12 @@
       "id": 10,
       "type": "free_response",
       "question": "Qual estrutura está marcada na imagem?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q10-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "Giro pré-central OBS.: Para aqueles que mencionaram o lado: esquerdo. QUESTÃO 11",
       "explanation": null,
       "reference": null
@@ -101,7 +150,12 @@
       "id": 11,
       "type": "free_response",
       "question": "Qual estrutura está apontada na imagem?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q11-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "Unco / uncus OBS.: Para aqueles que mencionaram o lado: direito. QUESTÃO 12",
       "explanation": null,
       "reference": null
@@ -110,7 +164,12 @@
       "id": 12,
       "type": "free_response",
       "question": "Qual estrutura está apontada na imagem?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q12-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "Sulco do cíngulo cingulado OBS.: Para aqueles que mencionaram o lado: direito. QUESTÃO 13",
       "explanation": null,
       "reference": null
@@ -119,7 +178,12 @@
       "id": 13,
       "type": "free_response",
       "question": "Qual estrutura está apontada na imagem?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q13-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "Sulco paracentral OBS.: Para aqueles que mencionaram o lado: direito. QUESTÃO 14",
       "explanation": null,
       "reference": null
@@ -128,7 +192,12 @@
       "id": 14,
       "type": "free_response",
       "question": "Qual estrutura está marcada na imagem?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q14-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "Giro do cíngulo OBS.: Para aqueles que mencionaram o lado: direito. QUESTÃO 15",
       "explanation": null,
       "reference": null
@@ -137,7 +206,12 @@
       "id": 15,
       "type": "free_response",
       "question": "Qual é o nome da estrutura apontada na imagem abaixo?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q15-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "Putâmen OBS.: Para aqueles que mencionaram o lado: esquerdo. QUESTÃO 16",
       "explanation": null,
       "reference": null
@@ -146,7 +220,12 @@
       "id": 16,
       "type": "free_response",
       "question": "Qual é o nome da estrutura apontada na imagem abaixo?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q16-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "Giro temporal superior OBS.: Para aqueles que mencionaram o lado: esquerdo. QUESTÃO 17",
       "explanation": null,
       "reference": null
@@ -155,7 +234,12 @@
       "id": 17,
       "type": "free_response",
       "question": "Qual é o nome da estrutura apontada na imagem abaixo?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q17-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "Corpo caloso O seta está apontando diretamente a região do tronco do corpo caloso. OBS.: Para aqueles que mencionaram o lado: direito. QUESTÃO 18",
       "explanation": null,
       "reference": null
@@ -164,7 +248,12 @@
       "id": 18,
       "type": "free_response",
       "question": "Qual é o nome da estrutura apontada na imagem abaixo?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q18-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "Giro parahipocampal OBS.: Para aqueles que mencionaram o lado: esquerdo. QUESTÃO 19",
       "explanation": null,
       "reference": null
@@ -173,7 +262,12 @@
       "id": 19,
       "type": "free_response",
       "question": "Qual é o nome da estrutura apontada na imagem abaixo?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q19-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "Giro angular OBS.: Para aqueles que mencionaram o lado: esquerdo. QUESTÃO 20",
       "explanation": null,
       "reference": null
@@ -182,7 +276,12 @@
       "id": 20,
       "type": "free_response",
       "question": "Qual é o nome da estrutura apontada na imagem abaixo?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q20-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "Sulco calcarino OBS.: Para aqueles que mencionaram o lado: direito. QUESTÃO 21",
       "explanation": null,
       "reference": null
@@ -191,7 +290,12 @@
       "id": 21,
       "type": "free_response",
       "question": "Nomeie a estrutura apontada:",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q21-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "mielina/bainha de mielina QUESTÃO 22",
       "explanation": null,
       "reference": null
@@ -200,7 +304,12 @@
       "id": 22,
       "type": "free_response",
       "question": "Nomeie a estrutura apontada",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q22-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "axônio QUESTÃO 23",
       "explanation": null,
       "reference": null
@@ -209,7 +318,12 @@
       "id": 23,
       "type": "free_response",
       "question": "Nomeie a célula apontada:",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q23-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "células ependimárias QUESTÃO 24",
       "explanation": null,
       "reference": null
@@ -218,7 +332,12 @@
       "id": 24,
       "type": "free_response",
       "question": "Nomeie a estrutura apontada",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q24-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "corpúsculo de Nissl QUESTÃO 25",
       "explanation": null,
       "reference": null
@@ -227,7 +346,12 @@
       "id": 25,
       "type": "free_response",
       "question": "Nomeie a célula apontada",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/prova_pratica_1_bmf4/q25-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "correct_answer": "células da glia",
       "explanation": null,
       "reference": null

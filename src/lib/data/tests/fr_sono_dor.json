@@ -252,7 +252,12 @@
       "id": 10,
       "type": "multiple_choice",
       "question": "Qual será o resultado na medula espinal após o uso de um fármaco opiode sobre a substância cinzenta periaquedutal (PAG)?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/fr_sono_dor/q10-1.webp",
+          "description": "Esquema da medula espinal após ação de opioide na PAG."
+        }
+      ],
       "options": {
         "a": {
           "content": "neurônios dopaminérgicos do Locus ceruleus são estimulados, inibindo o segundo neurônio da via da dor",

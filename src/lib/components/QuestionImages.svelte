@@ -7,11 +7,11 @@
 {#if images.length > 0}
   <div class="my-3 space-y-3">
     {#each images as image}
-      <figure class="space-y-1">
+      <figure class="flex! w-full flex-col! items-stretch! justify-start! gap-1">
         <img
           src={image.url}
           alt={image.description}
-          class="max-w-full rounded-lg border border-base-300"
+          class="h-auto w-auto max-w-full self-start rounded-lg border border-base-300"
         />
         {#if image.description}
           <figcaption class="text-sm text-base-content/70">

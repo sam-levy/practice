@@ -3,8 +3,7 @@
   "test_title": "Sistema Límbico/Medula espinal/Vias aferentes",
   "notes": [
     "Fonte: Sistema Límbico/Medula espinal/Vias aferentes (viewscore). Nome, RA e a pergunta de envio foram omitidos.",
-    "Nas questões aceitas (50/50) o gabarito é a alternativa marcada. Nas duas com 0/50, o gabarito é o bloco Resposta correta.",
-    "Duas questões pedem a via desenhada na figura e duas pedem o que está apontado em A. As imagens não entraram no JSON."
+    "Nas questões aceitas (50/50) o gabarito é a alternativa marcada. Nas duas com 0/50, o gabarito é o bloco Resposta correta."
   ],
   "questions": [
     {
@@ -173,7 +172,12 @@
       "id": 7,
       "type": "multiple_choice",
       "question": "Qual das vias aferentes está esquematizada na figura?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/sistema_limbico_medula_espinal_vias_aferentes/q7-1.webp",
+          "description": "Esquema da via aferente."
+        }
+      ],
       "options": {
         "a": {
           "content": "via da dor lenta",
@@ -200,7 +204,12 @@
       "id": 8,
       "type": "multiple_choice",
       "question": "Qual das vias aferentes está esquematizada na figura?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/sistema_limbico_medula_espinal_vias_aferentes/q8-1.webp",
+          "description": "Esquema da via aferente."
+        }
+      ],
       "options": {
         "a": {
           "content": "via da pressão e tato protopático",
@@ -408,7 +417,12 @@
       "id": 16,
       "type": "multiple_choice",
       "question": "Paciente comparece ao consultório médico queixando-se de lesões dolorosas conforme a figura 1. Possui histórico de varicela na infância. O diagnóstico foi de herpes-zoster. Compare o local da lesão (figura 1) com o mapa de dermátomos (figura 2) e explique o porquê desta lesão tão bem delimitada.",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/sistema_limbico_medula_espinal_vias_aferentes/q16-1.webp",
+          "description": "Figura 1: lesões de herpes-zóster. Figura 2: mapa de dermátomos."
+        }
+      ],
       "options": {
         "a": {
           "content": "a área da pele acometida é inervada por fibras provenientes apenas do funículo anterior",
@@ -435,7 +449,12 @@
       "id": 17,
       "type": "multiple_choice",
       "question": "O que está apontado em A?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/sistema_limbico_medula_espinal_vias_aferentes/q17-1.webp",
+          "description": "Corte com o ponto A indicado."
+        }
+      ],
       "options": {
         "a": {
           "content": "fascículo grácil",
@@ -462,7 +481,12 @@
       "id": 18,
       "type": "multiple_choice",
       "question": "O que está apontado em A?",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/sistema_limbico_medula_espinal_vias_aferentes/q18-1.webp",
+          "description": "Corte com o ponto A indicado."
+        }
+      ],
       "options": {
         "a": {
           "content": "funículo lateral",

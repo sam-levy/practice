@@ -3,8 +3,7 @@
   "test_title": "Potencial de ação",
   "notes": [
     "Fonte: Potencial de ao.PDF. Cópias duplicadas da mesma prova, na pasta do Desktop, não foram importadas de novo.",
-    "Gabarito tirado do formulário corrigido: alternativa marcada quando a questão foi aceita, ou o bloco Resposta correta / feedback quando não foi.",
-    "Nome, RA, PIN e e-mail foram omitidos. Onde a questão aponta uma figura, a imagem não entrou no JSON."
+    "Gabarito tirado do formulário corrigido: alternativa marcada quando a questão foi aceita, ou o bloco Resposta correta / feedback quando não foi."
   ],
   "questions": [
     {
@@ -83,7 +82,12 @@
       "id": 5,
       "type": "multiple_choice",
       "question": "Analisando a aplicação de drogas em canais iônicos e o gráfico abaixo, podemos concluir que:",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/potencial_de_acao/q5-1.webp",
+          "description": "Gráfico da aplicação de uma droga em canais iônicos."
+        }
+      ],
       "options": {
         "a": {
           "content": "A comporta de inativação do canal do Na+ voltagem dependente, foi bloqueada, não entrou em operação",
@@ -138,7 +142,7 @@
       "type": "free_response",
       "question": "O que é período refratário relativo?",
       "images": [],
-      "correct_answer": "O período no qual um novo potencial de ação pode ser deflagrado se um estímulo supralimiar for aplicado, pois uma porcentagem de canais de sódio dependentes de voltagem já saíram do estado de inativação (repouso) Observe a representação de potencial de ação abaixo. Identifique o que está ocorrendo em cada um dos momentos indicados pelos números. 1=Potencial de repouso 2=estímulo despolarizante 3=Abertura do canal de sódio 4=Despolarização da célula e influxo de sódio 5= Pico de excitabilidade, fecha canal de sódio e abre canal de potássio 6=Repolarização da célula, efluxo de potássio 7= Hiperpolarização 8= Influxo de cloreto. 1 - potencial de repouso 2 - despolarização 3 - limiar 4 - fase ascendente do potencial de ação (influxo de sódio) 5 - pico (inativação dos canais de sódio dependentes de voltagem e abertura dos canais de potássio dependentes de voltagem) 6 - fase descendente do potencial de ação (efluxo de potássio) 7 - hiperpolarização 8 - repolarização",
+      "correct_answer": "O período no qual um novo potencial de ação pode ser deflagrado se um estímulo supralimiar for aplicado, pois uma porcentagem de canais de sódio dependentes de voltagem já saíram do estado de inativação (repouso)",
       "explanation": null,
       "reference": null
     },
@@ -146,9 +150,14 @@
       "id": 8,
       "type": "free_response",
       "question": "Observe a representação de potencial de ação. Identifique o que está ocorrendo em cada um dos momentos indicados pelos números.",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/potencial_de_acao/q8-1.webp",
+          "description": "Representação numerada do potencial de ação."
+        }
+      ],
       "correct_answer": "1 potencial de repouso; 2 despolarização; 3 limiar; 4 fase ascendente (influxo de sódio); 5 pico (inativação dos canais de sódio dependentes de voltagem e abertura dos canais de potássio dependentes de voltagem); 6 fase descendente (efluxo de potássio); 7 hiperpolarização; 8 repolarização.",
-      "explanation": "O gráfico não entrou no JSON.",
+      "explanation": null,
       "reference": null
     },
     {

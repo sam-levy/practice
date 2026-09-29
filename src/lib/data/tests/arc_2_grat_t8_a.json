@@ -254,7 +254,12 @@
       "id": 10,
       "type": "multiple_choice",
       "question": "O pé e a perna estão representados no córtex sensitivo, na face:",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/arc_2_grat_t8_a/q10.png",
+          "description": "Homúnculo do córtex sensitivo, com o giro pós-central e a face medial indicada."
+        }
+      ],
       "options": {
         "a": {
           "content": "medial",

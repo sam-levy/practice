@@ -3,8 +3,7 @@
   "test_title": "Anatomia do telencéfalo",
   "notes": [
     "Fonte: Anatomia do telencfalo.PDF. Cópias duplicadas da mesma prova, na pasta do Desktop, não foram importadas de novo.",
-    "Gabarito tirado do formulário corrigido: alternativa marcada quando a questão foi aceita, ou o bloco Resposta correta / feedback quando não foi.",
-    "Nome, RA, PIN e e-mail foram omitidos. Onde a questão aponta uma figura, a imagem não entrou no JSON."
+    "Gabarito tirado do formulário corrigido: alternativa marcada quando a questão foi aceita, ou o bloco Resposta correta / feedback quando não foi."
   ],
   "questions": [
     {
@@ -269,7 +268,12 @@
       "id": 11,
       "type": "multiple_choice",
       "question": "Escolha a alternativa que contém o nome anatômico da região indicada na imagem abaixo:",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/anatomia_do_telencefalo/q11-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "options": {
         "a": {
           "content": "giro do cíngulo",
@@ -296,7 +300,12 @@
       "id": 12,
       "type": "multiple_choice",
       "question": "Escolha a alternativa que contém o nome anatômico da região indicada na imagem abaixo:",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/anatomia_do_telencefalo/q12-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "options": {
         "a": {
           "content": "parte triangular do giro frontal inferior",
@@ -323,7 +332,12 @@
       "id": 13,
       "type": "multiple_choice",
       "question": "Escolha a alternativa que contém o nome anatômico da região indicada na imagem abaixo:",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/anatomia_do_telencefalo/q13-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "options": {
         "a": {
           "content": "rostro do corpo caloso",
@@ -350,7 +364,12 @@
       "id": 14,
       "type": "multiple_choice",
       "question": "Escolha a alternativa que contém o nome anatômico da região indicada na imagem abaixo:",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/anatomia_do_telencefalo/q14-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "options": {
         "a": {
           "content": "cúneo",
@@ -377,7 +396,12 @@
       "id": 15,
       "type": "multiple_choice",
       "question": "Escolha a alternativa que contém o nome anatômico da região indicada na imagem abaixo:",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/anatomia_do_telencefalo/q15-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "options": {
         "a": {
           "content": "esplênio",
@@ -404,7 +428,12 @@
       "id": 16,
       "type": "multiple_choice",
       "question": "Escolha a alternativa que contém o nome anatômico da região indicada na imagem abaixo:",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/anatomia_do_telencefalo/q16-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "options": {
         "a": {
           "content": "giro parietal inferior",
@@ -431,7 +460,12 @@
       "id": 17,
       "type": "multiple_choice",
       "question": "Escolha a alternativa que contém o nome anatômico da região indicada na imagem abaixo:",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/anatomia_do_telencefalo/q17-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "options": {
         "a": {
           "content": "sulco occipitotemporal lateral",
@@ -458,7 +492,12 @@
       "id": 18,
       "type": "multiple_choice",
       "question": "Escolha a alternativa que contém o nome anatômico da região indicada na imagem abaixo:",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/anatomia_do_telencefalo/q18-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "options": {
         "a": {
           "content": "giro occipitotemporal medial",
@@ -485,7 +524,12 @@
       "id": 19,
       "type": "multiple_choice",
       "question": "Escolha a alternativa que contém o nome anatômico da região indicada na imagem abaixo:",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/anatomia_do_telencefalo/q19-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "options": {
         "a": {
           "content": "cúneo",
@@ -512,7 +556,12 @@
       "id": 20,
       "type": "multiple_choice",
       "question": "Escolha a alternativa que contém o nome anatômico da região indicada na imagem abaixo:",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/anatomia_do_telencefalo/q20-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "options": {
         "a": {
           "content": "ramo marginal do sulco lateral",

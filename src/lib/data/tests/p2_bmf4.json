@@ -3,8 +3,7 @@
   "test_title": "P2 - BMF4",
   "notes": [
     "Fonte: P2 - BMF4 (1).pdf. Cópias duplicadas da mesma prova, na pasta do Desktop, não foram importadas de novo.",
-    "Gabarito tirado do formulário corrigido: alternativa marcada quando a questão foi aceita, ou o bloco Resposta correta / feedback quando não foi.",
-    "Nome, RA, PIN e e-mail foram omitidos. Onde a questão aponta uma figura, a imagem não entrou no JSON."
+    "Gabarito tirado do formulário corrigido: alternativa marcada quando a questão foi aceita, ou o bloco Resposta correta / feedback quando não foi."
   ],
   "questions": [
     {
@@ -92,7 +91,12 @@
       "id": 4,
       "type": "multiple_choice",
       "question": "Paciente do sexo masculino, 26 anos, chega ao Pronto Atendimento em protocolo de trauma trazido pelo Corpo de Bombeiros, devido a acidente de carro há 20 minutos com trauma cabeça/vidro. Deu entrada sem perda de consciência, convulsões ou vômitos e em Glasgow 13. Apresentava pupilas isocóricas e fotorreagentes. Tomografia computadorizada (imagem A) de crânio em corte axial evidenciando uma coleção hiperdensa biconvexa temporoparietal direita de grande volume (OBS: a imagem B é apenas para orientar na resolução do caso e na resposta). De acordo com as imagens, o acúmulo de sangue localiza-se:",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/p2_bmf4/q4-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "options": {
         "a": {
           "content": "No espaço extradural, que fica entre a lâmina interna da dura-máter e a aracnóide-máter.",
@@ -146,7 +150,12 @@
       "id": 6,
       "type": "multiple_choice",
       "question": "Paciente comparece ao consultório médico queixando-se de lesões dolorosas conforme a figura 1. Possui histórico de varicela na infância. O diagnóstico foi de herpes-zoster. Compare o local da lesão (figura 1) com o mapa de dermátomos (figura 2) e explique o porquê desta lesão tão bem delimitada.",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/p2_bmf4/q6-1.webp",
+          "description": "Estrutura destacada em rosa."
+        }
+      ],
       "options": {
         "a": {
           "content": "a área da pele acometida é inervada por fibras provenientes apenas do funículo posterior",
@@ -254,7 +263,12 @@
       "id": 10,
       "type": "multiple_choice",
       "question": "Paciente: masculino, 64 anos, aposentado, procurou atendimento com otorrinolaringologista. Queixa principal: perda auditiva (hipoacusia) à esquerda há 3 meses. Notou que quando coloca o telefone na orelha esquerda, não consegue ouvir. Refere, também, sentir que os líquidos parecem escapar da boca. “Eu pareço estar babando o tempo todo, doutor. Não consigo fechar completamente a minha boca”. O otorrino o examinou e solicitou exame de imagem (imagem à esquerda). Que encontrou um neurinoma à esquerda. De acordo com as imagens, o tumor estaria comprimindo qual estrutura anatômica? Os losangos das imagens à direita representam o local da compressão.",
-      "images": [],
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/p2_bmf4/q10-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
       "options": {
         "a": {
           "content": "Sulco pontino superior",
