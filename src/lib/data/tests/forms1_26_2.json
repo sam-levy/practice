@@ -1,0 +1,394 @@
+{
+  "id": "forms1_26_2",
+  "test_title": "Forms1_26.2",
+  "notes": [
+    "Fonte: Forms1_26.2.html (viewscore). Nome e a pergunta final de envio foram omitidos.",
+    "Nas questões de múltipla escolha o gabarito é a alternativa marcada, pois todas foram pontuadas integralmente. Nas dissertativas, o gabarito é o bloco Resposta do feedback."
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "free_response",
+      "question": "Qual o nome da estrutura apontada na imagem?",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms1_26_2/q1-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "correct_answer": "Giro temporal superior",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 2,
+      "type": "free_response",
+      "question": "Qual é o nome da estrutura apontada na imagem abaixo?",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms1_26_2/q2-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "correct_answer": "Corpo caloso",
+      "explanation": "O seta está apontando diretamente a região do tronco do corpo caloso. OBS.: Para aqueles que mencionaram o lado: direito.",
+      "reference": null
+    },
+    {
+      "id": 3,
+      "type": "free_response",
+      "question": "Qual o nome da estrutura apontada na imagem?",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms1_26_2/q3-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "correct_answer": "Sulco calcarino",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Observe a imagem abaixo. É correto afirmar que:",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms1_26_2/q4-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "options": {
+        "a": {
+          "content": "Apenas a vermelha são fibras de projeção, pois é uma eferência que parte do córtex motor primário",
+          "images": []
+        },
+        "b": {
+          "content": "Ambas são fibras de associação, pois conectam o córtex cerebral ao tálamo, e a regiões subcorticais",
+          "images": []
+        },
+        "c": {
+          "content": "Apenas a azul são fibras de projeção, pois é uma aferência que parte do córtex sensitivo somestésico primário",
+          "images": []
+        },
+        "d": {
+          "content": "Ambas são fibras de projeção, pois conectam o córtex cerebral com outras regiões (subcorticais)",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Sobre o número 2, pode-se dizer:",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms1_26_2/figura-numeros.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "case_context": "Com base na figura, responda as questões que seguem.",
+      "options": {
+        "a": {
+          "content": "Está localizado no lobo frontal",
+          "images": []
+        },
+        "b": {
+          "content": "É a maior comissura do telencéfalo, e são fibras de associação",
+          "images": []
+        },
+        "c": {
+          "content": "É a maior comissura do telencéfalo, e são fibras de projeção",
+          "images": []
+        },
+        "d": {
+          "content": "Está localizado no lobo temporal",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "A estrutura 3 é o fórnice. São fibras que conectam o hipocampo ao corpo mamilar do hipotálamo (este apontado em 4). Com isso, pode-se dizer que são fibras:",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms1_26_2/figura-numeros.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "case_context": "Com base na figura, responda as questões que seguem.",
+      "options": {
+        "a": {
+          "content": "de projeção, pois hipocampo é córtex cerebral, e hipotálamo é diencéfalo",
+          "images": []
+        },
+        "b": {
+          "content": "de associação, pois conecta uma parte do cérebro à outra",
+          "images": []
+        },
+        "c": {
+          "content": "de associação, pois as fibras se mantém no córtex cerebral",
+          "images": []
+        },
+        "d": {
+          "content": "de projeção, uma vez que está projetando na forma de arco",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Paciente feminino, 58 anos, professora universitária, destra, foi admitida no pronto-socorro após um episódio de desorientação e confusão mental. A paciente relata que começou a sentir uma leve confusão mental e esquecimentos frequentes. Seus familiares notaram uma diminuição na sua capacidade de organização, além de uma mudança no comportamento, com períodos de apatia intercalados com irritabilidade. Levando-se em consideração a classificação funcional do córtex cerebral a paciente em questão manifesta acometimento de qual tipo de área?",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Área terciária",
+          "images": []
+        },
+        "b": {
+          "content": "Área primária",
+          "images": []
+        },
+        "c": {
+          "content": "Área secundária",
+          "images": []
+        },
+        "d": {
+          "content": "Área de projeção",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Paciente masculino, 52 anos, engenheiro, destro, foi admitido no pronto-socorro com queixa de dificuldade progressiva para reconhecer objetos e rostos familiares, iniciada há 3 semanas. Relata que, apesar de enxergar claramente, tem dificuldade em identificar pessoas conhecidas, não consegue reconhecer objetos comuns de forma imediata e tem se perdido em ambientes familiares. A ressonância magnética evidenciou lesão focal em uma área específica. Tomando como base as manifestações clínicas do paciente assinale a alternativa que apresenta a área acometida.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Córtex occipitotemporal",
+          "images": []
+        },
+        "b": {
+          "content": "Córtex coccipitoparietal",
+          "images": []
+        },
+        "c": {
+          "content": "Lábios do sulco calcarino",
+          "images": []
+        },
+        "d": {
+          "content": "Córtex frontoparietal",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Paciente masculino, 55 anos, operário da construção civil, destro, foi encaminhado ao pronto-socorro após um episódio súbito de dormência e perda de sensibilidade no lado esquerdo do corpo, que iniciou enquanto estava trabalhando. O quadro evoluiu para uma sensação de \"anestesia\" nas áreas acometidas. Ele também mencionou dificuldade em distinguir entre quente e frio com o lado esquerdo do corpo. Não houve perda de força muscular. Ressonância Magnética (RM) de Crânio: evidenciou lesão isquêmica focal. Assinale a alternativa que justifica a área de lesão que justifica as manifestações clínicas.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Giro pós-central do hemisfério direito",
+          "images": []
+        },
+        "b": {
+          "content": "Giro pré-central do hemisfério direito",
+          "images": []
+        },
+        "c": {
+          "content": "Giro pós-central do hemisfério esquerdo",
+          "images": []
+        },
+        "d": {
+          "content": "Giro pré-central do hemisfério esquerdo",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Paciente feminino, 68 anos, destra, aposentada, foi trazida ao pronto-socorro por seus familiares devido a episódios repetidos de confusão e desorientação, que ocorreram subitamente há dois dias. A ressonância magnética evidenciou lesão focal numa estrutura do sistema nervoso constituída por fibras de projeção que ligam o hipocampo aos corpos mamilares. Assinale a alternativa que contempla a estrutura lesionada em questão.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Fórnice",
+          "images": []
+        },
+        "b": {
+          "content": "Hipocampo",
+          "images": []
+        },
+        "c": {
+          "content": "Corpo mamilar",
+          "images": []
+        },
+        "d": {
+          "content": "Giro do cíngulo",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Paciente masculino, 45 anos, advogado, destro, foi encaminhado ao hospital após apresentar episódios de comportamento estranho e dificuldades para realizar tarefas simples que anteriormente executava sem problemas. Nos últimos meses, o paciente notou que tinha dificuldade em coordenar movimentos entre as duas mãos, como amarrar os cadarços ou digitar no teclado do computador, como se seus hemisférios cerebrais não se comunicassem entre si. Ele também relatou episódios em que parecia \"esquecer\" como usar objetos familiares, especialmente quando segurava algo com a mão esquerda. Além disso, quando o paciente segurava um objeto em uma das mãos, às vezes parecia incapaz de identificar ou nomear o objeto corretamente, a menos que pudesse vê-lo. A ressonância magnética evidenciou lesão em uma região, sugerindo desmielinização ou lesão isquêmica. Assinale a alternativa que contempla a região lesionada em questão.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Corpo caloso",
+          "images": []
+        },
+        "b": {
+          "content": "Fórnice",
+          "images": []
+        },
+        "c": {
+          "content": "Ventrículo lateral",
+          "images": []
+        },
+        "d": {
+          "content": "Córtex motor primário",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Qual o tipo de afasia e qual a região acometida em cada paciente, respectivamente?",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms1_26_2/caso1-figura.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "case_context": "Paciente 1: sexo masculino, 62 anos, levado pela esposa ao pronto atendimento. Há três horas, durante o jantar, apresentou dificuldade súbita. Histórico de hipertensão, dislipidemia, sem acompanhamento, tabagista há 40 anos. Exame: orientado e consciente; consegue dizer \"oi\", \"sim\" e \"não\". Perguntado o que aconteceu, responde \"Jantando....esposa....\". Abre a boca quando solicitado, aponta objetos quando solicitado e não escreve, mas cumpre comandos escritos. Hipótese: afasia. Paciente 2: sexo masculino, 60 anos. A esposa relata que passou mal durante a noite. Fala frases completas e pronuncia as palavras, mas as frases não fazem sentido. Diante da figura 1, descreve de forma fluente e sem sentido. Não aponta objetos quando solicitado. Hipótese: afasia.",
+      "options": {
+        "a": {
+          "content": "afasia de expressão (lesão giro frontal inferior esquerdo) e afasia de compreensão (lesão na junção entre lobos parietal e temporal esquerdo)",
+          "images": []
+        },
+        "b": {
+          "content": "afasia de expressão (lesão na junção entre lobos parietal e temporal esquerdo) e afasia de compreensão (giro frontal inferior esquerdo)",
+          "images": []
+        },
+        "c": {
+          "content": "afasia de compreensão (lesão giro frontal inferior esquerdo) e afasia de expressão (lesão na junção entre lobos parietal e temporal esquerdo)",
+          "images": []
+        },
+        "d": {
+          "content": "afasia de compreensão (lesão na junção entre lobos parietal e temporal esquerdo) e afasia de expressão (giro frontal inferior esquerdo)",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Qual hemisfério cerebral foi comprometido? Justifique.",
+      "images": [],
+      "case_context": "Paciente: 55 anos, sexo masculino, começou a sentir fraqueza e dificuldade de movimentar o braço e a mão do lado esquerdo, de forma repentina. Exame: paralisia no membro superior esquerdo, com impossibilidade de realizar tarefas do cotidiano. Diagnóstico: acidente vascular cerebral isquêmico (AVCi).",
+      "options": {
+        "a": {
+          "content": "Hemisfério direito nos dois pacientes, devido ao cruzamento das fibras na decussação das pirâmides",
+          "images": []
+        },
+        "b": {
+          "content": "Hemisfério esquerdo nos dois pacientes, devido ao cruzamento das fibras na decussação das pirâmides",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Como é classificada o tipo de fibra que o paciente apresentou lesão? Em qual local essas fibras tem origem e, qual é o seu destino final?",
+      "images": [],
+      "case_context": "Paciente: 55 anos, sexo masculino, começou a sentir fraqueza e dificuldade de movimentar o braço e a mão do lado esquerdo, de forma repentina. Exame: paralisia no membro superior esquerdo, com impossibilidade de realizar tarefas do cotidiano. Diagnóstico: acidente vascular cerebral isquêmico (AVCi).",
+      "options": {
+        "a": {
+          "content": "Fibras de projeção. Origem no córtex motor primário e destino medula espinal",
+          "images": []
+        },
+        "b": {
+          "content": "Fibras de projeção. Origem no córtex motor primário e destino no bulbo",
+          "images": []
+        },
+        "c": {
+          "content": "Fibras de associação. Origem no córtex motor primário e destino medula espinal",
+          "images": []
+        },
+        "d": {
+          "content": "Fibras comissurais. Origem no córtex motor primário e destino no bulbo",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Como é classificada funcionalmente (classificação de Luria) a parte do córtex comprometida?",
+      "images": [],
+      "case_context": "Paciente: 55 anos, sexo masculino, começou a sentir fraqueza e dificuldade de movimentar o braço e a mão do lado esquerdo, de forma repentina. Exame: paralisia no membro superior esquerdo, com impossibilidade de realizar tarefas do cotidiano. Diagnóstico: acidente vascular cerebral isquêmico (AVCi).",
+      "options": {
+        "a": {
+          "content": "área primária motora (área de associação secundária)",
+          "images": []
+        },
+        "b": {
+          "content": "área motora secundária (área de projeção)",
+          "images": []
+        },
+        "c": {
+          "content": "área primária motora (área de associação terciária)",
+          "images": []
+        },
+        "d": {
+          "content": "área primária motora (área de projeção)",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
+      "explanation": null,
+      "reference": null
+    }
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "id": "forms2_26_2",
+  "test_title": "Forms2_26.2",
+  "notes": [
+    "Fonte: Forms2_26.2.html (viewscore). Nome, RA e a orientação final de envio foram omitidos.",
+    "O gabarito é a alternativa marcada, pois todas as questões foram pontuadas integralmente."
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Em uma visita ao setor de neurologia, o médico responsável pelo setor decidiu fazer um teste com os alunos antes de passar os casos do dia. Ele apontou uma estrutura encefálica em uma imagem (imagem anexa) e pediu para os alunos discorrerem a respeito da mesma. Assinale a alternativa que apresenta informações corretas a respeito da estrutura em questão.",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms2_26_2/q1-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "options": {
+        "a": {
+          "content": "A estrutura apontada trata-se da oliva bulbar constituída por feixes de fibras motoras (fibras descendentes).",
+          "images": []
+        },
+        "b": {
+          "content": "A estrutura apontada trata-se da pirâmide bulbar constituída por feixes de fibras motoras (fibras descendentes).",
+          "images": []
+        },
+        "c": {
+          "content": "A estrutura apontada trata-se da oliva bulbar constituída por feixes de fibras sensitivas (fibras ascendentes).",
+          "images": []
+        },
+        "d": {
+          "content": "A estrutura apontada trata-se da pirâmide bulbar constituída por feixes de fibras sensitivas (fibras ascendentes).",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Paciente: 28 anos, masculino, músico, procurou atendimento médico.Queixa principal: dificuldade em perceber sons específicos. Paciente relata que apresentava ouvido absoluto (habilidade de uma pessoa identificar ou recriar uma dada nota). Exame físico: detectou diminuição da acuidade auditiva.Exame de imagem: ressonância magnética identificou degeneração em região mesencefálica apontada pela seta. A estrutura comprometida em questão é o:",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms2_26_2/q2-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "options": {
+        "a": {
+          "content": "colículo inferior.",
+          "images": []
+        },
+        "b": {
+          "content": "corpo geniculado lateral.",
+          "images": []
+        },
+        "c": {
+          "content": "colículo superior.",
+          "images": []
+        },
+        "d": {
+          "content": "corpo geniculado medial.",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Um paciente apresenta lesão na estrutura apontada pela seta. Qual o nome desta estrutura e qual a função afetada por conta desta lesão?",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms2_26_2/q3-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "options": {
+        "a": {
+          "content": "pirâmide bulbar; motora do lado contralateral",
+          "images": []
+        },
+        "b": {
+          "content": "tubérculo grácil; sensitiva do lado esquerdo",
+          "images": []
+        },
+        "c": {
+          "content": "pirâmide bulbar; motora do lado ipsilateral",
+          "images": []
+        },
+        "d": {
+          "content": "tubérculo grácil; sensitiva do lado direito",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Um garoto de 15 anos que apresenta sinais de aumento da pressão intracraniana (vômito, choque, dor de cabeça) é encaminhado a um neurologista. O exame clínico revela paralisia do olhar para cima e o exame por RM mostra um amplo tumor de glândula pineal. A compressão e lesão de qual das seguintes estruturas estaria especificamente relacionada ao déficit do olhar?",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Núcleo rubro",
+          "images": []
+        },
+        "b": {
+          "content": "Colículo inferior",
+          "images": []
+        },
+        "c": {
+          "content": "Colículo superior",
+          "images": []
+        },
+        "d": {
+          "content": "Oliva",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Para um estudo completo das vias auditivas e da visão é importante que o estudante saiba a localização exata das estruturas que compõem as vias. Uma dessas estruturas são os denominados colículos superiores e inferiores, que estão localizados no(a):",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Mesencéfalo",
+          "images": []
+        },
+        "b": {
+          "content": "Ponte",
+          "images": []
+        },
+        "c": {
+          "content": "Tálamo",
+          "images": []
+        },
+        "d": {
+          "content": "Bulbo",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Adam é levado ao hospital após se envolver em acidente de trânsito. Ele chegou na emergência com forte dor de cabeça, e o médico constatou um aumento de PIC (pressão intra-craniana). Adam então evoluiu com parada respiratória, devido hérnia tonsilar e compressão de uma estrutura nervosa vital. Assinale a alternativa que contempla tal estrutura.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Bulbo",
+          "images": []
+        },
+        "b": {
+          "content": "Mesencéfalo",
+          "images": []
+        },
+        "c": {
+          "content": "Medula espinal.",
+          "images": []
+        },
+        "d": {
+          "content": "Lobo occipital",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Paciente, 18 anos, é diagnosticado com um meningioma comprimindo a região do assoalho do quarto ventrículo. Estruturas anatômicas conhecidas como colículos faciais estão sendo comprimidas. O que podemos afirmar com relação às estruturas em questão?",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "São estruturas bulbares cuja intumescência ocorre devido às fibras do nervo abducente, que nesta região, circundam o núcleo do nervo facial.",
+          "images": []
+        },
+        "b": {
+          "content": "São estruturas pontinas cuja intumescência ocorre devido às fibras do nervo oculomotor, que nesta região, circundam o núcleo do nervo acessório.",
+          "images": []
+        },
+        "c": {
+          "content": "São estruturas mesencefálicas cuja intumescência ocorre devido às fibras do nervo oculomotor, que nesta região, circundam o núcleo do nervo facial.",
+          "images": []
+        },
+        "d": {
+          "content": "São estruturas pontinas cuja intumescência ocorre devido às fibras do nervo facial, que nesta região, circundam o núcleo do nervo abducente.",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Paciente, vítima de acidente automobilístico, com politraumatismo craniano e múltiplas fraturas nos membros inferiores e superiores. Dentre os traumas que o paciente sofreu, houve lesão no tronco encefálico, comprometendo a função do bulbo. Qual resposta pode ser esperada diante de tal lesão?",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Morte por parada respiratória.",
+          "images": []
+        },
+        "b": {
+          "content": "Perda do controle dos movimentos.",
+          "images": []
+        },
+        "c": {
+          "content": "Ausência do controle de temperatura.",
+          "images": []
+        },
+        "d": {
+          "content": "Perda de memória e dificuldade de raciocínio.",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Paciente: masculino, 64 anos, aposentado, procurou atendimento com otorrinolaringologista. Queixa principal: perda auditiva (hipoacusia) à esquerda há 3 meses. Notou que quando coloca o telefone na orelha esquerda, não consegue ouvir. Refere, também, sentir que os líquidos parecem escapar da boca. “Eu pareço estar babando o tempo todo, doutor. Não consigo fechar completamente a minha boca”. O otorrino o examinou e solicitou exame de imagem (imagem à esquerda). Que encontrou um neurinoma à esquerda. De acordo com as imagens, o tumor estaria comprimindo qual estrutura anatômica? Os losangos das imagens à direita representam o local da compressão.",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms2_26_2/q9-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "options": {
+        "a": {
+          "content": "Sulco bulbopontino",
+          "images": []
+        },
+        "b": {
+          "content": "Sulco pré-olivar",
+          "images": []
+        },
+        "c": {
+          "content": "Sulco pontino superior",
+          "images": []
+        },
+        "d": {
+          "content": "Sulco retro-olivar",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Waldir, 48 anos, etilista crônico, foi trazido pelo SAMU ao pronto socorro com quadro alteração confusional. Foi internado, tratado e encontra-se na enfermaria consciente. Mas, ao exame neurológico, demonstra falhas de consolidação de memória. Seu médico atestou Síndrome de Korsakoff. A estrutura prejudicada neste paciente está de verde na figura anexa. Marque a alternativa que nomeia a estrutura e que tipo de fibras ela possui.",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms2_26_2/q10-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "options": {
+        "a": {
+          "content": "Fórnice, fibras de projeção",
+          "images": []
+        },
+        "b": {
+          "content": "Cápsula interna, fibras de projeção",
+          "images": []
+        },
+        "c": {
+          "content": "Corpo caloso, fibras de associação",
+          "images": []
+        },
+        "d": {
+          "content": "Fascículo arqueado, fibras de associação",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "A paciente, L.M.S.J, de 47 anos, foi levada a uma clínica de neurologia por seus familiares após sofrer um acidente em casa. A paciente chegou a consultando apresentando dificuldade em consolidar novas informações, em recordar eventos recentes e dificuldade em se orientar em ambientes familiares. Testes neurológicos foram realizados pelo médico e mostraram que a paciente está apresentando dificuldade em se lembrar de fatos históricos, déficits na formação de memórias espaciais e informações gerais. Qual estrutura do circuito de Papez está diretamente relacionada a essas funções e qual o tipo de memória que se mostra estar mais comprometida.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Giro do cíngulo posterior e memória explicita.",
+          "images": []
+        },
+        "b": {
+          "content": "Hipocampo e memória declarativa.",
+          "images": []
+        },
+        "c": {
+          "content": "Amígdala e memória de trabalho",
+          "images": []
+        },
+        "d": {
+          "content": "Corpos mamilares e memória de trabalho.",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Samira, 70 anos, é levada ao hospital por familiares, devido alteração de fala. A fala da paciente é fluente, mas sem sentido. Ela parece não compreender o que lhe é dito, e não se dar conta disso. A família teme que seja um quadro de demência. Familiares confirmam que paciente é destra. O médico diagnosticou uma síndrome de alteração da linguagem, e solicitou imagem (tomografia). Foi detectado um foco epilético em determinada região do encéfalo.Se a epilepsia atingir áreas profundas do lobo temporal, poderá comprometer a memória da paciente. Isso porque essa região possui uma importante estrutura relacionada a isso, que é:",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Núcleos anteriores do tálamo",
+          "images": []
+        },
+        "b": {
+          "content": "Hipocampo",
+          "images": []
+        },
+        "c": {
+          "content": "Corpos mamilares",
+          "images": []
+        },
+        "d": {
+          "content": "Cíngulo",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Um homem procura atendimento psiquiátrico. Durante a consulta ele relata que não consegue comer bolo de chocolate, pois sente algo ruim. Ele associa o bolo a um dia em que foi assaltado e sentiu muito medo. Neste dia ele estava comendo um bolo de chocolate em uma festa de aniversário quando os assaltantes invadiram a festa. Quais estruturas explicam a situação relatada pelo paciente?",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Amígdala, responsável pelo medo, e o hipocampo, responsável pela formação de memória declarativa",
+          "images": []
+        },
+        "b": {
+          "content": "Amígdala, responsável pelo medo, e o hipocampo, responsável pela formação de memória operacional",
+          "images": []
+        },
+        "c": {
+          "content": "Córtex pré-frontal dorsolateral, responsável pelo medo, e o hipocampo, responsável pela formação de memória implícita",
+          "images": []
+        },
+        "d": {
+          "content": "Córtex pré-frontal dorsolateral, responsável pelo medo, e o hipocampo, responsável pela formação de memória declarativa",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Um paciente de 38 anos sofreu uma encefalite viral que causou danos bilaterais ao hipocampo. Após a recuperação, ele não consegue se lembrar de eventos que ocorreram após sua hospitalização, mas tem uma memória intacta de eventos anteriores à encefalite. Além disso, ele aprendeu a realizar uma tarefa simples de desenho por repetição, embora não se lembre de ter praticado essa tarefa anteriormente. Qual é o tipo de amnésia que este paciente apresenta e o que explica sua capacidade de aprender novas habilidades motoras?",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Amnésia anterógrada; o paciente consegue aprender habilidades motoras porque a memória procedural depende do hipocampo, que ainda mantém alguma função residual.",
+          "images": []
+        },
+        "b": {
+          "content": "Amnésia retrógrada; o paciente é capaz de aprender habilidades motoras porque o hipocampo não participa da memória procedural, que depende de outras estruturas, como os núcleos da base e o cerebelo.",
+          "images": []
+        },
+        "c": {
+          "content": "Amnésia retrógrada; o paciente é incapaz de formar novas memórias porque o hipocampo está envolvido no armazenamento de memórias de curto prazo e procedural.",
+          "images": []
+        },
+        "d": {
+          "content": "Amnésia anterógrada; sua capacidade de aprender habilidades motoras permanece intacta porque o hipocampo não é necessário para a memória procedural, que depende de outras estruturas, como os núcleos da base e o cerebelo.",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Sexo masculino, 26 anos, natural e residente em Mauá, São Paulo. O paciente foi encaminhado ao especialista, devido ao seguinte evento: após sair do trabalho às 21 horas, ele não retornou para sua casa. Foi encontrado vagando próximo à rodoviária, dois dias depois. Não se lembrava de nenhum fato relacionado à sua autobiografia, não sabia seu nome, nem reconhecia nenhum de seus familiares. Não eram evidentes alterações da atenção, do pensamento, do afeto e do humor. Os exames físico geral e neurológico não mostraram alterações. Segundo os familiares, antes desse quadro não houve mudança do comportamento do paciente ou quaisquer conflitos pessoais ou fatores estressantes eram evidentes. Paciente mostrou-se capaz de armazenar novas memórias, mas não recordou-se de nenhuma antiga. Apesar de não ter sido possível estabelecer os efeitos desencadeantes de sua amnésia, é possível classificá-la como:",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Anterógrada, afetando a memória não-declarativa.",
+          "images": []
+        },
+        "b": {
+          "content": "Retrógrada, afetando a memória declarativa.",
+          "images": []
+        },
+        "c": {
+          "content": "Anterógrada, afetando a memória episódica.",
+          "images": []
+        },
+        "d": {
+          "content": "Retrógrada, afetando a memória de procedimentos",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Um paciente com lesão no hipocampo mostra dificuldade em recordar memórias recentes, mas pode recordar memórias antigas. Qual das seguintes estruturas é mais diretamente responsável pela consolidação de memórias a longo prazo?",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Hipocampo.",
+          "images": []
+        },
+        "b": {
+          "content": "Córtex auditivo.",
+          "images": []
+        },
+        "c": {
+          "content": "Córtex visual.",
+          "images": []
+        },
+        "d": {
+          "content": "Córtex pré-frontal.",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "A Demência de Alzheimer é a principal causa de declínio cognitivo nos idosos, correspondendo à etiologia de mais da metade dos casos de demência. A compreensão de seus mecanismos patológicos e fatores de risco é importante para sua prevenção e estabelecimento de um plano terapêutico. A patologia da doença de Alzheimer inicia-se muitos anos antes dos primeiros sintomas de prejuízo cognitivo, com pesquisas tendo demonstrado evidências precoces de atrofia do córtex hipocampal, entorrinal, temporal e parietal. Iniciando-se a neurodegeneração pelo córtex entorrinal, levando ao isolamento e posterior atrofia hipocampal, atingindo mais tardiamente o córtex temporal e o córtex parietal. De acordo com as informações apresentadas é esperado que na Doença de Alzheimer ocorra:",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Perda gradual da memória de curto prazo, evoluindo para afetar a consolidação de novas memórias, e chegando mais tardiamente, a comprometer a memória de longa duração.",
+          "images": []
+        },
+        "b": {
+          "content": "Perda gradual da memória de longo prazo, evoluindo no comprometimento da memória de procedimento e, mais tardiamente, afetando a consolidação e a evocação da memória.",
+          "images": []
+        },
+        "c": {
+          "content": "Perda inicial gradual de memória operacional de curta duração, que não evolui para o comprometimento da memória de longa duração e, mais tardiamente, afetando a consolidação e a evocação da memória.",
+          "images": []
+        },
+        "d": {
+          "content": "Perda gradual da capacidade de consolidar e evocar a memória declarativa, evoluindo no comprometimento da memória de curto prazo, finalmente comprometendo a memória de procedimento.",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    }
+  ]
+}

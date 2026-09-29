@@ -1,5 +1,15 @@
 export const testManifest = [
   {
+    id: "forms1_26_2",
+    title: "Forms1_26.2",
+    file: () => import("./forms1_26_2.json"),
+  },
+  {
+    id: "forms2_26_2",
+    title: "Forms2_26.2",
+    file: () => import("./forms2_26_2.json"),
+  },
+  {
     id: "p1_pediatria_t9ab_sbc_2026_1",
     title: "P1 PEDIATRIA T9A/B SBC 2026.1",
     file: () => import("./p1_pediatria_t9ab_sbc_2026_1.json"),
