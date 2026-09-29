@@ -8,106 +8,175 @@
   ],
   "questions": [
     {
+      "id": 1,
       "type": "multiple_choice",
       "question": "Sobre potenciais pós-sinápticos assinalar alternativa correta",
-      "options": [
-        "São chamados de inibitórios quando deixam a voltagem da célula pós mais próxima do limiar de ação",
-        "Surgem na célula pós quando o neurotransmissor atravessa a membrana entrando na célula",
-        "São chamados de PIPS (Potencial Inibitório Pós Sináptico) quando deixam a voltagem da célula pós mais distante do limiar",
-        "São chamados de PEPS (Potencial Excitatório Pós Sináptico) quando deixam a voltagem da célula pós mais distante do limiar"
-      ],
-      "correct_answer": "São chamados de PIPS (Potencial Inibitório Pós Sináptico) quando deixam a voltagem da célula pós mais distante do limiar",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "São chamados de inibitórios quando deixam a voltagem da célula pós mais próxima do limiar de ação",
+          "images": []
+        },
+        "b": {
+          "content": "Surgem na célula pós quando o neurotransmissor atravessa a membrana entrando na célula",
+          "images": []
+        },
+        "c": {
+          "content": "São chamados de PIPS (Potencial Inibitório Pós Sináptico) quando deixam a voltagem da célula pós mais distante do limiar",
+          "images": []
+        },
+        "d": {
+          "content": "São chamados de PEPS (Potencial Excitatório Pós Sináptico) quando deixam a voltagem da célula pós mais distante do limiar",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
-      "reference": null,
-      "id": 1
+      "reference": null
     },
     {
+      "id": 2,
       "type": "free_response",
       "question": "O potencial de ação é iniciado em qual local do axônio? Por quê?",
+      "images": [],
       "correct_answer": "Zona de disparo, pois nesta região há uma maior concentração de canais de sódio dependentes de voltagem",
       "explanation": null,
-      "reference": null,
-      "id": 2
+      "reference": null
     },
     {
+      "id": 3,
       "type": "multiple_choice",
       "question": "A abertura de canais de cloreto dependentes de ligante irá causar:",
-      "options": [
-        "Efluxo de sódio",
-        "Efluxo de cálcio",
-        "PIPS (potencial inibitório pós-sináptico)",
-        "PEPS (potencial excitatório pós-sináptico)"
-      ],
-      "correct_answer": "PIPS (potencial inibitório pós-sináptico)",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Efluxo de sódio",
+          "images": []
+        },
+        "b": {
+          "content": "Efluxo de cálcio",
+          "images": []
+        },
+        "c": {
+          "content": "PIPS (potencial inibitório pós-sináptico)",
+          "images": []
+        },
+        "d": {
+          "content": "PEPS (potencial excitatório pós-sináptico)",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
-      "reference": null,
-      "id": 3
+      "reference": null
     },
     {
+      "id": 4,
       "type": "free_response",
       "question": "O que é período refratário absoluto?",
+      "images": [],
       "correct_answer": "Período em que a membrana fica refratária a qualquer estímulo, mesmo supralimiar, e um novo potencial de ação não pode ser deflagrado, pela inativação dos canais de sódio dependentes de voltagem.",
       "explanation": null,
-      "reference": null,
-      "id": 4
+      "reference": null
     },
     {
+      "id": 5,
       "type": "multiple_choice",
       "question": "Analisando a aplicação de drogas em canais iônicos e o gráfico abaixo, podemos concluir que:",
-      "options": [
-        "A comporta de inativação do canal do Na+ voltagem dependente, foi bloqueada, não entrou em operação",
-        "A comporta de inativação do canal de k+ voltagem dependente está bloqueada.",
-        "A comporta de inativação do canal de Cl- está bloqueada, não entrou em operação",
-        "Influxo de Ca+ foi bloqueado pela comporta de ativação."
-      ],
-      "correct_answer": "A comporta de inativação do canal do Na+ voltagem dependente, foi bloqueada, não entrou em operação",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "A comporta de inativação do canal do Na+ voltagem dependente, foi bloqueada, não entrou em operação",
+          "images": []
+        },
+        "b": {
+          "content": "A comporta de inativação do canal de k+ voltagem dependente está bloqueada.",
+          "images": []
+        },
+        "c": {
+          "content": "A comporta de inativação do canal de Cl- está bloqueada, não entrou em operação",
+          "images": []
+        },
+        "d": {
+          "content": "Influxo de Ca+ foi bloqueado pela comporta de ativação.",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 5
+      "reference": null
     },
     {
+      "id": 6,
       "type": "multiple_choice",
       "question": "Um neurotransmissor inibitório pode provocar:",
-      "options": [
-        "Abertura de canais de K+",
-        "Abertura de canais de Na+",
-        "Fechamento de canais de Cl-",
-        "Abertura de canais de Ca++"
-      ],
-      "correct_answer": "Abertura de canais de K+",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Abertura de canais de K+",
+          "images": []
+        },
+        "b": {
+          "content": "Abertura de canais de Na+",
+          "images": []
+        },
+        "c": {
+          "content": "Fechamento de canais de Cl-",
+          "images": []
+        },
+        "d": {
+          "content": "Abertura de canais de Ca++",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 6
+      "reference": null
     },
     {
+      "id": 7,
       "type": "free_response",
       "question": "O que é período refratário relativo?",
+      "images": [],
       "correct_answer": "O período no qual um novo potencial de ação pode ser deflagrado se um estímulo supralimiar for aplicado, pois uma porcentagem de canais de sódio dependentes de voltagem já saíram do estado de inativação (repouso) Observe a representação de potencial de ação abaixo. Identifique o que está ocorrendo em cada um dos momentos indicados pelos números. 1=Potencial de repouso 2=estímulo despolarizante 3=Abertura do canal de sódio 4=Despolarização da célula e influxo de sódio 5= Pico de excitabilidade, fecha canal de sódio e abre canal de potássio 6=Repolarização da célula, efluxo de potássio 7= Hiperpolarização 8= Influxo de cloreto. 1 - potencial de repouso 2 - despolarização 3 - limiar 4 - fase ascendente do potencial de ação (influxo de sódio) 5 - pico (inativação dos canais de sódio dependentes de voltagem e abertura dos canais de potássio dependentes de voltagem) 6 - fase descendente do potencial de ação (efluxo de potássio) 7 - hiperpolarização 8 - repolarização",
       "explanation": null,
-      "reference": null,
-      "id": 7
+      "reference": null
     },
     {
+      "id": 8,
       "type": "free_response",
       "question": "Observe a representação de potencial de ação. Identifique o que está ocorrendo em cada um dos momentos indicados pelos números.",
+      "images": [],
       "correct_answer": "1 potencial de repouso; 2 despolarização; 3 limiar; 4 fase ascendente (influxo de sódio); 5 pico (inativação dos canais de sódio dependentes de voltagem e abertura dos canais de potássio dependentes de voltagem); 6 fase descendente (efluxo de potássio); 7 hiperpolarização; 8 repolarização.",
       "explanation": "O gráfico não entrou no JSON.",
-      "reference": null,
-      "id": 8
+      "reference": null
     },
     {
+      "id": 9,
       "type": "multiple_choice",
       "question": "A abertura de canais de sódio dependentes de ligante irá causar:",
-      "options": [
-        "Efluxo de sódio",
-        "PEPS (potencial excitatório pós-sináptico)",
-        "PIPS (potencial inibitório pós-sináptico)",
-        "Efluxo de cálcio"
-      ],
-      "correct_answer": "PEPS (potencial excitatório pós-sináptico)",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Efluxo de sódio",
+          "images": []
+        },
+        "b": {
+          "content": "PEPS (potencial excitatório pós-sináptico)",
+          "images": []
+        },
+        "c": {
+          "content": "PIPS (potencial inibitório pós-sináptico)",
+          "images": []
+        },
+        "d": {
+          "content": "Efluxo de cálcio",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "id": 9
+      "reference": null
     }
   ]
 }

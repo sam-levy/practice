@@ -1,14 +1,31 @@
 import { writable } from 'svelte/store';
 
+export interface TestImage {
+	url: string;
+	description: string;
+}
+
+export interface QuestionOption {
+	content: string;
+	images: TestImage[];
+}
+
 export interface Question {
 	id: number;
 	type: 'multiple_choice' | 'free_response';
 	question: string;
-	options?: string[];
+	images: TestImage[];
+	/** Multiple choice only. Keys are option ids (`a`, `b`, …) in display order. */
+	options?: Record<string, QuestionOption>;
+	/** Option id for multiple choice; expected prose for free response. */
 	correct_answer: string;
 	explanation: string;
 	reference: string;
 	case_context?: string;
+}
+
+export function listOptions(question: Question): [string, QuestionOption][] {
+	return Object.entries(question.options ?? {});
 }
 
 export interface TestData {

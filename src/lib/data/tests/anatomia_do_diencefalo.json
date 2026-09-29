@@ -9,169 +9,316 @@
   ],
   "questions": [
     {
+      "id": 1,
       "type": "multiple_choice",
       "question": "O componente do epitálamo endócrino é:",
-      "options": [
-        "a comissura das habênulas",
-        "a comissura posterior",
-        "a glândula pineal",
-        "o trígono das habênulas"
-      ],
-      "correct_answer": "a glândula pineal",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "a comissura das habênulas",
+          "images": []
+        },
+        "b": {
+          "content": "a comissura posterior",
+          "images": []
+        },
+        "c": {
+          "content": "a glândula pineal",
+          "images": []
+        },
+        "d": {
+          "content": "o trígono das habênulas",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
-      "reference": null,
-      "id": 1
+      "reference": null
     },
     {
+      "id": 2,
       "type": "multiple_choice",
       "question": "As lesões do subtálamo ocasionam sequelas:",
-      "options": [
-        "visuais",
-        "motoras",
-        "sensoriais gerais",
-        "auditivas"
-      ],
-      "correct_answer": "motoras",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "visuais",
+          "images": []
+        },
+        "b": {
+          "content": "motoras",
+          "images": []
+        },
+        "c": {
+          "content": "sensoriais gerais",
+          "images": []
+        },
+        "d": {
+          "content": "auditivas",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "id": 2
+      "reference": null
     },
     {
+      "id": 3,
       "type": "multiple_choice",
       "question": "Qual alternativa abaixo indica a relação correta entre as paredes do terceiro ventrículo e os componentes do diencéfalo?",
-      "options": [
-        "Parede lateral: tálamo e hipotálamo, parede posterior: epitálamo e parede anterior: lâmina termina",
-        "Parede inferior: hipotálamo, parede posterior: tálamo, parede anterior: metatálamo",
-        "Parede anterior: tálamo, parede posterior: epitálamo, parede medial: hipotálamo",
-        "Parede medial: tálamo, parede lateral: epitálamo, parede inferior: hipotálamo"
-      ],
-      "correct_answer": "Parede lateral: tálamo e hipotálamo, parede posterior: epitálamo e parede anterior: lâmina termina",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Parede lateral: tálamo e hipotálamo, parede posterior: epitálamo e parede anterior: lâmina termina",
+          "images": []
+        },
+        "b": {
+          "content": "Parede inferior: hipotálamo, parede posterior: tálamo, parede anterior: metatálamo",
+          "images": []
+        },
+        "c": {
+          "content": "Parede anterior: tálamo, parede posterior: epitálamo, parede medial: hipotálamo",
+          "images": []
+        },
+        "d": {
+          "content": "Parede medial: tálamo, parede lateral: epitálamo, parede inferior: hipotálamo",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 3
+      "reference": null
     },
     {
+      "id": 4,
       "type": "multiple_choice",
       "question": "Os corpos geniculados mediais funcionalmente estão relacionados com:",
-      "options": [
-        "a visão",
-        "a audição",
-        "a sensibilidade geral somática",
-        "a motricidade somática"
-      ],
-      "correct_answer": "a audição",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "a visão",
+          "images": []
+        },
+        "b": {
+          "content": "a audição",
+          "images": []
+        },
+        "c": {
+          "content": "a sensibilidade geral somática",
+          "images": []
+        },
+        "d": {
+          "content": "a motricidade somática",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "id": 4
+      "reference": null
     },
     {
+      "id": 5,
       "type": "multiple_choice",
       "question": "O fórnice conecta o hipocampo com um dos componentes do hipotálamo, sendo esse componente::",
-      "options": [
-        "a hipófise",
-        "os corpos mamilares",
-        "o túber cinério",
-        "o quiasma óptico"
-      ],
-      "correct_answer": "os corpos mamilares",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "a hipófise",
+          "images": []
+        },
+        "b": {
+          "content": "os corpos mamilares",
+          "images": []
+        },
+        "c": {
+          "content": "o túber cinério",
+          "images": []
+        },
+        "d": {
+          "content": "o quiasma óptico",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "id": 5
+      "reference": null
     },
     {
+      "id": 6,
       "type": "multiple_choice",
       "question": "A cavidade (originada do tubo neural) que se relaciona com o diencéfalo é:",
-      "options": [
-        "o quarto ventrículo",
-        "a cavidade ependimária",
-        "o ventrículo lateral",
-        "o terceiro ventrículo"
-      ],
-      "correct_answer": "o terceiro ventrículo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "o quarto ventrículo",
+          "images": []
+        },
+        "b": {
+          "content": "a cavidade ependimária",
+          "images": []
+        },
+        "c": {
+          "content": "o ventrículo lateral",
+          "images": []
+        },
+        "d": {
+          "content": "o terceiro ventrículo",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "id": 6
+      "reference": null
     },
     {
+      "id": 7,
       "type": "multiple_choice",
       "question": "O hipotálamo é dividido em duas partes (medial e lateral) por meio:",
-      "options": [
-        "do corpo caloso",
-        "do fórnice",
-        "da comissura posterior",
-        "da cápsula interna"
-      ],
-      "correct_answer": "do fórnice",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "do corpo caloso",
+          "images": []
+        },
+        "b": {
+          "content": "do fórnice",
+          "images": []
+        },
+        "c": {
+          "content": "da comissura posterior",
+          "images": []
+        },
+        "d": {
+          "content": "da cápsula interna",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "id": 7
+      "reference": null
     },
     {
+      "id": 8,
       "type": "multiple_choice",
       "question": "Os corpos geniculados laterais são componentes do (1) e apresentam função relacionada com (2)",
-      "options": [
-        "(1) tálamo - (2) a sensibilidade somática",
-        "(1) tálamo - (2) a motricidade somática",
-        "(1) metatálamo - (2) a audição",
-        "(1) metatálamo - (2) a visão"
-      ],
-      "correct_answer": "(1) metatálamo - (2) a visão",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "(1) tálamo - (2) a sensibilidade somática",
+          "images": []
+        },
+        "b": {
+          "content": "(1) tálamo - (2) a motricidade somática",
+          "images": []
+        },
+        "c": {
+          "content": "(1) metatálamo - (2) a audição",
+          "images": []
+        },
+        "d": {
+          "content": "(1) metatálamo - (2) a visão",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "id": 8
+      "reference": null
     },
     {
+      "id": 9,
       "type": "multiple_choice",
       "question": "Correlacione os núcleos do tálamo com as respectivas funções: Núcleo ventral póstero-lateral (NVPL)",
-      "options": [
-        "movimento somático",
-        "sensibilidade somática da cabeça",
-        "sensibilidade somática do pescoço, tronco e membros"
-      ],
-      "correct_answer": "sensibilidade somática do pescoço, tronco e membros",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "movimento somático",
+          "images": []
+        },
+        "b": {
+          "content": "sensibilidade somática da cabeça",
+          "images": []
+        },
+        "c": {
+          "content": "sensibilidade somática do pescoço, tronco e membros",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": "A grade do formulário saiu embaralhada na extração do PDF. A correspondência usada é a habitual: NVPL para o corpo, NVPM para a cabeça e NVA para movimento.",
-      "reference": null,
-      "id": 9
+      "reference": null
     },
     {
+      "id": 10,
       "type": "multiple_choice",
       "question": "Correlacione os núcleos do tálamo com as respectivas funções: Núcleo ventral póstero-medial (NVPM)",
-      "options": [
-        "movimento somático",
-        "sensibilidade somática da cabeça",
-        "sensibilidade somática do pescoço, tronco e membros"
-      ],
-      "correct_answer": "sensibilidade somática da cabeça",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "movimento somático",
+          "images": []
+        },
+        "b": {
+          "content": "sensibilidade somática da cabeça",
+          "images": []
+        },
+        "c": {
+          "content": "sensibilidade somática do pescoço, tronco e membros",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": "A grade do formulário saiu embaralhada na extração do PDF. A correspondência usada é a habitual: NVPL para o corpo, NVPM para a cabeça e NVA para movimento.",
-      "reference": null,
-      "id": 10
+      "reference": null
     },
     {
+      "id": 11,
       "type": "multiple_choice",
       "question": "Correlacione os núcleos do tálamo com as respectivas funções: Núcleo ventral anterior (NVA)",
-      "options": [
-        "movimento somático",
-        "sensibilidade somática da cabeça",
-        "sensibilidade somática do pescoço, tronco e membros"
-      ],
-      "correct_answer": "movimento somático",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "movimento somático",
+          "images": []
+        },
+        "b": {
+          "content": "sensibilidade somática da cabeça",
+          "images": []
+        },
+        "c": {
+          "content": "sensibilidade somática do pescoço, tronco e membros",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": "A grade do formulário saiu embaralhada na extração do PDF. A correspondência usada é a habitual: NVPL para o corpo, NVPM para a cabeça e NVA para movimento.",
-      "reference": null,
-      "id": 11
+      "reference": null
     },
     {
+      "id": 12,
       "type": "multiple_choice",
       "question": "O componente do epitálamo que faz parte do circuito de recompensa é:",
-      "options": [
-        "a comissura das habênulas",
-        "a glândula pineal",
-        "a comissura posterior",
-        "o trígono das habênulas"
-      ],
-      "correct_answer": "o trígono das habênulas",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "a comissura das habênulas",
+          "images": []
+        },
+        "b": {
+          "content": "a glândula pineal",
+          "images": []
+        },
+        "c": {
+          "content": "a comissura posterior",
+          "images": []
+        },
+        "d": {
+          "content": "o trígono das habênulas",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "id": 12
+      "reference": null
     }
   ]
 }

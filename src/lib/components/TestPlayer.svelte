@@ -1,7 +1,8 @@
 <script lang="ts">
   import { goto } from "$app/navigation";
   import { base } from "$app/paths";
-  import { testSession } from "$lib/stores/testStore";
+  import QuestionImages from "$lib/components/QuestionImages.svelte";
+  import { listOptions, testSession } from "$lib/stores/testStore";
   import type { Question, TestData } from "$lib/stores/testStore";
 
   let { testData }: { testData: TestData } = $props();
@@ -65,9 +66,11 @@
 
           <p class="mb-4">{question.question}</p>
 
+          <QuestionImages images={question.images} />
+
           {#if question.type === "multiple_choice" && question.options}
             <div class="space-y-2">
-              {#each question.options as option, optIdx}
+              {#each listOptions(question) as [optionId, option]}
                 <label
                   class="flex items-start gap-3 cursor-pointer p-2 rounded-lg hover:bg-base-200"
                 >
@@ -75,13 +78,14 @@
                     type="radio"
                     name="q-{question.id}"
                     class="radio radio-primary mt-0.5"
-                    value={option}
-                    checked={$testSession.answers[question.id] === option}
-                    onchange={() => handleAnswerChange(question.id, option)}
+                    value={optionId}
+                    checked={$testSession.answers[question.id] === optionId}
+                    onchange={() => handleAnswerChange(question.id, optionId)}
                   />
-                  <span class="text-sm"
-                    >{String.fromCharCode(65 + optIdx)}. {option}</span
-                  >
+                  <span class="text-sm flex-1 space-y-2">
+                    <span>{optionId.toUpperCase()}. {option.content}</span>
+                    <QuestionImages images={option.images} />
+                  </span>
                 </label>
               {/each}
             </div>

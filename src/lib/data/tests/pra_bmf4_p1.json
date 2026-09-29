@@ -11,13 +11,26 @@
       "id": 1,
       "type": "multiple_choice",
       "question": "Em um paciente com suspeita de infecção do sistema nervoso central, foi indicada a realização de punção lombar para análise do líquor. O procedimento foi executado com a inserção da agulha entre as vértebras L4 e L5. Qual é o espaço anatômico atingido durante a coleta do líquor? E por qual motivo o procedimento é realizado nesse nível da coluna vertebral?",
-      "options": [
-        "espaço epidural; pois a medula espinal termina aproximadamente na altura da vértebra L2",
-        "espaço subaracnóideo; pois a medula espinal termina aproximadamente na altura da vértebra L4",
-        "espaço epidural; pois a medula espinal termina aproximadamente na altura da vértebra L4",
-        "espaço subaracnóideo; pois a medula espinal termina aproximadamente na altura da vértebra L2"
-      ],
-      "correct_answer": "espaço subaracnóideo; pois a medula espinal termina aproximadamente na altura da vértebra L2",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "espaço epidural; pois a medula espinal termina aproximadamente na altura da vértebra L2",
+          "images": []
+        },
+        "b": {
+          "content": "espaço subaracnóideo; pois a medula espinal termina aproximadamente na altura da vértebra L4",
+          "images": []
+        },
+        "c": {
+          "content": "espaço epidural; pois a medula espinal termina aproximadamente na altura da vértebra L4",
+          "images": []
+        },
+        "d": {
+          "content": "espaço subaracnóideo; pois a medula espinal termina aproximadamente na altura da vértebra L2",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
       "reference": null
     },
@@ -25,13 +38,26 @@
       "id": 2,
       "type": "multiple_choice",
       "question": "Uma paciente de 23 anos procura atendimento no pronto-socorro após apresentar episódio súbito de palpitações, sudorese intensa, acompanhado por medo intenso de morrer. Os sintomas surgiram de forma inesperada enquanto estava em casa estudando. No exame físico, a paciente apresenta taquicardia e aumento de frequência respiratória. O médico explica que os sintomas são condizentes com um ataque de pânico, no qual há disparo excessivo de uma estrutura do sistema límbico relacionada ao medo. Qual estrutura é essa e qual a sua relação com os sintomas descritos no exame físico?",
-      "options": [
-        "Área septal, a qual ativa diretamente o sistema nervoso simpático.",
-        "Amígdala, disparo do sistema nervoso simpático via hipotálamo.",
-        "Área septal, disparo do sistema nervoso simpático via hipotálamo.",
-        "Amígdala, a qual ativa diretamente o sistema nervoso simpático."
-      ],
-      "correct_answer": "Amígdala, disparo do sistema nervoso simpático via hipotálamo.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Área septal, a qual ativa diretamente o sistema nervoso simpático.",
+          "images": []
+        },
+        "b": {
+          "content": "Amígdala, disparo do sistema nervoso simpático via hipotálamo.",
+          "images": []
+        },
+        "c": {
+          "content": "Área septal, disparo do sistema nervoso simpático via hipotálamo.",
+          "images": []
+        },
+        "d": {
+          "content": "Amígdala, a qual ativa diretamente o sistema nervoso simpático.",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -39,13 +65,26 @@
       "id": 3,
       "type": "multiple_choice",
       "question": "Paciente com antecedente de trauma penetrante por objeto cortante na região supraclavicular direita, evoluindo com lesão localizada no funículo posterior da medula espinal ao nível do segmento C6. (1) Quais fascículos/tratos foram lesionados? (2) A perda da sensibilidade foi ipsilateral ou contralateral à lesão?",
-      "options": [
-        "(1) Tratos espinotalâmicos; (2) sintoma ipsilateral",
-        "(1) Fascículos grácil e cuneiforme; (2) sintoma contralateral",
-        "(1) Tratos espinotalâmicos; (2) sintoma contralateral",
-        "(1)Fascículos grácil e cuneiforme; (2) ipsilateral"
-      ],
-      "correct_answer": "(1)Fascículos grácil e cuneiforme; (2) ipsilateral",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "(1) Tratos espinotalâmicos; (2) sintoma ipsilateral",
+          "images": []
+        },
+        "b": {
+          "content": "(1) Fascículos grácil e cuneiforme; (2) sintoma contralateral",
+          "images": []
+        },
+        "c": {
+          "content": "(1) Tratos espinotalâmicos; (2) sintoma contralateral",
+          "images": []
+        },
+        "d": {
+          "content": "(1)Fascículos grácil e cuneiforme; (2) ipsilateral",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
       "reference": null
     },
@@ -53,13 +92,26 @@
       "id": 4,
       "type": "multiple_choice",
       "question": "Durante uma consulta de rotina, um paciente com diabetes mellitus de difícil controle, relata dormência e formigamento nas mãos e nos pés. No exame neurológico, o médico realiza o teste de discriminação de dois pontos, aplicando simultaneamente dois estímulos táteis na ponta dos dedos do paciente.\nO paciente tem dificuldade em perceber que está sendo tocado em dois pontos distintos, sugerindo alteração do tato epicrítico, compatível com neuropatia diabética.\n(1) Onde cruzam os axônios da via avaliada neste teste? (2) Onde está o terceiro neurônio desta via?",
-      "options": [
-        "(1) Comissura branca; (2) núcleo ventral posteromedial",
-        "(1) Comissura branca; (2) núcleo ventral posterolateral",
-        "(1) Bulbo; (2) núcleo ventral posteromedial",
-        "(1) Bulbo; (2) núcleo ventral posterolateral"
-      ],
-      "correct_answer": "(1) Bulbo; (2) núcleo ventral posterolateral",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "(1) Comissura branca; (2) núcleo ventral posteromedial",
+          "images": []
+        },
+        "b": {
+          "content": "(1) Comissura branca; (2) núcleo ventral posterolateral",
+          "images": []
+        },
+        "c": {
+          "content": "(1) Bulbo; (2) núcleo ventral posteromedial",
+          "images": []
+        },
+        "d": {
+          "content": "(1) Bulbo; (2) núcleo ventral posterolateral",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
       "reference": null
     },
@@ -67,13 +119,26 @@
       "id": 5,
       "type": "multiple_choice",
       "question": "Paciente sem comorbidades prévias procura atendimento médico relatando início súbito, há cerca de um dia, de fraqueza na hemiface direita. Refere dificuldade para fechar completamente o olho desse lado e percebe assimetria facial, com desvio da boca para o lado oposto ao tentar sorrir. Além disso, menciona alteração no paladar, descrevendo diminuição da percepção do gosto dos alimentos. Qual nervo craniano está acometido?",
-      "options": [
-        "n.oculomotor (III)",
-        "n. facial (VII)",
-        "n.glossofaríngeo (IX)",
-        "n. trigêmeo (V)"
-      ],
-      "correct_answer": "n. facial (VII)",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "n.oculomotor (III)",
+          "images": []
+        },
+        "b": {
+          "content": "n. facial (VII)",
+          "images": []
+        },
+        "c": {
+          "content": "n.glossofaríngeo (IX)",
+          "images": []
+        },
+        "d": {
+          "content": "n. trigêmeo (V)",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -81,13 +146,26 @@
       "id": 6,
       "type": "multiple_choice",
       "question": "Um homem procura atendimento relatando visão dupla há 3 dias, piorando quando olha para a direita. Nega trauma. Refere cefaleia leve. Ao exame físico, ao pedir para o paciente olhar para frente, observa-se desvio medial do olho direito. Quando solicitado a olhar para a direita, o olho direito não consegue abduzir. Qual nervo craniano acometido?",
-      "options": [
-        "n. abducente (VI)",
-        "n.oculomotor (III)",
-        "n.troclear (IV)",
-        "n.facial (VII)"
-      ],
-      "correct_answer": "n. abducente (VI)",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "n. abducente (VI)",
+          "images": []
+        },
+        "b": {
+          "content": "n.oculomotor (III)",
+          "images": []
+        },
+        "c": {
+          "content": "n.troclear (IV)",
+          "images": []
+        },
+        "d": {
+          "content": "n.facial (VII)",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -95,13 +173,26 @@
       "id": 7,
       "type": "multiple_choice",
       "question": "Paciente queixa-se de dor em região maxilar e mandibular. Ele relata que a dor é em choque, aparece de maneira abrupta e dura alguns segundos. Não há outras alterações de sensibilidade ou alterações motoras. Os sintomas estão relacionados com a atividade de qual nervo craniano?",
-      "options": [
-        "n. glossofaríngeo (IX)",
-        "n. trigêmeo (V)",
-        "n. vago (X)",
-        "n. facial (VII)"
-      ],
-      "correct_answer": "n. trigêmeo (V)",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "n. glossofaríngeo (IX)",
+          "images": []
+        },
+        "b": {
+          "content": "n. trigêmeo (V)",
+          "images": []
+        },
+        "c": {
+          "content": "n. vago (X)",
+          "images": []
+        },
+        "d": {
+          "content": "n. facial (VII)",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -109,13 +200,26 @@
       "id": 8,
       "type": "multiple_choice",
       "question": "Homem, 55 anos, previamente saudável, sofreu traumatismo craniano em acidente automobilístico. Durante o exame neurológico, ao receber uma chave nas mãos, com os olhos fechados, relata apenas “algo está tocando a minha mão”, mas não consegue identificar qual é o objeto. Com os olhos abertos, identifica corretamente a chave. \n(1) Em relação ao tato, qual a classificação funcional da área cortical preservada? \n(2) Sabendo que a área preservada (relacionada ao tato) se comunica com o tálamo, qual é o tipo de fibra que ela recebe?",
-      "options": [
-        "Área secundária sensorial; fibras de projeção.",
-        "Área secundária sensorial; fibras de associação.",
-        "Área primária sensorial; fibras de associação.",
-        "Área primária sensorial; fibras de projeção."
-      ],
-      "correct_answer": "Área primária sensorial; fibras de projeção.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Área secundária sensorial; fibras de projeção.",
+          "images": []
+        },
+        "b": {
+          "content": "Área secundária sensorial; fibras de associação.",
+          "images": []
+        },
+        "c": {
+          "content": "Área primária sensorial; fibras de associação.",
+          "images": []
+        },
+        "d": {
+          "content": "Área primária sensorial; fibras de projeção.",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
       "reference": null
     },
@@ -123,13 +227,26 @@
       "id": 9,
       "type": "multiple_choice",
       "question": "Um universitário de 24 anos procura atendimento ambulatorial relatando desânimo persistente, diminuição do prazer em atividades que antes considerava agradáveis — como praticar exercícios físicos e sair com amigos — e perda de interesse geral no dia a dia. Durante a avaliação clínica, nega uso de álcool ou outras substâncias e não apresenta déficits cognitivos ou alterações motoras ao exame físico. O médico suspeita de disfunção em um sistema. \nQual área desse sistema faz parte da formação reticular, e qual neurotransmissor é liberado por ela?",
-      "options": [
-        "Área tegmentar ventral; serotonina",
-        "Amígdala; serotonina",
-        "Amígdala; dopamina",
-        "Área tegmentar ventral; dopamina"
-      ],
-      "correct_answer": "Área tegmentar ventral; dopamina",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Área tegmentar ventral; serotonina",
+          "images": []
+        },
+        "b": {
+          "content": "Amígdala; serotonina",
+          "images": []
+        },
+        "c": {
+          "content": "Amígdala; dopamina",
+          "images": []
+        },
+        "d": {
+          "content": "Área tegmentar ventral; dopamina",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
       "reference": null
     },
@@ -137,13 +254,26 @@
       "id": 10,
       "type": "multiple_choice",
       "question": "Paciente J.M é levado ao hospital após se envolver em acidente de trânsito. Ele chegou na emergência com forte dor de cabeça, e o médico constatou um aumento de PIC (pressão intra-craniana). Paciente então evoluiu com parada respiratória, devido hérnia tonsilar e compressão de uma estrutura nervosa vital. Assinale a alternativa que contempla tal estrutura.",
-      "options": [
-        "Bulbo",
-        "Lobo occipital",
-        "mesencéfalo",
-        "medula espinal"
-      ],
-      "correct_answer": "Bulbo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Bulbo",
+          "images": []
+        },
+        "b": {
+          "content": "Lobo occipital",
+          "images": []
+        },
+        "c": {
+          "content": "mesencéfalo",
+          "images": []
+        },
+        "d": {
+          "content": "medula espinal",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -151,13 +281,26 @@
       "id": 11,
       "type": "multiple_choice",
       "question": "A paciente, R.T.F.C., de 52 anos, foi encaminhada ao serviço de neurologia após um episódio de queda em sua residência. Desde o ocorrido, familiares relatam mudanças importantes em seu funcionamento cognitivo. Durante a avaliação clínica, observou-se que a paciente apresenta dificuldade para adquirir e reter novas informações, além de prejuízo na recordação de acontecimentos recentes. Não apresenta prejuízo para comandos motores. Qual estrutura do circuito de Papez está mais diretamente associada a essas funções afetadas e qual tipo de memória parece estar predominantemente prejudicado?",
-      "options": [
-        "Hipocampo e memória procedural",
-        "Giro do cíngulo posterior e memória declarativa",
-        "Corpos mamilares e memória de trabalho",
-        "Hipocampo e memória declarativa"
-      ],
-      "correct_answer": "Hipocampo e memória declarativa",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Hipocampo e memória procedural",
+          "images": []
+        },
+        "b": {
+          "content": "Giro do cíngulo posterior e memória declarativa",
+          "images": []
+        },
+        "c": {
+          "content": "Corpos mamilares e memória de trabalho",
+          "images": []
+        },
+        "d": {
+          "content": "Hipocampo e memória declarativa",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
       "reference": null
     },
@@ -165,13 +308,26 @@
       "id": 12,
       "type": "multiple_choice",
       "question": "Homem de 31 anos, após sofrer uma queda durante a prática de skate, passa a apresentar fraqueza e diminuição da coordenação motora fina principalmente na mão esquerda, mantendo a sensibilidade preservada. O médico levanta a hipótese de comprometimento de uma área cortical. Qual estrutura foi afetada?",
-      "options": [
-        "Giro temporal superior",
-        "Giro do cíngulo",
-        "Giro pós-central",
-        "Giro pré-central"
-      ],
-      "correct_answer": "Giro pré-central",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Giro temporal superior",
+          "images": []
+        },
+        "b": {
+          "content": "Giro do cíngulo",
+          "images": []
+        },
+        "c": {
+          "content": "Giro pós-central",
+          "images": []
+        },
+        "d": {
+          "content": "Giro pré-central",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
       "reference": null
     },
@@ -179,13 +335,26 @@
       "id": 13,
       "type": "multiple_choice",
       "question": "Paciente foi admitido no pronto-socorro com queixa de dificuldade progressiva para reconhecer objetos e rostos familiares. Relata que, apesar de enxergar claramente, tem dificuldade em identificar pessoas conhecidas, não consegue reconhecer objetos comuns de forma imediata. A ressonância magnética evidenciou lesão focal em uma área específica. Tomando como base as manifestações clínicas do paciente assinale a alternativa que apresenta a área acometida.",
-      "options": [
-        "Córtex occipitotemporal",
-        "Lábios do sulco calcarino",
-        "Giro frontal inferior esquerdo",
-        "Córtex frontoparietal"
-      ],
-      "correct_answer": "Córtex occipitotemporal",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Córtex occipitotemporal",
+          "images": []
+        },
+        "b": {
+          "content": "Lábios do sulco calcarino",
+          "images": []
+        },
+        "c": {
+          "content": "Giro frontal inferior esquerdo",
+          "images": []
+        },
+        "d": {
+          "content": "Córtex frontoparietal",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -193,13 +362,26 @@
       "id": 14,
       "type": "multiple_choice",
       "question": "Paciente com diagnóstico de epilepsia focal, refratária ao tratamento medicamentoso. Devido à gravidade do quadro, a equipe de neurocirurgia optou pela realização de um seccionamento de fibras de associação inter-hemisféricas (comissurais) para controle das crises. Quais fibras foram seccionadas?",
-      "options": [
-        "Fórnice",
-        "Fascículo arqueado",
-        "Corpo caloso",
-        "Cápsula interna"
-      ],
-      "correct_answer": "Corpo caloso",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Fórnice",
+          "images": []
+        },
+        "b": {
+          "content": "Fascículo arqueado",
+          "images": []
+        },
+        "c": {
+          "content": "Corpo caloso",
+          "images": []
+        },
+        "d": {
+          "content": "Cápsula interna",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
       "reference": null
     },
@@ -207,60 +389,78 @@
       "id": 15,
       "type": "multiple_choice",
       "question": "Uma paciente é levada ao pronto-atendimento após sofrer uma queda da própria altura enquanto praticava atividades esportivas. Ela apresenta um quadro de cefaleia leve, mas sem sinais de confusão mental. Durante o exame físico, o médico utiliza um oftalmoscópio para avaliar o reflexo fotomotor. Para isso, ele incide luz na pupila direita e observa a contração (miose) da pupila, confirmando que essa resposta está preservada. Onde se localizam os corpos dos neurônios pré-ganglionares e seus axônios responsáveis pela resposta observada pelo médico?",
-      "options": [
-        "medula torácica; V par de nervo craniano (trigêmeo)",
-        "medula torácica; III par de nervo craniano (oculomotor)",
-        "mesencéfalo; V par de nervo craniano (trigêmeo)",
-        "mesencéfalo; III par de nervo craniano (oculomotor)"
-      ],
-      "correct_answer": "mesencéfalo; III par de nervo craniano (oculomotor)",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "medula torácica; V par de nervo craniano (trigêmeo)",
+          "images": []
+        },
+        "b": {
+          "content": "medula torácica; III par de nervo craniano (oculomotor)",
+          "images": []
+        },
+        "c": {
+          "content": "mesencéfalo; V par de nervo craniano (trigêmeo)",
+          "images": []
+        },
+        "d": {
+          "content": "mesencéfalo; III par de nervo craniano (oculomotor)",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
       "reference": null
     },
     {
       "id": 16,
       "type": "free_response",
+      "case_context": "Paciente procura atendimento devido a diminuição da sensibilidade tátil. Refere que já sofreu úlceras nos pés sem perceber, por não sentir quando se machucava. \nExame neurológico:\nPropriocepção consciente diminuída no membro inferior esquerdo\nSensibilidade vibratória abolida no membro inferior esquerdo\nTeste de discriminação dos dois pontos alterado (precisa de uma distância grande entre dois pontos estimulados para perceber como dois pontos distintos) no dedo do pé esquerdo\nSensibilidade térmica e dolorosa preservadas\nDiagnóstico:\nExame de imagem mostrou uma lesão medular.",
       "question": "Qual o funículo e o fascículo lesionado? (Nesta questão não precisa escrever o lado)",
+      "images": [],
       "correct_answer": "Funículo posterior (50% da pontuação); fascículo grácil (50% da pontuação)",
       "explanation": null,
-      "reference": null,
-      "case_context": "Paciente procura atendimento devido a diminuição da sensibilidade tátil. Refere que já sofreu úlceras nos pés sem perceber, por não sentir quando se machucava. \nExame neurológico:\nPropriocepção consciente diminuída no membro inferior esquerdo\nSensibilidade vibratória abolida no membro inferior esquerdo\nTeste de discriminação dos dois pontos alterado (precisa de uma distância grande entre dois pontos estimulados para perceber como dois pontos distintos) no dedo do pé esquerdo\nSensibilidade térmica e dolorosa preservadas\nDiagnóstico:\nExame de imagem mostrou uma lesão medular."
+      "reference": null
     },
     {
       "id": 17,
       "type": "free_response",
+      "case_context": "Paciente procura atendimento devido a diminuição da sensibilidade tátil. Refere que já sofreu úlceras nos pés sem perceber, por não sentir quando se machucava. \nExame neurológico:\nPropriocepção consciente diminuída no membro inferior esquerdo\nSensibilidade vibratória abolida no membro inferior esquerdo\nTeste de discriminação dos dois pontos alterado (precisa de uma distância grande entre dois pontos estimulados para perceber como dois pontos distintos) no dedo do pé esquerdo\nSensibilidade térmica e dolorosa preservadas\nDiagnóstico:\nExame de imagem mostrou uma lesão medular.",
       "question": "2a) A lesão aconteceu de qual lado? \n2b) E qual o local de cruzamento da via acometida?",
+      "images": [],
       "correct_answer": "Esquerdo (50% da pontuação); \nLocal de cruzamento no bulbo (50% da pontuação)",
       "explanation": null,
-      "reference": null,
-      "case_context": "Paciente procura atendimento devido a diminuição da sensibilidade tátil. Refere que já sofreu úlceras nos pés sem perceber, por não sentir quando se machucava. \nExame neurológico:\nPropriocepção consciente diminuída no membro inferior esquerdo\nSensibilidade vibratória abolida no membro inferior esquerdo\nTeste de discriminação dos dois pontos alterado (precisa de uma distância grande entre dois pontos estimulados para perceber como dois pontos distintos) no dedo do pé esquerdo\nSensibilidade térmica e dolorosa preservadas\nDiagnóstico:\nExame de imagem mostrou uma lesão medular."
+      "reference": null
     },
     {
       "id": 18,
       "type": "free_response",
+      "case_context": "Um homem de 65 anos, hipertenso, é levado à emergência com perda súbita de força e de sensibilidade no hemicorpo direito (face e membros), iniciada há duas horas.\n Exame físico:\nFraqueza muscular em membro superior, inferior direito e face\nPerda de sensibilidade somestésica em face, membro superior e inferior direito, ou seja, paciente não sentia quando algum estímulo era aplicado em sua pele\nAlteração da fala: paciente fala poucas palavras, não tem fluência na fala, no entanto compreende comandos verbais\nForam encontradas lesões em uma área relacionada à linguagem e nas fibras que conectam áreas corticais (os giros pré-central e pós-central) às áreas subcorticais.",
       "question": "A) Qual a classificação das fibras lesionadas (projeção ou associação) e; B) qual o nome delas?",
+      "images": [],
       "correct_answer": "Projeção; cápsula interna\nPontuação: 50% da pontuação: projeção; 50% da pontuação: cápsula interna",
       "explanation": null,
-      "reference": null,
-      "case_context": "Um homem de 65 anos, hipertenso, é levado à emergência com perda súbita de força e de sensibilidade no hemicorpo direito (face e membros), iniciada há duas horas.\n Exame físico:\nFraqueza muscular em membro superior, inferior direito e face\nPerda de sensibilidade somestésica em face, membro superior e inferior direito, ou seja, paciente não sentia quando algum estímulo era aplicado em sua pele\nAlteração da fala: paciente fala poucas palavras, não tem fluência na fala, no entanto compreende comandos verbais\nForam encontradas lesões em uma área relacionada à linguagem e nas fibras que conectam áreas corticais (os giros pré-central e pós-central) às áreas subcorticais."
+      "reference": null
     },
     {
       "id": 19,
       "type": "free_response",
+      "case_context": "Um homem de 65 anos, hipertenso, é levado à emergência com perda súbita de força e de sensibilidade no hemicorpo direito (face e membros), iniciada há duas horas.\n Exame físico:\nFraqueza muscular em membro superior, inferior direito e face\nPerda de sensibilidade somestésica em face, membro superior e inferior direito, ou seja, paciente não sentia quando algum estímulo era aplicado em sua pele\nAlteração da fala: paciente fala poucas palavras, não tem fluência na fala, no entanto compreende comandos verbais\nForam encontradas lesões em uma área relacionada à linguagem e nas fibras que conectam áreas corticais (os giros pré-central e pós-central) às áreas subcorticais.",
       "question": "Qual a classificação funcional (classificação de Luria) da área cortical acometida que explica os sintomas somestésicos?",
+      "images": [],
       "correct_answer": "área sensorial (somestésica) primária\nPontuação: 100% da pontuação: área sensorial primária. Só será aceita a resposta completa, não há meio certo.",
       "explanation": null,
-      "reference": null,
-      "case_context": "Um homem de 65 anos, hipertenso, é levado à emergência com perda súbita de força e de sensibilidade no hemicorpo direito (face e membros), iniciada há duas horas.\n Exame físico:\nFraqueza muscular em membro superior, inferior direito e face\nPerda de sensibilidade somestésica em face, membro superior e inferior direito, ou seja, paciente não sentia quando algum estímulo era aplicado em sua pele\nAlteração da fala: paciente fala poucas palavras, não tem fluência na fala, no entanto compreende comandos verbais\nForam encontradas lesões em uma área relacionada à linguagem e nas fibras que conectam áreas corticais (os giros pré-central e pós-central) às áreas subcorticais."
+      "reference": null
     },
     {
       "id": 20,
       "type": "free_response",
+      "case_context": "Um homem de 65 anos, hipertenso, é levado à emergência com perda súbita de força e de sensibilidade no hemicorpo direito (face e membros), iniciada há duas horas.\n Exame físico:\nFraqueza muscular em membro superior, inferior direito e face\nPerda de sensibilidade somestésica em face, membro superior e inferior direito, ou seja, paciente não sentia quando algum estímulo era aplicado em sua pele\nAlteração da fala: paciente fala poucas palavras, não tem fluência na fala, no entanto compreende comandos verbais\nForam encontradas lesões em uma área relacionada à linguagem e nas fibras que conectam áreas corticais (os giros pré-central e pós-central) às áreas subcorticais.",
       "question": "Qual o giro lesionado explica os sintomas relacionados à fala?",
+      "images": [],
       "correct_answer": "giro frontal inferior esquerdo\nPontuação: 100% da pontuação: giro frontal inferior esquerdo. Caso não seja escrito o lado será descontada 50% da pontuação.",
       "explanation": null,
-      "reference": null,
-      "case_context": "Um homem de 65 anos, hipertenso, é levado à emergência com perda súbita de força e de sensibilidade no hemicorpo direito (face e membros), iniciada há duas horas.\n Exame físico:\nFraqueza muscular em membro superior, inferior direito e face\nPerda de sensibilidade somestésica em face, membro superior e inferior direito, ou seja, paciente não sentia quando algum estímulo era aplicado em sua pele\nAlteração da fala: paciente fala poucas palavras, não tem fluência na fala, no entanto compreende comandos verbais\nForam encontradas lesões em uma área relacionada à linguagem e nas fibras que conectam áreas corticais (os giros pré-central e pós-central) às áreas subcorticais."
+      "reference": null
     }
   ]
 }

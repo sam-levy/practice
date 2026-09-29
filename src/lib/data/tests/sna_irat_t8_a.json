@@ -8,144 +8,274 @@
   ],
   "questions": [
     {
+      "id": 1,
       "type": "multiple_choice",
       "question": "Os corpos de neurônios autônomos estão localizados:",
-      "options": [
-        "nas partes central e periférica do sistema nervoso",
-        "apenas nas paredes das vísceras",
-        "apenas na parte periférica do sistema nervoso",
-        "apenas na parte central do sistema nervoso"
-      ],
-      "correct_answer": "nas partes central e periférica do sistema nervoso",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "nas partes central e periférica do sistema nervoso",
+          "images": []
+        },
+        "b": {
+          "content": "apenas nas paredes das vísceras",
+          "images": []
+        },
+        "c": {
+          "content": "apenas na parte periférica do sistema nervoso",
+          "images": []
+        },
+        "d": {
+          "content": "apenas na parte central do sistema nervoso",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 1
+      "reference": null
     },
     {
+      "id": 2,
       "type": "multiple_choice",
       "question": "Sobre a cadeia ganglionar simpática podemos afirmar que apresenta:",
-      "options": [
-        "gânglios paravertebrais: aórtico, celíaco e mesentéricos.",
-        "gânglios pré-vertebrais: ciliar, ótico e pterigopalatino.",
-        "gânglios cervicais à coccígeos.",
-        "gânglios de T1 à L2."
-      ],
-      "correct_answer": "gânglios cervicais à coccígeos.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "gânglios paravertebrais: aórtico, celíaco e mesentéricos.",
+          "images": []
+        },
+        "b": {
+          "content": "gânglios pré-vertebrais: ciliar, ótico e pterigopalatino.",
+          "images": []
+        },
+        "c": {
+          "content": "gânglios cervicais à coccígeos.",
+          "images": []
+        },
+        "d": {
+          "content": "gânglios de T1 à L2.",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
-      "reference": null,
-      "id": 2
+      "reference": null
     },
     {
+      "id": 3,
       "type": "multiple_choice",
       "question": "As fibras pré-ganglionares simpáticas estão presentes no:",
-      "options": [
-        "no ramo comunicante branco e são amielínicas",
-        "ramo comunicante cinzento e são amielínicas",
-        "no ramo comunicante cinzento e são mielínicas",
-        "no ramo comunicante branco e são mielínicas"
-      ],
-      "correct_answer": "no ramo comunicante branco e são mielínicas",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "no ramo comunicante branco e são amielínicas",
+          "images": []
+        },
+        "b": {
+          "content": "ramo comunicante cinzento e são amielínicas",
+          "images": []
+        },
+        "c": {
+          "content": "no ramo comunicante cinzento e são mielínicas",
+          "images": []
+        },
+        "d": {
+          "content": "no ramo comunicante branco e são mielínicas",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "id": 3
+      "reference": null
     },
     {
+      "id": 4,
       "type": "multiple_choice",
       "question": "As fibras pós-ganglionares parassimpáticas e pré-ganglionares simpática, são fibras, respectivamente:",
-      "options": [
-        "curtas - curtas",
-        "curtas – longas",
-        "longas - curtas",
-        "longas – longas"
-      ],
-      "correct_answer": "curtas - curtas",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "curtas - curtas",
+          "images": []
+        },
+        "b": {
+          "content": "curtas – longas",
+          "images": []
+        },
+        "c": {
+          "content": "longas - curtas",
+          "images": []
+        },
+        "d": {
+          "content": "longas – longas",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 4
+      "reference": null
     },
     {
+      "id": 5,
       "type": "multiple_choice",
       "question": "A midríase (dilatação da pupila), relaxamento dos esfíncteres e secreção salivar fluida e abundantes são efeitos desencadeados, RESPECTIVAMENTE pela ação do:",
-      "options": [
-        "simpático – parassimpático – parassimpático",
-        "simpático – simpático – simpático",
-        "parassimpático – parassimpático – parassimpático",
-        "parassimpático – simpático – parassimpático"
-      ],
-      "correct_answer": "simpático – parassimpático – parassimpático",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "simpático – parassimpático – parassimpático",
+          "images": []
+        },
+        "b": {
+          "content": "simpático – simpático – simpático",
+          "images": []
+        },
+        "c": {
+          "content": "parassimpático – parassimpático – parassimpático",
+          "images": []
+        },
+        "d": {
+          "content": "parassimpático – simpático – parassimpático",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 5
+      "reference": null
     },
     {
+      "id": 6,
       "type": "multiple_choice",
       "question": "Qual divisão do sistema nervoso autônomo tem ação difusa? Por quê?",
-      "options": [
-        "simpático, pois o neurônio pré-ganglionar pode fazer sinapse com um neurônio pós-ganglionar em diferentes gânglios",
-        "simpático, pois este pode estimular a glândula suprarrenal a liberar acetilcolina",
-        "parassimpático, pois o neurônio pré-ganglionar pode fazer sinapse com um neurônio pós-ganglionar em diferentes gânglios",
-        "parassimpático, pois o neurônio pré-ganglionar pode fazer sinapse com neurônios modificados da glândula supra-renal"
-      ],
-      "correct_answer": "simpático, pois o neurônio pré-ganglionar pode fazer sinapse com um neurônio pós-ganglionar em diferentes gânglios",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "simpático, pois o neurônio pré-ganglionar pode fazer sinapse com um neurônio pós-ganglionar em diferentes gânglios",
+          "images": []
+        },
+        "b": {
+          "content": "simpático, pois este pode estimular a glândula suprarrenal a liberar acetilcolina",
+          "images": []
+        },
+        "c": {
+          "content": "parassimpático, pois o neurônio pré-ganglionar pode fazer sinapse com um neurônio pós-ganglionar em diferentes gânglios",
+          "images": []
+        },
+        "d": {
+          "content": "parassimpático, pois o neurônio pré-ganglionar pode fazer sinapse com neurônios modificados da glândula supra-renal",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 6
+      "reference": null
     },
     {
+      "id": 7,
       "type": "multiple_choice",
       "question": "Quais nervos cranianos possuem fibras parassimpáticas?",
-      "options": [
-        "III, VII, IX e X",
-        "III, V, VII e X",
-        "III, V, IX e X",
-        "II, V, IX e X"
-      ],
-      "correct_answer": "III, VII, IX e X",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "III, VII, IX e X",
+          "images": []
+        },
+        "b": {
+          "content": "III, V, VII e X",
+          "images": []
+        },
+        "c": {
+          "content": "III, V, IX e X",
+          "images": []
+        },
+        "d": {
+          "content": "II, V, IX e X",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 7
+      "reference": null
     },
     {
+      "id": 8,
       "type": "multiple_choice",
       "question": "A porção eferente do arco reflexo da micção é formada por:",
-      "options": [
-        "fibras parassimpáticas que contraem o músculo detrusor",
-        "fibras simpáticas que contraem o músculo detrusor",
-        "fibras simpáticas que relaxam o músculo detrusor",
-        "fibras parassimpáticas que relaxam o músculo detrusor"
-      ],
-      "correct_answer": "fibras parassimpáticas que contraem o músculo detrusor",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "fibras parassimpáticas que contraem o músculo detrusor",
+          "images": []
+        },
+        "b": {
+          "content": "fibras simpáticas que contraem o músculo detrusor",
+          "images": []
+        },
+        "c": {
+          "content": "fibras simpáticas que relaxam o músculo detrusor",
+          "images": []
+        },
+        "d": {
+          "content": "fibras parassimpáticas que relaxam o músculo detrusor",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 8
+      "reference": null
     },
     {
+      "id": 9,
       "type": "multiple_choice",
       "question": "Assinale a alternativa correta a respeito dos nervos esplâncnicos (maior, menor e imo):",
-      "options": [
-        "contém fibras pós-ganglionares simpáticas",
-        "se direcionam diretamente aos órgãos alvos do sistema nervoso simpático",
-        "contém fibras pré-ganglionares parassimpáticas",
-        "suas fibras se direcionam aos gânglios pré-vertebrais"
-      ],
-      "correct_answer": "suas fibras se direcionam aos gânglios pré-vertebrais",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "contém fibras pós-ganglionares simpáticas",
+          "images": []
+        },
+        "b": {
+          "content": "se direcionam diretamente aos órgãos alvos do sistema nervoso simpático",
+          "images": []
+        },
+        "c": {
+          "content": "contém fibras pré-ganglionares parassimpáticas",
+          "images": []
+        },
+        "d": {
+          "content": "suas fibras se direcionam aos gânglios pré-vertebrais",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "id": 9
+      "reference": null
     },
     {
+      "id": 10,
       "type": "multiple_choice",
       "question": "O neurônio pré-ganglionar localizado em T10 pode fazer sinapse com um neurônio pós-ganglionar localizado:",
-      "options": [
-        "na cadeia paravertebral, apenas no gânglio de mesmo nível",
-        "em um gânglio parassimpático, longe do órgão efetor",
-        "em um gânglio parassimpático, perto do órgão efetor",
-        "na cadeia paravertebral em um gânglio no mesmo nível, abaixo ou acima de T10"
-      ],
-      "correct_answer": "na cadeia paravertebral em um gânglio no mesmo nível, abaixo ou acima de T10",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "na cadeia paravertebral, apenas no gânglio de mesmo nível",
+          "images": []
+        },
+        "b": {
+          "content": "em um gânglio parassimpático, longe do órgão efetor",
+          "images": []
+        },
+        "c": {
+          "content": "em um gânglio parassimpático, perto do órgão efetor",
+          "images": []
+        },
+        "d": {
+          "content": "na cadeia paravertebral em um gânglio no mesmo nível, abaixo ou acima de T10",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "id": 10
+      "reference": null
     }
   ]
 }

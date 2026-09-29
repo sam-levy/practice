@@ -8,368 +8,706 @@
   ],
   "questions": [
     {
+      "id": 1,
       "type": "multiple_choice",
       "question": "1-O corpo caloso é um exemplo de:",
-      "options": [
-        "Fibras de associação inter-hemisféricas ou comissurais",
-        "Fibras de associação intra-hemisféricas",
-        "Fibras de projeção",
-        "Fibras amielínicas"
-      ],
-      "correct_answer": "Fibras de associação inter-hemisféricas ou comissurais",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Fibras de associação inter-hemisféricas ou comissurais",
+          "images": []
+        },
+        "b": {
+          "content": "Fibras de associação intra-hemisféricas",
+          "images": []
+        },
+        "c": {
+          "content": "Fibras de projeção",
+          "images": []
+        },
+        "d": {
+          "content": "Fibras amielínicas",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 1
+      "reference": null
     },
     {
+      "id": 2,
       "type": "multiple_choice",
       "question": "2-A cápsula interna é um feixe de fibras:",
-      "options": [
-        "De projeção",
-        "Comissurais",
-        "Fibras de associação inter-hemisféricas",
-        "Fibras de associação intra-hemisféricas"
-      ],
-      "correct_answer": "De projeção",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "De projeção",
+          "images": []
+        },
+        "b": {
+          "content": "Comissurais",
+          "images": []
+        },
+        "c": {
+          "content": "Fibras de associação inter-hemisféricas",
+          "images": []
+        },
+        "d": {
+          "content": "Fibras de associação intra-hemisféricas",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 2
+      "reference": null
     },
     {
+      "id": 3,
       "type": "multiple_choice",
       "question": "3-Qual tipo de fibra ligam diferentes áreas corticais?",
-      "options": [
-        "Fibras de associação",
-        "Fibras de projeção",
-        "Fibras da cápsula interna",
-        "Fibras do fórnice"
-      ],
-      "correct_answer": "Fibras de associação",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Fibras de associação",
+          "images": []
+        },
+        "b": {
+          "content": "Fibras de projeção",
+          "images": []
+        },
+        "c": {
+          "content": "Fibras da cápsula interna",
+          "images": []
+        },
+        "d": {
+          "content": "Fibras do fórnice",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 3
+      "reference": null
     },
     {
+      "id": 4,
       "type": "multiple_choice",
       "question": "4-As células piramidais são predominantes nas camadas corticais:",
-      "options": [
-        "III e V",
-        "II e IV",
-        "I e VI",
-        "I e II"
-      ],
-      "correct_answer": "III e V",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "III e V",
+          "images": []
+        },
+        "b": {
+          "content": "II e IV",
+          "images": []
+        },
+        "c": {
+          "content": "I e VI",
+          "images": []
+        },
+        "d": {
+          "content": "I e II",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 4
+      "reference": null
     },
     {
+      "id": 5,
       "type": "multiple_choice",
       "question": "5-Qual córtex apresenta 3 camadas após o seu desenvolvimento?",
-      "options": [
-        "alocórtex",
-        "isocórtex homotípico",
-        "isocórtex heterotípico agranular",
-        "isocórtex heterotípico granular"
-      ],
-      "correct_answer": "alocórtex",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "alocórtex",
+          "images": []
+        },
+        "b": {
+          "content": "isocórtex homotípico",
+          "images": []
+        },
+        "c": {
+          "content": "isocórtex heterotípico agranular",
+          "images": []
+        },
+        "d": {
+          "content": "isocórtex heterotípico granular",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 5
+      "reference": null
     },
     {
+      "id": 6,
       "type": "multiple_choice",
       "question": "6-O arquicórtex está localizado no:",
-      "options": [
-        "hipocampo",
-        "unco",
-        "Giro pré-central",
-        "giro para hipocampal"
-      ],
-      "correct_answer": "hipocampo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "hipocampo",
+          "images": []
+        },
+        "b": {
+          "content": "unco",
+          "images": []
+        },
+        "c": {
+          "content": "Giro pré-central",
+          "images": []
+        },
+        "d": {
+          "content": "giro para hipocampal",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 6
+      "reference": null
     },
     {
+      "id": 7,
       "type": "multiple_choice",
       "question": "7-As áreas unimodais do córtex são denominadas de:",
-      "options": [
-        "áreas primárias e secundárias",
-        "áreas secundárias e terciárias",
-        "apenas áreas secundárias",
-        "áreas primárias e terciárias"
-      ],
-      "correct_answer": "áreas primárias e secundárias",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "áreas primárias e secundárias",
+          "images": []
+        },
+        "b": {
+          "content": "áreas secundárias e terciárias",
+          "images": []
+        },
+        "c": {
+          "content": "apenas áreas secundárias",
+          "images": []
+        },
+        "d": {
+          "content": "áreas primárias e terciárias",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 7
+      "reference": null
     },
     {
+      "id": 8,
       "type": "multiple_choice",
       "question": "8-A área sensitiva primária possui:",
-      "options": [
-        "isocórtex heterotípico granular",
-        "isocórtex heterotípico agranular",
-        "isocórtex homotípico",
-        "alocórtex"
-      ],
-      "correct_answer": "isocórtex heterotípico granular",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "isocórtex heterotípico granular",
+          "images": []
+        },
+        "b": {
+          "content": "isocórtex heterotípico agranular",
+          "images": []
+        },
+        "c": {
+          "content": "isocórtex homotípico",
+          "images": []
+        },
+        "d": {
+          "content": "alocórtex",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 8
+      "reference": null
     },
     {
+      "id": 9,
       "type": "multiple_choice",
       "question": "9-As áreas corticais responsáveis pela memória e emoções são consideradas áreas:",
-      "options": [
-        "Terciárias",
-        "Secundárias",
-        "Primárias",
-        "Alocórtex"
-      ],
-      "correct_answer": "Terciárias",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Terciárias",
+          "images": []
+        },
+        "b": {
+          "content": "Secundárias",
+          "images": []
+        },
+        "c": {
+          "content": "Primárias",
+          "images": []
+        },
+        "d": {
+          "content": "Alocórtex",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 9
+      "reference": null
     },
     {
+      "id": 10,
       "type": "multiple_choice",
       "question": "10-Nas apraxias observamos dificuldade em realizar o movimento, devido a lesões nas áreas de planejamento motor, as lesões estão localizadas no:",
-      "options": [
-        "lobo parietal",
-        "lobo temporal",
-        "lobo frontal",
-        "lobo insular"
-      ],
-      "correct_answer": "lobo frontal",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "lobo parietal",
+          "images": []
+        },
+        "b": {
+          "content": "lobo temporal",
+          "images": []
+        },
+        "c": {
+          "content": "lobo frontal",
+          "images": []
+        },
+        "d": {
+          "content": "lobo insular",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
-      "reference": null,
-      "id": 10
+      "reference": null
     },
     {
+      "id": 11,
       "type": "multiple_choice",
       "question": "11-A área motora da fala (de Broca) está localizada no:",
-      "options": [
-        "giro pré-central esquerdo",
-        "giro frontal superior esquerdo",
-        "giro frontal inferior esquerdo",
-        "giro pós-central esquerdo"
-      ],
-      "correct_answer": "giro frontal inferior esquerdo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "giro pré-central esquerdo",
+          "images": []
+        },
+        "b": {
+          "content": "giro frontal superior esquerdo",
+          "images": []
+        },
+        "c": {
+          "content": "giro frontal inferior esquerdo",
+          "images": []
+        },
+        "d": {
+          "content": "giro pós-central esquerdo",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
-      "reference": null,
-      "id": 11
+      "reference": null
     },
     {
+      "id": 12,
       "type": "multiple_choice",
       "question": "12-Fibras de projeção são:",
-      "options": [
-        "Fibras que ligam o córtex a centros subcorticais",
-        "Fibras que ligam centros subcorticais a outros centros subcorticais",
-        "Fibras que ligam áreas diferentes do córtex",
-        "Fibras que ligam áreas primarias com áreas secundárias do córtex"
-      ],
-      "correct_answer": "Fibras que ligam o córtex a centros subcorticais",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Fibras que ligam o córtex a centros subcorticais",
+          "images": []
+        },
+        "b": {
+          "content": "Fibras que ligam centros subcorticais a outros centros subcorticais",
+          "images": []
+        },
+        "c": {
+          "content": "Fibras que ligam áreas diferentes do córtex",
+          "images": []
+        },
+        "d": {
+          "content": "Fibras que ligam áreas primarias com áreas secundárias do córtex",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 12
+      "reference": null
     },
     {
+      "id": 13,
       "type": "multiple_choice",
       "question": "13-As células granulares são predominantes nas camadas corticais:",
-      "options": [
-        "II e IV",
-        "III e V",
-        "I e VI",
-        "I e II"
-      ],
-      "correct_answer": "II e IV",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "II e IV",
+          "images": []
+        },
+        "b": {
+          "content": "III e V",
+          "images": []
+        },
+        "c": {
+          "content": "I e VI",
+          "images": []
+        },
+        "d": {
+          "content": "I e II",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 13
+      "reference": null
     },
     {
+      "id": 14,
       "type": "multiple_choice",
       "question": "14-Qual córtex apresenta 6 camadas bem definidas e iguais?",
-      "options": [
-        "isocórtex homotípico",
-        "isocórtex heterotípico agranular",
-        "alocórtex",
-        "isocórtex heterotípico granular"
-      ],
-      "correct_answer": "isocórtex homotípico",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "isocórtex homotípico",
+          "images": []
+        },
+        "b": {
+          "content": "isocórtex heterotípico agranular",
+          "images": []
+        },
+        "c": {
+          "content": "alocórtex",
+          "images": []
+        },
+        "d": {
+          "content": "isocórtex heterotípico granular",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 14
+      "reference": null
     },
     {
+      "id": 15,
       "type": "multiple_choice",
       "question": "15-Qual região abaixo representa o paleocórtex?",
-      "options": [
-        "unco",
-        "hipocampo",
-        "giro pré-central",
-        "giro do cíngulo"
-      ],
-      "correct_answer": "unco",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "unco",
+          "images": []
+        },
+        "b": {
+          "content": "hipocampo",
+          "images": []
+        },
+        "c": {
+          "content": "giro pré-central",
+          "images": []
+        },
+        "d": {
+          "content": "giro do cíngulo",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 15
+      "reference": null
     },
     {
+      "id": 16,
       "type": "multiple_choice",
       "question": "16-As áreas supramodais do córtex são denominadas de:",
-      "options": [
-        "áreas terciárias",
-        "áreas secundárias e terciárias",
-        "apenas áreas secundárias",
-        "áreas primárias e terciárias"
-      ],
-      "correct_answer": "áreas terciárias",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "áreas terciárias",
+          "images": []
+        },
+        "b": {
+          "content": "áreas secundárias e terciárias",
+          "images": []
+        },
+        "c": {
+          "content": "apenas áreas secundárias",
+          "images": []
+        },
+        "d": {
+          "content": "áreas primárias e terciárias",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 16
+      "reference": null
     },
     {
+      "id": 17,
       "type": "multiple_choice",
       "question": "17-A área motora primária é constituída por um córtex de qual tipo?",
-      "options": [
-        "isocórtex heterotípico agranular",
-        "isocórtex homotípico",
-        "isocórtex heterotípico granular",
-        "alocórtex"
-      ],
-      "correct_answer": "isocórtex heterotípico agranular",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "isocórtex heterotípico agranular",
+          "images": []
+        },
+        "b": {
+          "content": "isocórtex homotípico",
+          "images": []
+        },
+        "c": {
+          "content": "isocórtex heterotípico granular",
+          "images": []
+        },
+        "d": {
+          "content": "alocórtex",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 17
+      "reference": null
     },
     {
+      "id": 18,
       "type": "multiple_choice",
       "question": "18-A capacidade de reconhecer objetos, por meio de estímulos táteis (gnosia tátil), é desempenhada:",
-      "options": [
-        "Na área somestésica secundária localizada no lóbulo parietal superior",
-        "Na área somestésica secundária localizada no giro pós-central",
-        "Na área somestésica primária localizada no lóbulo parietal inferior",
-        "Na área somestésica primária localizada no giro pré-central"
-      ],
-      "correct_answer": "Na área somestésica secundária localizada no lóbulo parietal superior",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Na área somestésica secundária localizada no lóbulo parietal superior",
+          "images": []
+        },
+        "b": {
+          "content": "Na área somestésica secundária localizada no giro pós-central",
+          "images": []
+        },
+        "c": {
+          "content": "Na área somestésica primária localizada no lóbulo parietal inferior",
+          "images": []
+        },
+        "d": {
+          "content": "Na área somestésica primária localizada no giro pré-central",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 18
+      "reference": null
     },
     {
+      "id": 19,
       "type": "multiple_choice",
       "question": "19-A área de Wernicke (área sensitiva da fala) está localizada entre os lobos:",
-      "options": [
-        "parietal e temporal",
-        "frontal e parietal",
-        "frontal e temporal",
-        "occipital e temporal"
-      ],
-      "correct_answer": "parietal e temporal",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "parietal e temporal",
+          "images": []
+        },
+        "b": {
+          "content": "frontal e parietal",
+          "images": []
+        },
+        "c": {
+          "content": "frontal e temporal",
+          "images": []
+        },
+        "d": {
+          "content": "occipital e temporal",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 19
+      "reference": null
     },
     {
+      "id": 20,
       "type": "multiple_choice",
       "question": "20-A área cortical relacionada com o comportamento inteligente está localizada no lobo:",
-      "options": [
-        "Frontal",
-        "Temporal",
-        "Parietal",
-        "Insular"
-      ],
-      "correct_answer": "Frontal",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Frontal",
+          "images": []
+        },
+        "b": {
+          "content": "Temporal",
+          "images": []
+        },
+        "c": {
+          "content": "Parietal",
+          "images": []
+        },
+        "d": {
+          "content": "Insular",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 20
+      "reference": null
     },
     {
+      "id": 21,
       "type": "multiple_choice",
       "question": "21 - Assinale um exemplo de fibras de associação inter- hemisféricas ou comissurais:",
-      "options": [
-        "corpo caloso",
-        "cápsula interna",
-        "coroa radiada",
-        "fibras arqueadas do cérebro"
-      ],
-      "correct_answer": "corpo caloso",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "corpo caloso",
+          "images": []
+        },
+        "b": {
+          "content": "cápsula interna",
+          "images": []
+        },
+        "c": {
+          "content": "coroa radiada",
+          "images": []
+        },
+        "d": {
+          "content": "fibras arqueadas do cérebro",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 21
+      "reference": null
     },
     {
+      "id": 22,
       "type": "multiple_choice",
       "question": "22 - Assinale um exemplo de fibras de projeção",
-      "options": [
-        "cápsula interna",
-        "corpo caloso",
-        "comissura anterior",
-        "fibras arqueadas do cérebro"
-      ],
-      "correct_answer": "cápsula interna",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "cápsula interna",
+          "images": []
+        },
+        "b": {
+          "content": "corpo caloso",
+          "images": []
+        },
+        "c": {
+          "content": "comissura anterior",
+          "images": []
+        },
+        "d": {
+          "content": "fibras arqueadas do cérebro",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 22
+      "reference": null
     },
     {
+      "id": 23,
       "type": "multiple_choice",
       "question": "23 - Qual a área relacionada com a expressão da linguagem?",
-      "options": [
-        "área de Broca, localizada no hemisfério esquerdo",
-        "área de Wernicke, localizado no hemisfério esquerdo",
-        "área de Broca, nos dos hemisférios cerebrais",
-        "área de Wernicke, nos dois hemisférios cerebrais"
-      ],
-      "correct_answer": "área de Broca, localizada no hemisfério esquerdo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "área de Broca, localizada no hemisfério esquerdo",
+          "images": []
+        },
+        "b": {
+          "content": "área de Wernicke, localizado no hemisfério esquerdo",
+          "images": []
+        },
+        "c": {
+          "content": "área de Broca, nos dos hemisférios cerebrais",
+          "images": []
+        },
+        "d": {
+          "content": "área de Wernicke, nos dois hemisférios cerebrais",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 23
+      "reference": null
     },
     {
+      "id": 24,
       "type": "multiple_choice",
       "question": "23 - Qual a área relacionada com a percepção da linguagem?",
-      "options": [
-        "área de Wernicke, localizado no hemisfério esquerdo",
-        "área de Broca, localizada no hemisfério esquerdo",
-        "área de Broca, nos dos hemisférios cerebrais",
-        "área de Wernicke, nos dois hemisférios cerebrais"
-      ],
-      "correct_answer": "área de Wernicke, localizado no hemisfério esquerdo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "área de Wernicke, localizado no hemisfério esquerdo",
+          "images": []
+        },
+        "b": {
+          "content": "área de Broca, localizada no hemisfério esquerdo",
+          "images": []
+        },
+        "c": {
+          "content": "área de Broca, nos dos hemisférios cerebrais",
+          "images": []
+        },
+        "d": {
+          "content": "área de Wernicke, nos dois hemisférios cerebrais",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 24
+      "reference": null
     },
     {
+      "id": 25,
       "type": "multiple_choice",
       "question": "24 - O córtex motor primário está localizado no:",
-      "options": [
-        "giro pré-central",
-        "giro pós-central",
-        "giro frontal inferior",
-        "giro temporal superior"
-      ],
-      "correct_answer": "giro pré-central",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "giro pré-central",
+          "images": []
+        },
+        "b": {
+          "content": "giro pós-central",
+          "images": []
+        },
+        "c": {
+          "content": "giro frontal inferior",
+          "images": []
+        },
+        "d": {
+          "content": "giro temporal superior",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 25
+      "reference": null
     },
     {
+      "id": 26,
       "type": "multiple_choice",
       "question": "25 - O pé e a perna estão representados no córtex motor, na face:",
-      "options": [
-        "medial",
-        "súpero-lateral",
-        "inferior",
-        "dorsal"
-      ],
-      "correct_answer": "medial",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "medial",
+          "images": []
+        },
+        "b": {
+          "content": "súpero-lateral",
+          "images": []
+        },
+        "c": {
+          "content": "inferior",
+          "images": []
+        },
+        "d": {
+          "content": "dorsal",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 26
+      "reference": null
     }
   ]
 }

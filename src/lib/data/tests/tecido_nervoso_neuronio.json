@@ -9,12 +9,22 @@
       "id": 1,
       "type": "multiple_choice",
       "question": "Qual a classificação morfológica dos neurônios?",
-      "options": [
-        "pseudounipolar, sensorial e motor",
-        "pseudounipolar, bipolar e multipolar",
-        "sensorial, motor e de integração"
-      ],
-      "correct_answer": "pseudounipolar, bipolar e multipolar",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "pseudounipolar, sensorial e motor",
+          "images": []
+        },
+        "b": {
+          "content": "pseudounipolar, bipolar e multipolar",
+          "images": []
+        },
+        "c": {
+          "content": "sensorial, motor e de integração",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -22,12 +32,22 @@
       "id": 2,
       "type": "multiple_choice",
       "question": "Qual a classificação funcional dos neurônios?",
-      "options": [
-        "sensorial, motor e de integração",
-        "pseudounipolar, bipolar e multipolar",
-        "pseudounipolar, sensorial e motor"
-      ],
-      "correct_answer": "sensorial, motor e de integração",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "sensorial, motor e de integração",
+          "images": []
+        },
+        "b": {
+          "content": "pseudounipolar, bipolar e multipolar",
+          "images": []
+        },
+        "c": {
+          "content": "pseudounipolar, sensorial e motor",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -35,13 +55,26 @@
       "id": 3,
       "type": "multiple_choice",
       "question": "Assinale a alternativa correta sobre fluxo axoplasmático:",
-      "options": [
-        "transporte anterógrado (proteína cinesina) e transporte retrógrado (proteína dineína)",
-        "transporte anterógrado ocorre no sentido do terminal axonal para o corpo celular",
-        "transporte retrógrado ocorre no sentido do corpo celular para o terminal axonal",
-        "transporte retrógrado (proteína cinesina) e transporte anterógrado (proteína dineína)"
-      ],
-      "correct_answer": "transporte anterógrado (proteína cinesina) e transporte retrógrado (proteína dineína)",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "transporte anterógrado (proteína cinesina) e transporte retrógrado (proteína dineína)",
+          "images": []
+        },
+        "b": {
+          "content": "transporte anterógrado ocorre no sentido do terminal axonal para o corpo celular",
+          "images": []
+        },
+        "c": {
+          "content": "transporte retrógrado ocorre no sentido do corpo celular para o terminal axonal",
+          "images": []
+        },
+        "d": {
+          "content": "transporte retrógrado (proteína cinesina) e transporte anterógrado (proteína dineína)",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -49,13 +82,26 @@
       "id": 4,
       "type": "multiple_choice",
       "question": "Qual porção do sistema nervoso podemos encontrar corpos de neurônios, células da glia e neurônios amielínicos?",
-      "options": [
-        "substância cinzenta, como por exemplo, H medular",
-        "substância branca, como por exemplo, porção mais externa da medula",
-        "substância cinzenta, como por exemplo, porção mais externa da medula",
-        "substância branca, como por exemplo, no córtex cerebral"
-      ],
-      "correct_answer": "substância cinzenta, como por exemplo, H medular",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "substância cinzenta, como por exemplo, H medular",
+          "images": []
+        },
+        "b": {
+          "content": "substância branca, como por exemplo, porção mais externa da medula",
+          "images": []
+        },
+        "c": {
+          "content": "substância cinzenta, como por exemplo, porção mais externa da medula",
+          "images": []
+        },
+        "d": {
+          "content": "substância branca, como por exemplo, no córtex cerebral",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -63,13 +109,26 @@
       "id": 5,
       "type": "multiple_choice",
       "question": "Como é chamado um conjunto de retículo endoplasmático rugoso com polirribossomos presentes no corpo celular? Em qual célula este conjunto é encontrado?",
-      "options": [
-        "microtúbulos; encontrado na célula da glia",
-        "corpúsculo de Nissl; encontrado no neurônio",
-        "corpúsculo de Nissl; encontrado na célula da glia",
-        "microtúbulos; encontrado no neurônio"
-      ],
-      "correct_answer": "corpúsculo de Nissl; encontrado no neurônio",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "microtúbulos; encontrado na célula da glia",
+          "images": []
+        },
+        "b": {
+          "content": "corpúsculo de Nissl; encontrado no neurônio",
+          "images": []
+        },
+        "c": {
+          "content": "corpúsculo de Nissl; encontrado na célula da glia",
+          "images": []
+        },
+        "d": {
+          "content": "microtúbulos; encontrado no neurônio",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     }

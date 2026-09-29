@@ -8,144 +8,274 @@
   ],
   "questions": [
     {
+      "id": 1,
       "type": "multiple_choice",
       "question": "As artérias: carótida interna e a artéria basilar se originam, respectivamente:",
-      "options": [
-        "a. carótida comum e arco da aorta",
-        "arco da aorta e a. subclávia",
-        "a. carótida externa e a. subclávia",
-        "a. carótida comum e aa. Vertebrais"
-      ],
-      "correct_answer": "a. carótida comum e aa. Vertebrais",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "a. carótida comum e arco da aorta",
+          "images": []
+        },
+        "b": {
+          "content": "arco da aorta e a. subclávia",
+          "images": []
+        },
+        "c": {
+          "content": "a. carótida externa e a. subclávia",
+          "images": []
+        },
+        "d": {
+          "content": "a. carótida comum e aa. Vertebrais",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "id": 1
+      "reference": null
     },
     {
+      "id": 2,
       "type": "multiple_choice",
       "question": "Assinale a alternativa que contenha apenas ramos da artéria carótida interna:",
-      "options": [
-        "a. cerebral anterior, a. cerebral média, a. cerebral posterior, a. comunicante posterior e a. corióidea anterior",
-        "a. cerebral anterior, a. cerebral média, a. comunicante posterior, a. corióidea anterior e a. oftálmica.",
-        "a. cerebral anterior, a. comunicante anterior, a. cerebral média, a. comunicante posterior e a. oftálmica.",
-        "a. corióidea anterior, a. cerebral posterior, a. comunicante posterior, a. cerebral anterior e a. oftálmica."
-      ],
-      "correct_answer": "a. cerebral anterior, a. cerebral média, a. comunicante posterior, a. corióidea anterior e a. oftálmica.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "a. cerebral anterior, a. cerebral média, a. cerebral posterior, a. comunicante posterior e a. corióidea anterior",
+          "images": []
+        },
+        "b": {
+          "content": "a. cerebral anterior, a. cerebral média, a. comunicante posterior, a. corióidea anterior e a. oftálmica.",
+          "images": []
+        },
+        "c": {
+          "content": "a. cerebral anterior, a. comunicante anterior, a. cerebral média, a. comunicante posterior e a. oftálmica.",
+          "images": []
+        },
+        "d": {
+          "content": "a. corióidea anterior, a. cerebral posterior, a. comunicante posterior, a. cerebral anterior e a. oftálmica.",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "id": 2
+      "reference": null
     },
     {
+      "id": 3,
       "type": "multiple_choice",
       "question": "A artéria basilar tem trajeto anterior na ponte. Em seu término se bifurca para formar as artérias:",
-      "options": [
-        "espinais posteriores",
-        "comunicantes posteriores",
-        "vertebrais direita e esquerda",
-        "cerebrais posteriores"
-      ],
-      "correct_answer": "cerebrais posteriores",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "espinais posteriores",
+          "images": []
+        },
+        "b": {
+          "content": "comunicantes posteriores",
+          "images": []
+        },
+        "c": {
+          "content": "vertebrais direita e esquerda",
+          "images": []
+        },
+        "d": {
+          "content": "cerebrais posteriores",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "id": 3
+      "reference": null
     },
     {
+      "id": 4,
       "type": "multiple_choice",
       "question": "São vasos do círculo arterial do cérebro (polígono de Willis), exceto:",
-      "options": [
-        "a. cerebral posterior",
-        "a. vertebral",
-        "a. comunicante anterior",
-        "a. comunicante posterior"
-      ],
-      "correct_answer": "a. vertebral",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "a. cerebral posterior",
+          "images": []
+        },
+        "b": {
+          "content": "a. vertebral",
+          "images": []
+        },
+        "c": {
+          "content": "a. comunicante anterior",
+          "images": []
+        },
+        "d": {
+          "content": "a. comunicante posterior",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "id": 4
+      "reference": null
     },
     {
+      "id": 5,
       "type": "multiple_choice",
       "question": "A artéria cerebelar inferior posterior tem origem da artéria:",
-      "options": [
-        "cerebral posterior",
-        "basilar",
-        "cerebral média",
-        "vertebral"
-      ],
-      "correct_answer": "vertebral",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "cerebral posterior",
+          "images": []
+        },
+        "b": {
+          "content": "basilar",
+          "images": []
+        },
+        "c": {
+          "content": "cerebral média",
+          "images": []
+        },
+        "d": {
+          "content": "vertebral",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "id": 5
+      "reference": null
     },
     {
+      "id": 6,
       "type": "multiple_choice",
       "question": "Assinale o único ramo abaixo com origem na artéria basilar:",
-      "options": [
-        "a. espinal posterior",
-        "a. cerebelar superior",
-        "a. espinal anterior",
-        "a. comunicante posterior"
-      ],
-      "correct_answer": "a. cerebelar superior",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "a. espinal posterior",
+          "images": []
+        },
+        "b": {
+          "content": "a. cerebelar superior",
+          "images": []
+        },
+        "c": {
+          "content": "a. espinal anterior",
+          "images": []
+        },
+        "d": {
+          "content": "a. comunicante posterior",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "id": 6
+      "reference": null
     },
     {
+      "id": 7,
       "type": "multiple_choice",
       "question": "O funículo posterior da medula espinal é irrigado por uma artéria, com origem nas:",
-      "options": [
-        "artérias cerebrais posteriores",
-        "artérias vertebrais",
-        "artérias cerebelares inferiores posteriores",
-        "artérias comunicantes posteriores"
-      ],
-      "correct_answer": "artérias vertebrais",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "artérias cerebrais posteriores",
+          "images": []
+        },
+        "b": {
+          "content": "artérias vertebrais",
+          "images": []
+        },
+        "c": {
+          "content": "artérias cerebelares inferiores posteriores",
+          "images": []
+        },
+        "d": {
+          "content": "artérias comunicantes posteriores",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "id": 7
+      "reference": null
     },
     {
+      "id": 8,
       "type": "multiple_choice",
       "question": "A anastomose entre as carótidas internas e os ramos da artéria basilar, para formar o polígono de Willis é realizado pelas artérias:",
-      "options": [
-        "cerebelares superiores",
-        "comunicantes anteriores",
-        "cerebrais posteriores",
-        "comunicantes posteriores"
-      ],
-      "correct_answer": "comunicantes posteriores",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "cerebelares superiores",
+          "images": []
+        },
+        "b": {
+          "content": "comunicantes anteriores",
+          "images": []
+        },
+        "c": {
+          "content": "cerebrais posteriores",
+          "images": []
+        },
+        "d": {
+          "content": "comunicantes posteriores",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "id": 8
+      "reference": null
     },
     {
+      "id": 9,
       "type": "multiple_choice",
       "question": "A face medial dos giros pré e pós centrais é irrigada pela artéria:",
-      "options": [
-        "cerebral posterior",
-        "comunicante anterior",
-        "cerebral anterior",
-        "cerebral média"
-      ],
-      "correct_answer": "cerebral anterior",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "cerebral posterior",
+          "images": []
+        },
+        "b": {
+          "content": "comunicante anterior",
+          "images": []
+        },
+        "c": {
+          "content": "cerebral anterior",
+          "images": []
+        },
+        "d": {
+          "content": "cerebral média",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
-      "reference": null,
-      "id": 9
+      "reference": null
     },
     {
+      "id": 10,
       "type": "multiple_choice",
       "question": "O trato corticospinal atravessa a perna posterior da cápsula interna. Esse local pode ser comprometido por uma obstrução vascular localizada na artéria:",
-      "options": [
-        "cerebral posterior",
-        "basilar",
-        "cerebral anterior",
-        "cerebral média"
-      ],
-      "correct_answer": "cerebral média",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "cerebral posterior",
+          "images": []
+        },
+        "b": {
+          "content": "basilar",
+          "images": []
+        },
+        "c": {
+          "content": "cerebral anterior",
+          "images": []
+        },
+        "d": {
+          "content": "cerebral média",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "id": 10
+      "reference": null
     }
   ]
 }

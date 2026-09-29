@@ -15,13 +15,26 @@
       "type": "multiple_choice",
       "case_context": "Juscicleide, G5PN3Ab1, comparece à consulta de Pré-Natal com resultado de ultrassonografia solicitada pelo obstetra na primeira consulta. Está com 10 semanas de gestação (gestação múltipla, aparentemente monocoriônica, conforme imagem anexa), sem qualquer intercorrência até o momento.",
       "question": "As principais complicações associadas a este tipo de gestação múltipla são:",
-      "options": [
-        "Síndrome transfusão feto fetal e sequência anemia policitemia",
-        "Restrição de crescimento seletiva e gêmeos unidos",
-        "Sequência oligoâmnio-polidrâmnio e restrição de crescimento seletiva",
-        "Gêmeo acárdico e ruptura prematura de membranas"
-      ],
-      "correct_answer": "Síndrome transfusão feto fetal e sequência anemia policitemia",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Síndrome transfusão feto fetal e sequência anemia policitemia",
+          "images": []
+        },
+        "b": {
+          "content": "Restrição de crescimento seletiva e gêmeos unidos",
+          "images": []
+        },
+        "c": {
+          "content": "Sequência oligoâmnio-polidrâmnio e restrição de crescimento seletiva",
+          "images": []
+        },
+        "d": {
+          "content": "Gêmeo acárdico e ruptura prematura de membranas",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "student_score": "0/5",
       "explanation": null,
       "reference": null
@@ -31,13 +44,26 @@
       "type": "multiple_choice",
       "case_context": "Gertrudes, 20 anos, secundigesta, com parto normal prematuro na gestação anterior, deu entrada no PS com 28 semanas de gestação, com dor tipo contração há 3 horas. Exame físico: altura uterina 29 cm, BCF 132 bpm, tônus uterino normal, dinâmica uterina presente (3 contrações de 40 segundos em 10 minutos). Especular: conteúdo vaginal fisiológico, sem saída de líquido à manobra de Valsalva. Toque vaginal: apresentação cefálica, colo grosso, centralizando, 3 cm de dilatação, apagamento de 30%.",
       "question": "A conduta condizente ao caso deve ser:",
-      "options": [
-        "Deixá-la em repouso absoluto, analgesia medicamentosa por via oral, realizar ultrassonografia obstétrica.",
-        "Receitar tocolítico por via oral, orientação sobre sinais de trabalho de parto e tratamento expectante em casa.",
-        "Interná-la, solicitar rotina infecciosa, realizar tocólise e prescrever corticoide para maturação pulmonar e antibioticoprofilaxia.",
-        "Interná-la, e deixar o trabalho de parto evoluir espontaneamente, devido Bishop desfavorável para tocólise."
-      ],
-      "correct_answer": "Interná-la, solicitar rotina infecciosa, realizar tocólise e prescrever corticoide para maturação pulmonar e antibioticoprofilaxia.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Deixá-la em repouso absoluto, analgesia medicamentosa por via oral, realizar ultrassonografia obstétrica.",
+          "images": []
+        },
+        "b": {
+          "content": "Receitar tocolítico por via oral, orientação sobre sinais de trabalho de parto e tratamento expectante em casa.",
+          "images": []
+        },
+        "c": {
+          "content": "Interná-la, solicitar rotina infecciosa, realizar tocólise e prescrever corticoide para maturação pulmonar e antibioticoprofilaxia.",
+          "images": []
+        },
+        "d": {
+          "content": "Interná-la, e deixar o trabalho de parto evoluir espontaneamente, devido Bishop desfavorável para tocólise.",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "student_score": "0/5",
       "explanation": null,
       "reference": null
@@ -47,13 +73,26 @@
       "type": "multiple_choice",
       "case_context": "Gestante com 34 semanas apresenta convulsão tônico-clônica generalizada, precedida por cefaleia intensa. PA de 170/110 mmHg e proteinúria significativa. A família nega episódios anteriores de convulsão. Exames de 2 dias atrás mostram aumento de bilirrubina indireta e de LDH.",
       "question": "Que outros achados laboratoriais são frequentemente encontrados nessa condição clínica?",
-      "options": [
-        "Plaquetas diminuídas, creatinina elevada e anemia hemolítica",
-        "Hemoglobina aumentada, leucócitos baixos e glicemia baixa",
-        "Plaquetas altas, ureia baixa e enzimas hepáticas diminuídas",
-        "Potássio aumentado, sódio baixo e troponina elevada"
-      ],
-      "correct_answer": "Plaquetas diminuídas, creatinina elevada e anemia hemolítica",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Plaquetas diminuídas, creatinina elevada e anemia hemolítica",
+          "images": []
+        },
+        "b": {
+          "content": "Hemoglobina aumentada, leucócitos baixos e glicemia baixa",
+          "images": []
+        },
+        "c": {
+          "content": "Plaquetas altas, ureia baixa e enzimas hepáticas diminuídas",
+          "images": []
+        },
+        "d": {
+          "content": "Potássio aumentado, sódio baixo e troponina elevada",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "student_score": "5/5",
       "explanation": "O quadro é compatível com eclâmpsia, provavelmente associada à síndrome HELLP (Hemólise, ELevated Liver enzymes, Low Platelets), complicação grave da pré-eclâmpsia. O aumento do LDH e da bilirrubina indireta sugere hemólise microangiopática. Os achados laboratoriais mais frequentes incluem plaquetopenia, elevação de creatinina (disfunção renal), anemia hemolítica e elevação de AST/TGO e ALT/TGP.",
       "reference": "Tratado de obstetrícia / editores Agnaldo Lopes da Silva Filho, César Eduardo Fernandes, Maria Celeste Osório Wender; coordenadores Álvaro Luiz Lage Alves et al. 2. ed. Rio de Janeiro: Guanabara Koogan, 2025."
@@ -63,13 +102,26 @@
       "type": "multiple_choice",
       "case_context": "Berenice, 51 anos, assintomática, vem por achados alterados em mamografia de rastreamento. Nega cirurgias prévias. História familiar negativa para câncer de mama ou ovário. Menarca aos 13 anos, dois partos vaginais (primeiro aos 20 anos), menopausa aos 48 anos. Nega terapia hormonal. Exame físico das mamas sem alterações detectáveis. A mamografia evidencia achado não visualizado no exame do ano anterior, que se mantém à compressão localizada.",
       "question": "Qual é a conduta frente a este caso?",
-      "options": [
-        "Realizar ressonância magnética das mamas para complementação diagnóstica",
-        "Repetir mamografia em seis meses",
-        "Indicar quadrantectomia à direita",
-        "Solicitar punção aspirativa por agulha fina"
-      ],
-      "correct_answer": "Realizar ressonância magnética das mamas para complementação diagnóstica",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Realizar ressonância magnética das mamas para complementação diagnóstica",
+          "images": []
+        },
+        "b": {
+          "content": "Repetir mamografia em seis meses",
+          "images": []
+        },
+        "c": {
+          "content": "Indicar quadrantectomia à direita",
+          "images": []
+        },
+        "d": {
+          "content": "Solicitar punção aspirativa por agulha fina",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "student_score": "0/5",
       "explanation": null,
       "reference": null
@@ -79,13 +131,26 @@
       "type": "multiple_choice",
       "case_context": "Lucília, 22 anos, G1AB1, comparece ao pronto atendimento ginecológico referindo ter notado caroço móvel em mama esquerda durante o banho. Menstruou há 10 dias, usa DIU de cobre. Nega comorbidades e medicamentos em uso. Avó paterna com câncer de mama aos 80 anos. Após exame físico, plantonista solicita USG de mamas (imagem anexa) e tranquiliza a paciente dizendo se tratar de fibroadenoma.",
       "question": "Assinale a alternativa que contém as características imagenológicas que o levaram a esta hipótese diagnóstica.",
-      "options": [
-        "Forma elipsóide, bordas regulares",
-        "Margens irregulares e hiperecogenicidade",
-        "Presença de sombra acústica e relação altura/largura > 1",
-        "Distorção arquitetural presente e tamanho < 2 cm"
-      ],
-      "correct_answer": "Forma elipsóide, bordas regulares",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Forma elipsóide, bordas regulares",
+          "images": []
+        },
+        "b": {
+          "content": "Margens irregulares e hiperecogenicidade",
+          "images": []
+        },
+        "c": {
+          "content": "Presença de sombra acústica e relação altura/largura > 1",
+          "images": []
+        },
+        "d": {
+          "content": "Distorção arquitetural presente e tamanho < 2 cm",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "student_score": "5/5",
       "explanation": "As características ultrassonográficas sugestivas de fibroadenoma são: nódulo sólido, formato ovalado, margens circunscritas e regulares, orientação paralela à pele ('mais largo que alto'), ecotextura homogênea, e ausência de sinais suspeitos como espiculações, sombra acústica posterior importante ou microcalcificações irregulares. A paciente é jovem (22 anos), faixa etária em que o fibroadenoma é a lesão sólida benigna mais comum da mama, com nódulo móvel, indolor, sem fatores de alto risco para câncer de mama.",
       "reference": "Tratado de ginecologia / editores Agnaldo Lopes da Silva Filho, César Eduardo Fernandes, Maria Celeste Osório Wender; coordenação Luciano de Melo Pompei et al. 2. ed. Rio de Janeiro: Guanabara Koogan, 2025."
@@ -95,13 +160,26 @@
       "type": "multiple_choice",
       "case_context": "Mulher de 40 anos chega à emergência com sangramento genital intenso. Refere laqueadura tubária há 5 anos. Ao exame, hipotensa e taquicárdica. Exame ginecológico identificou lesão no colo do útero com sangramento intenso ativo. Biópsia do colo do útero revelou carcinoma escamoso. Realizados exame especular e toque retal; representação do estadiamento clínico em imagem anexa.",
       "question": "Além da estabilização hemodinâmica, a conduta imediata deve ser:",
-      "options": [
-        "Tamponamento vaginal com vasoconstritor",
-        "Radioterapia sensibilizante com quimioterapia",
-        "Embolização da artéria uterina",
-        "Histerectomia ampliada"
-      ],
-      "correct_answer": "Tamponamento vaginal com vasoconstritor",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Tamponamento vaginal com vasoconstritor",
+          "images": []
+        },
+        "b": {
+          "content": "Radioterapia sensibilizante com quimioterapia",
+          "images": []
+        },
+        "c": {
+          "content": "Embolização da artéria uterina",
+          "images": []
+        },
+        "d": {
+          "content": "Histerectomia ampliada",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "student_score": "0/5",
       "explanation": null,
       "reference": null
@@ -111,13 +189,26 @@
       "type": "multiple_choice",
       "case_context": "Paciente de 23 anos, com vida sexual ativa e assintomática, realizou colpocitologia cujo resultado foi lesão intraepitelial escamosa de baixo grau (LSIL). Teste de DNA-HPV foi negativo.",
       "question": "Com base nesse caso hipotético, assinale a alternativa que apresenta a conduta mais adequada segundo o Ministério da Saúde.",
-      "options": [
-        "Excisão da zona de transformação",
-        "Colposcopia",
-        "Repetir exames imediatamente",
-        "Repetir colpocitologia em três anos"
-      ],
-      "correct_answer": "Repetir colpocitologia em três anos",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Excisão da zona de transformação",
+          "images": []
+        },
+        "b": {
+          "content": "Colposcopia",
+          "images": []
+        },
+        "c": {
+          "content": "Repetir exames imediatamente",
+          "images": []
+        },
+        "d": {
+          "content": "Repetir colpocitologia em três anos",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "student_score": "0/5",
       "explanation": null,
       "reference": null
@@ -127,13 +218,26 @@
       "type": "multiple_choice",
       "case_context": "Gestante de 30 anos, G2P1N, com 26 semanas de gestação, comparece à consulta de pré-natal de rotina. Primeira gestação sem intercorrências, parto vaginal há 3 anos, RN com 4.200 g. Nega DM prévia. Mãe com diabetes tipo 2 aos 55 anos. IMC pré-gestacional 31 kg/m² (obesidade grau I). Ganho ponderal 8 kg. Nega sintomas de hiperglicemia. Glicemia de jejum no primeiro trimestre: 88 mg/dL (normal). Exame físico: PA 120/75 mmHg, AU 26 cm, BCF 145 bpm. TOTG-75g com 26 semanas: jejum 88 mg/dL, 1h 192 mg/dL, 2h 163 mg/dL. USG (26 semanas): feto único, biometria compatível, percentil 60, líquido amniótico normal, placenta posterior grau 0.",
       "question": "Considerando os resultados do TOTG-75g e as diretrizes atuais para diagnóstico e manejo do diabetes mellitus gestacional, qual a conduta mais adequada?",
-      "options": [
-        "Solicitar hemoglobina glicada (HbA1c) para confirmação diagnóstica e, se ≥ 6,5%, confirmar diabetes gestacional e iniciar insulinoterapia imediatamente.",
-        "Confirmar diagnóstico de diabetes gestacional e iniciar insulinoterapia imediatamente (NPH + regular ou análogos), considerando que dois valores do TOTG estão alterados e há macrossomia fetal ao ultrassom.",
-        "Repetir TOTG-75g em 2 semanas para confirmação diagnóstica, pois um único exame alterado não é suficiente para diagnóstico de diabetes gestacional, especialmente com glicemia de jejum normal.",
-        "Confirmar diagnóstico de diabetes mellitus gestacional, orientar dieta, exercício físico, iniciar automonitorização glicêmica com glicemia capilar 4 vezes ao dia, reavaliar em 1-2 semanas para decidir necessidade de insulina."
-      ],
-      "correct_answer": "Confirmar diagnóstico de diabetes mellitus gestacional, orientar dieta, exercício físico, iniciar automonitorização glicêmica com glicemia capilar 4 vezes ao dia, reavaliar em 1-2 semanas para decidir necessidade de insulina.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Solicitar hemoglobina glicada (HbA1c) para confirmação diagnóstica e, se ≥ 6,5%, confirmar diabetes gestacional e iniciar insulinoterapia imediatamente.",
+          "images": []
+        },
+        "b": {
+          "content": "Confirmar diagnóstico de diabetes gestacional e iniciar insulinoterapia imediatamente (NPH + regular ou análogos), considerando que dois valores do TOTG estão alterados e há macrossomia fetal ao ultrassom.",
+          "images": []
+        },
+        "c": {
+          "content": "Repetir TOTG-75g em 2 semanas para confirmação diagnóstica, pois um único exame alterado não é suficiente para diagnóstico de diabetes gestacional, especialmente com glicemia de jejum normal.",
+          "images": []
+        },
+        "d": {
+          "content": "Confirmar diagnóstico de diabetes mellitus gestacional, orientar dieta, exercício físico, iniciar automonitorização glicêmica com glicemia capilar 4 vezes ao dia, reavaliar em 1-2 semanas para decidir necessidade de insulina.",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "student_score": "0/5",
       "explanation": null,
       "reference": null
@@ -143,13 +247,26 @@
       "type": "multiple_choice",
       "case_context": "Martilene, 34 anos, primigesta, 31 semanas, comparece ao PS obstétrico com elevação dos níveis pressóricos há 3 dias. Hipertensa crônica, diagnóstico e tratamento prévios à gestação (enalapril 10mg/dia, trocado para metildopa 500mg a cada 6 horas ao engravidar). Pressão estava controlada; há 2 dias pernas extremamente inchadas. Ao exame: PA 150x100 mmHg, FC 87 bpm, FR 18 ipm, AU 30 cm, dinâmica uterina ausente, BCF 153 bpm, toque vaginal colo grosso, posterior e impérvio. Exames laboratoriais sem alterações.",
       "question": "A hipótese diagnóstica neste caso e a conduta correta são:",
-      "options": [
-        "Pré-eclâmpsia sobreposta, associar anti-hipertensivo",
-        "Hipertensão gestacional, aumentar a dose do medicamento",
-        "Iminência de eclâmpsia, sulfato de magnésio",
-        "Pré-eclâmpsia sem critérios de gravidade, hidralazina EV"
-      ],
-      "correct_answer": "Pré-eclâmpsia sobreposta, associar anti-hipertensivo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Pré-eclâmpsia sobreposta, associar anti-hipertensivo",
+          "images": []
+        },
+        "b": {
+          "content": "Hipertensão gestacional, aumentar a dose do medicamento",
+          "images": []
+        },
+        "c": {
+          "content": "Iminência de eclâmpsia, sulfato de magnésio",
+          "images": []
+        },
+        "d": {
+          "content": "Pré-eclâmpsia sem critérios de gravidade, hidralazina EV",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "student_score": "0/5",
       "explanation": null,
       "reference": null
@@ -159,13 +276,26 @@
       "type": "multiple_choice",
       "case_context": "Jovelita, 54 anos, G2P2C, procura consulta no ambulatório de ginecologia com nódulo na mama esquerda percebido há cerca de 6 meses. Menopausada há 5 anos, sem terapia hormonal. Sem histórico familiar de câncer de mama. IMC 34. Exame físico geral sem alterações. No exame da mama, nódulo endurecido, pouco móvel, ~2,5 x 2,0 cm no quadrante superolateral esquerdo. Mamografia: nódulo irregular, 1,8 x 2 cm, quadrante superior externo, BI-RADS 4. Ecografia mamária: nódulo sólido com mesmas características, BI-RADS ultrassonográfico 4.",
       "question": "A partir do exposto, assinale a alternativa que apresenta a melhor conduta.",
-      "options": [
-        "Mamotomia guiada por estereotaxia",
-        "Solicitar ressonância magnética nuclear da mama",
-        "Punção aspirativa com agulha fina",
-        "Solicitar core biopsy"
-      ],
-      "correct_answer": "Solicitar core biopsy",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Mamotomia guiada por estereotaxia",
+          "images": []
+        },
+        "b": {
+          "content": "Solicitar ressonância magnética nuclear da mama",
+          "images": []
+        },
+        "c": {
+          "content": "Punção aspirativa com agulha fina",
+          "images": []
+        },
+        "d": {
+          "content": "Solicitar core biopsy",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "student_score": "5/5",
       "explanation": "A melhor conduta é realizar biópsia da lesão mamária, preferencialmente por core biopsy (biópsia por agulha grossa) guiada por imagem. A justificativa baseia-se na classificação BI-RADS 4, que indica lesão suspeita para malignidade, com necessidade obrigatória de investigação histológica. Não é adequado apenas acompanhar ou repetir exames posteriormente, dado o risco significativo de carcinoma mamário, nem indicar mastectomia diretamente sem confirmação histológica prévia.",
       "reference": "Tratado de ginecologia / editores Agnaldo Lopes da Silva Filho, César Eduardo Fernandes, Maria Celeste Osório Wender; coordenação Luciano de Melo Pompei et al. 2. ed. Rio de Janeiro: Guanabara Koogan, 2025."
@@ -175,13 +305,26 @@
       "type": "multiple_choice",
       "case_context": "Mulher, 52 anos, lavadeira. Queixa-se de fogachos intensos e suores noturnos há cerca de 6 meses, súbitos, durando 3 a 5 minutos, com dificuldade para dormir. Menopausa há 1 ano, quando surgiram os sintomas, intensificando-se desde então. Sem sangramento vaginal há mais de 12 meses; relata ressecamento vaginal. Última consulta ginecológica há 6 meses com exames normais. Nega história familiar de câncer de mama ou trombose e nunca fez reposição hormonal. Nega tabagismo, dieta regular. Exame físico sem alterações, PA 125x78 mmHg, IMC 24 kg/m².",
       "question": "Indique o esquema de reposição hormonal preconizado para esta paciente, no Brasil:",
-      "options": [
-        "Estrogênio isolado via oral ou transdérmica",
-        "Estrogênio combinado com progestagênio, oral ou transdérmica",
-        "Progestagênio isolado via oral, sem uso de estrogênio",
-        "Estrogênio combinado com testosterona, por via oral"
-      ],
-      "correct_answer": "Estrogênio combinado com progestagênio, oral ou transdérmica (inferido; ver nota)",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Estrogênio isolado via oral ou transdérmica",
+          "images": []
+        },
+        "b": {
+          "content": "Estrogênio combinado com progestagênio, oral ou transdérmica",
+          "images": []
+        },
+        "c": {
+          "content": "Progestagênio isolado via oral, sem uso de estrogênio",
+          "images": []
+        },
+        "d": {
+          "content": "Estrogênio combinado com testosterona, por via oral",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "student_score": "5/5",
       "explanation": "O texto extraído não apresenta um marcador explícito de 'Resposta correta' nem bloco de feedback para esta questão. A alternativa foi inferida pelo raciocínio clínico padrão (paciente com útero íntegro, sem contraindicações, necessita de terapia combinada estrogênio + progestagênio para proteção endometrial) combinado com a pontuação máxima obtida pelo aluno (5/5).",
       "reference": null
@@ -191,13 +334,26 @@
       "type": "multiple_choice",
       "case_context": "Agda, 32 anos, G2P1N, com 32 semanas e 1 dia, chega ao PSGO com perda de líquido vaginal há 3 horas. Ao exame: corada, hidratada, temperatura 36,2°C, PA 100x60 mmHg, FC 80 bpm. Dinâmica uterina ausente, FC fetal 144 bpm. Especular: saída de líquido claro sem grumos pelo orifício externo do colo em grande quantidade. Toque vaginal: colo uterino posteriorizado, grosso, impérvio. Cardiotocografia mostra feto ativo (padrão tranquilizador).",
       "question": "Em relação ao caso clínico, assinale a alternativa que contém respectivamente o diagnóstico e a conduta obstétrica correta para o caso:",
-      "options": [
-        "Corioamnionite subclínica; condução do trabalho de parto + maturação pulmonar",
-        "Trabalho de parto prematuro; condução do parto + sulfato de magnésio",
-        "Trabalho de parto pré-termo; tocólise + antibioticoterapia + sulfato de magnésio",
-        "Ruptura prematura de membranas ovulares pré-termo; conduta expectante + antibioticoterapia + maturação pulmonar"
-      ],
-      "correct_answer": "Ruptura prematura de membranas ovulares pré-termo; conduta expectante + antibioticoterapia + maturação pulmonar",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Corioamnionite subclínica; condução do trabalho de parto + maturação pulmonar",
+          "images": []
+        },
+        "b": {
+          "content": "Trabalho de parto prematuro; condução do parto + sulfato de magnésio",
+          "images": []
+        },
+        "c": {
+          "content": "Trabalho de parto pré-termo; tocólise + antibioticoterapia + sulfato de magnésio",
+          "images": []
+        },
+        "d": {
+          "content": "Ruptura prematura de membranas ovulares pré-termo; conduta expectante + antibioticoterapia + maturação pulmonar",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "student_score": "5/5",
       "explanation": "O diagnóstico é ruptura prematura pré-termo de membranas ovulares (RPMPT), ocorrendo antes de 37 semanas. A conduta clássica inclui internação e vigilância materno-fetal, corticoterapia antenatal para maturação pulmonar fetal, antibioticoterapia para prolongar a latência e reduzir infecção, e monitorização de sinais de corioamnionite e sofrimento fetal. Dependendo do protocolo, pode-se considerar neuroproteção fetal com sulfato de magnésio se houver risco iminente de parto antes de 32 semanas.",
       "reference": "Tratado de obstetrícia / editores Agnaldo Lopes da Silva Filho, César Eduardo Fernandes, Maria Celeste Osório Wender; coordenadores Álvaro Luiz Lage Alves et al. 2. ed. Rio de Janeiro: Guanabara Koogan, 2025."
@@ -207,13 +363,26 @@
       "type": "multiple_choice",
       "case_context": "Paciente, 36 anos, queixa-se de sangramento vaginal intermitente, em pequena quantidade, independente da menstruação, associado à dor leve em hipogástrio há 6 meses. Antecedente de 4 gestações e 4 partos cesáreas, laqueadura tubária. Tabagista 10 anos-maço, etilismo social. Exame clínico: FC 92 bpm, FR 14 ipm, PA 110x60 mmHg, IMC 19 kg/m². Exame ginecológico: colo uterino ulcerado periorificial e sangrante com lesão de ~5 cm; toque vaginal: colo irregular, útero de volume normal, móvel e indolor, anexos normais; toque retal: paramétrios acometidos. Biópsia: carcinoma epidermóide de colo uterino.",
       "question": "Considerando apenas os dados descritos, assinale o critério associado a pior prognóstico do quadro.",
-      "options": [
-        "Tabagismo",
-        "Subtipo histológico",
-        "Acometimento parametrial",
-        "Tamanho do tumor"
-      ],
-      "correct_answer": "Acometimento parametrial",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Tabagismo",
+          "images": []
+        },
+        "b": {
+          "content": "Subtipo histológico",
+          "images": []
+        },
+        "c": {
+          "content": "Acometimento parametrial",
+          "images": []
+        },
+        "d": {
+          "content": "Tamanho do tumor",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "student_score": "0/5",
       "explanation": null,
       "reference": null
@@ -223,13 +392,26 @@
       "type": "multiple_choice",
       "case_context": "Menina de 14 anos, acompanhada pela mãe, procura atendimento de urgência com dor abdominal em andar inferior, moderada intensidade, intermitente há 6 meses. Exame ecográfico de urgência: nódulo misto, parede fina, áreas hiperecogênicas focais, sombra acústica posterior, linhas/pontos hiperecogênicos dentro da massa, medindo 5,0 cm, doppler ausente, topografia anexial direita de provável origem ovariana (imagem anexa).",
       "question": "A hipótese diagnóstica provável é:",
-      "options": [
-        "Teratoma",
-        "Câncer de ovário",
-        "Endometrioma",
-        "Cisto folicular"
-      ],
-      "correct_answer": "Teratoma",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Teratoma",
+          "images": []
+        },
+        "b": {
+          "content": "Câncer de ovário",
+          "images": []
+        },
+        "c": {
+          "content": "Endometrioma",
+          "images": []
+        },
+        "d": {
+          "content": "Cisto folicular",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "student_score": "0/5",
       "explanation": null,
       "reference": null
@@ -239,13 +421,26 @@
       "type": "multiple_choice",
       "case_context": "Mulher branca, 60 anos, menopausa aos 45 anos. Menarca aos 12 anos. 3 gestações, todas parto normal. Hipertensão bem controlada com medicação. IMC 25 kg/m². Sangramento vaginal de pouca quantidade há 3 dias, com melhora espontânea após 2 dias; hoje sangramento tipo borra de café. Nega cólica ou outros sintomas. Nega uso de medicações ou reposição hormonal. Exame físico: corada, hidratada, abdome flácido, indolor, sem visceromegalias. Exame especular: sangramento mínimo, não ativo. Toque vaginal: útero intrapélvico, anexos não palpáveis, indolor à mobilização do colo. USG transvaginal: útero em retroversoflexão preservado, 40 cm³, miométrio homogêneo, eco endometrial centrado homogêneo de 2 mm, ovários não visualizados, sem líquido livre.",
       "question": "Identifique a causa mais frequente de sangramento pós-menopausa:",
-      "options": [
-        "Atrofia endometrial",
-        "Pólipo endometrial",
-        "Câncer de endométrio",
-        "Mioma submucoso"
-      ],
-      "correct_answer": "Atrofia endometrial",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Atrofia endometrial",
+          "images": []
+        },
+        "b": {
+          "content": "Pólipo endometrial",
+          "images": []
+        },
+        "c": {
+          "content": "Câncer de endométrio",
+          "images": []
+        },
+        "d": {
+          "content": "Mioma submucoso",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "student_score": "0/5",
       "explanation": null,
       "reference": null
@@ -255,13 +450,26 @@
       "type": "multiple_choice",
       "case_context": "Gestante de 34 semanas, pré-natal irregular, procura o pronto-socorro com desconforto respiratório e aumento rápido do tamanho abdominal. Exame físico: ausculta pulmonar normal, altura uterina de 39 cm. Ultrassonografia: gravidez única, peso fetal no percentil 97 para idade gestacional, índice de líquido amniótico (ILA) de 28 cm.",
       "question": "Marque a assertiva CORRETA em relação ao caso descrito:",
-      "options": [
-        "Trata-se de polidrâmnio e feto grande para idade gestacional, complicação que pode ocorrer fruto de diabetes gestacional.",
-        "Tranquilizar a mãe que o crescimento do feto está adequado e provavelmente esse achado do ultrassom não é patológico.",
-        "Trata-se de feto grande para idade gestacional não havendo nenhuma conduta no momento por se tratar de predisposição genética.",
-        "Trata-se de um feto com peso adequado para idade gestacional porém com polidrâmnio, complicação que pode estar relacionada a malformação urinária fetal."
-      ],
-      "correct_answer": "Trata-se de polidrâmnio e feto grande para idade gestacional, complicação que pode ocorrer fruto de diabetes gestacional.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Trata-se de polidrâmnio e feto grande para idade gestacional, complicação que pode ocorrer fruto de diabetes gestacional.",
+          "images": []
+        },
+        "b": {
+          "content": "Tranquilizar a mãe que o crescimento do feto está adequado e provavelmente esse achado do ultrassom não é patológico.",
+          "images": []
+        },
+        "c": {
+          "content": "Trata-se de feto grande para idade gestacional não havendo nenhuma conduta no momento por se tratar de predisposição genética.",
+          "images": []
+        },
+        "d": {
+          "content": "Trata-se de um feto com peso adequado para idade gestacional porém com polidrâmnio, complicação que pode estar relacionada a malformação urinária fetal.",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "student_score": "5/5",
       "explanation": "O caso descreve polidrâmnio: desconforto respiratório, aumento rápido do volume abdominal, altura uterina maior que a esperada (39 cm com 34 semanas), ILA de 28 cm (diagnóstico de polidrâmnio quando ILA ≥ 25 cm). O feto está no percentil 97, sugerindo macrossomia fetal, pois a hiperglicemia fetal leva a poliúria fetal, com consequente aumento do líquido amniótico.",
       "reference": "Tratado de obstetrícia / editores Agnaldo Lopes da Silva Filho, César Eduardo Fernandes, Maria Celeste Osório Wender; coordenadores Álvaro Luiz Lage Alves et al. 2. ed. Rio de Janeiro: Guanabara Koogan, 2025."
@@ -271,13 +479,26 @@
       "type": "multiple_choice",
       "case_context": "Mulher de 54 anos, menopausa há 3 anos, procura ambulatório com fogachos intensos, insônia e irritabilidade, prejudicando atividades diárias. Antecedente de trombose venosa profunda há 2 anos, durante uso de anticoncepcional oral combinado. Uso contínuo de rivaroxabana e valsartana 160 mg/dia. Nega tabagismo. Exame físico: PA 118x82 mmHg, IMC 27 kg/m², sem alterações relevantes.",
       "question": "Considerando o caso clínico, qual é a principal contraindicação ao uso de terapia hormonal sistêmica para tratamento dos sintomas climatéricos?",
-      "options": [
-        "Antecedente de evento tromboembólico",
-        "Hipertensão arterial controlada",
-        "Sobrepeso",
-        "Menopausa há mais de 2 anos"
-      ],
-      "correct_answer": "Antecedente de evento tromboembólico",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Antecedente de evento tromboembólico",
+          "images": []
+        },
+        "b": {
+          "content": "Hipertensão arterial controlada",
+          "images": []
+        },
+        "c": {
+          "content": "Sobrepeso",
+          "images": []
+        },
+        "d": {
+          "content": "Menopausa há mais de 2 anos",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "student_score": "5/5",
       "explanation": "A principal contraindicação ao uso de terapia hormonal sistêmica nessa paciente é o antecedente de tromboembolismo venoso (TEV), associado ao uso de anticoncepcional hormonal. O estrogênio sistêmico aumenta o risco tromboembólico por estimular fatores de coagulação, sendo contraindicado em mulheres com história prévia de TEV, especialmente TEV associado a estrogênio. O uso contínuo de rivaroxabana reforça a relevância clínica desse antecedente.",
       "reference": "Tratado de ginecologia / editores Agnaldo Lopes da Silva Filho, César Eduardo Fernandes, Maria Celeste Osório Wender; coordenação Luciano de Melo Pompei et al. 2. ed. Rio de Janeiro: Guanabara Koogan, 2025."
@@ -287,13 +508,26 @@
       "type": "multiple_choice",
       "case_context": "Primigesta, 23 anos, com 41 semanas, admitida à maternidade para assistência ao parto. Contrações de moderada intensidade há 6 horas e diminuição da movimentação fetal há 2 horas. Nega doenças ou vícios; pré-natal sem intercorrências em UBS. Sinais vitais maternos normais, altura uterina 37 cm, 3 contrações moderadas de 40 segundos em 10 minutos, BCF 140 bpm sem desacelerações. Toque: colo fino, centrado, dilatado 4 cm, feto cefálico. Cardiotocografia representada em figura anexa.",
       "question": "Na análise de vitalidade fetal, escolha a alternativa que possui o provável diagnóstico.",
-      "options": [
-        "Categoria I",
-        "Feto ativo",
-        "Feto não reativo",
-        "Categoria II"
-      ],
-      "correct_answer": "Categoria I",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Categoria I",
+          "images": []
+        },
+        "b": {
+          "content": "Feto ativo",
+          "images": []
+        },
+        "c": {
+          "content": "Feto não reativo",
+          "images": []
+        },
+        "d": {
+          "content": "Categoria II",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "student_score": "5/5",
       "explanation": "A questão sugere um feto com boa vitalidade fetal intraparto: frequência cardíaca fetal basal normal (140 bpm), ausência de desacelerações (especialmente tardias ou variáveis recorrentes), variabilidade preservada, e contrações uterinas regulares sem alterações patológicas da FCF. A cardiotocografia categoria I apresenta linha de base normal, variabilidade preservada e ausência de desacelerações patológicas, indicando adequada oxigenação fetal e ausência de acidemia metabólica fetal, sem evidências de sofrimento fetal agudo.",
       "reference": "Tratado de obstetrícia / editores Agnaldo Lopes da Silva Filho, César Eduardo Fernandes, Maria Celeste Osório Wender; coordenadores Álvaro Luiz Lage Alves et al. 2. ed. Rio de Janeiro: Guanabara Koogan, 2025."
@@ -303,13 +537,26 @@
       "type": "multiple_choice",
       "case_context": "Poliana, 37 anos, G3PN2, deu à luz um recém-nascido saudável, parto vaginal, há 2 horas. Dequitação sem intercorrências. Na recuperação pós-anestésica, 30 minutos após avaliação inicial, evolui com mal-estar, palpitações e sensação de desmaio. Enfermeira avalia sinais vitais e detecta contração uterina abaixo da cicatriz umbilical, com presença do globo de segurança de Pinard. Loquiação vermelho-viva em grande quantidade, escorrendo pelo lençol e atingindo o chão. Paciente reencaminhada à sala de parto e plantonista acionado.",
       "question": "Qual foi a hipótese diagnóstica feita pela enfermeira ao ditar esta conduta?",
-      "options": [
-        "Restos placentários",
-        "Atonia uterina",
-        "Laceração do canal de parto",
-        "Coagulopatia"
-      ],
-      "correct_answer": "Laceração do canal de parto",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Restos placentários",
+          "images": []
+        },
+        "b": {
+          "content": "Atonia uterina",
+          "images": []
+        },
+        "c": {
+          "content": "Laceração do canal de parto",
+          "images": []
+        },
+        "d": {
+          "content": "Coagulopatia",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "student_score": "0/5",
       "explanation": null,
       "reference": null
@@ -319,13 +566,26 @@
       "type": "multiple_choice",
       "case_context": "Maria, 28 anos, G2P2N, parto vaginal há 5 dias sem intercorrências. Recém-nascido em aleitamento materno exclusivo. Apresenta-se ao pronto-atendimento com febre (38,5°C) iniciada há 24 horas, dor abdominal em hipogástrio, loquiação fétida e mal-estar geral. Exame físico: febril, FC 124 bpm, PA 110/70 mmHg. Útero aumentado, amolecido e doloroso à palpação. Exames laboratoriais: leucocitose com desvio à esquerda. USG transvaginal: conteúdo ecogênico na cavidade endometrial.",
       "question": "Qual a principal conduta terapêutica para esta paciente?",
-      "options": [
-        "Curetagem imediata sem antibiótico",
-        "Antitérmicos e alta hospitalar",
-        "Reposição hormonal e repouso",
-        "Antibióticos intravenosos de amplo espectro"
-      ],
-      "correct_answer": "Antibióticos intravenosos de amplo espectro",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Curetagem imediata sem antibiótico",
+          "images": []
+        },
+        "b": {
+          "content": "Antitérmicos e alta hospitalar",
+          "images": []
+        },
+        "c": {
+          "content": "Reposição hormonal e repouso",
+          "images": []
+        },
+        "d": {
+          "content": "Antibióticos intravenosos de amplo espectro",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "student_score": "5/5",
       "explanation": "Quadro típico de endometrite puerperal, complicada por provável retenção de restos ovulares: febre e taquicardia, dor hipogástrica, loquiação fétida, útero aumentado/amolecido/doloroso, leucocitose com desvio à esquerda, e USG mostrando conteúdo ecogênico intrauterino (sugestivo de restos placentários). A endometrite puerperal é mais comum nos primeiros 10 dias pós-parto. A principal conduta é internação hospitalar, antibioticoterapia intravenosa de amplo espectro (ex.: clindamicina + gentamicina), e avaliação da necessidade de esvaziamento uterino após início do antibiótico, especialmente se houver restos ovulares persistentes.",
       "reference": "Tratado de obstetrícia / editores Agnaldo Lopes da Silva Filho, César Eduardo Fernandes, Maria Celeste Osório Wender; coordenadores Álvaro Luiz Lage Alves et al. 2. ed. Rio de Janeiro: Guanabara Koogan, 2025."

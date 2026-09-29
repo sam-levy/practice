@@ -8,204 +8,229 @@
   ],
   "questions": [
     {
+      "id": 1,
       "type": "free_response",
       "question": "Qual é o osso marcado na imagem?",
+      "images": [],
       "correct_answer": "etmóide QUESTÃO 2",
       "explanation": null,
-      "reference": null,
-      "id": 1
+      "reference": null
     },
     {
+      "id": 2,
       "type": "free_response",
       "question": "Qual forame está apontado na imagem?",
+      "images": [],
       "correct_answer": "Forame espinhoso QUESTÃO 3",
       "explanation": null,
-      "reference": null,
-      "id": 2
+      "reference": null
     },
     {
+      "id": 3,
       "type": "free_response",
       "question": "Qual forame está apontado na imagem?",
+      "images": [],
       "correct_answer": "Forame oval QUESTÃO 4",
       "explanation": null,
-      "reference": null,
-      "id": 3
+      "reference": null
     },
     {
+      "id": 4,
       "type": "free_response",
       "question": "Qual é o osso marcado na imagem?",
+      "images": [],
       "correct_answer": "occipital QUESTÃO 5",
       "explanation": null,
-      "reference": null,
-      "id": 4
+      "reference": null
     },
     {
+      "id": 5,
       "type": "free_response",
       "question": "Qual é o nome da estrutura apontada na imagem abaixo?",
+      "images": [],
       "correct_answer": "Aderência intertalâmica QUESTÃO 6",
       "explanation": null,
-      "reference": null,
-      "id": 5
+      "reference": null
     },
     {
+      "id": 6,
       "type": "free_response",
       "question": "Qual é o nome da estrutura apontada na imagem abaixo?",
+      "images": [],
       "correct_answer": "Corpo mamilar / Corpo mamilar do hipotálamo / Corpo mamilar (esquerdo) / Copor mamilar do hipotálamo (esquerdo) QUESTÃO 7",
       "explanation": null,
-      "reference": null,
-      "id": 6
+      "reference": null
     },
     {
+      "id": 7,
       "type": "free_response",
       "question": "Qual estrutura está apontada na imagem?",
+      "images": [],
       "correct_answer": "Núcleo talâmico anterior Tubérculo anterior Núcleos anteriores do tálamo Grupo anterior de núcleos talâmicos OBS.: Para aqueles que mencionaram o lado: esquerdo. QUESTÃO 8",
       "explanation": null,
-      "reference": null,
-      "id": 7
+      "reference": null
     },
     {
+      "id": 8,
       "type": "free_response",
       "question": "Qual estrutura está apontada na imagem?",
+      "images": [],
       "correct_answer": "Corpo geniculado medial OBS.: Para aqueles que mencionaram o lado: esquerdo. QUESTÃO 9",
       "explanation": null,
-      "reference": null,
-      "id": 8
+      "reference": null
     },
     {
+      "id": 9,
       "type": "free_response",
       "question": "Qual estrutura está apontada na imagem?",
+      "images": [],
       "correct_answer": "Giro frontal médio OBS.: Para aqueles que mencionaram o lado: esquerdo. QUESTÃO 10",
       "explanation": null,
-      "reference": null,
-      "id": 9
+      "reference": null
     },
     {
+      "id": 10,
       "type": "free_response",
       "question": "Qual estrutura está marcada na imagem?",
+      "images": [],
       "correct_answer": "Giro pré-central OBS.: Para aqueles que mencionaram o lado: esquerdo. QUESTÃO 11",
       "explanation": null,
-      "reference": null,
-      "id": 10
+      "reference": null
     },
     {
+      "id": 11,
       "type": "free_response",
       "question": "Qual estrutura está apontada na imagem?",
+      "images": [],
       "correct_answer": "Unco / uncus OBS.: Para aqueles que mencionaram o lado: direito. QUESTÃO 12",
       "explanation": null,
-      "reference": null,
-      "id": 11
+      "reference": null
     },
     {
+      "id": 12,
       "type": "free_response",
       "question": "Qual estrutura está apontada na imagem?",
+      "images": [],
       "correct_answer": "Sulco do cíngulo cingulado OBS.: Para aqueles que mencionaram o lado: direito. QUESTÃO 13",
       "explanation": null,
-      "reference": null,
-      "id": 12
+      "reference": null
     },
     {
+      "id": 13,
       "type": "free_response",
       "question": "Qual estrutura está apontada na imagem?",
+      "images": [],
       "correct_answer": "Sulco paracentral OBS.: Para aqueles que mencionaram o lado: direito. QUESTÃO 14",
       "explanation": null,
-      "reference": null,
-      "id": 13
+      "reference": null
     },
     {
+      "id": 14,
       "type": "free_response",
       "question": "Qual estrutura está marcada na imagem?",
+      "images": [],
       "correct_answer": "Giro do cíngulo OBS.: Para aqueles que mencionaram o lado: direito. QUESTÃO 15",
       "explanation": null,
-      "reference": null,
-      "id": 14
+      "reference": null
     },
     {
+      "id": 15,
       "type": "free_response",
       "question": "Qual é o nome da estrutura apontada na imagem abaixo?",
+      "images": [],
       "correct_answer": "Putâmen OBS.: Para aqueles que mencionaram o lado: esquerdo. QUESTÃO 16",
       "explanation": null,
-      "reference": null,
-      "id": 15
+      "reference": null
     },
     {
+      "id": 16,
       "type": "free_response",
       "question": "Qual é o nome da estrutura apontada na imagem abaixo?",
+      "images": [],
       "correct_answer": "Giro temporal superior OBS.: Para aqueles que mencionaram o lado: esquerdo. QUESTÃO 17",
       "explanation": null,
-      "reference": null,
-      "id": 16
+      "reference": null
     },
     {
+      "id": 17,
       "type": "free_response",
       "question": "Qual é o nome da estrutura apontada na imagem abaixo?",
+      "images": [],
       "correct_answer": "Corpo caloso O seta está apontando diretamente a região do tronco do corpo caloso. OBS.: Para aqueles que mencionaram o lado: direito. QUESTÃO 18",
       "explanation": null,
-      "reference": null,
-      "id": 17
+      "reference": null
     },
     {
+      "id": 18,
       "type": "free_response",
       "question": "Qual é o nome da estrutura apontada na imagem abaixo?",
+      "images": [],
       "correct_answer": "Giro parahipocampal OBS.: Para aqueles que mencionaram o lado: esquerdo. QUESTÃO 19",
       "explanation": null,
-      "reference": null,
-      "id": 18
+      "reference": null
     },
     {
+      "id": 19,
       "type": "free_response",
       "question": "Qual é o nome da estrutura apontada na imagem abaixo?",
+      "images": [],
       "correct_answer": "Giro angular OBS.: Para aqueles que mencionaram o lado: esquerdo. QUESTÃO 20",
       "explanation": null,
-      "reference": null,
-      "id": 19
+      "reference": null
     },
     {
+      "id": 20,
       "type": "free_response",
       "question": "Qual é o nome da estrutura apontada na imagem abaixo?",
+      "images": [],
       "correct_answer": "Sulco calcarino OBS.: Para aqueles que mencionaram o lado: direito. QUESTÃO 21",
       "explanation": null,
-      "reference": null,
-      "id": 20
+      "reference": null
     },
     {
+      "id": 21,
       "type": "free_response",
       "question": "Nomeie a estrutura apontada:",
+      "images": [],
       "correct_answer": "mielina/bainha de mielina QUESTÃO 22",
       "explanation": null,
-      "reference": null,
-      "id": 21
+      "reference": null
     },
     {
+      "id": 22,
       "type": "free_response",
       "question": "Nomeie a estrutura apontada",
+      "images": [],
       "correct_answer": "axônio QUESTÃO 23",
       "explanation": null,
-      "reference": null,
-      "id": 22
+      "reference": null
     },
     {
+      "id": 23,
       "type": "free_response",
       "question": "Nomeie a célula apontada:",
+      "images": [],
       "correct_answer": "células ependimárias QUESTÃO 24",
       "explanation": null,
-      "reference": null,
-      "id": 23
+      "reference": null
     },
     {
+      "id": 24,
       "type": "free_response",
       "question": "Nomeie a estrutura apontada",
+      "images": [],
       "correct_answer": "corpúsculo de Nissl QUESTÃO 25",
       "explanation": null,
-      "reference": null,
-      "id": 24
+      "reference": null
     },
     {
+      "id": 25,
       "type": "free_response",
       "question": "Nomeie a célula apontada",
+      "images": [],
       "correct_answer": "células da glia",
       "explanation": null,
-      "reference": null,
-      "id": 25
+      "reference": null
     }
   ]
 }

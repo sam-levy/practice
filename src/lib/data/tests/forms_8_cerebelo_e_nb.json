@@ -12,13 +12,26 @@
       "id": 1,
       "type": "multiple_choice",
       "question": "Paciente de 8 anos, apresenta perda de equilíbrio e ataxia de tronco. A mãe relata que a criança não consegue ficar em pé e que só consegue pegar objetos se estiver deitado. Exames de imagem mostraram tumor comprimindo o lobo flóculo-nodular. Qual das vias eferentes abaixo estaria prejudicada neste paciente?",
-      "options": [
-        "trato vestibulospinal",
-        "trato corticospinal anterior",
-        "trato reticulospinal",
-        "trato espinocerebelar anterior"
-      ],
-      "correct_answer": "trato vestibulospinal",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "trato vestibulospinal",
+          "images": []
+        },
+        "b": {
+          "content": "trato corticospinal anterior",
+          "images": []
+        },
+        "c": {
+          "content": "trato reticulospinal",
+          "images": []
+        },
+        "d": {
+          "content": "trato espinocerebelar anterior",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -26,12 +39,22 @@
       "id": 2,
       "type": "multiple_choice",
       "question": "As fibras dos núcleos pontinos penetram no cerebelo pelo pedúnculo cerebelar médio, projetando-se ao cerebelo. Esta é a via córtico-ponto-cerebelar, através da qual chegam ao cerebelo informações do córtex cerebral. Para qual divisão funcional do cerebelo essas fibras são enviadas?",
-      "options": [
-        "vestibulocerebelo",
-        "espinocerebelo",
-        "cerebrocerebelo"
-      ],
-      "correct_answer": "cerebrocerebelo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "vestibulocerebelo",
+          "images": []
+        },
+        "b": {
+          "content": "espinocerebelo",
+          "images": []
+        },
+        "c": {
+          "content": "cerebrocerebelo",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
       "reference": null
     },
@@ -39,13 +62,26 @@
       "id": 3,
       "type": "multiple_choice",
       "question": "Um paciente de 52 anos, relojoeiro de profissão, procura atendimento queixando-se de que, há duas semanas, não consegue mais realizar os ajustes delicados nas engrenagens dos relógios. Ele relata que sua mão direita parece \"hesitante\" ao iniciar um movimento e que, ao tentar alcançar uma peça pequena, sua mão treme conforme se aproxima do objeto e acaba ultrapassando o alvo.\nExame Físico:\nForça muscular: Normal (grau V) em todos os membros.\nCoordenação: Presença de dismetria e decomposição de movimentos à direita (ao realizar o teste índex-nariz, o movimento não é fluido, parecendo dividido em várias etapas).\nTremor: Ausente em repouso, mas manifesta-se claramente durante a execução de tarefas motoras voluntárias (tremor de intenção).\nTônus: Leve hipotonia no membro superior direito.\nQual porção do cerebelo foi acometida? Qual das alternativas descreve corretamente a principal via de comunicação e a função da zona cerebelar comprometida?",
-      "options": [
-        "hemisfério lateral (cerebrocerebelo) comunica-se predominantemente com o córtex cerebral (via núcleos pontinos e núcleo denteado), sendo responsável pelo planejamento e cronometragem (timing) de movimentos complexos e finos",
-        "hemisfério lateral, que recebe informações da medula espinal via trato espinocerebelar anterior e projeta-se para o núcleo fastigial, controlando o equilíbrio e a postura axial.",
-        "espinocerebelo comunica-se predominantemente com o córtex cerebral (via núcleos pontinos e núcleo denteado), sendo responsável pelo planejamento e cronometragem (timing) de movimentos complexos e finos",
-        "espinocerebelo, que recebe informações da medula espinal via trato espinocerebelar anterior e projeta-se para o núcleo fastigial, controlando o equilíbrio e a postura axial."
-      ],
-      "correct_answer": "hemisfério lateral (cerebrocerebelo) comunica-se predominantemente com o córtex cerebral (via núcleos pontinos e núcleo denteado), sendo responsável pelo planejamento e cronometragem (timing) de movimentos complexos e finos",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "hemisfério lateral (cerebrocerebelo) comunica-se predominantemente com o córtex cerebral (via núcleos pontinos e núcleo denteado), sendo responsável pelo planejamento e cronometragem (timing) de movimentos complexos e finos",
+          "images": []
+        },
+        "b": {
+          "content": "hemisfério lateral, que recebe informações da medula espinal via trato espinocerebelar anterior e projeta-se para o núcleo fastigial, controlando o equilíbrio e a postura axial.",
+          "images": []
+        },
+        "c": {
+          "content": "espinocerebelo comunica-se predominantemente com o córtex cerebral (via núcleos pontinos e núcleo denteado), sendo responsável pelo planejamento e cronometragem (timing) de movimentos complexos e finos",
+          "images": []
+        },
+        "d": {
+          "content": "espinocerebelo, que recebe informações da medula espinal via trato espinocerebelar anterior e projeta-se para o núcleo fastigial, controlando o equilíbrio e a postura axial.",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -53,13 +89,26 @@
       "id": 4,
       "type": "multiple_choice",
       "question": "Qual afirmativa descreve melhor o papel funcional da zona intermediária do cerebelo?",
-      "options": [
-        "Estimula os neurônios motores por meio de suas conexões diretas para a medula espinal",
-        "Controla os movimentos que envolvem a musculatura distal do membro",
-        "Controla e coordena os movimentos dos músculos axiais, bem como do ombro e do quadril",
-        "Funciona com o córtex cerebral para planejar movimentos"
-      ],
-      "correct_answer": "Controla os movimentos que envolvem a musculatura distal do membro",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Estimula os neurônios motores por meio de suas conexões diretas para a medula espinal",
+          "images": []
+        },
+        "b": {
+          "content": "Controla os movimentos que envolvem a musculatura distal do membro",
+          "images": []
+        },
+        "c": {
+          "content": "Controla e coordena os movimentos dos músculos axiais, bem como do ombro e do quadril",
+          "images": []
+        },
+        "d": {
+          "content": "Funciona com o córtex cerebral para planejar movimentos",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -67,13 +116,26 @@
       "id": 5,
       "type": "multiple_choice",
       "question": "Um paciente de 55 anos, com histórico de etilismo crônico, é levado à consulta por familiares que notam \"dificuldade para andar\" que piorou progressivamente nos últimos meses. Ele nega tontura rotatória (vertigem), mas sente-se constantemente \"mareado\" ao ficar de pé.\nExame Físico:\nEstática: O paciente apresenta instabilidade acentuada ao ficar de pé, necessitando afastar os pés para manter o equilíbrio (base alargada). \nMarcha: Marcha do tipo atáxica, com passos irregulares e tendência a quedas para frente ou para trás.\nCoordenação de Membros: Os testes índex-nariz e calcanhar-joelho são realizados com precisão bilateralmente, sem tremores ou dismetria.\nMotilidade Ocular: Presença de nistagmo vertical discreto.\nPergunta de Avaliação\nQual é a explicação neurofisiológica para o fato de o paciente apresentar ataxia de marcha e tronco, mas manter a coordenação normal nos membros (mãos e pés)?",
-      "options": [
-        "A lesão é no cerebrocerebelo, o qual é responsável apenas pela propriocepção consciente, e sua lesão causa instabilidade que é compensada pelo sistema visual",
-        "A lesão está localizada no verme cerebelar, o qual controla a musculatura axial (tronco) e o equilíbrio",
-        "A lesão é no cerebrocerebelo, o qual impede a comunicação com o córtex pré-frontal, resultando em apraxia da marcha, embora as vias de coordenação motora fina permaneçam intactas",
-        "A lesão está localizada no verme cerebelar , o qual coordena a musculatura distal dos membros através do núcleo denteado, que foi preservado neste caso"
-      ],
-      "correct_answer": "A lesão está localizada no verme cerebelar, o qual controla a musculatura axial (tronco) e o equilíbrio",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "A lesão é no cerebrocerebelo, o qual é responsável apenas pela propriocepção consciente, e sua lesão causa instabilidade que é compensada pelo sistema visual",
+          "images": []
+        },
+        "b": {
+          "content": "A lesão está localizada no verme cerebelar, o qual controla a musculatura axial (tronco) e o equilíbrio",
+          "images": []
+        },
+        "c": {
+          "content": "A lesão é no cerebrocerebelo, o qual impede a comunicação com o córtex pré-frontal, resultando em apraxia da marcha, embora as vias de coordenação motora fina permaneçam intactas",
+          "images": []
+        },
+        "d": {
+          "content": "A lesão está localizada no verme cerebelar , o qual coordena a musculatura distal dos membros através do núcleo denteado, que foi preservado neste caso",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -81,13 +143,26 @@
       "id": 6,
       "type": "multiple_choice",
       "question": "Associe corretamente as fibras provenientes de cada região do cerebelo com seu núcleo correspondente: Lobo flóculo-nodular (vestíbulocerebelo)",
-      "options": [
-        "núcleo denteado",
-        "núcleo interpósito",
-        "núcleo fastigial",
-        "núcleos vestibulares"
-      ],
-      "correct_answer": "núcleos vestibulares",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "núcleo denteado",
+          "images": []
+        },
+        "b": {
+          "content": "núcleo interpósito",
+          "images": []
+        },
+        "c": {
+          "content": "núcleo fastigial",
+          "images": []
+        },
+        "d": {
+          "content": "núcleos vestibulares",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
       "reference": null
     },
@@ -95,13 +170,26 @@
       "id": 7,
       "type": "multiple_choice",
       "question": "Associe corretamente as fibras provenientes de cada região do cerebelo com seu núcleo correspondente: Zona intermédia (espinocerebelo)",
-      "options": [
-        "núcleo denteado",
-        "núcleo interpósito",
-        "núcleo fastigial",
-        "núcleos vestibulares"
-      ],
-      "correct_answer": "núcleo interpósito",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "núcleo denteado",
+          "images": []
+        },
+        "b": {
+          "content": "núcleo interpósito",
+          "images": []
+        },
+        "c": {
+          "content": "núcleo fastigial",
+          "images": []
+        },
+        "d": {
+          "content": "núcleos vestibulares",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -109,13 +197,26 @@
       "id": 8,
       "type": "multiple_choice",
       "question": "Associe corretamente as fibras provenientes de cada região do cerebelo com seu núcleo correspondente: Zona medial (espinocerebelo)",
-      "options": [
-        "núcleo denteado",
-        "núcleo interpósito",
-        "núcleo fastigial",
-        "núcleos vestibulares"
-      ],
-      "correct_answer": "núcleo fastigial",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "núcleo denteado",
+          "images": []
+        },
+        "b": {
+          "content": "núcleo interpósito",
+          "images": []
+        },
+        "c": {
+          "content": "núcleo fastigial",
+          "images": []
+        },
+        "d": {
+          "content": "núcleos vestibulares",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
       "reference": null
     },
@@ -123,13 +224,26 @@
       "id": 9,
       "type": "multiple_choice",
       "question": "Associe corretamente as fibras provenientes de cada região do cerebelo com seu núcleo correspondente: Zona lateral do cerebelo (cerebrocerebelo)",
-      "options": [
-        "núcleo denteado",
-        "núcleo interpósito",
-        "núcleo fastigial",
-        "núcleos vestibulares"
-      ],
-      "correct_answer": "núcleo denteado",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "núcleo denteado",
+          "images": []
+        },
+        "b": {
+          "content": "núcleo interpósito",
+          "images": []
+        },
+        "c": {
+          "content": "núcleo fastigial",
+          "images": []
+        },
+        "d": {
+          "content": "núcleos vestibulares",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -137,13 +251,26 @@
       "id": 10,
       "type": "multiple_choice",
       "question": "Um paciente masculino com 23 anos ao sair de um estádio de futebol, envolveu-se em uma briga de torcidas e acabou sofrendo um traumatismo cranioencefálico (TCE) na região occipital inferior, em que afetou exclusivamente o cerebelo. Neste contexto, uma lesão ao nível cerebelar do lobo flóculo-nodular e dos hemisférios cerebelares (zona lateral) pode comprometer, respectivamente:",
-      "options": [
-        "O equilíbrio postural (vestibulocerebelo) e a coordenação dos movimentos distais (cerebrocerebelo).",
-        "A coordenação dos movimentos distais (espinocerebelo) e o equilíbrio postural (espinocerebelo).",
-        "O equilíbrio postural (vestibulocerebelo) e a coordenação dos movimentos distais (espinocerebelo).",
-        "A coordenação dos movimentos distais (cerebrocerebelo) e o equilíbrio postural (vestibulocerebelo)."
-      ],
-      "correct_answer": "O equilíbrio postural (vestibulocerebelo) e a coordenação dos movimentos distais (cerebrocerebelo).",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "O equilíbrio postural (vestibulocerebelo) e a coordenação dos movimentos distais (cerebrocerebelo).",
+          "images": []
+        },
+        "b": {
+          "content": "A coordenação dos movimentos distais (espinocerebelo) e o equilíbrio postural (espinocerebelo).",
+          "images": []
+        },
+        "c": {
+          "content": "O equilíbrio postural (vestibulocerebelo) e a coordenação dos movimentos distais (espinocerebelo).",
+          "images": []
+        },
+        "d": {
+          "content": "A coordenação dos movimentos distais (cerebrocerebelo) e o equilíbrio postural (vestibulocerebelo).",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -151,13 +278,26 @@
       "id": 11,
       "type": "multiple_choice",
       "question": "Um paciente comparece ao consultório médico queixando-se de um tremor involuntário nos momentos em que está em repouso. O exame físico mostrou além do tremor de repouso, bradicinesia (lentificação de movimentos). O diagnóstico foi de doença de Parkinson, uma patologia que cursa com a morte de neurônios dopaminérgicos da substância negra. Por que o paciente apresenta bradicinesia?",
-      "options": [
-        "Pois com a falta de dopamina da via mesolímbica a atividade da via direta estará reduzida e da via indireta aumentada.",
-        "Pois a dopamina reduz a atividade da via direta e aumenta a atividade da via indireta, assim, com a falta deste neurotransmissor, a atividade da via direta estará aumentada e da via indireta reduzida.",
-        "Pois com a falta de dopamina da via mesolímbica a atividade da via direta estará aumentada e da via indireta reduzida.",
-        "Pois a dopamina aumenta a atividade da via direta e reduz a atividade da via indireta, assim, com a falta deste neurotransmissor, a atividade da via direta estará reduzida e da via indireta aumentada."
-      ],
-      "correct_answer": "Pois a dopamina aumenta a atividade da via direta e reduz a atividade da via indireta, assim, com a falta deste neurotransmissor, a atividade da via direta estará reduzida e da via indireta aumentada.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Pois com a falta de dopamina da via mesolímbica a atividade da via direta estará reduzida e da via indireta aumentada.",
+          "images": []
+        },
+        "b": {
+          "content": "Pois a dopamina reduz a atividade da via direta e aumenta a atividade da via indireta, assim, com a falta deste neurotransmissor, a atividade da via direta estará aumentada e da via indireta reduzida.",
+          "images": []
+        },
+        "c": {
+          "content": "Pois com a falta de dopamina da via mesolímbica a atividade da via direta estará aumentada e da via indireta reduzida.",
+          "images": []
+        },
+        "d": {
+          "content": "Pois a dopamina aumenta a atividade da via direta e reduz a atividade da via indireta, assim, com a falta deste neurotransmissor, a atividade da via direta estará reduzida e da via indireta aumentada.",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
       "reference": null
     },
@@ -165,13 +305,26 @@
       "id": 12,
       "type": "multiple_choice",
       "question": "Paciente, L.J.O, gênero feminino, 60 anos, apresenta movimentos não intencionais de membro superior e inferior esquerdo. Exames de imagem mostraram lesão em núcleo subtalâmico. O diagnóstico foi de hemibalismo. Qual estrutura fica com a atividade alterada neste caso, explicando os sintomas?",
-      "options": [
-        "a atividade do globo pálido medial fica reduzida",
-        "a atividade do tálamo fica reduzida",
-        "a atividade do globo pálido lateral fica aumentada",
-        "a atividade do putâmen fica aumentada"
-      ],
-      "correct_answer": "a atividade do globo pálido medial fica reduzida",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "a atividade do globo pálido medial fica reduzida",
+          "images": []
+        },
+        "b": {
+          "content": "a atividade do tálamo fica reduzida",
+          "images": []
+        },
+        "c": {
+          "content": "a atividade do globo pálido lateral fica aumentada",
+          "images": []
+        },
+        "d": {
+          "content": "a atividade do putâmen fica aumentada",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -179,59 +332,108 @@
       "id": 13,
       "type": "multiple_choice",
       "question": "Qual o efeito dos neurônios nigroestriatais sobre os receptores D1 e D2 e qual o resultado dessa atuação sobre o controle do movimento?",
-      "options": [
-        "D1 excitatório, aumenta a atividade da via direta; D2 inibitório, reduz a atividade da via indireta",
-        "D1 inibitório, aumenta a atividade da via direta; D2 excitatório, reduz a atividade da via indireta",
-        "D1 excitatório, aumenta a atividade da via indireta; D2 inibitório, reduz a atividade da via direta",
-        "D1 inibitório, aumenta a atividade da via indireta; D2 excitatório, reduz a atividade da via direta"
-      ],
-      "correct_answer": "D1 excitatório, aumenta a atividade da via direta; D2 inibitório, reduz a atividade da via indireta",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "D1 excitatório, aumenta a atividade da via direta; D2 inibitório, reduz a atividade da via indireta",
+          "images": []
+        },
+        "b": {
+          "content": "D1 inibitório, aumenta a atividade da via direta; D2 excitatório, reduz a atividade da via indireta",
+          "images": []
+        },
+        "c": {
+          "content": "D1 excitatório, aumenta a atividade da via indireta; D2 inibitório, reduz a atividade da via direta",
+          "images": []
+        },
+        "d": {
+          "content": "D1 inibitório, aumenta a atividade da via indireta; D2 excitatório, reduz a atividade da via direta",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
     {
       "id": 14,
       "type": "multiple_choice",
+      "case_context": "J.M.L, bailarino, relata que há alguns meses não apresenta o mesmo desempenho em seu trabalho e que por isso tem medo de ser demitido. Relata não tomar nenhum medicamento e não fazer uso de nenhuma droga de abuso. Em um vídeo do paciente dançando, o médico observou que quando o paciente tinha que tocar as mãos da parceira de dança, o movimento realizado com os membros superiores apresentava tremor. O médico observou no vídeo que o paciente parecia tentar corrigir esse movimento, resultando em mais erros e tremor. O paciente relata que o vídeo mostra uma dança que ele já conhecia há anos e que nunca havia apresentado dificuldades em realizá-la desde então.",
       "question": "Considerando que a região intermédia do cerebelo está envolvida no processo descrito no caso, trata-se de qual divisão funcional do cerebelo?",
-      "options": [
-        "vestibulocerebelo",
-        "espinocerebelo",
-        "cerebrocerebelo"
-      ],
-      "correct_answer": "espinocerebelo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "vestibulocerebelo",
+          "images": []
+        },
+        "b": {
+          "content": "espinocerebelo",
+          "images": []
+        },
+        "c": {
+          "content": "cerebrocerebelo",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "case_context": "J.M.L, bailarino, relata que há alguns meses não apresenta o mesmo desempenho em seu trabalho e que por isso tem medo de ser demitido. Relata não tomar nenhum medicamento e não fazer uso de nenhuma droga de abuso. Em um vídeo do paciente dançando, o médico observou que quando o paciente tinha que tocar as mãos da parceira de dança, o movimento realizado com os membros superiores apresentava tremor. O médico observou no vídeo que o paciente parecia tentar corrigir esse movimento, resultando em mais erros e tremor. O paciente relata que o vídeo mostra uma dança que ele já conhecia há anos e que nunca havia apresentado dificuldades em realizá-la desde então."
+      "reference": null
     },
     {
       "id": 15,
       "type": "multiple_choice",
+      "case_context": "J.M.L, bailarino, relata que há alguns meses não apresenta o mesmo desempenho em seu trabalho e que por isso tem medo de ser demitido. Relata não tomar nenhum medicamento e não fazer uso de nenhuma droga de abuso. Em um vídeo do paciente dançando, o médico observou que quando o paciente tinha que tocar as mãos da parceira de dança, o movimento realizado com os membros superiores apresentava tremor. O médico observou no vídeo que o paciente parecia tentar corrigir esse movimento, resultando em mais erros e tremor. O paciente relata que o vídeo mostra uma dança que ele já conhecia há anos e que nunca havia apresentado dificuldades em realizá-la desde então.",
       "question": "Quais as aferências recebidas por essa área?",
-      "options": [
-        "via cortico-ponto-cerebelar",
-        "trato vestibuloespinal",
-        "via dento-tálamo-cortical",
-        "tratos espinocerebelares anterior e posterior"
-      ],
-      "correct_answer": "tratos espinocerebelares anterior e posterior",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "via cortico-ponto-cerebelar",
+          "images": []
+        },
+        "b": {
+          "content": "trato vestibuloespinal",
+          "images": []
+        },
+        "c": {
+          "content": "via dento-tálamo-cortical",
+          "images": []
+        },
+        "d": {
+          "content": "tratos espinocerebelares anterior e posterior",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "case_context": "J.M.L, bailarino, relata que há alguns meses não apresenta o mesmo desempenho em seu trabalho e que por isso tem medo de ser demitido. Relata não tomar nenhum medicamento e não fazer uso de nenhuma droga de abuso. Em um vídeo do paciente dançando, o médico observou que quando o paciente tinha que tocar as mãos da parceira de dança, o movimento realizado com os membros superiores apresentava tremor. O médico observou no vídeo que o paciente parecia tentar corrigir esse movimento, resultando em mais erros e tremor. O paciente relata que o vídeo mostra uma dança que ele já conhecia há anos e que nunca havia apresentado dificuldades em realizá-la desde então."
+      "reference": null
     },
     {
       "id": 16,
       "type": "multiple_choice",
+      "case_context": "J.M.L, bailarino, relata que há alguns meses não apresenta o mesmo desempenho em seu trabalho e que por isso tem medo de ser demitido. Relata não tomar nenhum medicamento e não fazer uso de nenhuma droga de abuso. Em um vídeo do paciente dançando, o médico observou que quando o paciente tinha que tocar as mãos da parceira de dança, o movimento realizado com os membros superiores apresentava tremor. O médico observou no vídeo que o paciente parecia tentar corrigir esse movimento, resultando em mais erros e tremor. O paciente relata que o vídeo mostra uma dança que ele já conhecia há anos e que nunca havia apresentado dificuldades em realizá-la desde então.",
       "question": "Quais as eferências enviadas por essa área?",
-      "options": [
-        "núcleo interpósito, em seguida, tálamo e núcleo rubro",
-        "núcleo interpósito, em seguida, núcleos vestibulares",
-        "núcleo fastigial, em seguida tálamo e núcleo rubro",
-        "núcleo fastigial, em seguida, núcleos vestibulares"
-      ],
-      "correct_answer": "núcleo interpósito, em seguida, tálamo e núcleo rubro",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "núcleo interpósito, em seguida, tálamo e núcleo rubro",
+          "images": []
+        },
+        "b": {
+          "content": "núcleo interpósito, em seguida, núcleos vestibulares",
+          "images": []
+        },
+        "c": {
+          "content": "núcleo fastigial, em seguida tálamo e núcleo rubro",
+          "images": []
+        },
+        "d": {
+          "content": "núcleo fastigial, em seguida, núcleos vestibulares",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "case_context": "J.M.L, bailarino, relata que há alguns meses não apresenta o mesmo desempenho em seu trabalho e que por isso tem medo de ser demitido. Relata não tomar nenhum medicamento e não fazer uso de nenhuma droga de abuso. Em um vídeo do paciente dançando, o médico observou que quando o paciente tinha que tocar as mãos da parceira de dança, o movimento realizado com os membros superiores apresentava tremor. O médico observou no vídeo que o paciente parecia tentar corrigir esse movimento, resultando em mais erros e tremor. O paciente relata que o vídeo mostra uma dança que ele já conhecia há anos e que nunca havia apresentado dificuldades em realizá-la desde então."
+      "reference": null
     }
   ]
 }

@@ -10,13 +10,26 @@
       "id": 1,
       "type": "multiple_choice",
       "question": "São nervos cranianos exclusivamente motores:",
-      "options": [
-        "III, IV, VI, XI e XII",
-        "III, IV, V, VI, VII e XII",
-        "I, II, III, IV, V e VI",
-        "VII, IX, X, XI e XII"
-      ],
-      "correct_answer": "III, IV, VI, XI e XII",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "III, IV, VI, XI e XII",
+          "images": []
+        },
+        "b": {
+          "content": "III, IV, V, VI, VII e XII",
+          "images": []
+        },
+        "c": {
+          "content": "I, II, III, IV, V e VI",
+          "images": []
+        },
+        "d": {
+          "content": "VII, IX, X, XI e XII",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -24,13 +37,26 @@
       "id": 2,
       "type": "multiple_choice",
       "question": "Os nervos cranianos que não se conectam com o tronco encefálico são:",
-      "options": [
-        "XI e XII",
-        "I e II",
-        "II e III",
-        "I e XII"
-      ],
-      "correct_answer": "I e II",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "XI e XII",
+          "images": []
+        },
+        "b": {
+          "content": "I e II",
+          "images": []
+        },
+        "c": {
+          "content": "II e III",
+          "images": []
+        },
+        "d": {
+          "content": "I e XII",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -38,13 +64,26 @@
       "id": 3,
       "type": "multiple_choice",
       "question": "A lâmina cribriforme é a origem óssea do nervo:",
-      "options": [
-        "olfatório",
-        "óptico",
-        "oftálmico",
-        "oculomotor"
-      ],
-      "correct_answer": "olfatório",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "olfatório",
+          "images": []
+        },
+        "b": {
+          "content": "óptico",
+          "images": []
+        },
+        "c": {
+          "content": "oftálmico",
+          "images": []
+        },
+        "d": {
+          "content": "oculomotor",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -52,13 +91,26 @@
       "id": 4,
       "type": "multiple_choice",
       "question": "O movimento de abdução do olho é realizado pelo nervo:",
-      "options": [
-        "VI",
-        "IV",
-        "III",
-        "II"
-      ],
-      "correct_answer": "VI",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "VI",
+          "images": []
+        },
+        "b": {
+          "content": "IV",
+          "images": []
+        },
+        "c": {
+          "content": "III",
+          "images": []
+        },
+        "d": {
+          "content": "II",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -66,13 +118,26 @@
       "id": 5,
       "type": "multiple_choice",
       "question": "O nervo trigêmeo é dividido em ramos:",
-      "options": [
-        "oftálmico, esfenoidal e mandibular",
-        "oftálmico, maxilar e mandibular",
-        "óptico, maxilar e mandibular",
-        "maxilar, mandibular e cervical"
-      ],
-      "correct_answer": "oftálmico, maxilar e mandibular",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "oftálmico, esfenoidal e mandibular",
+          "images": []
+        },
+        "b": {
+          "content": "oftálmico, maxilar e mandibular",
+          "images": []
+        },
+        "c": {
+          "content": "óptico, maxilar e mandibular",
+          "images": []
+        },
+        "d": {
+          "content": "maxilar, mandibular e cervical",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -80,14 +145,30 @@
       "id": 6,
       "type": "multiple_choice",
       "question": "Os nervos cranianos podem ter fibras sensitivas, motoras e autônomas. São nervos cranianos que apresentam exclusivamente fibras sensitivas:",
-      "options": [
-        "hipoglosso, olfatório e vago.",
-        "acessório, vago e glossofaríngeo.",
-        "oculomotor, troclear e abducente.",
-        "facial, trigêmeo e vestibulococlear.",
-        "olfatório, óptico e vestibulococlear."
-      ],
-      "correct_answer": "olfatório, óptico e vestibulococlear.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "hipoglosso, olfatório e vago.",
+          "images": []
+        },
+        "b": {
+          "content": "acessório, vago e glossofaríngeo.",
+          "images": []
+        },
+        "c": {
+          "content": "oculomotor, troclear e abducente.",
+          "images": []
+        },
+        "d": {
+          "content": "facial, trigêmeo e vestibulococlear.",
+          "images": []
+        },
+        "e": {
+          "content": "olfatório, óptico e vestibulococlear.",
+          "images": []
+        }
+      },
+      "correct_answer": "e",
       "explanation": null,
       "reference": null
     },
@@ -95,13 +176,26 @@
       "id": 7,
       "type": "multiple_choice",
       "question": "Em relação aos nervos cranianos, assinale a opção correta.",
-      "options": [
-        "O Nervo Vestibulococlear é constituído de três porções: a vestibular, bulbar e a coclear.",
-        "O Nervo Troclear inerva o músculo oblíquo inferior do olho.",
-        "O Nervo Vago inerva grande parte das vísceras torácicas e abdominais.",
-        "O Nervo Abducente inerva o músculo reto medial do olho."
-      ],
-      "correct_answer": "O Nervo Vago inerva grande parte das vísceras torácicas e abdominais.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "O Nervo Vestibulococlear é constituído de três porções: a vestibular, bulbar e a coclear.",
+          "images": []
+        },
+        "b": {
+          "content": "O Nervo Troclear inerva o músculo oblíquo inferior do olho.",
+          "images": []
+        },
+        "c": {
+          "content": "O Nervo Vago inerva grande parte das vísceras torácicas e abdominais.",
+          "images": []
+        },
+        "d": {
+          "content": "O Nervo Abducente inerva o músculo reto medial do olho.",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
       "reference": null
     },
@@ -109,13 +203,26 @@
       "id": 8,
       "type": "multiple_choice",
       "question": "A via aferente do reflexo córneo-palpebral (tocar com um algodão na córnea e a resposta do paciente é o fechamento da pálpebra) é realizada pelo nervo:",
-      "options": [
-        "Trigêmeo",
-        "Óculomotor",
-        "Facial",
-        "Óptico"
-      ],
-      "correct_answer": "Trigêmeo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Trigêmeo",
+          "images": []
+        },
+        "b": {
+          "content": "Óculomotor",
+          "images": []
+        },
+        "c": {
+          "content": "Facial",
+          "images": []
+        },
+        "d": {
+          "content": "Óptico",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -123,13 +230,26 @@
       "id": 9,
       "type": "multiple_choice",
       "question": "São nervos parassimpáticos:",
-      "options": [
-        "facial, glossofaríngeo, oculomotor e vago",
-        "facial, vago, glossofaríngeo e hipoglosso",
-        "trigêmeo, facial, vago e acessório",
-        "oculomotor, troclear, facial e vago"
-      ],
-      "correct_answer": "facial, glossofaríngeo, oculomotor e vago",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "facial, glossofaríngeo, oculomotor e vago",
+          "images": []
+        },
+        "b": {
+          "content": "facial, vago, glossofaríngeo e hipoglosso",
+          "images": []
+        },
+        "c": {
+          "content": "trigêmeo, facial, vago e acessório",
+          "images": []
+        },
+        "d": {
+          "content": "oculomotor, troclear, facial e vago",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -137,13 +257,26 @@
       "id": 10,
       "type": "multiple_choice",
       "question": "Ao realizar o teste de gustação podemos afirmar que os nervos envolvidos são:",
-      "options": [
-        "trigêmeo, vago e glossofaríngeo",
-        "facial, glossofaríngeo e vago",
-        "trigêmeo, hipoglosso e vago",
-        "facial, glossofaríngeo e trigêmeo"
-      ],
-      "correct_answer": "facial, glossofaríngeo e vago",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "trigêmeo, vago e glossofaríngeo",
+          "images": []
+        },
+        "b": {
+          "content": "facial, glossofaríngeo e vago",
+          "images": []
+        },
+        "c": {
+          "content": "trigêmeo, hipoglosso e vago",
+          "images": []
+        },
+        "d": {
+          "content": "facial, glossofaríngeo e trigêmeo",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -151,13 +284,26 @@
       "id": 11,
       "type": "multiple_choice",
       "question": "Durante o exame físico foi possível identificar queda do palato. Paciente queixa-se de dificuldade na deglutição (disfagia) e rouquidão. Provavelmente o nervo comprometido para ocasionar os sintomas descritos é o nervo:",
-      "options": [
-        "Facial",
-        "Vago",
-        "Glossofaríngeo",
-        "trigêmeo"
-      ],
-      "correct_answer": "Vago",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Facial",
+          "images": []
+        },
+        "b": {
+          "content": "Vago",
+          "images": []
+        },
+        "c": {
+          "content": "Glossofaríngeo",
+          "images": []
+        },
+        "d": {
+          "content": "trigêmeo",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -165,13 +311,26 @@
       "id": 12,
       "type": "multiple_choice",
       "question": "Paciente, vitima de fratura de base de crânio, apresenta no exame físico a paralisia da musculatura da língua do lado direito. Podemos afirmar que a lesão ocorreu:",
-      "options": [
-        "nervo vago direito",
-        "nervo hipoglosso direito",
-        "nervo hipoglosso esquerdo",
-        "nervo vago esquerdo"
-      ],
-      "correct_answer": "nervo hipoglosso direito",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "nervo vago direito",
+          "images": []
+        },
+        "b": {
+          "content": "nervo hipoglosso direito",
+          "images": []
+        },
+        "c": {
+          "content": "nervo hipoglosso esquerdo",
+          "images": []
+        },
+        "d": {
+          "content": "nervo vago esquerdo",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -179,13 +338,26 @@
       "id": 13,
       "type": "multiple_choice",
       "question": "Paciente apresenta paralisia dos quadrantes superior e inferior esquerdo da face. Podemos afirmar que:",
-      "options": [
-        "o nervo facial direito foi comprometido",
-        "o nervo facial esquerdo foi comprometido",
-        "o nervo trigêmeo esquerdo foi comprometido",
-        "o nervo trigêmeo direito foi comprometido"
-      ],
-      "correct_answer": "o nervo facial esquerdo foi comprometido",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "o nervo facial direito foi comprometido",
+          "images": []
+        },
+        "b": {
+          "content": "o nervo facial esquerdo foi comprometido",
+          "images": []
+        },
+        "c": {
+          "content": "o nervo trigêmeo esquerdo foi comprometido",
+          "images": []
+        },
+        "d": {
+          "content": "o nervo trigêmeo direito foi comprometido",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -193,13 +365,26 @@
       "id": 14,
       "type": "multiple_choice",
       "question": "Paciente: Masculino, 45 anos. Queixa principal: Dor intensa e dificuldade para mastigar do lado direito do rosto há 2 semanas. O paciente relata início de dor súbita do tipo “pontadas” na região mandibular direita, que piora ao mastigar ou tocar a área. A dor é intermitente e descrita como choque elétrico, irradiando-se para região da e orelha para a mandíbula. Não há história de trauma ou cirurgia recente. O paciente nega alterações visuais ou auditivas. RM de crânio: Demonstrou possível compressão nervosa em forame oval, sem lesões expansivas visíveis. De acordo com as características apresentadas, qual nervo ou ramo estaria sendo comprimido?",
-      "options": [
-        "XII",
-        "VII",
-        "V3",
-        "V2"
-      ],
-      "correct_answer": "V3",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "XII",
+          "images": []
+        },
+        "b": {
+          "content": "VII",
+          "images": []
+        },
+        "c": {
+          "content": "V3",
+          "images": []
+        },
+        "d": {
+          "content": "V2",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
       "reference": null
     },
@@ -207,13 +392,26 @@
       "id": 15,
       "type": "multiple_choice",
       "question": "Identificação: paciente comparece ao atendimento médico com seu familiar relatando que sua face estava estranha, pois parecia estar desviada para o lado esquerdo. \nExame físico: a metade da face (hemiface) do lado direito estava paralisada, com exceção dos músculos mastigatórios e do músculo levantador da pálpebra (paciente abria os olhos). O paciente conseguia colocar a língua para fora da boca e apontá-la uniformemente para frente. Não havia alteração de sensibilidade somestésica na pele da face. Perda da gustação em uma porção da língua. Durante o teste de audição, o paciente relata ouvir os sons mais altos do lado direito (hiperacusia).\nDiagnóstico: lesão de nervo craniano\nQual nervo foi lesionado? E qual porção da língua o paciente perdeu a gustação?",
-      "options": [
-        "N. trigêmeo (V par); 2/3 anteriores da língua",
-        "N. facial (VII par); 2/3 anteriores da língua",
-        "N. facial (VII par); 1/3 anterior da língua",
-        "N. trigêmeo (V par); 1/3 anterior da língua"
-      ],
-      "correct_answer": "N. facial (VII par); 2/3 anteriores da língua",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "N. trigêmeo (V par); 2/3 anteriores da língua",
+          "images": []
+        },
+        "b": {
+          "content": "N. facial (VII par); 2/3 anteriores da língua",
+          "images": []
+        },
+        "c": {
+          "content": "N. facial (VII par); 1/3 anterior da língua",
+          "images": []
+        },
+        "d": {
+          "content": "N. trigêmeo (V par); 1/3 anterior da língua",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -221,14 +419,30 @@
       "id": 16,
       "type": "multiple_choice",
       "question": "Nervo misto que possui uma raiz sensitiva e uma raiz motora. Origina-se da ponte e suas raízes sensitivas formam o gânglio que recebe seu nome. O primeiro dos três ramos deste nervo passa através da parede lateral do seio cavernoso e divide-se em outros três menores ramos. Os demais dois ramos vão também se dividir em pequenos filetes nervosos para que a função seja completamente realizada.",
-      "options": [
-        "Nervo trigêmeo.",
-        "Nervo vestibulococlear",
-        "Nervo oculomotor",
-        "Nervo oftálmico",
-        "Nervo óptico"
-      ],
-      "correct_answer": "Nervo trigêmeo.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Nervo trigêmeo.",
+          "images": []
+        },
+        "b": {
+          "content": "Nervo vestibulococlear",
+          "images": []
+        },
+        "c": {
+          "content": "Nervo oculomotor",
+          "images": []
+        },
+        "d": {
+          "content": "Nervo oftálmico",
+          "images": []
+        },
+        "e": {
+          "content": "Nervo óptico",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -236,13 +450,26 @@
       "id": 17,
       "type": "multiple_choice",
       "question": "Um médico foi chamado para avaliar o reflexo fotomotor de um paciente. Para isso, o médico iluminou as pupilas do paciente, observando que houve contração da pupila (miose) em ambos os olhos. Assim, o médico concluiu que o reflexo estava preservado. Qual divisão do sistema nervoso autônomo foi responsável pela miose e qual par de nervos cranianos estava envolvido neste processo?",
-      "options": [
-        "simpático, V par",
-        "parassimpático, V par",
-        "parassimpático, III par",
-        "simpático, III par"
-      ],
-      "correct_answer": "parassimpático, III par",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "simpático, V par",
+          "images": []
+        },
+        "b": {
+          "content": "parassimpático, V par",
+          "images": []
+        },
+        "c": {
+          "content": "parassimpático, III par",
+          "images": []
+        },
+        "d": {
+          "content": "simpático, III par",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
       "reference": null
     },
@@ -250,13 +477,26 @@
       "id": 18,
       "type": "multiple_choice",
       "question": "Paciente: Feminina, 48 anos.\nQueixa principal: “Perdi a audição do lado esquerdo”.\nHistória da Doença Atual: A perda auditiva foi súbita e acompanhada de zumbido intenso. Ao exame, não há dor à palpação ou secreção.\nPergunta: Qual nervo craniano está envolvido na perda auditiva?",
-      "options": [
-        "Nervo glossofaríngeo (IX par)",
-        "Nervo facial (VII par)",
-        "Nervo trigêmeo (V par)",
-        "Nervo vestibulococlear (VIII par)"
-      ],
-      "correct_answer": "Nervo vestibulococlear (VIII par)",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Nervo glossofaríngeo (IX par)",
+          "images": []
+        },
+        "b": {
+          "content": "Nervo facial (VII par)",
+          "images": []
+        },
+        "c": {
+          "content": "Nervo trigêmeo (V par)",
+          "images": []
+        },
+        "d": {
+          "content": "Nervo vestibulococlear (VIII par)",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
       "reference": null
     },
@@ -264,13 +504,26 @@
       "id": 19,
       "type": "multiple_choice",
       "question": "Samira apresentou episódios de sangramento nasal. Após 2 meses desses episódios, Samira percebeu que estava com visão dupla quando olhava para a esquerda. Começou também a apresentar dormência de seu lábio superior esquerdo, que expandiu para bochecha esquerda e testa. Ela então procurou um médico. \nExame físico: \nreflexo pupilar normal \nnão ha ptose\ndificuldade em fazer a abdução do globo ocular \nvisão dupla ao olhar para `esquerda \nperda de sensibilidade das regiões que ela relata estarem dormentes. Lábios inferiores e queixo apresentam sensibilidade normais. \nQuais nervos cranianos foram acometidos?",
-      "options": [
-        "Nervo abducente (VI par), o qual inerva o m. reto lateral e Nervo trigêmeo (V par), ramos V1 e V2",
-        "Nervo abducente (VI par), o qual inerva o m. reto lateral e Nervo facial (VII par)",
-        "Nervo troclear (IV par), o qual inerva o m. reto lateral e Nervo facial (VII par)",
-        "Nervo troclear (IV par), o qual inerva o m. reto lateral e Nervo trigêmeo (V par), ramos V1 e V2"
-      ],
-      "correct_answer": "Nervo abducente (VI par), o qual inerva o m. reto lateral e Nervo trigêmeo (V par), ramos V1 e V2",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Nervo abducente (VI par), o qual inerva o m. reto lateral e Nervo trigêmeo (V par), ramos V1 e V2",
+          "images": []
+        },
+        "b": {
+          "content": "Nervo abducente (VI par), o qual inerva o m. reto lateral e Nervo facial (VII par)",
+          "images": []
+        },
+        "c": {
+          "content": "Nervo troclear (IV par), o qual inerva o m. reto lateral e Nervo facial (VII par)",
+          "images": []
+        },
+        "d": {
+          "content": "Nervo troclear (IV par), o qual inerva o m. reto lateral e Nervo trigêmeo (V par), ramos V1 e V2",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -278,13 +531,26 @@
       "id": 20,
       "type": "multiple_choice",
       "question": "Paciente: Masculino, 50 anos, diabético.\nQueixa principal: “Minha pálpebra caiu e meu olho ficou dilatado.”\nHistória da Doença Atual: Apresenta ptose palpebral esquerda e midríase ipsilateral, sem alteração da sensibilidade facial.\nPergunta: Qual nervo está comprometido e qual função foi preservada?",
-      "options": [
-        "Nervo facial (VII par); função do orbicular dos olhos preservada",
-        "Nervo abducente (VI par); função do elevador da pálpebra preservada",
-        "Nervo troclear (IV par); função do esfíncter da pupila preservada",
-        "Nervo oculomotor (III par); função do músculo reto lateral preservada"
-      ],
-      "correct_answer": "Nervo oculomotor (III par); função do músculo reto lateral preservada",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Nervo facial (VII par); função do orbicular dos olhos preservada",
+          "images": []
+        },
+        "b": {
+          "content": "Nervo abducente (VI par); função do elevador da pálpebra preservada",
+          "images": []
+        },
+        "c": {
+          "content": "Nervo troclear (IV par); função do esfíncter da pupila preservada",
+          "images": []
+        },
+        "d": {
+          "content": "Nervo oculomotor (III par); função do músculo reto lateral preservada",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
       "reference": null
     }

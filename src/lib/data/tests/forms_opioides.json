@@ -8,101 +8,169 @@
   ],
   "questions": [
     {
+      "id": 1,
       "type": "multiple_choice",
       "question": "Mulher, 45 anos, com lombociatalgia fez uso de dipirona por 3 dias sem melhora. O ortopedista prescreveu cloridrato de tramadol. Em relação a este fármaco, é correto afirmar que:",
-      "options": [
-        "É um opioide típico (apresenta estrutura química dos opioides) e se liga a receptores opioides.",
-        "É um opioide típico (não apresenta estrutura química dos opioides) e se liga a receptores opioides.",
-        "É um opioide atípico (não apresenta estrutura química dos opioides) e se liga a receptores opioides.",
-        "É um opioide atípico (apresenta estrutura química dos opioides) e se liga a receptores opioides."
-      ],
-      "correct_answer": "É um opioide atípico (não apresenta estrutura química dos opioides) e se liga a receptores opioides.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "É um opioide típico (apresenta estrutura química dos opioides) e se liga a receptores opioides.",
+          "images": []
+        },
+        "b": {
+          "content": "É um opioide típico (não apresenta estrutura química dos opioides) e se liga a receptores opioides.",
+          "images": []
+        },
+        "c": {
+          "content": "É um opioide atípico (não apresenta estrutura química dos opioides) e se liga a receptores opioides.",
+          "images": []
+        },
+        "d": {
+          "content": "É um opioide atípico (apresenta estrutura química dos opioides) e se liga a receptores opioides.",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
-      "reference": null,
-      "id": 1
+      "reference": null
     },
     {
+      "id": 2,
       "type": "multiple_choice",
       "question": "São usos clínicos dos opioides: I- tratamento da dor de leve a moderada; II-tratamento de quadros de constipação; III-tratamento da tosse; IV-agente pré-anestésico. É correto o que se afirma em:",
-      "options": [
-        "Apenas III e IV",
-        "I, II, III, IV",
-        "Apenas II, III e IV",
-        "Apenas I, II, III"
-      ],
-      "correct_answer": "Apenas III e IV",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Apenas III e IV",
+          "images": []
+        },
+        "b": {
+          "content": "I, II, III, IV",
+          "images": []
+        },
+        "c": {
+          "content": "Apenas II, III e IV",
+          "images": []
+        },
+        "d": {
+          "content": "Apenas I, II, III",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 2
+      "reference": null
     },
     {
+      "id": 3,
       "type": "multiple_choice",
       "question": "Na falta de morfina o tratamento analgésico de um paciente pode ser substituído por outros opioides. Os diferentes opioides apresentam o mesmo mecanismo de ação, entretanto eles podem diferir na potência ou farmacocinética. Assinale a alternativa que apresenta dois opioides fracos (ambos menos potentes que a morfina):",
-      "options": [
-        "Fentanil e Codeína",
-        "Metadona e Fentanil",
-        "Naloxona e Fentanil",
-        "Tramadol e Codeína"
-      ],
-      "correct_answer": "Tramadol e Codeína",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Fentanil e Codeína",
+          "images": []
+        },
+        "b": {
+          "content": "Metadona e Fentanil",
+          "images": []
+        },
+        "c": {
+          "content": "Naloxona e Fentanil",
+          "images": []
+        },
+        "d": {
+          "content": "Tramadol e Codeína",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "id": 3
+      "reference": null
     },
     {
+      "id": 4,
       "type": "multiple_choice",
       "question": "Após uma cirurgia bem sucedida para a retirada de uma hérnia de disco o paciente precisa iniciar um ciclo de desmame do tratamento analgésico opioide ao qual ele estava submetido antes da cirurgia. Qual opioide é o mais indicado para este desmame?",
-      "options": [
-        "Codeína",
-        "Tramadol",
-        "Metadona",
-        "Fentanil"
-      ],
-      "correct_answer": "Metadona",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Codeína",
+          "images": []
+        },
+        "b": {
+          "content": "Tramadol",
+          "images": []
+        },
+        "c": {
+          "content": "Metadona",
+          "images": []
+        },
+        "d": {
+          "content": "Fentanil",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
-      "reference": null,
-      "id": 4
+      "reference": null
     },
     {
+      "id": 5,
       "type": "multiple_choice",
       "question": "Médico, anestesista, 27 anos, com drogadição à morfina, desenvolveu dependência física à morfina em pouco tempo. Com base nesta situação e na farmacodinâmica da morfina, o que se pode afirmar em relação à dependência da morfina?",
-      "options": [
-        "Deve-se ao agonismo forte nos receptores Mi",
-        "Deve-se ao agonismo forte nos receptores kappa",
-        "Deve-se ao antagonismo nos receptores kappa",
-        "Deve-se ao antagonismo nos receptores Mi"
-      ],
-      "correct_answer": "Deve-se ao agonismo forte nos receptores Mi",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Deve-se ao agonismo forte nos receptores Mi",
+          "images": []
+        },
+        "b": {
+          "content": "Deve-se ao agonismo forte nos receptores kappa",
+          "images": []
+        },
+        "c": {
+          "content": "Deve-se ao antagonismo nos receptores kappa",
+          "images": []
+        },
+        "d": {
+          "content": "Deve-se ao antagonismo nos receptores Mi",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 5
+      "reference": null
     },
     {
+      "id": 6,
       "type": "free_response",
       "case_context": "Paciente de 30 anos com doença inflamatória intestinal crônica desde os 15 anos, duas ressecções intestinais, a última há 2 anos, com síndrome do intestino curto (ressecção de 4 m de jejuno) e diarreia crônica. Usa morfina para dor. Evoluiu com fístula traqueoesofágica e tosse crônica, e depois com obstrução intestinal submetida a laparotomia.",
       "question": "Paciente na vigência de morfina apresentou melhora da diarreia, como você explica esse efeito?",
+      "images": [],
       "correct_answer": "A morfina, como os opioides em geral, tem como efeito colateral a constipação intestinal, o que justifica a melhora da diarreia.",
       "explanation": null,
-      "reference": "Farmacologia ilustrada, 6ª edição, capítulo 14, página 197, figura 14.9.",
-      "id": 6
+      "reference": "Farmacologia ilustrada, 6ª edição, capítulo 14, página 197, figura 14.9."
     },
     {
+      "id": 7,
       "type": "free_response",
       "case_context": "Paciente de 30 anos com doença inflamatória intestinal crônica desde os 15 anos, duas ressecções intestinais, a última há 2 anos, com síndrome do intestino curto (ressecção de 4 m de jejuno) e diarreia crônica. Usa morfina para dor. Evoluiu com fístula traqueoesofágica e tosse crônica, e depois com obstrução intestinal submetida a laparotomia.",
       "question": "Qual fármaco opioide exerce efeito antitussígeno que poderia ser associado?",
+      "images": [],
       "correct_answer": "Codeína",
       "explanation": null,
-      "reference": "Farmacologia ilustrada, 6ª edição, página 196.",
-      "id": 7
+      "reference": "Farmacologia ilustrada, 6ª edição, página 196."
     },
     {
+      "id": 8,
       "type": "free_response",
       "case_context": "Paciente de 30 anos com doença inflamatória intestinal crônica desde os 15 anos, duas ressecções intestinais, a última há 2 anos, com síndrome do intestino curto (ressecção de 4 m de jejuno) e diarreia crônica. Usa morfina para dor. Evoluiu com fístula traqueoesofágica e tosse crônica, e depois com obstrução intestinal submetida a laparotomia.",
       "question": "Qual fármaco opioide poderia ser utilizado em associação à anestesia pelo seu efeito sedativo?",
+      "images": [],
       "correct_answer": "Fentanila",
       "explanation": null,
-      "reference": "Farmacologia ilustrada, 6ª edição, capítulo 14, página 197.",
-      "id": 8
+      "reference": "Farmacologia ilustrada, 6ª edição, capítulo 14, página 197."
     }
   ]
 }

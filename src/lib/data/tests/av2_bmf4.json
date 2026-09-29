@@ -8,348 +8,616 @@
   ],
   "questions": [
     {
+      "id": 1,
       "type": "multiple_choice",
       "question": "Paciente apresenta dor em queimação (dor lenta/crônica) e formigamento em membro inferior esquerdo há 1 ano. Exames de imagem mostraram uma hérnia de disco. O médico indicou a realização de fisioterapia. Durante o tratamento foi utilizado estimulação elétrica transcutânea (TENS) para alívio da dor. O TENS estimula as fibras táteis (A-beta), as quais atuam no corno dorsal, reduzindo a dor. (1) Qual o tipo de fibra é responsável pela dor em queimação referida pelo paciente? (2) Qual o efeito das fibras A-beta para alívio da dor?",
-      "options": [
-        "(1)fibras A-delta; (2) ativação de um interneurônio inibitório, reduzindo a atividade do segundo neurônio da via da dor",
-        "(1) fibras C; (2) liberação de encefalina, causando a abertura de canais de potássio no neurônio pós-sináptico",
-        "(1) fibras C; (2) ativação de um interneurônio inibitório, reduzindo a atividade do segundo neurônio da via da dor",
-        "(1)fibras A-delta; (2) liberação de encefalina, causando a abertura de canais de potássio no neurônio pós-sináptico"
-      ],
-      "correct_answer": "(1) fibras C; (2) ativação de um interneurônio inibitório, reduzindo a atividade do segundo neurônio da via da dor",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "(1)fibras A-delta; (2) ativação de um interneurônio inibitório, reduzindo a atividade do segundo neurônio da via da dor",
+          "images": []
+        },
+        "b": {
+          "content": "(1) fibras C; (2) liberação de encefalina, causando a abertura de canais de potássio no neurônio pós-sináptico",
+          "images": []
+        },
+        "c": {
+          "content": "(1) fibras C; (2) ativação de um interneurônio inibitório, reduzindo a atividade do segundo neurônio da via da dor",
+          "images": []
+        },
+        "d": {
+          "content": "(1)fibras A-delta; (2) liberação de encefalina, causando a abertura de canais de potássio no neurônio pós-sináptico",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
-      "reference": null,
-      "id": 1
+      "reference": null
     },
     {
+      "id": 2,
       "type": "multiple_choice",
       "question": "Um paciente masculino com 23 anos ao sair de um estádio de futebol, envolveu-se em uma briga de torcidas e acabou sofrendo um traumatismo cranioencefálico (TCE) na região occipital inferior, em que afetou exclusivamente o cerebelo. Neste contexto, uma lesão ao nível cerebelar do lobo flóculo-nodular e dos hemisférios cerebelares (zona lateral) pode comprometer, respectivamente:",
-      "options": [
-        "O equilíbrio postural (vestibulocerebelo) e a coordenação dos movimentos distais (espinocerebelo).",
-        "O equilíbrio postural (vestibulocerebelo) e a coordenação dos movimentos distais (cerebrocerebelo).",
-        "A coordenação dos movimentos distais (cerebrocerebelo) e o equilíbrio postural (vestibulocerebelo).",
-        "A coordenação dos movimentos distais (espinocerebelo) e o equilíbrio postural (espinocerebelo)."
-      ],
-      "correct_answer": "O equilíbrio postural (vestibulocerebelo) e a coordenação dos movimentos distais (cerebrocerebelo).",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "O equilíbrio postural (vestibulocerebelo) e a coordenação dos movimentos distais (espinocerebelo).",
+          "images": []
+        },
+        "b": {
+          "content": "O equilíbrio postural (vestibulocerebelo) e a coordenação dos movimentos distais (cerebrocerebelo).",
+          "images": []
+        },
+        "c": {
+          "content": "A coordenação dos movimentos distais (cerebrocerebelo) e o equilíbrio postural (vestibulocerebelo).",
+          "images": []
+        },
+        "d": {
+          "content": "A coordenação dos movimentos distais (espinocerebelo) e o equilíbrio postural (espinocerebelo).",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "id": 2
+      "reference": null
     },
     {
+      "id": 3,
       "type": "multiple_choice",
       "question": "Paciente apresenta perda visual progressiva e cefaleia. A paciente foi internada, evoluindo com hemianopsia bitemporal (perda da visão dos hemicampos temporais de ambos os olhos). Exames de imagem mostram um tumor pressionando o centro do quiasma óptico. Quais fibras estão sendo pressionadas pelo tumor?",
-      "options": [
-        "Fibras da hemirretina nasal do olho oposto e temporal do mesmo olho",
-        "Fibras da hemirretina nasal de ambos os olhos",
-        "Fibras da hemirretina temporal do olho oposto e nasal do mesmo olho",
-        "Fibras da hemirretina temporal de ambos os olhos"
-      ],
-      "correct_answer": "Fibras da hemirretina nasal de ambos os olhos",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Fibras da hemirretina nasal do olho oposto e temporal do mesmo olho",
+          "images": []
+        },
+        "b": {
+          "content": "Fibras da hemirretina nasal de ambos os olhos",
+          "images": []
+        },
+        "c": {
+          "content": "Fibras da hemirretina temporal do olho oposto e nasal do mesmo olho",
+          "images": []
+        },
+        "d": {
+          "content": "Fibras da hemirretina temporal de ambos os olhos",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "id": 3
+      "reference": null
     },
     {
+      "id": 4,
       "type": "multiple_choice",
       "question": "Paciente masculino, 55 anos, operário da construção civil, destro, foi encaminhado ao pronto-socorro após um episódio súbito de dormência e perda de sensibilidade no lado esquerdo do corpo, que iniciou enquanto estava trabalhando. O quadro evoluiu para uma sensação de \"anestesia\" nas áreas acometidas. Ele também mencionou dificuldade em distinguir entre quente e frio com o lado esquerdo do corpo. Não houve perda de força muscular. Ressonância Magnética (RM) de Crânio: evidenciou lesão isquêmica focal. Assinale a alternativa que justifica a área de lesão que justifica as manifestações clínicas.",
-      "options": [
-        "Giro pré-central do hemisfério direito",
-        "Giro pós-central do hemisfério direito",
-        "Giro pré-central do hemisfério esquerdo",
-        "Giro pós-central do hemisfério esquerdo"
-      ],
-      "correct_answer": "Giro pós-central do hemisfério direito",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Giro pré-central do hemisfério direito",
+          "images": []
+        },
+        "b": {
+          "content": "Giro pós-central do hemisfério direito",
+          "images": []
+        },
+        "c": {
+          "content": "Giro pré-central do hemisfério esquerdo",
+          "images": []
+        },
+        "d": {
+          "content": "Giro pós-central do hemisfério esquerdo",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "id": 4
+      "reference": null
     },
     {
+      "id": 5,
       "type": "multiple_choice",
       "question": "Paciente comparece ao consultório médico queixando-se de muita tristeza. O médico psiquiatra fez o diagnóstico de depressão, indicando o uso de anti-depressivo. Posteriormente, o paciente voltou ao consultório queixando-se de falta de sono, ele disse que conseguia dormir, mas que acordava muito cansado. O médico desconfiou de falta da fase do sono na qual há maior probabilidade de sonhar (sonhos ilógicos) e dessincronização do eletroencefalograma (EEG). Qual é esta fase do sono e qual é uma outra característica importante desta fase?",
-      "options": [
-        "Sono REM, hipertonia",
-        "Sono REM, movimento rápido dos olhos",
-        "Sono não-REM, atonia",
-        "Sono não-REM, movimento rápido dos olhos"
-      ],
-      "correct_answer": "Sono REM, movimento rápido dos olhos",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Sono REM, hipertonia",
+          "images": []
+        },
+        "b": {
+          "content": "Sono REM, movimento rápido dos olhos",
+          "images": []
+        },
+        "c": {
+          "content": "Sono não-REM, atonia",
+          "images": []
+        },
+        "d": {
+          "content": "Sono não-REM, movimento rápido dos olhos",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "id": 5
+      "reference": null
     },
     {
+      "id": 6,
       "type": "multiple_choice",
       "question": "Um paciente com diagnóstico de câncer apresenta-se em cuidados paliativos. O paciente queixa-se de muita dor e por isso foi indicado o uso de morfina. Este medicamento atua em receptores opioides, diminuindo a influxo de cálcio no neurônio pré-sináptico, e promovendo a abertura da canais de potássio no neurônio pós-sináptico. Qual será o efeito desses processos, respectivamente?",
-      "options": [
-        "Diminuição da liberação do neurotransmissor e hiperpolarização do neurônio pós-sináptico",
-        "Aumento da liberação do neurotransmissor e despolarização do neurônio pós-sináptico",
-        "Diminuição da liberação do neurotransmissor e despolarização do neurônio pós-sináptico",
-        "Aumento da liberação do neurotransmissor e hiperpolarização do neurônio pós-sináptico"
-      ],
-      "correct_answer": "Diminuição da liberação do neurotransmissor e hiperpolarização do neurônio pós-sináptico",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Diminuição da liberação do neurotransmissor e hiperpolarização do neurônio pós-sináptico",
+          "images": []
+        },
+        "b": {
+          "content": "Aumento da liberação do neurotransmissor e despolarização do neurônio pós-sináptico",
+          "images": []
+        },
+        "c": {
+          "content": "Diminuição da liberação do neurotransmissor e despolarização do neurônio pós-sináptico",
+          "images": []
+        },
+        "d": {
+          "content": "Aumento da liberação do neurotransmissor e hiperpolarização do neurônio pós-sináptico",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 6
+      "reference": null
     },
     {
+      "id": 7,
       "type": "multiple_choice",
       "question": "Um paciente de 27 anos apresenta-se ao seu consultório após um acidente de trabalho em que uma grande explosão ocorreu em seu lado direito. Ele se queixa de dor e perda de audição na orelha direita. Ao exame, você nota uma membrana timpânica completamente destruída neste lado, e um exame audiométrico revela perda auditiva quase completa em todas as frequências do mesmo lado. Qual das seguintes alternativas melhor descreve a resposta talâmica ao som nesse paciente?",
-      "options": [
-        "Ativação somente do corpo geniculado medial direito",
-        "Ativação dos corpos geniculados laterais bilaterais",
-        "Ativação somente do corpo geniculado lateral direito",
-        "Ativação dos corpos geniculados mediais bilaterais"
-      ],
-      "correct_answer": "Ativação dos corpos geniculados mediais bilaterais",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Ativação somente do corpo geniculado medial direito",
+          "images": []
+        },
+        "b": {
+          "content": "Ativação dos corpos geniculados laterais bilaterais",
+          "images": []
+        },
+        "c": {
+          "content": "Ativação somente do corpo geniculado lateral direito",
+          "images": []
+        },
+        "d": {
+          "content": "Ativação dos corpos geniculados mediais bilaterais",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "id": 7
+      "reference": null
     },
     {
+      "id": 8,
       "type": "multiple_choice",
       "question": "Pedro, 42 anos, foi vítima de um acidente automobilístico, resultando em trauma craniano e fraturas na face e base do crânio. Após a estabilização, ele relatou perda total do olfato (anosmia) e diminuição do prazer ao comer, alegando que a comida \"não tinha mais sabor\". Além disso, notou-se a presença de rinorreia (saída de líquido pelo nariz) persistente. Os exames de imagem mostraram fraturas na lâmina cribriforme do osso etmoide. O exame neurológico indicou ausência de resposta aos estímulos olfativos, sugerindo lesão significativa na via olfatória. Considerando o caso clínico descrito e as alterações observadas, qual é a causa mais provável para os déficits olfatórios do paciente?",
-      "options": [
-        "A lesão no córtex piriforme e no tálamo comprometeu o processamento central dos estímulos olfativos, resultando na anosmia relatada pelo paciente.",
-        "A fratura da lâmina cribriforme levou à lesão dos neurônios bipolares cujos axônios formam o nervo olfatório, impedindo a transmissão adequada dos sinais olfativos para o sistema nervoso central.",
-        "A fratura provocou lesão nos segundos neurônios da via olfatória, que são responsáveis por conduzir os sinais olfativos através da lâmina cribriforme até o bulbo olfatório.",
-        "A fissura na lâmina cribriforme causou danos aos corpos dos segundos neurônios da via olfatória, resultando em aumento da produção de muco e rinorreia, além de comprometer a percepção olfativa."
-      ],
-      "correct_answer": "A fratura da lâmina cribriforme levou à lesão dos neurônios bipolares cujos axônios formam o nervo olfatório, impedindo a transmissão adequada dos sinais olfativos para o sistema nervoso central.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "A lesão no córtex piriforme e no tálamo comprometeu o processamento central dos estímulos olfativos, resultando na anosmia relatada pelo paciente.",
+          "images": []
+        },
+        "b": {
+          "content": "A fratura da lâmina cribriforme levou à lesão dos neurônios bipolares cujos axônios formam o nervo olfatório, impedindo a transmissão adequada dos sinais olfativos para o sistema nervoso central.",
+          "images": []
+        },
+        "c": {
+          "content": "A fratura provocou lesão nos segundos neurônios da via olfatória, que são responsáveis por conduzir os sinais olfativos através da lâmina cribriforme até o bulbo olfatório.",
+          "images": []
+        },
+        "d": {
+          "content": "A fissura na lâmina cribriforme causou danos aos corpos dos segundos neurônios da via olfatória, resultando em aumento da produção de muco e rinorreia, além de comprometer a percepção olfativa.",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "id": 8
+      "reference": null
     },
     {
+      "id": 9,
       "type": "multiple_choice",
       "question": "Paciente feminina, 30 anos, apresenta-se ao serviço de emergência com cefaléia intensa, febre e sinais de infecção no seio cavernoso. Ao exame neurológico, a paciente apresenta no olho direito: oftalmoplegia (paralisia dos músculos extra-oculares), ptose palpebral (queda da pálpebra), perda da sensibilidade geral no quadrante superior da face (se estendendo da fronte até a altura do lábio superior), pupila midriática (dilatada, sem resposta fotomotora). A lacrimação e salivação apresentam-se normais, olfação, gustação e audição preservadas. Movimentação da cabeça preservada. Quais nervos cranianos foram comprometidos para ocasionar os sintomas da paciente?",
-      "options": [
-        "III, IV, VI, V1 e V2",
-        "III, IV, VI, V2 e V3",
-        "III, IV, VI, VII e V1",
-        "II, III, VI, V1 e V2"
-      ],
-      "correct_answer": "III, IV, VI, V1 e V2",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "III, IV, VI, V1 e V2",
+          "images": []
+        },
+        "b": {
+          "content": "III, IV, VI, V2 e V3",
+          "images": []
+        },
+        "c": {
+          "content": "III, IV, VI, VII e V1",
+          "images": []
+        },
+        "d": {
+          "content": "II, III, VI, V1 e V2",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 9
+      "reference": null
     },
     {
+      "id": 10,
       "type": "multiple_choice",
       "question": "Paciente sexo masculino, 51 anos deu entrada no pronto atendimento queixando-se de dor de cabeça, alterações visuais e hipoestesia (diminuição de sensibilidade) em hemicorpo direito. Apresentava força preservada em membros. Os exames imaginológicos evidenciaram um acidente vascular encefálico isquêmico de artéria cerebral posterior. A lesão de qual área diencefálica justifica a alteração de sensibilidade?",
-      "options": [
-        "Epitálamo",
-        "Tálamo",
-        "Subtálamo",
-        "Hipotálamo"
-      ],
-      "correct_answer": "Tálamo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Epitálamo",
+          "images": []
+        },
+        "b": {
+          "content": "Tálamo",
+          "images": []
+        },
+        "c": {
+          "content": "Subtálamo",
+          "images": []
+        },
+        "d": {
+          "content": "Hipotálamo",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "id": 10
+      "reference": null
     },
     {
+      "id": 11,
       "type": "multiple_choice",
       "question": "Paciente masculino, 53 anos, advogado com antecedentes de HAS e DM II (uso irregular de Losartana e Metformina). Vem trazido por familiares ao setor de emergência com queixa de um quadro súbito de fraqueza ao lado direito do corpo, força preservada em MMII e dificuldade para falar que iniciou há cerca de 30 minutos do momento da admissão. Exame físico: força muscular 0/5 (evidenciando paralisia) em MMSS no hemicorpo direito. Os exames imaginológicos evidenciaram um acidente vascular encefálico isquêmico (obstrução de um vaso). Assinale a alternativa que contempla a artéria cuja obstrução explica o quadro clínico do paciente.",
-      "options": [
-        "Artéria cerebelar superior",
-        "Artéria cerebral anterior",
-        "Artéria cerebral posterior",
-        "Artéria cerebral média"
-      ],
-      "correct_answer": "Artéria cerebral média",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Artéria cerebelar superior",
+          "images": []
+        },
+        "b": {
+          "content": "Artéria cerebral anterior",
+          "images": []
+        },
+        "c": {
+          "content": "Artéria cerebral posterior",
+          "images": []
+        },
+        "d": {
+          "content": "Artéria cerebral média",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "id": 11
+      "reference": null
     },
     {
+      "id": 12,
       "type": "multiple_choice",
       "question": "Um homem foi admitido no hospital por instabilidade na marcha. A sensação de pressão e toque (tato protopático), dor (aguda/rápida) e temperatura eram normais. A percepção de vibração, tato epicrítico e a propriocepção consciente estavam ausentes. Quando ele era solicitado a ficar de pé com os olhos fechados, ele oscilava e perdia o equilíbrio (este é o “sinal de Romberg” positivo). A ressonância magnética (RM) de seu cérebro era normal, mas a RM de sua medula espinal mostrava uma lesão. Qual das alternativas abaixo indica o local da lesão?",
-      "options": [
-        "Comissura anterior",
-        "Funículo anterior",
-        "Funículo posterior",
-        "Funículo lateral"
-      ],
-      "correct_answer": "Funículo posterior",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Comissura anterior",
+          "images": []
+        },
+        "b": {
+          "content": "Funículo anterior",
+          "images": []
+        },
+        "c": {
+          "content": "Funículo posterior",
+          "images": []
+        },
+        "d": {
+          "content": "Funículo lateral",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
-      "reference": null,
-      "id": 12
+      "reference": null
     },
     {
+      "id": 13,
       "type": "multiple_choice",
       "question": "Em uma visita ao setor de neurologia, o médico responsável pelo setor decidiu fazer um teste com os alunos antes de passar os casos do dia. Ele apontou uma estrutura encefálica em uma imagem (imagem anexa) e pediu para os alunos discorrerem a respeito da mesma. Assinale a alternativa que apresenta informações corretas a respeito da estrutura em questão.",
-      "options": [
-        "A estrutura apontada trata-se da pirâmide bulbar constituída por feixes de fibras sensitivas (fibras ascendentes).",
-        "A estrutura apontada trata-se da oliva bulbar constituída por feixes de fibras sensitivas (fibras ascendentes).",
-        "A estrutura apontada trata-se da oliva bulbar constituída por feixes de fibras motoras (fibras descendentes).",
-        "A estrutura apontada trata-se da pirâmide bulbar constituída por feixes de fibras motoras (fibras descendentes)."
-      ],
-      "correct_answer": "A estrutura apontada trata-se da pirâmide bulbar constituída por feixes de fibras motoras (fibras descendentes).",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "A estrutura apontada trata-se da pirâmide bulbar constituída por feixes de fibras sensitivas (fibras ascendentes).",
+          "images": []
+        },
+        "b": {
+          "content": "A estrutura apontada trata-se da oliva bulbar constituída por feixes de fibras sensitivas (fibras ascendentes).",
+          "images": []
+        },
+        "c": {
+          "content": "A estrutura apontada trata-se da oliva bulbar constituída por feixes de fibras motoras (fibras descendentes).",
+          "images": []
+        },
+        "d": {
+          "content": "A estrutura apontada trata-se da pirâmide bulbar constituída por feixes de fibras motoras (fibras descendentes).",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "id": 13
+      "reference": null
     },
     {
+      "id": 14,
       "type": "multiple_choice",
       "question": "Um paciente de 52 anos comparece ao consultório relatando dificuldade em lembrar-se de fatos específicos de sua infância, como o nome de sua professora da primeira série e detalhes de uma festa de aniversário na escola. Ele relata que esses episódios, antes vívidos, agora parecem \"apagados\" ou inacessíveis. Durante a consulta, o paciente descreve que não tem dificuldades em realizar tarefas motoras cotidianas. Qual tipo de memória e qual estrutura estão envolvidas nessa situação?",
-      "options": [
-        "Memória de trabalho e córtex pré-frontal",
-        "Memória episódica e hipocampo",
-        "Memória declarativa e córtex pré-frontal",
-        "Memória de trabalho e hipocampo"
-      ],
-      "correct_answer": "Memória episódica e hipocampo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Memória de trabalho e córtex pré-frontal",
+          "images": []
+        },
+        "b": {
+          "content": "Memória episódica e hipocampo",
+          "images": []
+        },
+        "c": {
+          "content": "Memória declarativa e córtex pré-frontal",
+          "images": []
+        },
+        "d": {
+          "content": "Memória de trabalho e hipocampo",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "id": 14
+      "reference": null
     },
     {
+      "id": 15,
       "type": "multiple_choice",
       "question": "Um homem estava tomando um café quando o local foi invadido por assaltantes. Ele sentiu muito medo, sentiu sua frequência cardíaca aumentar e começou a suar. Felizmente os assaltantes foram logo embora, mas o homem ficou se sentindo mal por um longo período e decidiu ir para a casa descansar. Quais estruturas explicam a situação relatada?",
-      "options": [
-        "Amígdala que aumenta o disparo em uma situação relacionada ao medo e suas conexões com o hipotálamo, ativando sistema nervoso autônomo",
-        "Córtex pré-frontal dorsolateral que aumenta o disparo em uma situação relacionada ao medo e suas conexões com o hipotálamo, ativando sistema nervoso autônomo",
-        "Córtex pré-frontal dorsolateral que aumenta o disparo em uma situação relacionada ao medo e suas conexões com o córtex insular posterior para tomada de decisão",
-        "Amígdala que aumenta o disparo em uma situação relacionada ao medo e suas conexões com o córtex insular posterior para tomada de decisão"
-      ],
-      "correct_answer": "Amígdala que aumenta o disparo em uma situação relacionada ao medo e suas conexões com o hipotálamo, ativando sistema nervoso autônomo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Amígdala que aumenta o disparo em uma situação relacionada ao medo e suas conexões com o hipotálamo, ativando sistema nervoso autônomo",
+          "images": []
+        },
+        "b": {
+          "content": "Córtex pré-frontal dorsolateral que aumenta o disparo em uma situação relacionada ao medo e suas conexões com o hipotálamo, ativando sistema nervoso autônomo",
+          "images": []
+        },
+        "c": {
+          "content": "Córtex pré-frontal dorsolateral que aumenta o disparo em uma situação relacionada ao medo e suas conexões com o córtex insular posterior para tomada de decisão",
+          "images": []
+        },
+        "d": {
+          "content": "Amígdala que aumenta o disparo em uma situação relacionada ao medo e suas conexões com o córtex insular posterior para tomada de decisão",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 15
+      "reference": null
     },
     {
+      "id": 16,
       "type": "multiple_choice",
       "question": "Paciente vítima de acidente automobilístico com capotamento, apresenta perda de movimento e sensibilidade. Ao exame físico, identifica-se paresia (fraqueza muscular) no membro inferior esquerdo, não se observa alterações em musculatura axial. Exames de imagem mostraram fratura de vértebra com compressão medular. Em relação à motricidade, quais fibras foram acometidas?",
-      "options": [
-        "Fibras do funículo lateral direito",
-        "Fibras do funículo anterior esquerdo",
-        "Fibras do funículo lateral esquerdo",
-        "Fibras do funículo anterior direito"
-      ],
-      "correct_answer": "Fibras do funículo lateral esquerdo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Fibras do funículo lateral direito",
+          "images": []
+        },
+        "b": {
+          "content": "Fibras do funículo anterior esquerdo",
+          "images": []
+        },
+        "c": {
+          "content": "Fibras do funículo lateral esquerdo",
+          "images": []
+        },
+        "d": {
+          "content": "Fibras do funículo anterior direito",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
-      "reference": null,
-      "id": 16
+      "reference": null
     },
     {
+      "id": 17,
       "type": "multiple_choice",
       "question": "Durante avaliação do reflexo fotomotor o neurologista observou que a pupila esquerda não reagia com miose independentemente do olho estimulado com o feixe de luz da lanterna. Ou seja, quando a luz era direcionada para o olho esquerdo, apenas o olho direito respondia com miose. E quando a luz era direcionada para o olho direito, também apenas o olho direito respondia com miose. Qual a conclusão do médico?",
-      "options": [
-        "Lesão da via eferente do reflexo (n. oculomotor - III par) do olho esquerdo",
-        "Lesão da via aferente do reflexo (n. óptico - II par) do olho esquerdo",
-        "Lesão da via aferente do reflexo (n. óptico - II par) do olho direito",
-        "Lesão da via eferente do reflexo (n. oculomotor - III par) do olho direito"
-      ],
-      "correct_answer": "Lesão da via eferente do reflexo (n. oculomotor - III par) do olho esquerdo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Lesão da via eferente do reflexo (n. oculomotor - III par) do olho esquerdo",
+          "images": []
+        },
+        "b": {
+          "content": "Lesão da via aferente do reflexo (n. óptico - II par) do olho esquerdo",
+          "images": []
+        },
+        "c": {
+          "content": "Lesão da via aferente do reflexo (n. óptico - II par) do olho direito",
+          "images": []
+        },
+        "d": {
+          "content": "Lesão da via eferente do reflexo (n. oculomotor - III par) do olho direito",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 17
+      "reference": null
     },
     {
+      "id": 18,
       "type": "multiple_choice",
       "question": "Um homem de 32 anos apresenta dor no olho direito há 3 dias, vermelhidão, fotofobia e diminuição progressiva da visão. Ele se queixa de secreção amarelada e um leve edema na pálpebra direita. O paciente é usuário de lentes de contato e, depois de questões adicionais, admite ter adormecido e usado as lentes de contato por toda a noite há 4 dias, enquanto estudava para sua prova na faculdade. Após exames clínicos, o médico chegou ao diagnóstico de ceratite bacteriana. Considerando que, a ceratite trata-se de uma inflamação na córnea, qual a túnica/camada do bulbo do olho foi afetada?",
-      "options": [
-        "Túnica fibrosa",
-        "Túnica interna",
-        "Túnica vascular",
-        "Túnica nervosa"
-      ],
-      "correct_answer": "Túnica fibrosa",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Túnica fibrosa",
+          "images": []
+        },
+        "b": {
+          "content": "Túnica interna",
+          "images": []
+        },
+        "c": {
+          "content": "Túnica vascular",
+          "images": []
+        },
+        "d": {
+          "content": "Túnica nervosa",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 18
+      "reference": null
     },
     {
+      "id": 19,
       "type": "multiple_choice",
       "question": "Paciente L.M., 50 anos, nos últimos dias começou a apresentar tonturas intensas, náuseas e desequilíbrio após realizar movimentos rotacionais da cabeça, como virar-se na cama ou mesmo olhar para os lados quando alguém chama. O médico neurologista desconfiou de disfunção do sistema vestibular, mas realizou alguns testes para confirmar que não havia alteração cerebelar. (1) Qual estrutura do sistema vestibular pode estar alterada neste caso, e (2) qual divisão funcional do cerebelo tem relação com esta estrutura?",
-      "options": [
-        "(1) canais semicirculares; (2) cerebrocerebelo",
-        "(1) órgãos otolíticos; (2) cerebrocerebelo",
-        "(1) órgãos otolíticos; (2) vestibulocerebelo",
-        "(1) canais semicirculares; (2) vestibulocerebelo"
-      ],
-      "correct_answer": "(1) canais semicirculares; (2) vestibulocerebelo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "(1) canais semicirculares; (2) cerebrocerebelo",
+          "images": []
+        },
+        "b": {
+          "content": "(1) órgãos otolíticos; (2) cerebrocerebelo",
+          "images": []
+        },
+        "c": {
+          "content": "(1) órgãos otolíticos; (2) vestibulocerebelo",
+          "images": []
+        },
+        "d": {
+          "content": "(1) canais semicirculares; (2) vestibulocerebelo",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "id": 19
+      "reference": null
     },
     {
+      "id": 20,
       "type": "multiple_choice",
       "question": "Um paciente comparece ao consultório médico queixando-se de um tremor involuntário nos momentos em que está em repouso. O exame físico mostrou além do tremor de repouso, bradicinesia (lentificação de movimentos). O diagnóstico foi de doença de Parkinson, uma patologia que cursa com a morte de neurônios dopaminérgicos da substância negra. Por que o paciente apresenta bradicinesia?",
-      "options": [
-        "Pois a dopamina reduz a atividade da via direta e aumenta a atividade da via indireta, assim, com a falta deste neurotransmissor, a atividade da via direta estará aumentada e da via indireta reduzida.",
-        "Pois com a falta de dopamina da via mesolímbica a atividade da via direta estará aumentada e da via indireta reduzida.",
-        "Pois a dopamina aumenta a atividade da via direta e reduz a atividade da via indireta, assim, com a falta deste neurotransmissor, a atividade da via direta estará reduzida e da via indireta aumentada.",
-        "Pois com a falta de dopamina da via mesolímbica a atividade da via direta estará reduzida e da via indireta aumentada."
-      ],
-      "correct_answer": "Pois a dopamina aumenta a atividade da via direta e reduz a atividade da via indireta, assim, com a falta deste neurotransmissor, a atividade da via direta estará reduzida e da via indireta aumentada.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Pois a dopamina reduz a atividade da via direta e aumenta a atividade da via indireta, assim, com a falta deste neurotransmissor, a atividade da via direta estará aumentada e da via indireta reduzida.",
+          "images": []
+        },
+        "b": {
+          "content": "Pois com a falta de dopamina da via mesolímbica a atividade da via direta estará aumentada e da via indireta reduzida.",
+          "images": []
+        },
+        "c": {
+          "content": "Pois a dopamina aumenta a atividade da via direta e reduz a atividade da via indireta, assim, com a falta deste neurotransmissor, a atividade da via direta estará reduzida e da via indireta aumentada.",
+          "images": []
+        },
+        "d": {
+          "content": "Pois com a falta de dopamina da via mesolímbica a atividade da via direta estará reduzida e da via indireta aumentada.",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
-      "reference": null,
-      "id": 20
+      "reference": null
     },
     {
+      "id": 21,
       "type": "free_response",
       "question": "Qual o nervo da via eferente do reflexo testado?",
+      "images": [],
       "correct_answer": "VII par - facial",
       "explanation": "Padrão da correção: 100% da pontuação para n. facial ou VII",
-      "reference": "Bibliografia: Machado A. (2022). Neuroanatomia funcional. 4ª edição. Atheneu. Capítulo 17",
-      "id": 21
+      "reference": "Bibliografia: Machado A. (2022). Neuroanatomia funcional. 4ª edição. Atheneu. Capítulo 17"
     },
     {
+      "id": 22,
       "type": "free_response",
       "question": "Explique a relação entre as fibras provenientes do córtex motor e a inervação da porção da face paralisada.",
+      "images": [],
       "correct_answer": "Os quadrantes inferiores da face recebem fibras contralaterais do córtex cerebral.",
       "explanation": "Padrão de correção: a porção da face paralisada recebe fibras contralaterais do córtex cerebral - 100% da pontuação Quadrante inferior é controlado por fibras de apenas um dos hemisférios. Desde que não tenha escrito que as fibras que inervam a porção superior é contralateral ou homolateral - 50% da pontuação Fibras são contralaterais, sem especificar qual quadrante da face elas irão inervar - 0% da pontuação",
-      "reference": "Bibliografia: Machado A. Neuroanatomia funcional. 4ºed. Atheneu, 2022. Capítulo 30 Questão 3",
-      "id": 22
+      "reference": "Bibliografia: Machado A. Neuroanatomia funcional. 4ºed. Atheneu, 2022. Capítulo 30 Questão 3"
     },
     {
+      "id": 23,
       "type": "free_response",
       "question": "O paciente apresentou lesão de motoneurônio superior (localizado inteiramente no sistema nervoso central) ou do motoneurônio alfa (motoneurônio inferior)? Cite dois elementos do caso clínico que explicam a sua resposta.",
+      "images": [],
       "correct_answer": "motoneurônio superior. Hiperreflexia, hipertonia, paresia, lesão da cápsula interna, piscar com ambos os olhos ou fraqueza do quadrante inferior da face",
       "explanation": "Padrão da correção: 40% da pontuação para motoneurônio superior. 30% da pontuação para cada um dos elementos citados: hiperreflexia, hipertonia, paresia, lesão da cápsula interna, piscar com ambos os olhos ou fraqueza do quadrante inferior da face. São necessários dois elementos citados corretamente para a pontuação total. Afasia/dificuldade de de fala não foi considerado como justificativa. Isso não indica lesão de motoneurônio superior Caso o aluno tenha escrito lesão de motoneurônio inferior a resposta será zerada mesmo com os elementos do gabarito como hiperreflexia e hipertonia. Informações erradas tem pontuação descontada.",
-      "reference": "Bibliografia: Bear, MF. Neurociências. 4ª edição. Grupo A, 2017. Capítulo 13 Machado A. Neuroanatomia funcional. 4ºed. Atheneu, 2022. Capítulo 30 Questão 4",
-      "id": 23
+      "reference": "Bibliografia: Bear, MF. Neurociências. 4ª edição. Grupo A, 2017. Capítulo 13 Machado A. Neuroanatomia funcional. 4ºed. Atheneu, 2022. Capítulo 30 Questão 4"
     },
     {
+      "id": 24,
       "type": "free_response",
       "question": "A afasia apresentada pelo paciente indica lesão em qual giro (indique também a lateralidade)? Não será aceita resposta com apenas a lateralidade correta.",
+      "images": [],
       "correct_answer": "giro frontal inferior esquerdo",
       "explanation": "Padrão de correção: giro frontal inferior esquerdo -100% da pontuação giro frontal inferior com o lado errado ou sem o lado - 50% da pontuação giro errado, mesmo com o lado certo - 0 pontos Foi considerado giro correto (50% da pontuação) caso o aluno tenha escrito área de Broca, desde que não tenha acrescentado o nome de um giro errado Bibliografia: Machado, A. Neuroanatomia funcional. 4ªed. São Paulo: Atheneu, 2022.Cap. 26 Caso Clínico 2 75 de 200 pontos Um paciente é levado ao neurologista por não conseguir andar com facilidade. Apresenta no exame físico uma base alargada e ataxia (incoordenação) de musculatura axial e distal. Exame físico: Avaliação da sensibilidade: as sensibilidades de tato protopático, pressão, dor (rápida) e temperatura estavam preservadas. Avaliação do reflexo miotático: o médico avaliou o reflexo patelar realizando um estímulo no tendão com o martelo de reflexo, observando contração muito leve do músculo quadríceps. Conclusão: hiporreflexia Avaliação do tônus muscular: hipotonia Ataxia de músculos axiais e distais Após realizar testes genéticos, o diagnóstico foi de ataxia de Friedreich, uma ataxia progressiva, que compromete o espinocerebelo. Questão 1",
-      "reference": null,
-      "id": 24
+      "reference": null
     },
     {
+      "id": 25,
       "type": "free_response",
       "question": "Durante a avaliação da sensibilidade, o médico testou as vias aferentes de quais funículos?",
+      "images": [],
       "correct_answer": "funículo anterior e lateral",
       "explanation": "Padrão de correção: funículo anterior (50% da pontuação). Funículo lateral (50% da pontuação). Resposta errada será descontada pontuação. Bibliografia:Machado, A. Neuroanatomia funcional. 4ª edição, 2022. Cap. 29. Questão 2",
-      "reference": null,
-      "id": 25
+      "reference": null
     },
     {
+      "id": 26,
       "type": "free_response",
       "question": "Durante a avaliação do reflexo, qual receptor foi responsável por desencadear o reflexo?",
+      "images": [],
       "correct_answer": "fuso muscular",
       "explanation": "Padrão de correção: fuso muscular - 100% da pontuação Bibliografia: Bear, MF. Neurociências. 4ª edição. Grupo A, 2017. Capítulo 13 Questão 3",
-      "reference": null,
-      "id": 26
+      "reference": null
     },
     {
+      "id": 27,
       "type": "free_response",
       "question": "Qual a aferência da porção do cerebelo acometida no caso?",
+      "images": [],
       "correct_answer": "tratos espinocerebelares ou via da propriocepção inconsciente",
       "explanation": "Padrão de correção: tratos espinocerebelares ou via da propriocepção inconsciente - 100% da pontuação Bibliografia: Machado, A. Neuroanatomia funcional. 4ª edição, 2022. Cap. 29. Questão 4",
-      "reference": null,
-      "id": 27
+      "reference": null
     },
     {
+      "id": 28,
       "type": "free_response",
       "question": "Quais as porções anatômicas do cerebelo acometidas no caso?",
+      "images": [],
       "correct_answer": "zona medial (ou verme) e zona intermédia (ou paraverminiana)",
       "explanation": "Padrão de correção: zona medial (ou verme) e zona intermédia (ou paraverminiana) - 100% da pontuação Bibliografia: Lent R. Cem bilhões de neurônios: conceitos fundamentais de neurociências. 2 ed. (Capítulo 12).",
-      "reference": null,
-      "id": 28
+      "reference": null
     }
   ]
 }

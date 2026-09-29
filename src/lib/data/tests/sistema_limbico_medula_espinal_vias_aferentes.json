@@ -11,13 +11,26 @@
       "id": 1,
       "type": "multiple_choice",
       "question": "Paciente era um comerciante de sucesso, costumava tomar ótimas decisões, conseguindo ganhar muito dinheiro. Após lesão em uma estrutura do sistema límbico passou a perder todo o seu dinheiro, pois não conseguia mais tomar decisões adequadamente. Qual estrutura é essa?",
-      "options": [
-        "hipocampo",
-        "córtex orbitofrontal",
-        "habênula",
-        "amígdala"
-      ],
-      "correct_answer": "córtex orbitofrontal",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "hipocampo",
+          "images": []
+        },
+        "b": {
+          "content": "córtex orbitofrontal",
+          "images": []
+        },
+        "c": {
+          "content": "habênula",
+          "images": []
+        },
+        "d": {
+          "content": "amígdala",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -25,13 +38,26 @@
       "id": 2,
       "type": "multiple_choice",
       "question": "O sistema de recompensa é formado por estruturas como a área tegmentar ventral. Assinale a alternativa correta sobre ela:",
-      "options": [
-        "faz parte do sistema límbico e se localiza no mesencéfalo",
-        "localiza-se na ponte e seus neurônios são dopaminérgicos",
-        "seus neurônios são colinérgicos e se projetam para córtex orbitofrontal",
-        "localiza-se no mesencéfalo e seus neurônios se projetam para núcleo accumbens e área septal"
-      ],
-      "correct_answer": "localiza-se no mesencéfalo e seus neurônios se projetam para núcleo accumbens e área septal",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "faz parte do sistema límbico e se localiza no mesencéfalo",
+          "images": []
+        },
+        "b": {
+          "content": "localiza-se na ponte e seus neurônios são dopaminérgicos",
+          "images": []
+        },
+        "c": {
+          "content": "seus neurônios são colinérgicos e se projetam para córtex orbitofrontal",
+          "images": []
+        },
+        "d": {
+          "content": "localiza-se no mesencéfalo e seus neurônios se projetam para núcleo accumbens e área septal",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
       "reference": null
     },
@@ -39,13 +65,26 @@
       "id": 3,
       "type": "multiple_choice",
       "question": "Um homem de 28 anos, com histórico de dependência química em cocaína, apresenta-se em abstinência. Ele descreve que atividades anteriormente prazerosas, como comer ou socializar, não geram mais satisfação. Qual é a principal via dopaminérgica afetada e qual estrutura projeta-se diretamente para o núcleo accumbens nesta via?",
-      "options": [
-        "Via Mesocortical; Locus coeruleus",
-        "Via Mesolímbica; Área tegmentar ventral",
-        "Via Nigroestriatal; Substância negra pars compacta",
-        "Via Tuberoinfundibular; Hipotálamo ventral"
-      ],
-      "correct_answer": "Via Mesolímbica; Área tegmentar ventral",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Via Mesocortical; Locus coeruleus",
+          "images": []
+        },
+        "b": {
+          "content": "Via Mesolímbica; Área tegmentar ventral",
+          "images": []
+        },
+        "c": {
+          "content": "Via Nigroestriatal; Substância negra pars compacta",
+          "images": []
+        },
+        "d": {
+          "content": "Via Tuberoinfundibular; Hipotálamo ventral",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -53,13 +92,26 @@
       "id": 4,
       "type": "multiple_choice",
       "question": "Paciente apresenta depressão grave, resistente a tratamentos, desmotivação acentuada, e dificuldade em experimentar prazer em situações cotidianas. Paciente relata que se sente sempre frustrado e chateado. O médico estudou que o excesso de ativação de uma estrutura do sistema límbico pode levar aos sintomas relatados. Qual estrutura é essa?",
-      "options": [
-        "área tegmentar ventral",
-        "área septal",
-        "núcleo accumbens",
-        "habênula"
-      ],
-      "correct_answer": "habênula",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "área tegmentar ventral",
+          "images": []
+        },
+        "b": {
+          "content": "área septal",
+          "images": []
+        },
+        "c": {
+          "content": "núcleo accumbens",
+          "images": []
+        },
+        "d": {
+          "content": "habênula",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
       "reference": null
     },
@@ -67,13 +119,26 @@
       "id": 5,
       "type": "multiple_choice",
       "question": "Paciente, sexo masculino, 45 anos, apresenta-se ao pronto-socorro com intensa taquicardia e aumento de frequência respiratória. O paciente relata sensação de sufocamento e que sua ansiedade vem aumentando nos últimos meses. Considerando que transtornos de ansiedade podem cursar com aumento da atividade da amígdala (corpo amigdaloide), assinale a alternativa que explica os sintomas descritos:",
-      "options": [
-        "aumento da atividade do sistema nervoso autônomo, pois a amígdala ativa esse sistema (via hipotálamo)",
-        "diminuição da liberação de cortisol, pois a amígdala regula os níveis desse hormônio",
-        "diminuição da liberação de dopamina, pois a amígdala faz parte do sistema de recompensa",
-        "aumento da liberação de cortisol, pois o hipocampo aumenta a liberação desse hormônio"
-      ],
-      "correct_answer": "aumento da atividade do sistema nervoso autônomo, pois a amígdala ativa esse sistema (via hipotálamo)",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "aumento da atividade do sistema nervoso autônomo, pois a amígdala ativa esse sistema (via hipotálamo)",
+          "images": []
+        },
+        "b": {
+          "content": "diminuição da liberação de cortisol, pois a amígdala regula os níveis desse hormônio",
+          "images": []
+        },
+        "c": {
+          "content": "diminuição da liberação de dopamina, pois a amígdala faz parte do sistema de recompensa",
+          "images": []
+        },
+        "d": {
+          "content": "aumento da liberação de cortisol, pois o hipocampo aumenta a liberação desse hormônio",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -81,13 +146,26 @@
       "id": 6,
       "type": "multiple_choice",
       "question": "Uma paciente apresenta uma rara condição genética que resultou na calcificação bilateral simétrica de suas estruturas temporais mediais profundas. Em testes comportamentais, ela demonstra incapacidade de reconhecer expressões de medo em faces de terceiros e não apresenta respostas autonômicas (como sudorese ou taquicardia) diante de estímulos classicamente ameaçadores. Qual estrutura anatômica foi primordialmente afetada?",
-      "options": [
-        "amígdala",
-        "accumbens",
-        "área tegmentar ventral",
-        "habênula"
-      ],
-      "correct_answer": "amígdala",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "amígdala",
+          "images": []
+        },
+        "b": {
+          "content": "accumbens",
+          "images": []
+        },
+        "c": {
+          "content": "área tegmentar ventral",
+          "images": []
+        },
+        "d": {
+          "content": "habênula",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -95,13 +173,26 @@
       "id": 7,
       "type": "multiple_choice",
       "question": "Qual das vias aferentes está esquematizada na figura?",
-      "options": [
-        "via da dor lenta",
-        "via da pressão e tato protopático",
-        "via da dor rápida e temperatura",
-        "via da propriocepção consciente, sensibilidade vibratória e tato epicrítico"
-      ],
-      "correct_answer": "via da propriocepção consciente, sensibilidade vibratória e tato epicrítico",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "via da dor lenta",
+          "images": []
+        },
+        "b": {
+          "content": "via da pressão e tato protopático",
+          "images": []
+        },
+        "c": {
+          "content": "via da dor rápida e temperatura",
+          "images": []
+        },
+        "d": {
+          "content": "via da propriocepção consciente, sensibilidade vibratória e tato epicrítico",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
       "reference": null
     },
@@ -109,13 +200,26 @@
       "id": 8,
       "type": "multiple_choice",
       "question": "Qual das vias aferentes está esquematizada na figura?",
-      "options": [
-        "via da pressão e tato protopático",
-        "via da propriocepção consciente, sensibilidade vibratória e tato epicrítico",
-        "via da dor lenta",
-        "via da dor rápida e temperatura"
-      ],
-      "correct_answer": "via da dor rápida e temperatura",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "via da pressão e tato protopático",
+          "images": []
+        },
+        "b": {
+          "content": "via da propriocepção consciente, sensibilidade vibratória e tato epicrítico",
+          "images": []
+        },
+        "c": {
+          "content": "via da dor lenta",
+          "images": []
+        },
+        "d": {
+          "content": "via da dor rápida e temperatura",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
       "reference": null
     },
@@ -123,13 +227,26 @@
       "id": 9,
       "type": "multiple_choice",
       "question": "Paciente com história de agressão por arma branca (um facão) na região supraclavicular esquerda, o qual provocou uma lesão em funículo lateral, anterior e posterior. Qual das sensibilidades foram perdidas do mesmo lado (ipsilateral/homolateral) da lesão?",
-      "options": [
-        "via da pressão e tato protopático",
-        "via da dor lenta",
-        "via da propriocepção consciente, sensibilidade vibratória e tato epicrítico",
-        "via da dor rápida e temperatura"
-      ],
-      "correct_answer": "via da propriocepção consciente, sensibilidade vibratória e tato epicrítico",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "via da pressão e tato protopático",
+          "images": []
+        },
+        "b": {
+          "content": "via da dor lenta",
+          "images": []
+        },
+        "c": {
+          "content": "via da propriocepção consciente, sensibilidade vibratória e tato epicrítico",
+          "images": []
+        },
+        "d": {
+          "content": "via da dor rápida e temperatura",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
       "reference": null
     },
@@ -137,11 +254,18 @@
       "id": 10,
       "type": "multiple_choice",
       "question": "Considerando o mesmo caso da questão anterior: Paciente com história de agressão por arma branca (um facão) na região supraclavicular esquerda, o qual provocou uma lesão em funículo lateral, anterior e posterior. Qual das sensibilidades foram perdidas do lado oposto (contralateral) ao da lesão?",
-      "options": [
-        "via da propriocepção consciente, sensibilidade vibratória e tato epicrítico",
-        "via da pressão e tato protopático e via da dor rápida e temperatura"
-      ],
-      "correct_answer": "via da pressão e tato protopático e via da dor rápida e temperatura",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "via da propriocepção consciente, sensibilidade vibratória e tato epicrítico",
+          "images": []
+        },
+        "b": {
+          "content": "via da pressão e tato protopático e via da dor rápida e temperatura",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -149,13 +273,26 @@
       "id": 11,
       "type": "multiple_choice",
       "question": "Os tratos espinocerebelares anterior e posterior são responsáveis por qual sensibilidade? E qual é a área de projeção (destino) desta via?",
-      "options": [
-        "propriocepção inconsciente; córtex cerebelar",
-        "propriocepção inconsciente; tálamo",
-        "propriocepção consciente; córtex cerebelar",
-        "propriocepção consciente; córtex somestésico primário"
-      ],
-      "correct_answer": "propriocepção inconsciente; córtex cerebelar",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "propriocepção inconsciente; córtex cerebelar",
+          "images": []
+        },
+        "b": {
+          "content": "propriocepção inconsciente; tálamo",
+          "images": []
+        },
+        "c": {
+          "content": "propriocepção consciente; córtex cerebelar",
+          "images": []
+        },
+        "d": {
+          "content": "propriocepção consciente; córtex somestésico primário",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -163,13 +300,26 @@
       "id": 12,
       "type": "multiple_choice",
       "question": "Paciente com histórico de hipertensão, foi internado devido a um acidente vascular cerebral (AVC). Durante o exame neurológico, o médico detectou alteração de propriocepção consciente, sensibilidade vibratória e tato epicrítico do lado oposto à lesão. Considerando que a lesão ocorreu no córtex somestésico primário, por que os sintomas foram contralaterais?",
-      "options": [
-        "pois as fibras da via avaliada cruzam no núcleo ventral posterolateral do tálamo",
-        "pois as fibras da via avaliada cruzam no lemnisco espinal após a ponte",
-        "pois as fibras da via avaliada formam as fibras arqueadas internas, cruzando no bulbo",
-        "pois as fibras da via avaliada cruzam na comissura branca da medula espinal"
-      ],
-      "correct_answer": "pois as fibras da via avaliada formam as fibras arqueadas internas, cruzando no bulbo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "pois as fibras da via avaliada cruzam no núcleo ventral posterolateral do tálamo",
+          "images": []
+        },
+        "b": {
+          "content": "pois as fibras da via avaliada cruzam no lemnisco espinal após a ponte",
+          "images": []
+        },
+        "c": {
+          "content": "pois as fibras da via avaliada formam as fibras arqueadas internas, cruzando no bulbo",
+          "images": []
+        },
+        "d": {
+          "content": "pois as fibras da via avaliada cruzam na comissura branca da medula espinal",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
       "reference": null
     },
@@ -177,13 +327,26 @@
       "id": 13,
       "type": "multiple_choice",
       "question": "O processo espinhoso da vértebra T4 corresponde a altura aproximada de qual segmento medular?",
-      "options": [
-        "T6",
-        "T2",
-        "C7",
-        "T4"
-      ],
-      "correct_answer": "T6",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "T6",
+          "images": []
+        },
+        "b": {
+          "content": "T2",
+          "images": []
+        },
+        "c": {
+          "content": "C7",
+          "images": []
+        },
+        "d": {
+          "content": "T4",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -191,13 +354,26 @@
       "id": 14,
       "type": "multiple_choice",
       "question": "O nervo espinal T8 emerge por baixo de qual vértebra?",
-      "options": [
-        "T9",
-        "T8",
-        "T10",
-        "T7"
-      ],
-      "correct_answer": "T8",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "T9",
+          "images": []
+        },
+        "b": {
+          "content": "T8",
+          "images": []
+        },
+        "c": {
+          "content": "T10",
+          "images": []
+        },
+        "d": {
+          "content": "T7",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -205,13 +381,26 @@
       "id": 15,
       "type": "multiple_choice",
       "question": "Paciente estava dirigindo em alta velocidade quando perdeu o controle do veículo e colidiu com uma árvore. Ele apresentou fratura isolada do processo espinhoso da vértebra C3. Até qual segmento medular pode ter prejudicado?",
-      "options": [
-        "T1",
-        "C7",
-        "C5",
-        "C1"
-      ],
-      "correct_answer": "C5",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "T1",
+          "images": []
+        },
+        "b": {
+          "content": "C7",
+          "images": []
+        },
+        "c": {
+          "content": "C5",
+          "images": []
+        },
+        "d": {
+          "content": "C1",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
       "reference": null
     },
@@ -219,13 +408,26 @@
       "id": 16,
       "type": "multiple_choice",
       "question": "Paciente comparece ao consultório médico queixando-se de lesões dolorosas conforme a figura 1. Possui histórico de varicela na infância. O diagnóstico foi de herpes-zoster. Compare o local da lesão (figura 1) com o mapa de dermátomos (figura 2) e explique o porquê desta lesão tão bem delimitada.",
-      "options": [
-        "a área da pele acometida é inervada por fibras provenientes apenas do funículo anterior",
-        "a área da pele acometida é inervada por fibras provenientes de uma mesma raiz dorsal",
-        "a área da pele acometida é inervada por fibras provenientes apenas do funículo lateral",
-        "a área da pele acometida é inervada por fibras provenientes apenas do funículo posterior"
-      ],
-      "correct_answer": "a área da pele acometida é inervada por fibras provenientes de uma mesma raiz dorsal",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "a área da pele acometida é inervada por fibras provenientes apenas do funículo anterior",
+          "images": []
+        },
+        "b": {
+          "content": "a área da pele acometida é inervada por fibras provenientes de uma mesma raiz dorsal",
+          "images": []
+        },
+        "c": {
+          "content": "a área da pele acometida é inervada por fibras provenientes apenas do funículo lateral",
+          "images": []
+        },
+        "d": {
+          "content": "a área da pele acometida é inervada por fibras provenientes apenas do funículo posterior",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -233,13 +435,26 @@
       "id": 17,
       "type": "multiple_choice",
       "question": "O que está apontado em A?",
-      "options": [
-        "fascículo grácil",
-        "trato espinotalâmico",
-        "funículo lateral",
-        "fascículo cuneiforme"
-      ],
-      "correct_answer": "fascículo grácil",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "fascículo grácil",
+          "images": []
+        },
+        "b": {
+          "content": "trato espinotalâmico",
+          "images": []
+        },
+        "c": {
+          "content": "funículo lateral",
+          "images": []
+        },
+        "d": {
+          "content": "fascículo cuneiforme",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -247,13 +462,26 @@
       "id": 18,
       "type": "multiple_choice",
       "question": "O que está apontado em A?",
-      "options": [
-        "funículo lateral",
-        "fascículo grácil",
-        "fascículo cuneiforme",
-        "trato espinotalâmico anterior"
-      ],
-      "correct_answer": "funículo lateral",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "funículo lateral",
+          "images": []
+        },
+        "b": {
+          "content": "fascículo grácil",
+          "images": []
+        },
+        "c": {
+          "content": "fascículo cuneiforme",
+          "images": []
+        },
+        "d": {
+          "content": "trato espinotalâmico anterior",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -261,13 +489,26 @@
       "id": 19,
       "type": "multiple_choice",
       "question": "Paciente do sexo masculino, 25 anos, comparece à emergência com queixa de febre alta, dor de cabeça intensa e rigidez na nuca, com evolução de 48 horas. O paciente foi submetido a um procedimento médico invasivo na região de sua coluna lombar. Em tal procedimento uma agulha foi inserida entre os processos espinhosos das vértebras L3 e L4, atravessando respectivamente as seguintes estruturas anatômicas: pele → tela subcutânea → lig. supraespinal → lig. interespinal → lig. amarelo → gordura epidural → dura-máter e aracnóide-máter. Assinale a alternativa que contempla o espaço anatômico no qual a agulha foi inserida.",
-      "options": [
-        "Espaço subaracnóideo",
-        "Espaço subdural",
-        "Espaço epidural",
-        "Espaço extradural"
-      ],
-      "correct_answer": "Espaço subaracnóideo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Espaço subaracnóideo",
+          "images": []
+        },
+        "b": {
+          "content": "Espaço subdural",
+          "images": []
+        },
+        "c": {
+          "content": "Espaço epidural",
+          "images": []
+        },
+        "d": {
+          "content": "Espaço extradural",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -275,13 +516,26 @@
       "id": 20,
       "type": "multiple_choice",
       "question": "Foi realizado coleta do líquor para um paciente com suspeita de meningite. Para isso, inseriu a agulha entre as vértebras L3 e L4. Qual o espaço que o médico atingiu para a realização da coleta do líquor? E por que o médico realizou o procedimento entre as vértebras L3 e L4?",
-      "options": [
-        "espaço epidural; pois a medula espinal termina aproximadamente na altura da vértebra L2",
-        "espaço epidural; pois a medula espinal termina aproximadamente na altura da vértebra L4",
-        "espaço subaracnóideo; pois a medula espinal termina aproximadamente na altura da vértebra L4",
-        "espaço subaracnóideo; pois a medula espinal termina aproximadamente na altura da vértebra L2"
-      ],
-      "correct_answer": "espaço subaracnóideo; pois a medula espinal termina aproximadamente na altura da vértebra L2",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "espaço epidural; pois a medula espinal termina aproximadamente na altura da vértebra L2",
+          "images": []
+        },
+        "b": {
+          "content": "espaço epidural; pois a medula espinal termina aproximadamente na altura da vértebra L4",
+          "images": []
+        },
+        "c": {
+          "content": "espaço subaracnóideo; pois a medula espinal termina aproximadamente na altura da vértebra L4",
+          "images": []
+        },
+        "d": {
+          "content": "espaço subaracnóideo; pois a medula espinal termina aproximadamente na altura da vértebra L2",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
       "reference": null
     }

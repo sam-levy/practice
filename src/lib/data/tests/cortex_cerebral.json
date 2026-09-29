@@ -8,144 +8,274 @@
   ],
   "questions": [
     {
+      "id": 1,
       "type": "multiple_choice",
       "question": "As células piramidais são predominantes nas camadas corticais:",
-      "options": [
-        "III e V",
-        "I e VI",
-        "I e II",
-        "II e IV"
-      ],
-      "correct_answer": "III e V",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "III e V",
+          "images": []
+        },
+        "b": {
+          "content": "I e VI",
+          "images": []
+        },
+        "c": {
+          "content": "I e II",
+          "images": []
+        },
+        "d": {
+          "content": "II e IV",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 1
+      "reference": null
     },
     {
+      "id": 2,
       "type": "multiple_choice",
       "question": "O arquicórtex está localizado no:",
-      "options": [
-        "hipocampo",
-        "giro para hipocampal",
-        "hipófise",
-        "hipotálamo"
-      ],
-      "correct_answer": "hipocampo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "hipocampo",
+          "images": []
+        },
+        "b": {
+          "content": "giro para hipocampal",
+          "images": []
+        },
+        "c": {
+          "content": "hipófise",
+          "images": []
+        },
+        "d": {
+          "content": "hipotálamo",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 2
+      "reference": null
     },
     {
+      "id": 3,
       "type": "multiple_choice",
       "question": "As áreas sensitivas do córtex apresentam:",
-      "options": [
-        "isocórtex heterotípico granular",
-        "isocórtex homotípico",
-        "isocórtex heterotípico agranular",
-        "alocórtex"
-      ],
-      "correct_answer": "isocórtex heterotípico granular",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "isocórtex heterotípico granular",
+          "images": []
+        },
+        "b": {
+          "content": "isocórtex homotípico",
+          "images": []
+        },
+        "c": {
+          "content": "isocórtex heterotípico agranular",
+          "images": []
+        },
+        "d": {
+          "content": "alocórtex",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 3
+      "reference": null
     },
     {
+      "id": 4,
       "type": "multiple_choice",
       "question": "As áreas unimodais do córtex são denominadas de:",
-      "options": [
-        "apenas áreas secundárias",
-        "áreas secundárias e terciárias",
-        "áreas primárias e terciárias",
-        "áreas primárias e secundárias"
-      ],
-      "correct_answer": "áreas primárias e secundárias",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "apenas áreas secundárias",
+          "images": []
+        },
+        "b": {
+          "content": "áreas secundárias e terciárias",
+          "images": []
+        },
+        "c": {
+          "content": "áreas primárias e terciárias",
+          "images": []
+        },
+        "d": {
+          "content": "áreas primárias e secundárias",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "id": 4
+      "reference": null
     },
     {
+      "id": 5,
       "type": "multiple_choice",
       "question": "A área primária somestésica (sensitiva) está localizada no:",
-      "options": [
-        "giro pré-central",
-        "giro pós-central",
-        "giro frontal superior",
-        "giro temporal superior"
-      ],
-      "correct_answer": "giro pós-central",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "giro pré-central",
+          "images": []
+        },
+        "b": {
+          "content": "giro pós-central",
+          "images": []
+        },
+        "c": {
+          "content": "giro frontal superior",
+          "images": []
+        },
+        "d": {
+          "content": "giro temporal superior",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "id": 5
+      "reference": null
     },
     {
+      "id": 6,
       "type": "multiple_choice",
       "question": "Nas margens do sulco calcarino podemos localizar a área:",
-      "options": [
-        "visual primária",
-        "auditiva secundária",
-        "visual secundária",
-        "auditiva primária"
-      ],
-      "correct_answer": "visual primária",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "visual primária",
+          "images": []
+        },
+        "b": {
+          "content": "auditiva secundária",
+          "images": []
+        },
+        "c": {
+          "content": "visual secundária",
+          "images": []
+        },
+        "d": {
+          "content": "auditiva primária",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 6
+      "reference": null
     },
     {
+      "id": 7,
       "type": "multiple_choice",
       "question": "Lesões que afetam o unco e o giro parahipocampal podem afetar:",
-      "options": [
-        "a audição",
-        "o olfato",
-        "a visão",
-        "a sensibilidade tátil"
-      ],
-      "correct_answer": "o olfato",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "a audição",
+          "images": []
+        },
+        "b": {
+          "content": "o olfato",
+          "images": []
+        },
+        "c": {
+          "content": "a visão",
+          "images": []
+        },
+        "d": {
+          "content": "a sensibilidade tátil",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "id": 7
+      "reference": null
     },
     {
+      "id": 8,
       "type": "multiple_choice",
       "question": "Nas apraxias observamos dificuldade em realizar o movimento, devido a lesões nas áreas de planejamento motor, as lesões estão localizadas no:",
-      "options": [
-        "lobo insular",
-        "lobo parietal",
-        "lobo frontal",
-        "lobo temporal"
-      ],
-      "correct_answer": "lobo frontal",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "lobo insular",
+          "images": []
+        },
+        "b": {
+          "content": "lobo parietal",
+          "images": []
+        },
+        "c": {
+          "content": "lobo frontal",
+          "images": []
+        },
+        "d": {
+          "content": "lobo temporal",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
-      "reference": null,
-      "id": 8
+      "reference": null
     },
     {
+      "id": 9,
       "type": "multiple_choice",
       "question": "A área motora da fala (de Broca) está localizada no:",
-      "options": [
-        "giro frontal inferior esquerdo",
-        "giro pós-central esquerdo",
-        "giro pré-central esquerdo",
-        "giro frontal superior esquerdo"
-      ],
-      "correct_answer": "giro frontal inferior esquerdo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "giro frontal inferior esquerdo",
+          "images": []
+        },
+        "b": {
+          "content": "giro pós-central esquerdo",
+          "images": []
+        },
+        "c": {
+          "content": "giro pré-central esquerdo",
+          "images": []
+        },
+        "d": {
+          "content": "giro frontal superior esquerdo",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 9
+      "reference": null
     },
     {
+      "id": 10,
       "type": "multiple_choice",
       "question": "A área de Wernicke (área sensitiva da fala) está localizada entre os lobos:",
-      "options": [
-        "parietal e temporal",
-        "occipital e temporal",
-        "frontal e parietal",
-        "frontal e temporal"
-      ],
-      "correct_answer": "parietal e temporal",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "parietal e temporal",
+          "images": []
+        },
+        "b": {
+          "content": "occipital e temporal",
+          "images": []
+        },
+        "c": {
+          "content": "frontal e parietal",
+          "images": []
+        },
+        "d": {
+          "content": "frontal e temporal",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 10
+      "reference": null
     }
   ]
 }

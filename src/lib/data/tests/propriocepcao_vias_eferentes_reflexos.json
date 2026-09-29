@@ -10,13 +10,26 @@
       "id": 1,
       "type": "multiple_choice",
       "question": "Um paciente de 62 anos é levado ao pronto-socorro com quadro súbito de queda da pálpebra superior esquerda e visão dupla (diplopia). Ao exame físico, o médico observa que o olho esquerdo do paciente está desviado para fora e para baixo, com a pupila dilatada e sem reflexo à luz. Além disso, o paciente apresenta uma hemiparesia completa à direita, acometendo face, braço e perna.\nExame de Imagem: A ressonância magnética de crânio revelou um infarto agudo localizado na porção anterior (ventral) do pedúnculo cerebral\nEm relação aos sintomas motores nos membros, assinale a alternativa que descreve corretamente a lateralidade da lesão e o trato principal acometido:",
-      "options": [
-        "A lesão é contralateral à hemiparesia, sendo causada pelo comprometimento do lemnisco medial, responsável pela motricidade voluntária",
-        "A lesão é ipsilateral à hemiparesia, devido ao acometimento do trato espinotalâmico lateral, que cruza na medula espinal, mas volta a cruzar no tronco encefálico",
-        "A lesão é ipsilateral à hemiparesia, pois o trato corticoespinal já realizou a decussação no nível do mesencéfalo",
-        "A lesão é contralateral à hemiparesia, e a estrutura acometida é o trato corticoespinal, que ocupa a base do pedúnculo cerebral e ainda não decussou."
-      ],
-      "correct_answer": "A lesão é contralateral à hemiparesia, e a estrutura acometida é o trato corticoespinal, que ocupa a base do pedúnculo cerebral e ainda não decussou.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "A lesão é contralateral à hemiparesia, sendo causada pelo comprometimento do lemnisco medial, responsável pela motricidade voluntária",
+          "images": []
+        },
+        "b": {
+          "content": "A lesão é ipsilateral à hemiparesia, devido ao acometimento do trato espinotalâmico lateral, que cruza na medula espinal, mas volta a cruzar no tronco encefálico",
+          "images": []
+        },
+        "c": {
+          "content": "A lesão é ipsilateral à hemiparesia, pois o trato corticoespinal já realizou a decussação no nível do mesencéfalo",
+          "images": []
+        },
+        "d": {
+          "content": "A lesão é contralateral à hemiparesia, e a estrutura acometida é o trato corticoespinal, que ocupa a base do pedúnculo cerebral e ainda não decussou.",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
       "reference": null
     },
@@ -24,13 +37,26 @@
       "id": 2,
       "type": "multiple_choice",
       "question": "O controle da motricidade distal dos membros segue pelo trato:",
-      "options": [
-        "reticulospinal",
-        "rubrospinal",
-        "tetospinal",
-        "vestibulospinal"
-      ],
-      "correct_answer": "rubrospinal",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "reticulospinal",
+          "images": []
+        },
+        "b": {
+          "content": "rubrospinal",
+          "images": []
+        },
+        "c": {
+          "content": "tetospinal",
+          "images": []
+        },
+        "d": {
+          "content": "vestibulospinal",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -38,13 +64,26 @@
       "id": 3,
       "type": "multiple_choice",
       "question": "Os tratos eferentes localizados no funículo lateral da medula são:",
-      "options": [
-        "corticospinal lateral e rubrospinal",
-        "rubrospinal e vestíbulospinal",
-        "corticospinal lateral, espinotalâmico lateral e rubrospinal",
-        "corticospinal lateral e tetospinal"
-      ],
-      "correct_answer": "corticospinal lateral e rubrospinal",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "corticospinal lateral e rubrospinal",
+          "images": []
+        },
+        "b": {
+          "content": "rubrospinal e vestíbulospinal",
+          "images": []
+        },
+        "c": {
+          "content": "corticospinal lateral, espinotalâmico lateral e rubrospinal",
+          "images": []
+        },
+        "d": {
+          "content": "corticospinal lateral e tetospinal",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -52,13 +91,26 @@
       "id": 4,
       "type": "multiple_choice",
       "question": "Assinale a alternativa correta:",
-      "options": [
-        "as regiões mediais do corno anterior da medula contém neurônios motores para os músculos apendiculares distais",
-        "as regiões laterais do corno anterior da medula contém neurônios motores para os músculos axiais",
-        "as regiões mediais do corno anterior da medula contém neurônios motores para os músculos axiais",
-        "as regiões mediais do corno anterior da medula contém neurônios motores para os músculos axiais e distais dos membros"
-      ],
-      "correct_answer": "as regiões mediais do corno anterior da medula contém neurônios motores para os músculos axiais",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "as regiões mediais do corno anterior da medula contém neurônios motores para os músculos apendiculares distais",
+          "images": []
+        },
+        "b": {
+          "content": "as regiões laterais do corno anterior da medula contém neurônios motores para os músculos axiais",
+          "images": []
+        },
+        "c": {
+          "content": "as regiões mediais do corno anterior da medula contém neurônios motores para os músculos axiais",
+          "images": []
+        },
+        "d": {
+          "content": "as regiões mediais do corno anterior da medula contém neurônios motores para os músculos axiais e distais dos membros",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
       "reference": null
     },
@@ -66,13 +118,26 @@
       "id": 5,
       "type": "multiple_choice",
       "question": "Um paciente de 58 anos apresenta-se ao ambulatório de neurologia para acompanhamento após um AVC isquêmico ocorrido há seis meses. O laudo da Ressonância Magnética aponta uma lesão cicatricial estabilizada na perna posterior da cápsula interna do hemisfério cerebral direito. No exame físico atual, o paciente apresenta hipertonia e sinal de Babinski presente. Qual a lateralidade das alterações motoras e qual a justificativa neuroanatômica para isso?",
-      "options": [
-        "No hemicorpo direito, pois as fibras motoras da cápsula interna são ipsilaterais e não cruzam o plano mediano em nenhum ponto do sistema nervoso central",
-        "No hemicorpo esquerdo, pois as fibras do trato corticoespinal que passam pela cápsula interna sofrerão decussação no bulbo antes de atingirem a medula espinal.",
-        "No hemicorpo direito, pois, embora as fibras cruzem no bulbo, a organização do córtex motor primário já é previamente invertida em relação ao corpo",
-        "No hemicorpo esquerdo, pois a decussação das fibras do trato corticoespinal ocorre ao nível do mesencéfalo, logo abaixo da cápsula interna"
-      ],
-      "correct_answer": "No hemicorpo esquerdo, pois as fibras do trato corticoespinal que passam pela cápsula interna sofrerão decussação no bulbo antes de atingirem a medula espinal.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "No hemicorpo direito, pois as fibras motoras da cápsula interna são ipsilaterais e não cruzam o plano mediano em nenhum ponto do sistema nervoso central",
+          "images": []
+        },
+        "b": {
+          "content": "No hemicorpo esquerdo, pois as fibras do trato corticoespinal que passam pela cápsula interna sofrerão decussação no bulbo antes de atingirem a medula espinal.",
+          "images": []
+        },
+        "c": {
+          "content": "No hemicorpo direito, pois, embora as fibras cruzem no bulbo, a organização do córtex motor primário já é previamente invertida em relação ao corpo",
+          "images": []
+        },
+        "d": {
+          "content": "No hemicorpo esquerdo, pois a decussação das fibras do trato corticoespinal ocorre ao nível do mesencéfalo, logo abaixo da cápsula interna",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -80,13 +145,26 @@
       "id": 6,
       "type": "multiple_choice",
       "question": "Em uma visita ao setor de neurologia, o médico responsável pelo setor decidiu fazer um teste com os alunos antes de passar os casos do dia. Ele apontou uma estrutura encefálica em uma imagem (imagem anexa) e pediu para os alunos discorrerem a respeito da mesma. Assinale a alternativa que apresenta informações corretas a respeito da estrutura em questão.",
-      "options": [
-        "A estrutura apontada trata-se da pirâmide bulbar constituída por feixes de fibras sensitivas (fibras ascendentes).",
-        "A estrutura apontada trata-se da pirâmide bulbar constituída por feixes de fibras motoras (fibras descendentes).",
-        "A estrutura apontada trata-se da oliva bulbar constituída por feixes de fibras sensitivas (fibras ascendentes).",
-        "A estrutura apontada trata-se da oliva bulbar constituída por feixes de fibras motoras (fibras descendentes)."
-      ],
-      "correct_answer": "A estrutura apontada trata-se da pirâmide bulbar constituída por feixes de fibras motoras (fibras descendentes).",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "A estrutura apontada trata-se da pirâmide bulbar constituída por feixes de fibras sensitivas (fibras ascendentes).",
+          "images": []
+        },
+        "b": {
+          "content": "A estrutura apontada trata-se da pirâmide bulbar constituída por feixes de fibras motoras (fibras descendentes).",
+          "images": []
+        },
+        "c": {
+          "content": "A estrutura apontada trata-se da oliva bulbar constituída por feixes de fibras sensitivas (fibras ascendentes).",
+          "images": []
+        },
+        "d": {
+          "content": "A estrutura apontada trata-se da oliva bulbar constituída por feixes de fibras motoras (fibras descendentes).",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -94,13 +172,26 @@
       "id": 7,
       "type": "multiple_choice",
       "question": "Um paciente de 30 anos sofreu um ferimento por arma branca que causou uma hemissecção da medula espinal ao nível de T10 à esquerda (Síndrome de Brown-Séquard). Ao exame físico, o médico observa paralisia e sinal de Babinski presente no membro inferior esquerdo. O trato corticoespinal lateral foi a principal via motora atingida. A atividade de quais motoneurônios foi comprometida?",
-      "options": [
-        "das regiões laterais do corno anterior da medula espinal",
-        "das regiões mediais do corno anterior da medula espinal",
-        "do corno anterior da medula espinal, bilateralmente",
-        "do corno anterior da medula espinal do lado ipsilateral a região cortical de origem"
-      ],
-      "correct_answer": "das regiões laterais do corno anterior da medula espinal",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "das regiões laterais do corno anterior da medula espinal",
+          "images": []
+        },
+        "b": {
+          "content": "das regiões mediais do corno anterior da medula espinal",
+          "images": []
+        },
+        "c": {
+          "content": "do corno anterior da medula espinal, bilateralmente",
+          "images": []
+        },
+        "d": {
+          "content": "do corno anterior da medula espinal do lado ipsilateral a região cortical de origem",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -108,13 +199,26 @@
       "id": 8,
       "type": "multiple_choice",
       "question": "Paciente apresenta desvio de rima à esquerda (fraqueza muscular do lado direito). Quando sorri, a boca fica desviada para esquerda, mostrando fraqueza muscular do lado direito. Mas é capaz de abrir e fechar ambos os olhos. A paralisia facial é central ou periférica?",
-      "options": [
-        "central, pois apenas o quadrante inferior da face contralateral à lesão foi acometido",
-        "central, pois apenas o quadrante inferior da face ipsilateral à lesão foi acometido",
-        "periférica, pois apenas o quadrante inferior da face contralateral à lesão foi acometido",
-        "periférica, pois apenas o quadrante inferior da face ipsilateral à lesão foi acometido"
-      ],
-      "correct_answer": "central, pois apenas o quadrante inferior da face contralateral à lesão foi acometido",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "central, pois apenas o quadrante inferior da face contralateral à lesão foi acometido",
+          "images": []
+        },
+        "b": {
+          "content": "central, pois apenas o quadrante inferior da face ipsilateral à lesão foi acometido",
+          "images": []
+        },
+        "c": {
+          "content": "periférica, pois apenas o quadrante inferior da face contralateral à lesão foi acometido",
+          "images": []
+        },
+        "d": {
+          "content": "periférica, pois apenas o quadrante inferior da face ipsilateral à lesão foi acometido",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -122,13 +226,26 @@
       "id": 9,
       "type": "multiple_choice",
       "question": "Uma paciente de 28 anos acorda pela manhã e nota que não consegue fechar o olho esquerdo e que sua boca está desviada para a direita. Ao tentar escovar os dentes, a água escorre pelo canto esquerdo da boca. Ela nega fraqueza em membros ou alterações sensitivas.\nExame Físico: Observa-se apagamento completo das rugas frontais à esquerda, incapacidade de franzir o supercílio esquerdo e fechamento ocular incompleto deste mesmo lado. A paralisia atinge tanto o quadrante superior quanto o inferior da face à esquerda.\nQual a localização neuroanatômica da lesão e qual a justificativa para o acometimento de toda a hemiface?",
-      "options": [
-        "nervo facial (NC VII) esquerdo",
-        "cápsula interna esquerda",
-        "cápsula interna direita",
-        "nervo facial (NC VII) direito"
-      ],
-      "correct_answer": "nervo facial (NC VII) esquerdo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "nervo facial (NC VII) esquerdo",
+          "images": []
+        },
+        "b": {
+          "content": "cápsula interna esquerda",
+          "images": []
+        },
+        "c": {
+          "content": "cápsula interna direita",
+          "images": []
+        },
+        "d": {
+          "content": "nervo facial (NC VII) direito",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -136,116 +253,217 @@
       "id": 10,
       "type": "multiple_choice",
       "question": "Um homem apresenta degeneração de neurônios do corno ventral. Qual o quadro motor esperado?",
-      "options": [
-        "Síndrome do motoneurônio inferior: hipotonia, hiporreflexia e fraqueza muscular (paresia)",
-        "Síndrome do motoneurônio superior: hipertonia, hiperreflexia e fraqueza muscular (paresia)",
-        "Síndrome do motoneurônio superior: hipotonia, hiporreflexia e fraqueza muscular (paresia).",
-        "Síndrome do motoneurônio inferior: hipertonia, hiperreflexia e fraqueza muscular (paresia)"
-      ],
-      "correct_answer": "Síndrome do motoneurônio inferior: hipotonia, hiporreflexia e fraqueza muscular (paresia)",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Síndrome do motoneurônio inferior: hipotonia, hiporreflexia e fraqueza muscular (paresia)",
+          "images": []
+        },
+        "b": {
+          "content": "Síndrome do motoneurônio superior: hipertonia, hiperreflexia e fraqueza muscular (paresia)",
+          "images": []
+        },
+        "c": {
+          "content": "Síndrome do motoneurônio superior: hipotonia, hiporreflexia e fraqueza muscular (paresia).",
+          "images": []
+        },
+        "d": {
+          "content": "Síndrome do motoneurônio inferior: hipertonia, hiperreflexia e fraqueza muscular (paresia)",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
     {
       "id": 11,
       "type": "multiple_choice",
+      "case_context": "Mulher, 50 anos, deu entrada no pronto socorro. O exame neurológico evidenciou déficit motor à esquerda (hemiparesia), com sinal de Babinski à esquerda, e déficit de sensibilidade tátil no hemicorpo esquerdo. Exame de imagem mostrou lesão em lobo frontal (giro pré-central) e parietal do mesmo lado.",
       "question": "Qual a lateralidade dos sintomas? Por quê?",
-      "options": [
-        "Os sintomas são contralaterais à lesão devido ao cruzamento das fibras do trato corticospinal lateral na comissura branca",
-        "Os sintomas são ipsilaterais à lesão devido ao cruzamento das fibras do trato corticospinal lateral na decussação das pirâmides",
-        "Os sintomas são contralaterais à lesão devido ao cruzamento das fibras do trato corticospinal lateral na decussação das pirâmides",
-        "Os sintomas são ipsilaterais à lesão devido ao cruzamento das fibras do trato corticospinal lateral na comissura branca"
-      ],
-      "correct_answer": "Os sintomas são contralaterais à lesão devido ao cruzamento das fibras do trato corticospinal lateral na decussação das pirâmides",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Os sintomas são contralaterais à lesão devido ao cruzamento das fibras do trato corticospinal lateral na comissura branca",
+          "images": []
+        },
+        "b": {
+          "content": "Os sintomas são ipsilaterais à lesão devido ao cruzamento das fibras do trato corticospinal lateral na decussação das pirâmides",
+          "images": []
+        },
+        "c": {
+          "content": "Os sintomas são contralaterais à lesão devido ao cruzamento das fibras do trato corticospinal lateral na decussação das pirâmides",
+          "images": []
+        },
+        "d": {
+          "content": "Os sintomas são ipsilaterais à lesão devido ao cruzamento das fibras do trato corticospinal lateral na comissura branca",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
-      "reference": null,
-      "case_context": "Mulher, 50 anos, deu entrada no pronto socorro. O exame neurológico evidenciou déficit motor à esquerda (hemiparesia), com sinal de Babinski à esquerda, e déficit de sensibilidade tátil no hemicorpo esquerdo. Exame de imagem mostrou lesão em lobo frontal (giro pré-central) e parietal do mesmo lado."
+      "reference": null
     },
     {
       "id": 12,
       "type": "multiple_choice",
+      "case_context": "Mulher, 50 anos, deu entrada no pronto socorro. O exame neurológico evidenciou déficit motor à esquerda (hemiparesia), com sinal de Babinski à esquerda, e déficit de sensibilidade tátil no hemicorpo esquerdo. Exame de imagem mostrou lesão em lobo frontal (giro pré-central) e parietal do mesmo lado.",
       "question": "Houve lesão de qual motoneurônio? Como você esperaria observar os reflexos desse paciente?",
-      "options": [
-        "lesão de motoneurônio superior; hiporreflexia",
-        "lesão de motoneurônio inferior; hiperreflexia",
-        "lesão de motoneurônio inferior; hiporreflexia",
-        "lesão de motoneurônio superior; hiperreflexia"
-      ],
-      "correct_answer": "lesão de motoneurônio superior; hiperreflexia",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "lesão de motoneurônio superior; hiporreflexia",
+          "images": []
+        },
+        "b": {
+          "content": "lesão de motoneurônio inferior; hiperreflexia",
+          "images": []
+        },
+        "c": {
+          "content": "lesão de motoneurônio inferior; hiporreflexia",
+          "images": []
+        },
+        "d": {
+          "content": "lesão de motoneurônio superior; hiperreflexia",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "case_context": "Mulher, 50 anos, deu entrada no pronto socorro. O exame neurológico evidenciou déficit motor à esquerda (hemiparesia), com sinal de Babinski à esquerda, e déficit de sensibilidade tátil no hemicorpo esquerdo. Exame de imagem mostrou lesão em lobo frontal (giro pré-central) e parietal do mesmo lado."
+      "reference": null
     },
     {
       "id": 13,
       "type": "multiple_choice",
+      "case_context": "Um homem de 42 anos sofreu um acidente automobilístico e apresentou trauma torácico com fratura de vértebra T10. Após o evento, relatou fraqueza progressiva e rigidez muscular no membro inferior direito. A sensibilidade tátil e vibratória estava preservada. A ressonância magnética revelou uma lesão restrita ao funículo no qual as fibras do trato corticospinal lateral estão.",
       "question": "Quais alterações motoras apresentadas pelo paciente?",
-      "options": [
-        "Paresia, hiporreflexia e hipertonia",
-        "Paresia, hiperreflexia e hipotonia",
-        "Paresia, hiporreflexia e hipotonia",
-        "Paresia, hiperreflexia e hipertonia"
-      ],
-      "correct_answer": "Paresia, hiperreflexia e hipertonia",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Paresia, hiporreflexia e hipertonia",
+          "images": []
+        },
+        "b": {
+          "content": "Paresia, hiperreflexia e hipotonia",
+          "images": []
+        },
+        "c": {
+          "content": "Paresia, hiporreflexia e hipotonia",
+          "images": []
+        },
+        "d": {
+          "content": "Paresia, hiperreflexia e hipertonia",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "case_context": "Um homem de 42 anos sofreu um acidente automobilístico e apresentou trauma torácico com fratura de vértebra T10. Após o evento, relatou fraqueza progressiva e rigidez muscular no membro inferior direito. A sensibilidade tátil e vibratória estava preservada. A ressonância magnética revelou uma lesão restrita ao funículo no qual as fibras do trato corticospinal lateral estão."
+      "reference": null
     },
     {
       "id": 14,
       "type": "multiple_choice",
+      "case_context": "Um homem de 42 anos sofreu um acidente automobilístico e apresentou trauma torácico com fratura de vértebra T10. Após o evento, relatou fraqueza progressiva e rigidez muscular no membro inferior direito. A sensibilidade tátil e vibratória estava preservada. A ressonância magnética revelou uma lesão restrita ao funículo no qual as fibras do trato corticospinal lateral estão.",
       "question": "Qual a lateralidade da lesão?",
-      "options": [
-        "contralateral, pois a lesão ocorreu depois do cruzamento das fibras que ocorre na decussação das pirâmides",
-        "ipsilateral, pois a lesão ocorreu depois do cruzamento das fibras que ocorre na comissura branca",
-        "contralateral, pois a lesão ocorreu depois do cruzamento das fibras que ocorre na comissura branca",
-        "ipsilateral, pois a lesão ocorreu depois do cruzamento das fibras que ocorre na decussação das pirâmides"
-      ],
-      "correct_answer": "ipsilateral, pois a lesão ocorreu depois do cruzamento das fibras que ocorre na decussação das pirâmides",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "contralateral, pois a lesão ocorreu depois do cruzamento das fibras que ocorre na decussação das pirâmides",
+          "images": []
+        },
+        "b": {
+          "content": "ipsilateral, pois a lesão ocorreu depois do cruzamento das fibras que ocorre na comissura branca",
+          "images": []
+        },
+        "c": {
+          "content": "contralateral, pois a lesão ocorreu depois do cruzamento das fibras que ocorre na comissura branca",
+          "images": []
+        },
+        "d": {
+          "content": "ipsilateral, pois a lesão ocorreu depois do cruzamento das fibras que ocorre na decussação das pirâmides",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "case_context": "Um homem de 42 anos sofreu um acidente automobilístico e apresentou trauma torácico com fratura de vértebra T10. Após o evento, relatou fraqueza progressiva e rigidez muscular no membro inferior direito. A sensibilidade tátil e vibratória estava preservada. A ressonância magnética revelou uma lesão restrita ao funículo no qual as fibras do trato corticospinal lateral estão."
+      "reference": null
     },
     {
       "id": 15,
       "type": "multiple_choice",
+      "case_context": "Um homem de 42 anos sofreu um acidente automobilístico e apresentou trauma torácico com fratura de vértebra T10. Após o evento, relatou fraqueza progressiva e rigidez muscular no membro inferior direito. A sensibilidade tátil e vibratória estava preservada. A ressonância magnética revelou uma lesão restrita ao funículo no qual as fibras do trato corticospinal lateral estão.",
       "question": "O paciente apresentou lesão de motoneurônio superior ou inferior?",
-      "options": [
-        "superior, pois a lesão acometeu os axônios do neurônio cujo corpo está no córtex motor primário",
-        "superior, pois a lesão acometeu o neurônio que irá inervar diretamente o músculo",
-        "inferior, pois a lesão acometeu os axônios do neurônio cujo corpo está no córtex motor primário",
-        "inferior, pois a lesão acometeu o neurônio que irá inervar diretamente o músculo"
-      ],
-      "correct_answer": "superior, pois a lesão acometeu os axônios do neurônio cujo corpo está no córtex motor primário",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "superior, pois a lesão acometeu os axônios do neurônio cujo corpo está no córtex motor primário",
+          "images": []
+        },
+        "b": {
+          "content": "superior, pois a lesão acometeu o neurônio que irá inervar diretamente o músculo",
+          "images": []
+        },
+        "c": {
+          "content": "inferior, pois a lesão acometeu os axônios do neurônio cujo corpo está no córtex motor primário",
+          "images": []
+        },
+        "d": {
+          "content": "inferior, pois a lesão acometeu o neurônio que irá inervar diretamente o músculo",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "case_context": "Um homem de 42 anos sofreu um acidente automobilístico e apresentou trauma torácico com fratura de vértebra T10. Após o evento, relatou fraqueza progressiva e rigidez muscular no membro inferior direito. A sensibilidade tátil e vibratória estava preservada. A ressonância magnética revelou uma lesão restrita ao funículo no qual as fibras do trato corticospinal lateral estão."
+      "reference": null
     },
     {
       "id": 16,
       "type": "multiple_choice",
+      "case_context": "Um homem de 42 anos sofreu um acidente automobilístico e apresentou trauma torácico com fratura de vértebra T10. Após o evento, relatou fraqueza progressiva e rigidez muscular no membro inferior direito. A sensibilidade tátil e vibratória estava preservada. A ressonância magnética revelou uma lesão restrita ao funículo no qual as fibras do trato corticospinal lateral estão.",
       "question": "Qual funículo foi lesionado?",
-      "options": [
-        "lateral",
-        "anterior",
-        "posterior"
-      ],
-      "correct_answer": "lateral",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "lateral",
+          "images": []
+        },
+        "b": {
+          "content": "anterior",
+          "images": []
+        },
+        "c": {
+          "content": "posterior",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "case_context": "Um homem de 42 anos sofreu um acidente automobilístico e apresentou trauma torácico com fratura de vértebra T10. Após o evento, relatou fraqueza progressiva e rigidez muscular no membro inferior direito. A sensibilidade tátil e vibratória estava preservada. A ressonância magnética revelou uma lesão restrita ao funículo no qual as fibras do trato corticospinal lateral estão."
+      "reference": null
     },
     {
       "id": 17,
       "type": "multiple_choice",
       "question": "Uma pessoa apresenta instabilidade na marcha e múltiplos déficits sensoriais e motores. Observou-se ausência da percepção da posição dos membros. Quando solicitado a permanecer em pé com os olhos fechados, o paciente oscilava e perdia o equilíbrio. A ressonância magnética da medula espinal revelou uma lesão.\nPergunta:\nQual funículo medular está provavelmente comprometido e quais receptores estão relacionados à sensibilidade afetada?",
-      "options": [
-        "funículo posterior; receptores da classe TRP",
-        "funículo posterior; fuso muscular e órgão tendinoso de Golgi (OTG)",
-        "funículo lateral; receptores da classe TRP",
-        "funículo lateral; fuso muscular e órgão tendinoso de Golgi (OTG)"
-      ],
-      "correct_answer": "funículo posterior; fuso muscular e órgão tendinoso de Golgi (OTG)",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "funículo posterior; receptores da classe TRP",
+          "images": []
+        },
+        "b": {
+          "content": "funículo posterior; fuso muscular e órgão tendinoso de Golgi (OTG)",
+          "images": []
+        },
+        "c": {
+          "content": "funículo lateral; receptores da classe TRP",
+          "images": []
+        },
+        "d": {
+          "content": "funículo lateral; fuso muscular e órgão tendinoso de Golgi (OTG)",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -253,13 +471,26 @@
       "id": 18,
       "type": "multiple_choice",
       "question": "Um paciente é levado ao neurologista por não conseguir andar com facilidade. Apresenta no exame físico uma base alargada e ataxia (incoordenação) de musculatura axial e distal.\nO médico avaliou o reflexo patelar realizando um estímulo no tendão com o martelo de reflexo, observando contração muito leve do músculo quadríceps. Conclusão: hiporreflexia.\nDurante a avaliação do reflexo, qual receptor foi responsável por desencadear o reflexo? E qual o neurônio aferente envolvido neste reflexo?",
-      "options": [
-        "órgão tendinoso de Golgi (OTG); motoneurônio gama",
-        "fuso muscular; fibra Ia",
-        "órgão tendinoso de Golgi (OTG); fibra Ia",
-        "fuso muscular; motoneurônio gama"
-      ],
-      "correct_answer": "fuso muscular; fibra Ia",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "órgão tendinoso de Golgi (OTG); motoneurônio gama",
+          "images": []
+        },
+        "b": {
+          "content": "fuso muscular; fibra Ia",
+          "images": []
+        },
+        "c": {
+          "content": "órgão tendinoso de Golgi (OTG); fibra Ia",
+          "images": []
+        },
+        "d": {
+          "content": "fuso muscular; motoneurônio gama",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -267,13 +498,26 @@
       "id": 19,
       "type": "multiple_choice",
       "question": "Durante a avaliação do reflexo patelar, o médico realizou um estímulo no tendão com o martelo de reflexo, observando contração do músculo quadríceps. Qual a via eferente deste reflexo?",
-      "options": [
-        "fibra Ia, o qual inerva as fibras musculares extrafusais",
-        "fibra Ia, a qual recebe informação do fuso muscular",
-        "motoneurônio alfa, o qual inerva as fibras musculares extrafusais",
-        "motoneurônio gama, o qual inerva as fibras musculares intrafusais"
-      ],
-      "correct_answer": "motoneurônio alfa, o qual inerva as fibras musculares extrafusais",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "fibra Ia, o qual inerva as fibras musculares extrafusais",
+          "images": []
+        },
+        "b": {
+          "content": "fibra Ia, a qual recebe informação do fuso muscular",
+          "images": []
+        },
+        "c": {
+          "content": "motoneurônio alfa, o qual inerva as fibras musculares extrafusais",
+          "images": []
+        },
+        "d": {
+          "content": "motoneurônio gama, o qual inerva as fibras musculares intrafusais",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
       "reference": null
     },
@@ -281,13 +525,26 @@
       "id": 20,
       "type": "multiple_choice",
       "question": "Durante uma cirurgia ortopédica para correção de fratura de fêmur, um paciente apresentou lesão parcial de raízes motoras espinhais. Após o procedimento, observou-se diminuição do tônus muscular em alguns músculos da coxa, embora a força voluntária estivesse parcialmente preservada. Testes de estiramento muscular mostraram reflexos tendinosos mais fracos do que o normal.\nO médico suspeita que a lesão tenha afetado principalmente um tipo de motoneurônio. Qual seria esse tipo?",
-      "options": [
-        "gama, que inerva fibras intrafusais",
-        "alfa, que inerva fibras intrafusais",
-        "gama, que inerva fibras extrafusais",
-        "alfa, que inerva fibras extrafusais"
-      ],
-      "correct_answer": "gama, que inerva fibras intrafusais",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "gama, que inerva fibras intrafusais",
+          "images": []
+        },
+        "b": {
+          "content": "alfa, que inerva fibras intrafusais",
+          "images": []
+        },
+        "c": {
+          "content": "gama, que inerva fibras extrafusais",
+          "images": []
+        },
+        "d": {
+          "content": "alfa, que inerva fibras extrafusais",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     }

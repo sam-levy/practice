@@ -2,7 +2,8 @@
   import { onMount } from 'svelte';
   import { goto } from '$app/navigation';
   import { base } from '$app/paths';
-  import { testSession } from '$lib/stores/testStore';
+  import QuestionImages from '$lib/components/QuestionImages.svelte';
+  import { listOptions, testSession } from '$lib/stores/testStore';
   import type { Question } from '$lib/stores/testStore';
 
   onMount(() => {
@@ -91,21 +92,27 @@
 
             <p class="mb-3">{question.question}</p>
 
+            <QuestionImages images={question.images} />
+
             {#if isMC}
               <div class="space-y-1 mb-3">
-                {#each question.options as option, optIdx}
-                  {@const isUserChoice = userAnswer === option}
-                  {@const isCorrectOption = option === question.correct_answer}
+                {#each listOptions(question) as [optionId, option]}
+                  {@const isUserChoice = userAnswer === optionId}
+                  {@const isCorrectOption = optionId === question.correct_answer}
                   <div
-                    class="p-2 rounded text-sm {isCorrectOption ? 'bg-success/10 border border-success' : ''} {isUserChoice && !isCorrectOption ? 'bg-error/10 border border-error' : ''}"
+                    class="p-2 rounded text-sm space-y-2 {isCorrectOption ? 'bg-success/10 border border-success' : ''} {isUserChoice && !isCorrectOption ? 'bg-error/10 border border-error' : ''}"
                   >
-                    <span class="font-medium">{String.fromCharCode(65 + optIdx)}.</span> {option}
-                    {#if isCorrectOption}
-                      <span class="text-success font-bold ml-1">✓</span>
-                    {/if}
-                    {#if isUserChoice && !isCorrectOption}
-                      <span class="text-error font-bold ml-1">✗ (sua resposta)</span>
-                    {/if}
+                    <div>
+                      <span class="font-medium">{optionId.toUpperCase()}.</span>
+                      {option.content}
+                      {#if isCorrectOption}
+                        <span class="text-success font-bold ml-1">✓</span>
+                      {/if}
+                      {#if isUserChoice && !isCorrectOption}
+                        <span class="text-error font-bold ml-1">✗ (sua resposta)</span>
+                      {/if}
+                    </div>
+                    <QuestionImages images={option.images} />
                   </div>
                 {/each}
               </div>

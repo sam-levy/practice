@@ -9,250 +9,449 @@
   ],
   "questions": [
     {
+      "id": 1,
       "type": "multiple_choice",
       "question": "Um paciente fazendo uso crônico de benzodiazepínicos (medicamento que potencializa a ação do GABA) apresenta um aumento da fase do sono cujas ondas eletroencefalográficas apresentam um padrão mais sincronizado. A circuitaria responsável pela fase do sono que se encontra aumentada nesse paciente é:",
-      "options": [
-        "O aumento dos níveis de adenosina, fazendo com que o SARA inicie a passagem da vigília para o sono REM.",
-        "O disparo dos neurônios colinérgicos do núcleo tegmentar pedunculopontino que despolarizam de forma contínua as células corticais",
-        "O circuito entre os neurônios GABAérgicos do núcleo reticular do tálamo e os neurônios talamocorticais",
-        "A via aferente direta do córtex pré-frontal que projeta axônios dopaminérgicos para a área tegmentar ventral"
-      ],
-      "correct_answer": "O circuito entre os neurônios GABAérgicos do núcleo reticular do tálamo e os neurônios talamocorticais",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "O aumento dos níveis de adenosina, fazendo com que o SARA inicie a passagem da vigília para o sono REM.",
+          "images": []
+        },
+        "b": {
+          "content": "O disparo dos neurônios colinérgicos do núcleo tegmentar pedunculopontino que despolarizam de forma contínua as células corticais",
+          "images": []
+        },
+        "c": {
+          "content": "O circuito entre os neurônios GABAérgicos do núcleo reticular do tálamo e os neurônios talamocorticais",
+          "images": []
+        },
+        "d": {
+          "content": "A via aferente direta do córtex pré-frontal que projeta axônios dopaminérgicos para a área tegmentar ventral",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
-      "reference": null,
-      "id": 1
+      "reference": null
     },
     {
+      "id": 2,
       "type": "multiple_choice",
       "question": "Um homem de 28 anos é admitido no pronto-socorro após sofrer um grave acidente de motocicleta. Apesar da gravidade das lesões, o paciente surpreende a equipe médica ao relatar que quase não sente dor no momento da admissão, apresentando um quadro clássico de analgesia induzida pelo estresse. Sabe-se que esse fenômeno é mediado por vias descendentes supressoras da dor que promovem a liberação de encefalinas no corno posterior da medula espinal. As encefalinas modulam a atividade da sinapse entre o primeiro e o segundo neurônio da via da dor (via espinotalâmica). Qual mecanismo explica esse fenômeno:",
-      "options": [
-        "Redução do influxo de cálcio nos neurônios pré-sinápticos, associado à abertura de canais de potássio nos neurônios pós-sinápticos",
-        "Ativação de receptores do glutamato pré-sinápticos, gerando influxo de sódio na fibra aferente primária, associada à abertura de canais de potássio nos neurônios pós-sinápticos",
-        "Aumento do influxo de cálcio nos neurônios pré-sinápticos, associado ao fechamento de canais de potássio nos neurônios pós-sinápticos",
-        "Ativação de receptores GABA pré-sinápticos, gerando influxo de cloreto na fibra aferente primária, associada ao bloqueio de canais de potássio nos neurônios pós-sinápticos"
-      ],
-      "correct_answer": "Redução do influxo de cálcio nos neurônios pré-sinápticos, associado à abertura de canais de potássio nos neurônios pós-sinápticos",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Redução do influxo de cálcio nos neurônios pré-sinápticos, associado à abertura de canais de potássio nos neurônios pós-sinápticos",
+          "images": []
+        },
+        "b": {
+          "content": "Ativação de receptores do glutamato pré-sinápticos, gerando influxo de sódio na fibra aferente primária, associada à abertura de canais de potássio nos neurônios pós-sinápticos",
+          "images": []
+        },
+        "c": {
+          "content": "Aumento do influxo de cálcio nos neurônios pré-sinápticos, associado ao fechamento de canais de potássio nos neurônios pós-sinápticos",
+          "images": []
+        },
+        "d": {
+          "content": "Ativação de receptores GABA pré-sinápticos, gerando influxo de cloreto na fibra aferente primária, associada ao bloqueio de canais de potássio nos neurônios pós-sinápticos",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 2
+      "reference": null
     },
     {
+      "id": 3,
       "type": "multiple_choice",
       "question": "Um paciente de 45 anos procura o serviço de neurologia queixando-se de colisões frequentes com objetos e pessoas localizados exclusivamente à sua esquerda (hemicampos visuais nasal e temporal esquerdo) enquanto caminha ou dirige. Exames de imagem estrutural confirmam a presença de uma lesão em um ponto da via óptica. A perda visual observada é explicada pelo comprometimento estrutural do:",
-      "options": [
-        "Trato óptico esquerdo, o qual é constituído por fibras provenientes da hemiretina nasal esquerda e da hemiretina temporal direita",
-        "Quiasma óptico, devido à lesão das fibras provenientes da hemirretina temporal ipsilateral e hemirretina nasal contralateral",
-        "Trato óptico direito, o qual é constituído por fibras provenientes da hemiretina temporal direita e da hemiretina nasal esquerda",
-        "Quiasma óptico, devido à lesão das fibras provenientes da hemirretina nasal esquerda e direita"
-      ],
-      "correct_answer": "Trato óptico direito, o qual é constituído por fibras provenientes da hemiretina temporal direita e da hemiretina nasal esquerda",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Trato óptico esquerdo, o qual é constituído por fibras provenientes da hemiretina nasal esquerda e da hemiretina temporal direita",
+          "images": []
+        },
+        "b": {
+          "content": "Quiasma óptico, devido à lesão das fibras provenientes da hemirretina temporal ipsilateral e hemirretina nasal contralateral",
+          "images": []
+        },
+        "c": {
+          "content": "Trato óptico direito, o qual é constituído por fibras provenientes da hemiretina temporal direita e da hemiretina nasal esquerda",
+          "images": []
+        },
+        "d": {
+          "content": "Quiasma óptico, devido à lesão das fibras provenientes da hemirretina nasal esquerda e direita",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
-      "reference": null,
-      "id": 3
+      "reference": null
     },
     {
+      "id": 4,
       "type": "multiple_choice",
       "question": "Um paciente de 74 anos é trazido à consulta de geriatria pela família, que relata que ele apresenta uma perda de audição progressiva. O paciente queixa-se frequentemente de que \"consegue ouvir as pessoas a falar, mas não consegue perceber as palavras\", uma dificuldade que se agrava significativamente em ambientes ruidosos, como jantares de família. A audiometria confirma perda acentuada da percepção de frequências altas. O diagnóstico foi de presbiacusia, a qual envolve degeneração de células ciliadas. Qual a localização das células ciliadas que foram comprometidas?",
-      "options": [
-        "Ápice da cóclea, alterando a percepção de sons agudos",
-        "Base da cóclea, comprometendo a percepção de sons graves",
-        "Ápice da cóclea, alterando a percepção de sons graves",
-        "Base da cóclea, comprometendo a percepção de sons agudos"
-      ],
-      "correct_answer": "Base da cóclea, comprometendo a percepção de sons agudos",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Ápice da cóclea, alterando a percepção de sons agudos",
+          "images": []
+        },
+        "b": {
+          "content": "Base da cóclea, comprometendo a percepção de sons graves",
+          "images": []
+        },
+        "c": {
+          "content": "Ápice da cóclea, alterando a percepção de sons graves",
+          "images": []
+        },
+        "d": {
+          "content": "Base da cóclea, comprometendo a percepção de sons agudos",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "id": 4
+      "reference": null
     },
     {
+      "id": 5,
       "type": "multiple_choice",
       "question": "Durante um exame físico foi realizado o teste de discriminação de dois pontos para avaliação do tato epicrítico. Foi observado que nos dedos das mãos, o paciente conseguia distinguir perfeitamente a presença de dois estímulos mecânicos simultâneos mesmo quando separados por uma distância de apenas 2 mm. Sabendo que não há alteração de sensibilidade tátil neste paciente, por que este resultado foi observado?",
-      "options": [
-        "Devido ao fenômeno de alta convergência sináptica, o que amplifica a detecção de estímulos pequenos",
-        "Devido à representação somatotópica proporcionalmente reduzida no córtex somestésico primário, o que otimiza o processamento da informação",
-        "Porque os campos receptivos nesta região são pequenos e o tamanho do mapa cortical destinado aos dedos é grande",
-        "Porque os campos receptivos nesta região são grandes, de modo que o tamanho do mapa cortical destinado aos dedos também é grande"
-      ],
-      "correct_answer": "Porque os campos receptivos nesta região são pequenos e o tamanho do mapa cortical destinado aos dedos é grande",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Devido ao fenômeno de alta convergência sináptica, o que amplifica a detecção de estímulos pequenos",
+          "images": []
+        },
+        "b": {
+          "content": "Devido à representação somatotópica proporcionalmente reduzida no córtex somestésico primário, o que otimiza o processamento da informação",
+          "images": []
+        },
+        "c": {
+          "content": "Porque os campos receptivos nesta região são pequenos e o tamanho do mapa cortical destinado aos dedos é grande",
+          "images": []
+        },
+        "d": {
+          "content": "Porque os campos receptivos nesta região são grandes, de modo que o tamanho do mapa cortical destinado aos dedos também é grande",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
-      "reference": null,
-      "id": 5
+      "reference": null
     },
     {
+      "id": 6,
       "type": "multiple_choice",
       "question": "Um paciente de 45 anos apresenta queixa de dor lombar com irradiação para a face anterior da coxa direita. Ao exame neurológico, o médico observa abolição do reflexo patelar à direita, sem outras alterações motoras ou sensitivas maiores, sendo diagnosticado com uma compressão radicular em L4 devido a uma hérnia de disco. Considerando a circuitaria do reflexo miotático (reflexo patelar) e a inibição recíproca, a interrupção da porção aferente desses arcos reflexos impede qual dos seguintes eventos na medula espinal?",
-      "options": [
-        "A ativação de mecanorreceptores do tipo Ib nos órgãos tendinosos de Golgi, os quais deveriam enviar sinais excitatórios polissinápticos para os motoneurônios gama do quadríceps, promovendo o tônus muscular protetor",
-        "A ativação dos fusos musculares do músculo quadríceps, seguida pela ativação das fibras Ia e motoneurônio alfa. Ao mesmo tempo, há inibição dos motoneurônios gama dos músculos antagonistas",
-        "O disparo de fibras amielínicas do tipo C que realizam uma decussação imediata na comissura anterior da medula para mediar a flexão reflexa e a extensão cruzada no membro contralateral",
-        "A excitação direta e monossináptica dos motoneurônios alfa do músculo quadríceps pelas fibras Ia, bem como a concomitante ativação de interneurônios inibitórios que hiperpolarizam os motoneurônios dos músculos antagonistas"
-      ],
-      "correct_answer": "A excitação direta e monossináptica dos motoneurônios alfa do músculo quadríceps pelas fibras Ia, bem como a concomitante ativação de interneurônios inibitórios que hiperpolarizam os motoneurônios dos músculos antagonistas",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "A ativação de mecanorreceptores do tipo Ib nos órgãos tendinosos de Golgi, os quais deveriam enviar sinais excitatórios polissinápticos para os motoneurônios gama do quadríceps, promovendo o tônus muscular protetor",
+          "images": []
+        },
+        "b": {
+          "content": "A ativação dos fusos musculares do músculo quadríceps, seguida pela ativação das fibras Ia e motoneurônio alfa. Ao mesmo tempo, há inibição dos motoneurônios gama dos músculos antagonistas",
+          "images": []
+        },
+        "c": {
+          "content": "O disparo de fibras amielínicas do tipo C que realizam uma decussação imediata na comissura anterior da medula para mediar a flexão reflexa e a extensão cruzada no membro contralateral",
+          "images": []
+        },
+        "d": {
+          "content": "A excitação direta e monossináptica dos motoneurônios alfa do músculo quadríceps pelas fibras Ia, bem como a concomitante ativação de interneurônios inibitórios que hiperpolarizam os motoneurônios dos músculos antagonistas",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "id": 6
+      "reference": null
     },
     {
+      "id": 7,
       "type": "multiple_choice",
       "question": "Um jovem de 24 anos é vítima de um trauma penetrante na coluna vertebral que resultou na secção completa e isolada das raízes ventrais de alguns segmentos medulares. Após algumas semanas, constata-se paresia, hipotonia e hiporreflexia. Este quadro ocorre devido à:",
-      "options": [
-        "lesão de motoneurônio inferior, ou seja, a via eferente do reflexo miotático foi acometida",
-        "lesão de motoneurônio inferior, ou seja, a via aferente (fibras Ia) foram acometidas",
-        "lesão de motoneurônio superior, ou seja, o corno ventral (porção mais medial) da medula espinal foi acometido",
-        "lesão de motoneurônio superior, ou seja, o corno ventral (porção mais lateral) da medula espinal foi acometido"
-      ],
-      "correct_answer": "lesão de motoneurônio inferior, ou seja, a via eferente do reflexo miotático foi acometida",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "lesão de motoneurônio inferior, ou seja, a via eferente do reflexo miotático foi acometida",
+          "images": []
+        },
+        "b": {
+          "content": "lesão de motoneurônio inferior, ou seja, a via aferente (fibras Ia) foram acometidas",
+          "images": []
+        },
+        "c": {
+          "content": "lesão de motoneurônio superior, ou seja, o corno ventral (porção mais medial) da medula espinal foi acometido",
+          "images": []
+        },
+        "d": {
+          "content": "lesão de motoneurônio superior, ou seja, o corno ventral (porção mais lateral) da medula espinal foi acometido",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 7
+      "reference": null
     },
     {
+      "id": 8,
       "type": "multiple_choice",
       "question": "Uma criança de 6 anos é levada ao pediatra devido a uma progressiva instabilidade para andar, apresentando marcha com base alargada, oscilações frequentes do tronco mesmo quando sentada e quedas constantes. Ao exame neurológico, observa-se nistagmo e alteração no reflexo vestíbulo-ocular. Surpreendentemente, quando a criança está deitada no leito, os testes de coordenação (como índex-índex e calcanhar-joelho) são executados perfeitamente, sem tremores ou dismetria (incoordenação) nos membros. A ressonância magnética demonstra uma massa tumoral comprimindo seletivamente uma porção do cerebelo. Assinale a alternativa que explica a relação entre a localização do tumor com os sintomas descritos:",
-      "options": [
-        "Cerebrocerebelo (zona lateral), que recebe informações provenientes do cérebro (vias núcleos pontinos) e envia fibras para o núcleo denteado",
-        "Vestibulocerebelo, que recebe aferências dos núcleos vestibulares, projetando-se de volta a estes e ao núcleo fastigial",
-        "Espinocerebelo (zona medial), que recebe informações proprioceptivas e envia fibras para o núcleo interpósito",
-        "Espinocerebelo (zona intermédia), que processa sinais proprioceptivos dos tratos espinocerebelares e envia fibras para o núcleo rubro e tálamo"
-      ],
-      "correct_answer": "Vestibulocerebelo, que recebe aferências dos núcleos vestibulares, projetando-se de volta a estes e ao núcleo fastigial",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Cerebrocerebelo (zona lateral), que recebe informações provenientes do cérebro (vias núcleos pontinos) e envia fibras para o núcleo denteado",
+          "images": []
+        },
+        "b": {
+          "content": "Vestibulocerebelo, que recebe aferências dos núcleos vestibulares, projetando-se de volta a estes e ao núcleo fastigial",
+          "images": []
+        },
+        "c": {
+          "content": "Espinocerebelo (zona medial), que recebe informações proprioceptivas e envia fibras para o núcleo interpósito",
+          "images": []
+        },
+        "d": {
+          "content": "Espinocerebelo (zona intermédia), que processa sinais proprioceptivos dos tratos espinocerebelares e envia fibras para o núcleo rubro e tálamo",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "id": 8
+      "reference": null
     },
     {
+      "id": 9,
       "type": "multiple_choice",
       "question": "Um paciente de 69 anos, com histórico de hipertensão arterial mal controlada, é trazido ao pronto-socorro devido ao surgimento súbito de movimentos involuntários, violentos e de grande amplitude (em arranco ou arremesso) envolvendo o braço e a perna esquerdos. O exame físico confirma o diagnóstico de hemibalismo, na qual há lesão do núcleo subtalâmico. Por que o paciente apresenta os movimentos descritos no caso?",
-      "options": [
-        "Por uma redução da atividade gabaérgica do estriado sobre o globo pálido externo, o qual passa a ativar diretamente o córtex motor primário",
-        "Por uma hiperativação da via indireta, aumentando a atividade do globo pálido interno, o qual estimula o córtex motor",
-        "Por uma redução da atividade do globo pálido interno, o que reduz o a inibição desta estrutura sobre o tálamo",
-        "Por um bloqueio na liberação de acetilcolina pelos interneurônios estriatais, o que impede o núcleo subtalâmico de atuar sobre o globo pálido externo"
-      ],
-      "correct_answer": "Por uma redução da atividade do globo pálido interno, o que reduz o a inibição desta estrutura sobre o tálamo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Por uma redução da atividade gabaérgica do estriado sobre o globo pálido externo, o qual passa a ativar diretamente o córtex motor primário",
+          "images": []
+        },
+        "b": {
+          "content": "Por uma hiperativação da via indireta, aumentando a atividade do globo pálido interno, o qual estimula o córtex motor",
+          "images": []
+        },
+        "c": {
+          "content": "Por uma redução da atividade do globo pálido interno, o que reduz o a inibição desta estrutura sobre o tálamo",
+          "images": []
+        },
+        "d": {
+          "content": "Por um bloqueio na liberação de acetilcolina pelos interneurônios estriatais, o que impede o núcleo subtalâmico de atuar sobre o globo pálido externo",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
-      "reference": null,
-      "id": 9
+      "reference": null
     },
     {
+      "id": 10,
       "type": "multiple_choice",
       "question": "Um paciente de 52 anos apresenta dismetria (erra o alvo) acentuada e um tremor durante a tentativa de tocar o dedo do examinador com a mão esquerda. O exame neurológico revela também hipotonia muscular ipsilateral nesse mesmo membro. No entanto, o equilíbrio de tronco do paciente sentado está preservado e os movimentos oculares são normais. Uma ressonância magnética de crânio revela uma lesão isquêmica isolada na zona intermédia (paraverminiana) do cerebelo esquerdo. Os sintomas motores descritos são explicados pelo acometimento do:",
-      "options": [
-        "Espinocerebelo, que recebe aferências proprioceptivas da medula espinal e envia eferências para o núcleo rubro e tálamo (via núcleos interpósitos)",
-        "Cerebrocerebelo, que recebe projeções aferentes diretas do corno posterior da medula espinal e envia eferências através do núcleo fastigial para o giro pós-central",
-        "Espinocerebelo, que recebe aferências proprioceptivas da medula espinal e envia eferências via núcleo fastigial, controlando os motoneurônios mais mediais do corno ventral",
-        "Vestibulocerebelo, que processa estímulos originados no sistema vestibular e envia eferências os núcleos vestibulares"
-      ],
-      "correct_answer": "Espinocerebelo, que recebe aferências proprioceptivas da medula espinal e envia eferências para o núcleo rubro e tálamo (via núcleos interpósitos)",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Espinocerebelo, que recebe aferências proprioceptivas da medula espinal e envia eferências para o núcleo rubro e tálamo (via núcleos interpósitos)",
+          "images": []
+        },
+        "b": {
+          "content": "Cerebrocerebelo, que recebe projeções aferentes diretas do corno posterior da medula espinal e envia eferências através do núcleo fastigial para o giro pós-central",
+          "images": []
+        },
+        "c": {
+          "content": "Espinocerebelo, que recebe aferências proprioceptivas da medula espinal e envia eferências via núcleo fastigial, controlando os motoneurônios mais mediais do corno ventral",
+          "images": []
+        },
+        "d": {
+          "content": "Vestibulocerebelo, que processa estímulos originados no sistema vestibular e envia eferências os núcleos vestibulares",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 10
+      "reference": null
     },
     {
+      "id": 11,
       "type": "multiple_choice",
       "question": "Um paciente procura atendimento médico relatando perda visual. Durante a investigação, detecta-se uma lesão expansiva intracraniana, localizada na região central do quiasma óptico (comprimindo apenas as fibras que cruzam nesta região). Qual é a perda visual do paciente?",
-      "options": [
-        "Hemicampo nasal do olho esquerdo e temporal do olho direito",
-        "Hemicampos nasais de ambos os olhos",
-        "Hemicampos temporais de ambos os olhos",
-        "Hemicampo temporal do olho esquerdo e nasal do olho direito"
-      ],
-      "correct_answer": "Hemicampos temporais de ambos os olhos",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Hemicampo nasal do olho esquerdo e temporal do olho direito",
+          "images": []
+        },
+        "b": {
+          "content": "Hemicampos nasais de ambos os olhos",
+          "images": []
+        },
+        "c": {
+          "content": "Hemicampos temporais de ambos os olhos",
+          "images": []
+        },
+        "d": {
+          "content": "Hemicampo temporal do olho esquerdo e nasal do olho direito",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
-      "reference": null,
-      "id": 11
+      "reference": null
     },
     {
+      "id": 12,
       "type": "multiple_choice",
       "question": "Um paciente comparece ao consultório médico queixando-se de um tremor involuntário nos momentos em que está em repouso. O exame físico mostrou além do tremor de repouso, bradicinesia (lentificação de movimentos). O diagnóstico foi de doença de Parkinson, uma patologia que cursa com a morte de neurônios dopaminérgicos da substância negra. Por que o paciente apresenta bradicinesia?",
-      "options": [
-        "Pois com a falta de dopamina da via mesolímbica a atividade da via direta estará reduzida e da via indireta aumentada.",
-        "Pois a dopamina aumenta a atividade da via direta e reduz a atividade da via indireta, assim, com a falta deste neurotransmissor, a atividade da via direta estará reduzida e da via indireta aumentada.",
-        "Pois a dopamina reduz a atividade da via direta e aumenta a atividade da via indireta, assim, com a falta deste neurotransmissor, a atividade da via direta estará aumentada e da via indireta reduzida.",
-        "Pois com a falta de dopamina da via mesolímbica a atividade da via direta estará aumentada e da via indireta reduzida."
-      ],
-      "correct_answer": "Pois a dopamina aumenta a atividade da via direta e reduz a atividade da via indireta, assim, com a falta deste neurotransmissor, a atividade da via direta estará reduzida e da via indireta aumentada.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Pois com a falta de dopamina da via mesolímbica a atividade da via direta estará reduzida e da via indireta aumentada.",
+          "images": []
+        },
+        "b": {
+          "content": "Pois a dopamina aumenta a atividade da via direta e reduz a atividade da via indireta, assim, com a falta deste neurotransmissor, a atividade da via direta estará reduzida e da via indireta aumentada.",
+          "images": []
+        },
+        "c": {
+          "content": "Pois a dopamina reduz a atividade da via direta e aumenta a atividade da via indireta, assim, com a falta deste neurotransmissor, a atividade da via direta estará aumentada e da via indireta reduzida.",
+          "images": []
+        },
+        "d": {
+          "content": "Pois com a falta de dopamina da via mesolímbica a atividade da via direta estará aumentada e da via indireta reduzida.",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "id": 12
+      "reference": null
     },
     {
+      "id": 13,
       "type": "multiple_choice",
       "question": "Paciente vítima de acidente automobilístico com capotamento, apresenta perda de movimento e sensibilidade. Ao exame físico, identifica-se paresia (fraqueza muscular) no membro inferior esquerdo, não se observa alterações em musculatura axial. Exames de imagem mostraram fratura de vértebra com compressão medular. Em relação à motricidade, quais fibras foram acometidas?",
-      "options": [
-        "Fibras do funículo anterior direito",
-        "Fibras do funículo lateral direito",
-        "Fibras do funículo anterior esquerdo",
-        "Fibras do funículo lateral esquerdo"
-      ],
-      "correct_answer": "Fibras do funículo lateral esquerdo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Fibras do funículo anterior direito",
+          "images": []
+        },
+        "b": {
+          "content": "Fibras do funículo lateral direito",
+          "images": []
+        },
+        "c": {
+          "content": "Fibras do funículo anterior esquerdo",
+          "images": []
+        },
+        "d": {
+          "content": "Fibras do funículo lateral esquerdo",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "id": 13
+      "reference": null
     },
     {
+      "id": 14,
       "type": "multiple_choice",
       "question": "Durante avaliação do reflexo fotomotor o neurologista observou que a pupila esquerda não reagia com miose independentemente do olho estimulado com o feixe de luz da lanterna. Ou seja, quando a luz era direcionada para o olho esquerdo, apenas o olho direito respondia com miose. E quando a luz era direcionada para o olho direito, também apenas o olho direito respondia com miose. Qual a conclusão do médico?",
-      "options": [
-        "Lesão da via aferente do reflexo (n. óptico - II par) do olho esquerdo",
-        "Lesão da via eferente do reflexo (n. oculomotor - III par) do olho esquerdo",
-        "Lesão da via eferente do reflexo (n. oculomotor - III par) do olho direito",
-        "Lesão da via aferente do reflexo (n. óptico - II par) do olho direito"
-      ],
-      "correct_answer": "Lesão da via eferente do reflexo (n. oculomotor - III par) do olho esquerdo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Lesão da via aferente do reflexo (n. óptico - II par) do olho esquerdo",
+          "images": []
+        },
+        "b": {
+          "content": "Lesão da via eferente do reflexo (n. oculomotor - III par) do olho esquerdo",
+          "images": []
+        },
+        "c": {
+          "content": "Lesão da via eferente do reflexo (n. oculomotor - III par) do olho direito",
+          "images": []
+        },
+        "d": {
+          "content": "Lesão da via aferente do reflexo (n. óptico - II par) do olho direito",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "id": 14
+      "reference": null
     },
     {
+      "id": 15,
       "type": "multiple_choice",
       "question": "Ao bater o pé na mesa uma mulher sentiu uma forte dor. Nesse momento, esfregou seu pé com a mão, percebendo que a dor diminuiu de intensidade. Isso ocorre porque:",
-      "options": [
-        "as fibras A-beta promovem a excitação do interneurônio inibitório no corno posterior da medula",
-        "as fibras A-delta promovem a inibição do interneurônio inibitório no corno posterior da medula",
-        "as fibras A-delta promovem a excitação do interneurônio inibitório no corno posterior da medula",
-        "as fibras A-beta promovem a inibição do interneurônio inibitório no corno posterior da medula"
-      ],
-      "correct_answer": "as fibras A-beta promovem a excitação do interneurônio inibitório no corno posterior da medula",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "as fibras A-beta promovem a excitação do interneurônio inibitório no corno posterior da medula",
+          "images": []
+        },
+        "b": {
+          "content": "as fibras A-delta promovem a inibição do interneurônio inibitório no corno posterior da medula",
+          "images": []
+        },
+        "c": {
+          "content": "as fibras A-delta promovem a excitação do interneurônio inibitório no corno posterior da medula",
+          "images": []
+        },
+        "d": {
+          "content": "as fibras A-beta promovem a inibição do interneurônio inibitório no corno posterior da medula",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
-      "reference": null,
-      "id": 15
+      "reference": null
     },
     {
+      "id": 16,
       "type": "free_response",
+      "case_context": "Paciente aposentado procurou atendimento médico queixando-se de perda de equilíbrio. Ele relata que precisa olhar para o chão para evitar quedas. Relata relações extraconjugais enquanto ainda trabalhava.\n No exame físico:\nTeste de tato epicrítico se mostrou alterado. \nTeste de Romberg: para avaliar o equilíbrio, o médico pediu para o paciente ficar em pé com os olhos fechados e observou sua oscilação. Durante este teste é possível observar a integridade do sistema proprioceptivo e vestibular. O teste mostrou alteração na propriocepção.\nTeste de sensibilidade vibratória alterada.\nForça muscular preservada.\nAvaliação do reflexo miotático (reflexo patelar): médico estimulou o tendão do m. quadríceps, observando uma leve contração deste músculo (hiporreflexia).\nExames de imagem mostraram lesão medular comprometendo raízes nervosas sensoriais e um dos funículos medulares.",
       "question": "Durante a avaliação do reflexo, qual receptor e qual fibra aferente foi estimulada?",
+      "images": [],
       "correct_answer": "Fuso muscular e fibra Ia",
       "explanation": "Padrão de correção: 50% - fuso muscular\n50% - fibra Ia",
-      "reference": null,
-      "case_context": "Paciente aposentado procurou atendimento médico queixando-se de perda de equilíbrio. Ele relata que precisa olhar para o chão para evitar quedas. Relata relações extraconjugais enquanto ainda trabalhava.\n No exame físico:\nTeste de tato epicrítico se mostrou alterado. \nTeste de Romberg: para avaliar o equilíbrio, o médico pediu para o paciente ficar em pé com os olhos fechados e observou sua oscilação. Durante este teste é possível observar a integridade do sistema proprioceptivo e vestibular. O teste mostrou alteração na propriocepção.\nTeste de sensibilidade vibratória alterada.\nForça muscular preservada.\nAvaliação do reflexo miotático (reflexo patelar): médico estimulou o tendão do m. quadríceps, observando uma leve contração deste músculo (hiporreflexia).\nExames de imagem mostraram lesão medular comprometendo raízes nervosas sensoriais e um dos funículos medulares.",
-      "id": 16
+      "reference": null
     },
     {
+      "id": 17,
       "type": "free_response",
+      "case_context": "Paciente aposentado procurou atendimento médico queixando-se de perda de equilíbrio. Ele relata que precisa olhar para o chão para evitar quedas. Relata relações extraconjugais enquanto ainda trabalhava.\n No exame físico:\nTeste de tato epicrítico se mostrou alterado. \nTeste de Romberg: para avaliar o equilíbrio, o médico pediu para o paciente ficar em pé com os olhos fechados e observou sua oscilação. Durante este teste é possível observar a integridade do sistema proprioceptivo e vestibular. O teste mostrou alteração na propriocepção.\nTeste de sensibilidade vibratória alterada.\nForça muscular preservada.\nAvaliação do reflexo miotático (reflexo patelar): médico estimulou o tendão do m. quadríceps, observando uma leve contração deste músculo (hiporreflexia).\nExames de imagem mostraram lesão medular comprometendo raízes nervosas sensoriais e um dos funículos medulares.",
       "question": "Por que o paciente apresentou hiporreflexia?",
+      "images": [],
       "correct_answer": "Devido à lesão das fibras aferentes (Ia) do reflexo miotático",
       "explanation": "Padrão de correção: lesão fibra Ia ou lesão fibra aferente - 100% da correção",
-      "reference": null,
-      "case_context": "Paciente aposentado procurou atendimento médico queixando-se de perda de equilíbrio. Ele relata que precisa olhar para o chão para evitar quedas. Relata relações extraconjugais enquanto ainda trabalhava.\n No exame físico:\nTeste de tato epicrítico se mostrou alterado. \nTeste de Romberg: para avaliar o equilíbrio, o médico pediu para o paciente ficar em pé com os olhos fechados e observou sua oscilação. Durante este teste é possível observar a integridade do sistema proprioceptivo e vestibular. O teste mostrou alteração na propriocepção.\nTeste de sensibilidade vibratória alterada.\nForça muscular preservada.\nAvaliação do reflexo miotático (reflexo patelar): médico estimulou o tendão do m. quadríceps, observando uma leve contração deste músculo (hiporreflexia).\nExames de imagem mostraram lesão medular comprometendo raízes nervosas sensoriais e um dos funículos medulares.",
-      "id": 17
+      "reference": null
     },
     {
+      "id": 18,
       "type": "free_response",
+      "case_context": "Caso A\nUm homem apresenta desvio da comissura labial para a direita e dificuldade para movimentar o lado esquerdo da boca. Ao exame, observa-se que ele consegue fechar ambos os olhos e franzir a testa simetricamente. O restante do exame neurológico revela fraqueza leve no braço e perna esquerdos.\nCaso B\nUma mulher apresenta paralisia completa do lado direito da face. Ao exame, há incapacidade de fechar o olho direito e desvio da boca para a esquerda. Não há alterações motoras em membros.",
       "question": "Qual dos casos se trata de uma paralisia facial central e qual se trata de uma paralisia facial periférica?",
+      "images": [],
       "correct_answer": "Caso A - central\nCaso B - periférica",
       "explanation": "Padrão de correção: caso A - central - 50% da pontuação\ncaso B - periférica - 50% da pontuação",
-      "reference": null,
-      "case_context": "Caso A\nUm homem apresenta desvio da comissura labial para a direita e dificuldade para movimentar o lado esquerdo da boca. Ao exame, observa-se que ele consegue fechar ambos os olhos e franzir a testa simetricamente. O restante do exame neurológico revela fraqueza leve no braço e perna esquerdos.\nCaso B\nUma mulher apresenta paralisia completa do lado direito da face. Ao exame, há incapacidade de fechar o olho direito e desvio da boca para a esquerda. Não há alterações motoras em membros.",
-      "id": 18
+      "reference": null
     },
     {
+      "id": 19,
       "type": "free_response",
+      "case_context": "Caso A\nUm homem apresenta desvio da comissura labial para a direita e dificuldade para movimentar o lado esquerdo da boca. Ao exame, observa-se que ele consegue fechar ambos os olhos e franzir a testa simetricamente. O restante do exame neurológico revela fraqueza leve no braço e perna esquerdos.\nCaso B\nUma mulher apresenta paralisia completa do lado direito da face. Ao exame, há incapacidade de fechar o olho direito e desvio da boca para a esquerda. Não há alterações motoras em membros.",
       "question": "Relacione o trajeto das fibras do trato corticonuclear (córtex motor com núcleo do n. facial) com os sintomas do caso da paralisia facial central",
+      "images": [],
       "correct_answer": "As fibras do trato corticonuclear responsáveis pela inervação dos quadrantes superiores da face são bilaterais. Enquanto as fibras responsáveis pela inervação do quadrante inferior é contralateral",
       "explanation": "Padrão de correção: 50% da pontuação - fibras dos quadrantes superiores são bilaterais\n50% da pontuação - fibras do quadrante inferior são contralaterais",
-      "reference": null,
-      "case_context": "Caso A\nUm homem apresenta desvio da comissura labial para a direita e dificuldade para movimentar o lado esquerdo da boca. Ao exame, observa-se que ele consegue fechar ambos os olhos e franzir a testa simetricamente. O restante do exame neurológico revela fraqueza leve no braço e perna esquerdos.\nCaso B\nUma mulher apresenta paralisia completa do lado direito da face. Ao exame, há incapacidade de fechar o olho direito e desvio da boca para a esquerda. Não há alterações motoras em membros.",
-      "id": 19
+      "reference": null
     }
   ]
 }

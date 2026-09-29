@@ -6,13 +6,26 @@
       "id": 1,
       "type": "multiple_choice",
       "question": "As fibras que conduzem impulsos de dor e temperatura no sistema nervoso periférico são classificadas principalmente como:",
-      "options": [
-        "A-beta e A-delta",
-        "C e A-beta",
-        "C e A-delta",
-        "C e A-alfa"
-      ],
-      "correct_answer": "C e A-delta",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "A-beta e A-delta",
+          "images": []
+        },
+        "b": {
+          "content": "C e A-beta",
+          "images": []
+        },
+        "c": {
+          "content": "C e A-delta",
+          "images": []
+        },
+        "d": {
+          "content": "C e A-alfa",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
       "reference": null
     },
@@ -20,13 +33,26 @@
       "id": 2,
       "type": "multiple_choice",
       "question": "A 'dor referida', como a sentida no braço esquerdo durante um infarto do miocárdio, ocorre devido a qual mecanismo neuroanatômico?",
-      "options": [
-        "Ativação de fusos neuromusculares por mediadores inflamatórios",
-        "Lesão direta dos nervos espinais torácicos pela isquemia",
-        "Reflexo axônico nas fibras motoras",
-        "Convergência de neurônios aferentes viscerais e somáticos no mesmo neurônio de projeção medular"
-      ],
-      "correct_answer": "Convergência de neurônios aferentes viscerais e somáticos no mesmo neurônio de projeção medular",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Ativação de fusos neuromusculares por mediadores inflamatórios",
+          "images": []
+        },
+        "b": {
+          "content": "Lesão direta dos nervos espinais torácicos pela isquemia",
+          "images": []
+        },
+        "c": {
+          "content": "Reflexo axônico nas fibras motoras",
+          "images": []
+        },
+        "d": {
+          "content": "Convergência de neurônios aferentes viscerais e somáticos no mesmo neurônio de projeção medular",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
       "reference": null
     },
@@ -34,13 +60,26 @@
       "id": 3,
       "type": "multiple_choice",
       "question": "Uma pessoa se cortou por acidente enquanto cozinhava. Ela relatou que sentia uma dor maior do que o normal não apenas no local da lesão, mas também em volta dela. Qual o nome deste fenômeno? E por que isso acontece?",
-      "options": [
-        "analgesia, pois os nociceptores mecânicos liberam substância P, a qual inibe esses mesmos nociceptores",
-        "analgesia, pois os nociceptores mecânicos liberam prostaglandina, reduzindo a atividade do segundo neurônio da via da dor",
-        "hiperalgesia, pois a lesão tecidual libera substâncias químicas, a qual estimula nociceptores associados às fibras C",
-        "hiperalgesia, pois a lesão tecidual estimula apenas nociceptores mecânicos"
-      ],
-      "correct_answer": "hiperalgesia, pois a lesão tecidual libera substâncias químicas, a qual estimula nociceptores associados às fibras C",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "analgesia, pois os nociceptores mecânicos liberam substância P, a qual inibe esses mesmos nociceptores",
+          "images": []
+        },
+        "b": {
+          "content": "analgesia, pois os nociceptores mecânicos liberam prostaglandina, reduzindo a atividade do segundo neurônio da via da dor",
+          "images": []
+        },
+        "c": {
+          "content": "hiperalgesia, pois a lesão tecidual libera substâncias químicas, a qual estimula nociceptores associados às fibras C",
+          "images": []
+        },
+        "d": {
+          "content": "hiperalgesia, pois a lesão tecidual estimula apenas nociceptores mecânicos",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
       "reference": null
     },
@@ -48,13 +87,26 @@
       "id": 4,
       "type": "multiple_choice",
       "question": "No caso da pessoa que se cortou por acidente enquanto cozinhava. A lesão tecidual estimula receptores polimodais, a qual está relacionada:",
-      "options": [
-        "ao processo de sensibilização periférica da analgesia",
-        "ao processo de sensibilização periférica da hiperalgesia",
-        "ao processo de sensibilização central da hiperalgesia",
-        "ao processo de sensibilização central da analgesia"
-      ],
-      "correct_answer": "ao processo de sensibilização periférica da hiperalgesia",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "ao processo de sensibilização periférica da analgesia",
+          "images": []
+        },
+        "b": {
+          "content": "ao processo de sensibilização periférica da hiperalgesia",
+          "images": []
+        },
+        "c": {
+          "content": "ao processo de sensibilização central da hiperalgesia",
+          "images": []
+        },
+        "d": {
+          "content": "ao processo de sensibilização central da analgesia",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -62,13 +114,26 @@
       "id": 5,
       "type": "multiple_choice",
       "question": "A liberação central de BDNF, o qual estimula o segundo neurônio da via da dor está associada:",
-      "options": [
-        "à redução da atividade do terceiro neurônio da via da dor, presente no tálamo",
-        "à origem central da hiperalgesia, na qual há adaptação central",
-        "à origem central da hiperalgesia, na qual há sensibilização central",
-        "à liberação de bradicinina, a qual estimula o nociceptor polimodal"
-      ],
-      "correct_answer": "à origem central da hiperalgesia, na qual há sensibilização central",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "à redução da atividade do terceiro neurônio da via da dor, presente no tálamo",
+          "images": []
+        },
+        "b": {
+          "content": "à origem central da hiperalgesia, na qual há adaptação central",
+          "images": []
+        },
+        "c": {
+          "content": "à origem central da hiperalgesia, na qual há sensibilização central",
+          "images": []
+        },
+        "d": {
+          "content": "à liberação de bradicinina, a qual estimula o nociceptor polimodal",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
       "reference": null
     },
@@ -76,72 +141,137 @@
       "id": 6,
       "type": "multiple_choice",
       "question": "Paciente procura atendimento por dor lombar crônica há 8 meses após um episódio de levantamento de peso. Relata que inicialmente a dor era suportável e melhorava com analgésicos simples. No entanto, nas últimas semanas, a dor piorou significativamente, apesar do uso de medicação e fisioterapia. Ela descreve a dor como um \"sofrimento constante e desgastante\" e afirma que não consegue mais dormir, perdeu o apetite e sente-se desmotivada para atividades diárias. Qual via está relacionada ao caso descrito?",
-      "options": [
-        "Via neoespinotalâmica, a qual está relacionada com a ativação de estruturas do sistema límbico, como a amígdala a córtex cingulado anterior",
-        "Via paleoespinotalâmica, a qual está relacionada com a ativação de fibras A-beta, as quais cruzam no bulbo e terminam com a ativação de estruturas do sistema límbico",
-        "Via paleoespinotalâmica, a qual está relacionada com a ativação de estruturas do sistema límbico, como a amígdala a córtex cingulado anterior",
-        "Via neoespinotalâmica, a qual está relacionada com a ativação de fibras A-beta, as quais cruzam no bulbo e terminam com a ativação de estruturas do sistema límbico"
-      ],
-      "correct_answer": "Via paleoespinotalâmica, a qual está relacionada com a ativação de estruturas do sistema límbico, como a amígdala a córtex cingulado anterior",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Via neoespinotalâmica, a qual está relacionada com a ativação de estruturas do sistema límbico, como a amígdala a córtex cingulado anterior",
+          "images": []
+        },
+        "b": {
+          "content": "Via paleoespinotalâmica, a qual está relacionada com a ativação de fibras A-beta, as quais cruzam no bulbo e terminam com a ativação de estruturas do sistema límbico",
+          "images": []
+        },
+        "c": {
+          "content": "Via paleoespinotalâmica, a qual está relacionada com a ativação de estruturas do sistema límbico, como a amígdala a córtex cingulado anterior",
+          "images": []
+        },
+        "d": {
+          "content": "Via neoespinotalâmica, a qual está relacionada com a ativação de fibras A-beta, as quais cruzam no bulbo e terminam com a ativação de estruturas do sistema límbico",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
       "reference": null
     },
     {
       "id": 7,
       "type": "multiple_choice",
+      "case_context": "Um homem de 68 anos, portador de espondiloartrose lombar grave, é admitido na unidade de pronto atendimento com quadro de dor aguda incapacitante. Após falha terapêutica com anti-inflamatórios não esteroidais e dipirona, a equipe opta pela administração de um agonista opioide por via intravenosa. Após o início da terapia, o paciente apresenta melhora expressiva da dor. Sabe-se que o opioide utilizado exerce parte de seu efeito analgésico na medula espinhal, modulando a transmissão nociceptiva.",
       "question": "Em qual local específico da medula espinal o medicamento atua para modular a transmissão da dor?",
-      "options": [
-        "Coluna intermediolateral",
-        "Trato corticoespinal anterior",
-        "Comissura branca",
-        "Corno posterior"
-      ],
-      "correct_answer": "Corno posterior",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Coluna intermediolateral",
+          "images": []
+        },
+        "b": {
+          "content": "Trato corticoespinal anterior",
+          "images": []
+        },
+        "c": {
+          "content": "Comissura branca",
+          "images": []
+        },
+        "d": {
+          "content": "Corno posterior",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
-      "reference": null,
-      "case_context": "Um homem de 68 anos, portador de espondiloartrose lombar grave, é admitido na unidade de pronto atendimento com quadro de dor aguda incapacitante. Após falha terapêutica com anti-inflamatórios não esteroidais e dipirona, a equipe opta pela administração de um agonista opioide por via intravenosa. Após o início da terapia, o paciente apresenta melhora expressiva da dor. Sabe-se que o opioide utilizado exerce parte de seu efeito analgésico na medula espinhal, modulando a transmissão nociceptiva."
+      "reference": null
     },
     {
       "id": 8,
       "type": "multiple_choice",
+      "case_context": "Um homem de 68 anos, portador de espondiloartrose lombar grave, é admitido na unidade de pronto atendimento com quadro de dor aguda incapacitante. Após falha terapêutica com anti-inflamatórios não esteroidais e dipirona, a equipe opta pela administração de um agonista opioide por via intravenosa. Após o início da terapia, o paciente apresenta melhora expressiva da dor. Sabe-se que o opioide utilizado exerce parte de seu efeito analgésico na medula espinhal, modulando a transmissão nociceptiva.",
       "question": "Qual é o principal mecanismo de ação do medicamento utilizado no neurônio de primeira ordem?",
-      "options": [
-        "Aumento do influxo de cálcio na membrana pré-sináptica",
-        "Despolarização da membrana pré-sináptica",
-        "Redução da liberação de neurotransmissores excitatórios",
-        "Aumento da expressão de canais de sódio voltagem-dependentes"
-      ],
-      "correct_answer": "Redução da liberação de neurotransmissores excitatórios",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Aumento do influxo de cálcio na membrana pré-sináptica",
+          "images": []
+        },
+        "b": {
+          "content": "Despolarização da membrana pré-sináptica",
+          "images": []
+        },
+        "c": {
+          "content": "Redução da liberação de neurotransmissores excitatórios",
+          "images": []
+        },
+        "d": {
+          "content": "Aumento da expressão de canais de sódio voltagem-dependentes",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": null,
-      "reference": null,
-      "case_context": "Um homem de 68 anos, portador de espondiloartrose lombar grave, é admitido na unidade de pronto atendimento com quadro de dor aguda incapacitante. Após falha terapêutica com anti-inflamatórios não esteroidais e dipirona, a equipe opta pela administração de um agonista opioide por via intravenosa. Após o início da terapia, o paciente apresenta melhora expressiva da dor. Sabe-se que o opioide utilizado exerce parte de seu efeito analgésico na medula espinhal, modulando a transmissão nociceptiva."
+      "reference": null
     },
     {
       "id": 9,
       "type": "multiple_choice",
+      "case_context": "Um homem de 68 anos, portador de espondiloartrose lombar grave, é admitido na unidade de pronto atendimento com quadro de dor aguda incapacitante. Após falha terapêutica com anti-inflamatórios não esteroidais e dipirona, a equipe opta pela administração de um agonista opioide por via intravenosa. Após o início da terapia, o paciente apresenta melhora expressiva da dor. Sabe-se que o opioide utilizado exerce parte de seu efeito analgésico na medula espinhal, modulando a transmissão nociceptiva.",
       "question": "Como o medicamento utilizado atua no neurônio de segunda ordem na medula?",
-      "options": [
-        "aumento do influxo de cálcio",
-        "abertura dos canais de potássio, causando hiperpolarização",
-        "fechamento dos canais de potássio, causando despolarização",
-        "despolarização do neurônio pré-sináptico"
-      ],
-      "correct_answer": "abertura dos canais de potássio, causando hiperpolarização",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "aumento do influxo de cálcio",
+          "images": []
+        },
+        "b": {
+          "content": "abertura dos canais de potássio, causando hiperpolarização",
+          "images": []
+        },
+        "c": {
+          "content": "fechamento dos canais de potássio, causando despolarização",
+          "images": []
+        },
+        "d": {
+          "content": "despolarização do neurônio pré-sináptico",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
-      "reference": null,
-      "case_context": "Um homem de 68 anos, portador de espondiloartrose lombar grave, é admitido na unidade de pronto atendimento com quadro de dor aguda incapacitante. Após falha terapêutica com anti-inflamatórios não esteroidais e dipirona, a equipe opta pela administração de um agonista opioide por via intravenosa. Após o início da terapia, o paciente apresenta melhora expressiva da dor. Sabe-se que o opioide utilizado exerce parte de seu efeito analgésico na medula espinhal, modulando a transmissão nociceptiva."
+      "reference": null
     },
     {
       "id": 10,
       "type": "multiple_choice",
       "question": "Qual será o resultado na medula espinal após o uso de um fármaco opiode sobre a substância cinzenta periaquedutal (PAG)?",
-      "options": [
-        "neurônios dopaminérgicos do Locus ceruleus são estimulados, inibindo o segundo neurônio da via da dor",
-        "ativação do neurônio que libera encefalina, a qual atua em receptores opioides no primeiro e segundo neurônio da via da dor",
-        "fibras A-beta irão estimular o segundo neurônio da via da dor, reduzindo a sensação dolorosa",
-        "o neurônio encefalinérgico estimula o segundo neurônio da via da dor, reduzindo a sensação dolorosa"
-      ],
-      "correct_answer": "ativação do neurônio que libera encefalina, a qual atua em receptores opioides no primeiro e segundo neurônio da via da dor",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "neurônios dopaminérgicos do Locus ceruleus são estimulados, inibindo o segundo neurônio da via da dor",
+          "images": []
+        },
+        "b": {
+          "content": "ativação do neurônio que libera encefalina, a qual atua em receptores opioides no primeiro e segundo neurônio da via da dor",
+          "images": []
+        },
+        "c": {
+          "content": "fibras A-beta irão estimular o segundo neurônio da via da dor, reduzindo a sensação dolorosa",
+          "images": []
+        },
+        "d": {
+          "content": "o neurônio encefalinérgico estimula o segundo neurônio da via da dor, reduzindo a sensação dolorosa",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -149,13 +279,26 @@
       "id": 11,
       "type": "multiple_choice",
       "question": "Paciente apresentava muita dor no ombro, por isso, o médico indicou fisioterapia. Foi realizado TENS para reduzir a dor do paciente. Sabendo que o TENS estimula fibras táteis, por que há redução da dor?",
-      "options": [
-        "pelo aumento da atividade do neurônio da dor localizado na substância cinzenta periaquedutal",
-        "pela redução da atividade do segundo neurônio da dor, localizado no corno dorsal",
-        "pela redução da atividade do neurônio da dor localizado na substância cinzenta periaquedutal",
-        "pelo aumento da atividade do segundo neurônio da dor, localizado no corno dorsal"
-      ],
-      "correct_answer": "pela redução da atividade do segundo neurônio da dor, localizado no corno dorsal",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "pelo aumento da atividade do neurônio da dor localizado na substância cinzenta periaquedutal",
+          "images": []
+        },
+        "b": {
+          "content": "pela redução da atividade do segundo neurônio da dor, localizado no corno dorsal",
+          "images": []
+        },
+        "c": {
+          "content": "pela redução da atividade do neurônio da dor localizado na substância cinzenta periaquedutal",
+          "images": []
+        },
+        "d": {
+          "content": "pelo aumento da atividade do segundo neurônio da dor, localizado no corno dorsal",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -163,13 +306,26 @@
       "id": 12,
       "type": "multiple_choice",
       "question": "Em relação à regulação do ciclo vigília-sono, qual a função do núcleo supraquiasmático do hipotálamo?",
-      "options": [
-        "atuar como o principal marcapasso dos ritmos circadianos sincronizando-os com o ciclo claro-escuro",
-        "secretar melatonina diretamente na corrente sanguínea ao entardecer",
-        "promover a vigília através da liberaçÃo de noradrenalina para todo o córtex cerebral",
-        "gerar a atonia muscular característica do sono REM por meio de projeções para a medula espinal"
-      ],
-      "correct_answer": "atuar como o principal marcapasso dos ritmos circadianos sincronizando-os com o ciclo claro-escuro",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "atuar como o principal marcapasso dos ritmos circadianos sincronizando-os com o ciclo claro-escuro",
+          "images": []
+        },
+        "b": {
+          "content": "secretar melatonina diretamente na corrente sanguínea ao entardecer",
+          "images": []
+        },
+        "c": {
+          "content": "promover a vigília através da liberaçÃo de noradrenalina para todo o córtex cerebral",
+          "images": []
+        },
+        "d": {
+          "content": "gerar a atonia muscular característica do sono REM por meio de projeções para a medula espinal",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -177,13 +333,26 @@
       "id": 13,
       "type": "multiple_choice",
       "question": "Paciente do sexo masculino, 35 anos, apresentou-se no ambulatório de distúrbios do sono do Hospital Universitário de Brasília com queixas de hipersonolência diurna, roncos e pausas respiratórias noturnas, bem como ataques de sono. O paciente foi submetido a um estudo polissonográfico do sono (EEG, EOG, EMG). O médico observou o sono REM do paciente, percebendo que estava normal. Como estava cada componente do exame nessa fase do sono ?",
-      "options": [
-        "EEG: dessincronizado; EOG: movimento rápido dos olhos, EMG: atonia muscular",
-        "EEG: dessincronizado; EOG: ausência de movimentos oculares; EMG: aumento do tônus muscular",
-        "EEG: sincronizado; EOG: ausência de movimentos oculares; EMG: aumento do tônus muscular",
-        "EEG: sincronizado; EOG: movimento rápido dos olhos; EMG: atonia muscular"
-      ],
-      "correct_answer": "EEG: dessincronizado; EOG: movimento rápido dos olhos, EMG: atonia muscular",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "EEG: dessincronizado; EOG: movimento rápido dos olhos, EMG: atonia muscular",
+          "images": []
+        },
+        "b": {
+          "content": "EEG: dessincronizado; EOG: ausência de movimentos oculares; EMG: aumento do tônus muscular",
+          "images": []
+        },
+        "c": {
+          "content": "EEG: sincronizado; EOG: ausência de movimentos oculares; EMG: aumento do tônus muscular",
+          "images": []
+        },
+        "d": {
+          "content": "EEG: sincronizado; EOG: movimento rápido dos olhos; EMG: atonia muscular",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -191,13 +360,26 @@
       "id": 14,
       "type": "multiple_choice",
       "question": "Um estudante de medicina de 22 anos participa de um estudo em um laboratório de polissonografia. Durante a monitorização, o pesquisador observa um período caracterizado por um traçado sincronizado no eletroencefalograma (EEG), acompanhadas de redução do tônus muscular (embora não haja atonia completa), bradicardia e redução de frequência respiratória.\nCom base nas características descritas, assinale a alternativa correta:",
-      "options": [
-        "O estágio descrito corresponde ao sono de ondas lentas (não-REM), no qual os sonhos vívidos não são frequentes.",
-        "Os achados descritos são típicos do sono não-REM, no qual há movimento rápido dos olhos",
-        "O estágio descrito corresponde ao sono REM, no qual dessincronização do traçado eletroencefalográfico.",
-        "Durante essa fase do sono não-REM, ocorre um predomínio de descarga do sistema nervoso simpático, justificando a estabilidade hemodinâmica observada no paciente."
-      ],
-      "correct_answer": "O estágio descrito corresponde ao sono de ondas lentas (não-REM), no qual os sonhos vívidos não são frequentes.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "O estágio descrito corresponde ao sono de ondas lentas (não-REM), no qual os sonhos vívidos não são frequentes.",
+          "images": []
+        },
+        "b": {
+          "content": "Os achados descritos são típicos do sono não-REM, no qual há movimento rápido dos olhos",
+          "images": []
+        },
+        "c": {
+          "content": "O estágio descrito corresponde ao sono REM, no qual dessincronização do traçado eletroencefalográfico.",
+          "images": []
+        },
+        "d": {
+          "content": "Durante essa fase do sono não-REM, ocorre um predomínio de descarga do sistema nervoso simpático, justificando a estabilidade hemodinâmica observada no paciente.",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -205,13 +387,26 @@
       "id": 15,
       "type": "multiple_choice",
       "question": "O que é o SARA (Sistema Ativador Reticular Ascendente)?",
-      "options": [
-        "sistema responsável pela modulação da dor, possui apenas neurônio colinérgicos",
-        "sistema responsável pelo controle do sono/vigília, composto pelo locus ceruleus, núcleos da rafe, núcleo tegmentar pedúnculopontino e neurônios dopaminérgicos",
-        "sistema responsável pelo controle do sono/vigília, composto pela área tegmentar ventral; núcleo túberomamilar e núcleo basal de Meynert",
-        "sistema responsável pela modulação da dor, emoções, composto pela amígdala e córtex cingulado anterior"
-      ],
-      "correct_answer": "sistema responsável pelo controle do sono/vigília, composto pelo locus ceruleus, núcleos da rafe, núcleo tegmentar pedúnculopontino e neurônios dopaminérgicos",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "sistema responsável pela modulação da dor, possui apenas neurônio colinérgicos",
+          "images": []
+        },
+        "b": {
+          "content": "sistema responsável pelo controle do sono/vigília, composto pelo locus ceruleus, núcleos da rafe, núcleo tegmentar pedúnculopontino e neurônios dopaminérgicos",
+          "images": []
+        },
+        "c": {
+          "content": "sistema responsável pelo controle do sono/vigília, composto pela área tegmentar ventral; núcleo túberomamilar e núcleo basal de Meynert",
+          "images": []
+        },
+        "d": {
+          "content": "sistema responsável pela modulação da dor, emoções, composto pela amígdala e córtex cingulado anterior",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "explanation": null,
       "reference": null
     },
@@ -219,13 +414,26 @@
       "id": 16,
       "type": "multiple_choice",
       "question": "Qual neurotransmissor, produzido pelos núcleos da rafe, está envolvido tanto na indução do sono quanto na modulação da dor?",
-      "options": [
-        "acetilcolina",
-        "noradrenalina",
-        "GABA",
-        "serotonina"
-      ],
-      "correct_answer": "serotonina",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "acetilcolina",
+          "images": []
+        },
+        "b": {
+          "content": "noradrenalina",
+          "images": []
+        },
+        "c": {
+          "content": "GABA",
+          "images": []
+        },
+        "d": {
+          "content": "serotonina",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "explanation": null,
       "reference": null
     },
@@ -233,13 +441,26 @@
       "id": 17,
       "type": "multiple_choice",
       "question": "Assinale a alternativa correta sobre o núcleo tegmentar pedúnculo-pontino:",
-      "options": [
-        "é responsável pela atonia presente no sono REM",
-        "possui neurônios noradrenérgicos que se projetam para várias regiões do encéfalo",
-        "é responsável pela ausência de movimentação ocular do sono não-REM",
-        "é exclusivamente responsável pela manutenção da vigília"
-      ],
-      "correct_answer": "é responsável pela atonia presente no sono REM",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "é responsável pela atonia presente no sono REM",
+          "images": []
+        },
+        "b": {
+          "content": "possui neurônios noradrenérgicos que se projetam para várias regiões do encéfalo",
+          "images": []
+        },
+        "c": {
+          "content": "é responsável pela ausência de movimentação ocular do sono não-REM",
+          "images": []
+        },
+        "d": {
+          "content": "é exclusivamente responsável pela manutenção da vigília",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     },
@@ -247,13 +468,26 @@
       "id": 18,
       "type": "multiple_choice",
       "question": "Quais as estruturas do SARA são responsáveis pela geração do sono não-REM?",
-      "options": [
-        "locus ceruleus (noradrenalina) e núcleos da Rafe (serotonina)",
-        "locus ceruleus (acetilcolina) e núcleos da Rafe (noradrenalina)",
-        "núcleo tegmentar pedunculopontino (acetilcolina)",
-        "área tegmentar ventral (dopamina)"
-      ],
-      "correct_answer": "locus ceruleus (noradrenalina) e núcleos da Rafe (serotonina)",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "locus ceruleus (noradrenalina) e núcleos da Rafe (serotonina)",
+          "images": []
+        },
+        "b": {
+          "content": "locus ceruleus (acetilcolina) e núcleos da Rafe (noradrenalina)",
+          "images": []
+        },
+        "c": {
+          "content": "núcleo tegmentar pedunculopontino (acetilcolina)",
+          "images": []
+        },
+        "d": {
+          "content": "área tegmentar ventral (dopamina)",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": null,
       "reference": null
     }

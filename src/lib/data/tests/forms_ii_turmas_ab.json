@@ -14,8 +14,26 @@
       "type": "multiple_choice",
       "case_context": "Mulher na menopausa, com 53 anos, realiza uma mamografia de rotina que apresenta um laudo com 'microcalcificações pleomórficas finas agrupadas, lineares e ramificadas, seguindo o trajeto ductal e densidade assimétrica em quadrante superior externo da mama esquerda'. Em sua última mamografia, realizada há dois anos, não apresentava essas alterações.",
       "question": "Utilizando o método BI-RADS™ (Breast Imaging Reporting and Data System), o achado na mamografia dessa paciente é mais compatível com classificação:",
-      "options": ["5", "3", "1", "0"],
-      "correct_answer": "5",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "5",
+          "images": []
+        },
+        "b": {
+          "content": "3",
+          "images": []
+        },
+        "c": {
+          "content": "1",
+          "images": []
+        },
+        "d": {
+          "content": "0",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "student_score": "10/10",
       "explanation": "Microcalcificações pleomórficas finas, agrupadas, lineares e ramificadas, seguindo o trajeto ductal, associadas a densidade assimétrica de aparecimento recente, constituem achado morfologicamente suspeito de alta probabilidade de malignidade, correspondendo à categoria BI-RADS 5.",
       "reference": null
@@ -25,13 +43,26 @@
       "type": "multiple_choice",
       "case_context": "A hemorragia pós-parto (HPP) está entre as principais causas de óbito materno. O Ministério da Saúde, juntamente com a OPAS/OMS, instituiu a estratégia Zero Morte Materna por Hemorragia Pós-Parto, que consiste em treinamento em massa das equipes assistenciais, a fim de diagnosticar de maneira adequada e tomar as medidas para a correção do quadro de HPP em tempo hábil.",
       "question": "Assinale a alternativa que apresenta a definição de HPP de acordo com a FIGO.",
-      "options": [
-        "Sangramento excessivo no pós-parto imediato que leve à queda dos níveis hematimétricos em 20% dos níveis basais.",
-        "Perda sanguínea acima de 500 mL após o parto vaginal ou acima de 1.000 mL após o parto cesáreo em 24 h ou qualquer perda sanguínea pelo trato genital capaz de causar instabilidade hemodinâmica.",
-        "Sangramento excessivo, no 4º período, devido à atonia uterina ou à retenção placentária.",
-        "Sangramento excessivo no 4º período, devido à atonia uterina e(ou) à retenção placentária e(ou) a lesões do trajeto."
-      ],
-      "correct_answer": "Perda sanguínea acima de 500 mL após o parto vaginal ou acima de 1.000 mL após o parto cesáreo em 24 h ou qualquer perda sanguínea pelo trato genital capaz de causar instabilidade hemodinâmica.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Sangramento excessivo no pós-parto imediato que leve à queda dos níveis hematimétricos em 20% dos níveis basais.",
+          "images": []
+        },
+        "b": {
+          "content": "Perda sanguínea acima de 500 mL após o parto vaginal ou acima de 1.000 mL após o parto cesáreo em 24 h ou qualquer perda sanguínea pelo trato genital capaz de causar instabilidade hemodinâmica.",
+          "images": []
+        },
+        "c": {
+          "content": "Sangramento excessivo, no 4º período, devido à atonia uterina ou à retenção placentária.",
+          "images": []
+        },
+        "d": {
+          "content": "Sangramento excessivo no 4º período, devido à atonia uterina e(ou) à retenção placentária e(ou) a lesões do trajeto.",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "student_score": "10/10",
       "explanation": null,
       "reference": null
@@ -41,13 +72,26 @@
       "type": "multiple_choice",
       "case_context": "Marilda, 64 anos, G2P2N, apresenta sensação de distensão abdominal há 3 meses, saciedade precoce e aumento do perímetro abdominal. Ao exame físico: massa abdominal palpável em fossa ilíaca esquerda. Ultrassonografia transvaginal: ovário esquerdo aumentado (7,2 cm), com massa complexa, contendo componente sólido, septações espessas (>3 mm) e pequena área de fluxo ao Doppler colorido. Presença de líquido livre moderado em pelve.",
       "question": "Qual a hipótese diagnóstica e o seguimento adequado para essa paciente?",
-      "options": [
-        "Neoplasia maligna de ovário; solicitar CA-125 e encaminhar para avaliação oncológica.",
-        "Cisto hemorrágico; conduta expectante.",
-        "Cisto simples ovariano; acompanhamento clínico e repetir USG em 6 semanas.",
-        "Endometrioma; iniciar anticoncepcional combinado."
-      ],
-      "correct_answer": "Neoplasia maligna de ovário; solicitar CA-125 e encaminhar para avaliação oncológica.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Neoplasia maligna de ovário; solicitar CA-125 e encaminhar para avaliação oncológica.",
+          "images": []
+        },
+        "b": {
+          "content": "Cisto hemorrágico; conduta expectante.",
+          "images": []
+        },
+        "c": {
+          "content": "Cisto simples ovariano; acompanhamento clínico e repetir USG em 6 semanas.",
+          "images": []
+        },
+        "d": {
+          "content": "Endometrioma; iniciar anticoncepcional combinado.",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "student_score": "10/10",
       "explanation": "Massa anexial complexa em mulher na pós-menopausa, com componente sólido, septações espessas (>3 mm), fluxo ao Doppler colorido e líquido livre em pelve, constitui achado de alto risco para malignidade, exigindo investigação com CA-125 e encaminhamento para avaliação oncológica.",
       "reference": null
@@ -57,13 +101,26 @@
       "type": "multiple_choice",
       "case_context": "Uma paciente de 23 anos de idade, com vida sexual ativa e assintomática, realizou colpocitologia cujo resultado foi lesão intraepitelial escamosa de baixo grau. Teste de HPV-DNA foi negativo.",
       "question": "Com base nesse caso hipotético, assinale a alternativa que apresenta a conduta mais adequada segundo o Ministério da Saúde.",
-      "options": [
-        "Cauterização da zona de transformação.",
-        "Colposcopia.",
-        "Excisão da zona de transformação.",
-        "Repetir colpocitologia em três anos."
-      ],
-      "correct_answer": "Repetir colpocitologia em três anos.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Cauterização da zona de transformação.",
+          "images": []
+        },
+        "b": {
+          "content": "Colposcopia.",
+          "images": []
+        },
+        "c": {
+          "content": "Excisão da zona de transformação.",
+          "images": []
+        },
+        "d": {
+          "content": "Repetir colpocitologia em três anos.",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "student_score": "10/10",
       "explanation": null,
       "reference": null
@@ -73,13 +130,26 @@
       "type": "multiple_choice",
       "case_context": "Paciente de 37 anos, histerectomizada devido a história de tratamento para NIC II/III com margens livres, realizado há 3 meses. Procura o serviço de ginecologia para informações do seu seguimento.",
       "question": "De acordo com as Diretrizes brasileiras para o rastreamento do câncer do colo do útero, a recomendação correta para a paciente é:",
-      "options": [
-        "Exame citopatológico e colposcopia deveriam ter sido realizados no pós-operatório imediato.",
-        "Realizar exame citopatológico, inicialmente, em 6 e 12 meses após a histerectomia.",
-        "Suspensão da coleta do exame citopatológico devido às margens livres.",
-        "Rastreamento citológico 3 anos após a histerectomia."
-      ],
-      "correct_answer": "Realizar exame citopatológico, inicialmente, em 6 e 12 meses após a histerectomia.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Exame citopatológico e colposcopia deveriam ter sido realizados no pós-operatório imediato.",
+          "images": []
+        },
+        "b": {
+          "content": "Realizar exame citopatológico, inicialmente, em 6 e 12 meses após a histerectomia.",
+          "images": []
+        },
+        "c": {
+          "content": "Suspensão da coleta do exame citopatológico devido às margens livres.",
+          "images": []
+        },
+        "d": {
+          "content": "Rastreamento citológico 3 anos após a histerectomia.",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "student_score": "0/10",
       "explanation": null,
       "reference": null
@@ -89,13 +159,26 @@
       "type": "multiple_choice",
       "case_context": "Mulher de 32 anos, G2PC2, procura atendimento por dor pélvica leve e sensação de peso em hipogástrio há 3 meses. Refere ciclos menstruais regulares, sem dismenorreia importante. Nega febre, perda ponderal ou alterações urinárias. Ao exame físico, apresenta massa palpável em fossa ilíaca esquerda, móvel e pouco dolorosa. Ultrassonografia transvaginal evidencia massa anexial esquerda de 7 cm, unilocular, conteúdo homogêneo em 'vidro fosco', sem septações espessas, sem projeções papilares e fluxo Doppler discreto. CA-125 discretamente elevado.",
       "question": "Qual é o diagnóstico mais provável?",
-      "options": [
-        "Cistoadenocarcinoma seroso",
-        "Abscesso tubo-ovariano",
-        "Cisto dermóide",
-        "Endometrioma"
-      ],
-      "correct_answer": "Endometrioma",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Cistoadenocarcinoma seroso",
+          "images": []
+        },
+        "b": {
+          "content": "Abscesso tubo-ovariano",
+          "images": []
+        },
+        "c": {
+          "content": "Cisto dermóide",
+          "images": []
+        },
+        "d": {
+          "content": "Endometrioma",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
       "student_score": "10/10",
       "explanation": "O conteúdo homogêneo em 'vidro fosco' (ground glass) à ultrassonografia transvaginal, sem septações espessas ou projeções papilares e com fluxo Doppler discreto, é achado clássico e característico de endometrioma ovariano.",
       "reference": null
@@ -105,13 +188,26 @@
       "type": "multiple_choice",
       "case_context": "Primigesta de 19 anos, na 32ª semana de gestação, procura atendimento em unidade de pronto atendimento com queixa de cefaleia persistente há dois dias acompanhada de visão de pontos brilhantes e dor na região do estômago. Exame físico: regular estado geral, edema de membros inferiores e mãos (++/4+), PA 140x90 mmHg.",
       "question": "Considerando o diagnóstico e a necessidade de transferência da gestante para outro serviço, a conduta clínica correta é a administração de:",
-      "options": [
-        "Sulfato de magnésio, 4 g IV + 10 g IM.",
-        "Sulfato de magnésio, 4 g IV, apenas.",
-        "Benzodiazepínico, 10 mg IV.",
-        "Hidralazina, 5 mg IV."
-      ],
-      "correct_answer": "Sulfato de magnésio, 4 g IV + 10 g IM.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Sulfato de magnésio, 4 g IV + 10 g IM.",
+          "images": []
+        },
+        "b": {
+          "content": "Sulfato de magnésio, 4 g IV, apenas.",
+          "images": []
+        },
+        "c": {
+          "content": "Benzodiazepínico, 10 mg IV.",
+          "images": []
+        },
+        "d": {
+          "content": "Hidralazina, 5 mg IV.",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "student_score": "0/10",
       "explanation": null,
       "reference": null
@@ -121,13 +217,26 @@
       "type": "multiple_choice",
       "case_context": "Paciente de 16 anos, GI, 38 semanas de gestação, acompanhada até o momento no pré-natal de risco habitual sem intercorrências, deu entrada no PS queixando-se de cefaleia intensa associada a náuseas e dor epigástrica progressiva. Ao exame: PA 170x110 mmHg, BCF 144 bpm, metrossístoles ausentes. Exames laboratoriais do dia anterior: Hb 10,6; Htc 36,9; Plaquetas 150.000; LDH 242; TGO 32; TGP 34; creatinina 0,76; relação proteína/creatinina urinárias (UA/UC) 0,45.",
       "question": "Quais são o diagnóstico e a conduta nesse momento?",
-      "options": [
-        "Iminência de eclâmpsia. Iniciar imediatamente hidralazina EV e Sulfato de Magnésio e programar resolução por via mais rápida após estabilização.",
-        "Pré-eclâmpsia com sinais de gravidade. Resolução imediata por cesariana.",
-        "Síndrome HELLP. Iniciar imediatamente hidralazina EV e Sulfato de Magnésio e programar resolução por via mais rápida após estabilização.",
-        "Pré-eclâmpsia. Iniciar hidralazina e indicar resolução por via alta."
-      ],
-      "correct_answer": "Iminência de eclâmpsia. Iniciar imediatamente hidralazina EV e Sulfato de Magnésio e programar resolução por via mais rápida após estabilização.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Iminência de eclâmpsia. Iniciar imediatamente hidralazina EV e Sulfato de Magnésio e programar resolução por via mais rápida após estabilização.",
+          "images": []
+        },
+        "b": {
+          "content": "Pré-eclâmpsia com sinais de gravidade. Resolução imediata por cesariana.",
+          "images": []
+        },
+        "c": {
+          "content": "Síndrome HELLP. Iniciar imediatamente hidralazina EV e Sulfato de Magnésio e programar resolução por via mais rápida após estabilização.",
+          "images": []
+        },
+        "d": {
+          "content": "Pré-eclâmpsia. Iniciar hidralazina e indicar resolução por via alta.",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "student_score": "0/10",
       "explanation": null,
       "reference": null
@@ -137,13 +246,26 @@
       "type": "multiple_choice",
       "case_context": "No puerpério imediato, paciente apresentou sangramento uterino importante havendo necessidade de hemotransfusão. Após administração de ácido tranexâmico e uterotônicos, não houve resposta. Indicada passagem de Balão de Bakri, também sem melhora do quadro. Paciente foi, então, encaminhada para intervenção cirúrgica.",
       "question": "Qual é a conduta na sequência do atendimento cirúrgico?",
-      "options": [
-        "Observação.",
-        "Sutura compressiva.",
-        "Ligadura de artérias hipogástricas.",
-        "Histerectomia total."
-      ],
-      "correct_answer": "Sutura compressiva.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Observação.",
+          "images": []
+        },
+        "b": {
+          "content": "Sutura compressiva.",
+          "images": []
+        },
+        "c": {
+          "content": "Ligadura de artérias hipogástricas.",
+          "images": []
+        },
+        "d": {
+          "content": "Histerectomia total.",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
       "student_score": "0/10",
       "explanation": null,
       "reference": null
@@ -153,13 +275,26 @@
       "type": "multiple_choice",
       "case_context": "Luciane, nuligesta, 47 anos, assintomática, é encaminhada ao ambulatório de Mastologia por alteração em mamografia de rastreio (imagem anexa mostrando agrupamento de microcalcificações).",
       "question": "Assinale a alternativa correta quanto à classificação do achado e a conduta:",
-      "options": [
-        "BIRADS 4, mamotomia",
-        "BIRADS 1, mamotomia",
-        "BIRADS 3, core biopsy",
-        "BIRADS 2, seguimento anual"
-      ],
-      "correct_answer": "BIRADS 4, mamotomia",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "BIRADS 4, mamotomia",
+          "images": []
+        },
+        "b": {
+          "content": "BIRADS 1, mamotomia",
+          "images": []
+        },
+        "c": {
+          "content": "BIRADS 3, core biopsy",
+          "images": []
+        },
+        "d": {
+          "content": "BIRADS 2, seguimento anual",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "student_score": "10/10",
       "explanation": null,
       "reference": null

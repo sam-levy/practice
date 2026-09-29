@@ -11,13 +11,26 @@
       "id": 1,
       "type": "multiple_choice",
       "question": "O corpo caloso é um exemplo de:",
-      "options": [
-        "Fibras de associação inter-hemisféricas ou comissurais",
-        "Fibras de associação intra-hemisféricas",
-        "Fibras de projeção",
-        "Fibras amielínicas"
-      ],
-      "correct_answer": "Fibras de associação inter-hemisféricas ou comissurais",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Fibras de associação inter-hemisféricas ou comissurais",
+          "images": []
+        },
+        "b": {
+          "content": "Fibras de associação intra-hemisféricas",
+          "images": []
+        },
+        "c": {
+          "content": "Fibras de projeção",
+          "images": []
+        },
+        "d": {
+          "content": "Fibras amielínicas",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": "O corpo caloso é a maior comissura do cérebro: liga áreas homólogas dos dois hemisférios. Fibras de associação intra-hemisféricas ficam no mesmo hemisfério, e fibras de projeção ligam o córtex a centros subcorticais.",
       "reference": null
     },
@@ -25,13 +38,26 @@
       "id": 2,
       "type": "multiple_choice",
       "question": "Qual das fibras abaixo conecta áreas corticais a centros subcorticais?",
-      "options": [
-        "capsula interna e fórnice",
-        "corpo caloso e capsula interna",
-        "comissura branca anterior e fórnice",
-        "corpo caloso e fórnice"
-      ],
-      "correct_answer": "capsula interna e fórnice",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "capsula interna e fórnice",
+          "images": []
+        },
+        "b": {
+          "content": "corpo caloso e capsula interna",
+          "images": []
+        },
+        "c": {
+          "content": "comissura branca anterior e fórnice",
+          "images": []
+        },
+        "d": {
+          "content": "corpo caloso e fórnice",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": "Fibras de projeção ligam o córtex a núcleos subcorticais. A cápsula interna leva radiações corticais (e talâmicas); o fórnice liga a formação hipocampal a estruturas subcorticais, como os corpos mamilares. Corpo caloso e comissura branca anterior são comissuras.",
       "reference": null
     },
@@ -39,13 +65,26 @@
       "id": 3,
       "type": "multiple_choice",
       "question": "As células piramidais são predominantes nas camadas corticais:",
-      "options": [
-        "III e V",
-        "II e IV",
-        "I e VI",
-        "I e II"
-      ],
-      "correct_answer": "III e V",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "III e V",
+          "images": []
+        },
+        "b": {
+          "content": "II e IV",
+          "images": []
+        },
+        "c": {
+          "content": "I e VI",
+          "images": []
+        },
+        "d": {
+          "content": "I e II",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": "As camadas III (piramidal externa) e V (piramidal interna) são ricas em neurônios piramidais, de onde saem fibras de associação, comissurais e de projeção. As camadas II e IV são predominantemente granulares.",
       "reference": null
     },
@@ -53,13 +92,26 @@
       "id": 4,
       "type": "multiple_choice",
       "question": "O arquicórtex está localizado no:",
-      "options": [
-        "hipocampo",
-        "unco",
-        "Giro pré-central",
-        "giro para hipocampal"
-      ],
-      "correct_answer": "hipocampo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "hipocampo",
+          "images": []
+        },
+        "b": {
+          "content": "unco",
+          "images": []
+        },
+        "c": {
+          "content": "Giro pré-central",
+          "images": []
+        },
+        "d": {
+          "content": "giro para hipocampal",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": "O arquicórtex (córtex de três camadas) corresponde à formação hipocampal. O unco é paleocórtex, e o giro pré-central é neocórtex.",
       "reference": null
     },
@@ -67,13 +119,26 @@
       "id": 5,
       "type": "multiple_choice",
       "question": "As áreas unimodais do córtex são denominadas:",
-      "options": [
-        "áreas primárias e secundárias",
-        "áreas secundárias e terciárias",
-        "apenas áreas secundárias",
-        "áreas primárias e terciárias"
-      ],
-      "correct_answer": "áreas primárias e secundárias",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "áreas primárias e secundárias",
+          "images": []
+        },
+        "b": {
+          "content": "áreas secundárias e terciárias",
+          "images": []
+        },
+        "c": {
+          "content": "apenas áreas secundárias",
+          "images": []
+        },
+        "d": {
+          "content": "áreas primárias e terciárias",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": "Áreas primárias e secundárias processam uma única modalidade sensorial ou motora (unimodais). As áreas terciárias são de associação supramodal.",
       "reference": null
     },
@@ -81,13 +146,26 @@
       "id": 6,
       "type": "multiple_choice",
       "question": "Nas apraxias observamos dificuldade em realizar o movimento, devido a lesões nas áreas de planejamento motor, as lesões estão localizadas no:",
-      "options": [
-        "lobo parietal",
-        "lobo temporal",
-        "lobo frontal",
-        "lobo insular"
-      ],
-      "correct_answer": "lobo frontal",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "lobo parietal",
+          "images": []
+        },
+        "b": {
+          "content": "lobo temporal",
+          "images": []
+        },
+        "c": {
+          "content": "lobo frontal",
+          "images": []
+        },
+        "d": {
+          "content": "lobo insular",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": "O planejamento motor fica nas áreas pré-motora e motora suplementar, no lobo frontal. A apraxia ideomotora também pode ocorrer por lesão parietal, mas o enunciado aponta as áreas de planejamento motor.",
       "reference": null
     },
@@ -95,13 +173,26 @@
       "id": 7,
       "type": "multiple_choice",
       "question": "A área motora da fala (de Broca) está localizada no:",
-      "options": [
-        "giro pré-central esquerdo",
-        "giro frontal superior esquerdo",
-        "giro frontal inferior esquerdo",
-        "giro pós-central esquerdo"
-      ],
-      "correct_answer": "giro frontal inferior esquerdo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "giro pré-central esquerdo",
+          "images": []
+        },
+        "b": {
+          "content": "giro frontal superior esquerdo",
+          "images": []
+        },
+        "c": {
+          "content": "giro frontal inferior esquerdo",
+          "images": []
+        },
+        "d": {
+          "content": "giro pós-central esquerdo",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
       "explanation": "A área de Broca corresponde às partes opercular e triangular do giro frontal inferior, em geral no hemisfério esquerdo. O giro pré-central é a área motora primária.",
       "reference": null
     },
@@ -109,13 +200,26 @@
       "id": 8,
       "type": "multiple_choice",
       "question": "A capacidade de reconhecer objetos, por meio de estímulos táteis (gnosia tátil), é desempenhada na área somestéscia:",
-      "options": [
-        "secundária, localizada no lóbulo parietal superior",
-        "secundária, localizada no giro pós-central",
-        "primária, localizada no lóbulo parietal inferior",
-        "primária, localizada no giro pré-central"
-      ],
-      "correct_answer": "secundária, localizada no lóbulo parietal superior",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "secundária, localizada no lóbulo parietal superior",
+          "images": []
+        },
+        "b": {
+          "content": "secundária, localizada no giro pós-central",
+          "images": []
+        },
+        "c": {
+          "content": "primária, localizada no lóbulo parietal inferior",
+          "images": []
+        },
+        "d": {
+          "content": "primária, localizada no giro pré-central",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": "A estereognosia depende da área somestésica secundária (associação), no lóbulo parietal superior. O giro pós-central é a área somestésica primária, que recebe o estímulo, mas não faz o reconhecimento do objeto.",
       "reference": null
     },
@@ -123,13 +227,26 @@
       "id": 9,
       "type": "multiple_choice",
       "question": "Qual a área relacionada com a expressão da linguagem?",
-      "options": [
-        "área de Broca, localizada no hemisfério esquerdo",
-        "área de Wernicke, localizado no hemisfério esquerdo",
-        "área de Broca, nos dos hemisférios cerebrais",
-        "área de Wernicke, nos dois hemisférios cerebrais"
-      ],
-      "correct_answer": "área de Broca, localizada no hemisfério esquerdo",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "área de Broca, localizada no hemisfério esquerdo",
+          "images": []
+        },
+        "b": {
+          "content": "área de Wernicke, localizado no hemisfério esquerdo",
+          "images": []
+        },
+        "c": {
+          "content": "área de Broca, nos dos hemisférios cerebrais",
+          "images": []
+        },
+        "d": {
+          "content": "área de Wernicke, nos dois hemisférios cerebrais",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": "A expressão (produção) da linguagem depende da área de Broca, no hemisfério dominante, em geral o esquerdo. A área de Wernicke relaciona-se à compreensão da linguagem.",
       "reference": null
     },
@@ -137,13 +254,26 @@
       "id": 10,
       "type": "multiple_choice",
       "question": "O pé e a perna estão representados no córtex sensitivo, na face:",
-      "options": [
-        "medial",
-        "súpero-lateral",
-        "inferior",
-        "dorsal"
-      ],
-      "correct_answer": "medial",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "medial",
+          "images": []
+        },
+        "b": {
+          "content": "súpero-lateral",
+          "images": []
+        },
+        "c": {
+          "content": "inferior",
+          "images": []
+        },
+        "d": {
+          "content": "dorsal",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
       "explanation": "No homúnculo sensitivo, o pé e a perna ficam na face medial do hemisfério, no lóbulo paracentral. A face súpero-lateral representa tronco, membro superior e face.",
       "reference": null
     }

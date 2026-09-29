@@ -8,204 +8,229 @@
   ],
   "questions": [
     {
+      "id": 1,
       "type": "free_response",
       "question": "Qual o nome da estrutura anatômica apontada na imagem?",
+      "images": [],
       "correct_answer": "R: Braço do colículo inferior QUESTÃO 2",
       "explanation": null,
-      "reference": null,
-      "id": 1
+      "reference": null
     },
     {
+      "id": 2,
       "type": "free_response",
       "question": "Qual o nome da estrutura anatômica apontada na imagem?",
+      "images": [],
       "correct_answer": "R: Aqueduto do mesencéfalo QUESTÃO 3",
       "explanation": null,
-      "reference": null,
-      "id": 2
+      "reference": null
     },
     {
+      "id": 3,
       "type": "free_response",
       "question": "Qual o nome da estrutura anatômica apontada (verde) na imagem?",
+      "images": [],
       "correct_answer": "R: Pirâmide bulbar QUESTÃO 4",
       "explanation": null,
-      "reference": null,
-      "id": 3
+      "reference": null
     },
     {
+      "id": 4,
       "type": "free_response",
       "question": "Qual o nome da estrutura anatômica apontada (pontilhada) na imagem?",
+      "images": [],
       "correct_answer": "R: Sulco bulbopontino QUESTÃO 5",
       "explanation": null,
-      "reference": null,
-      "id": 4
+      "reference": null
     },
     {
+      "id": 5,
       "type": "free_response",
       "question": "Qual o nome da estrutura anatômica apontada (verde) na imagem?",
+      "images": [],
       "correct_answer": "R: Oliva bulbar QUESTÃO 6",
       "explanation": null,
-      "reference": null,
-      "id": 5
+      "reference": null
     },
     {
+      "id": 6,
       "type": "free_response",
       "question": "Qual o nome da estrutura anatômica apontada na imagem?",
+      "images": [],
       "correct_answer": "R: Cauda equina QUESTÃO 7",
       "explanation": null,
-      "reference": null,
-      "id": 6
+      "reference": null
     },
     {
+      "id": 7,
       "type": "free_response",
       "question": "Qual o nome da estrutura anatômica em verde na imagem?",
+      "images": [],
       "correct_answer": "R: Cone medular QUESTÃO 8",
       "explanation": null,
-      "reference": null,
-      "id": 7
+      "reference": null
     },
     {
+      "id": 8,
       "type": "free_response",
       "question": "Qual o nome da estrutura anatômica apontada (verde) na imagem?",
+      "images": [],
       "correct_answer": "R: Filamento terminal QUESTÃO 9",
       "explanation": null,
-      "reference": null,
-      "id": 8
+      "reference": null
     },
     {
+      "id": 9,
       "type": "free_response",
       "question": "Qual o nome da estrutura anatômica apontada na imagem?",
+      "images": [],
       "correct_answer": "R: Coluna / corno posterior QUESTÃO 10",
       "explanation": null,
-      "reference": null,
-      "id": 9
+      "reference": null
     },
     {
+      "id": 10,
       "type": "free_response",
       "question": "Qual o nome da estrutura anatômica apontada (rosa) na imagem?",
+      "images": [],
       "correct_answer": "R: Gânglio sensitivo do nervo espinal/ gânglio espinal/ gânglio da raiz dorsal QUESTÃO 11",
       "explanation": null,
-      "reference": null,
-      "id": 10
+      "reference": null
     },
     {
+      "id": 11,
       "type": "free_response",
       "question": "Qual o nome da estrutura anatômica apontada (rosa) na imagem?",
+      "images": [],
       "correct_answer": "R: Nervo troclear – NC IV QUESTÃO 12",
       "explanation": null,
-      "reference": null,
-      "id": 11
+      "reference": null
     },
     {
+      "id": 12,
       "type": "free_response",
       "question": "Qual o nome da estrutura anatômica apontada (rosa) na imagem?",
+      "images": [],
       "correct_answer": "R: Nervo / Ramo mandibular – V3 QUESTÃO 13",
       "explanation": null,
-      "reference": null,
-      "id": 12
+      "reference": null
     },
     {
+      "id": 13,
       "type": "free_response",
       "question": "Qual o nome da estrutura anatômica apontada (rosa) na imagem?",
+      "images": [],
       "correct_answer": "R: Nervo / Ramo oftálmico – V1 QUESTÃO 14",
       "explanation": null,
-      "reference": null,
-      "id": 13
+      "reference": null
     },
     {
+      "id": 14,
       "type": "free_response",
       "question": "Qual o nome da estrutura anatômica apontada (rosa) na imagem?",
+      "images": [],
       "correct_answer": "R: Nervo hipoglosso QUESTÃO 15",
       "explanation": null,
-      "reference": null,
-      "id": 14
+      "reference": null
     },
     {
+      "id": 15,
       "type": "free_response",
       "question": "Qual o nome da estrutura anatômica apontada (rosa) na imagem?",
+      "images": [],
       "correct_answer": "R: Nervo facial QUESTÃO 16",
       "explanation": null,
-      "reference": null,
-      "id": 15
+      "reference": null
     },
     {
+      "id": 16,
       "type": "free_response",
       "question": "Qual o nome da estrutura anatômica apontada (verde) na imagem?",
+      "images": [],
       "correct_answer": "R: Aracnóide-máter QUESTÃO 17",
       "explanation": null,
-      "reference": null,
-      "id": 16
+      "reference": null
     },
     {
+      "id": 17,
       "type": "free_response",
       "question": "Qual o nome da estrutura anatômica apontada (verde) na imagem?",
+      "images": [],
       "correct_answer": "R: Dura-máter (folheto externo / periosteal) QUESTÃO 18",
       "explanation": null,
-      "reference": null,
-      "id": 17
+      "reference": null
     },
     {
+      "id": 18,
       "type": "free_response",
       "question": "Qual o nome da estrutura anatômica apontada (verde) na imagem?",
+      "images": [],
       "correct_answer": "R: Aracnóide-máter QUESTÃO 19",
       "explanation": null,
-      "reference": null,
-      "id": 18
+      "reference": null
     },
     {
+      "id": 19,
       "type": "free_response",
       "question": "Qual o nome da estrutura anatômica apontada (verde) ao redor da medula espinal?",
+      "images": [],
       "correct_answer": "R: Pia-máter QUESTÃO 20",
       "explanation": null,
-      "reference": null,
-      "id": 19
+      "reference": null
     },
     {
+      "id": 20,
       "type": "free_response",
       "question": "Qual o nome da estrutura anatômica apontada (verde) na imagem?",
+      "images": [],
       "correct_answer": "R: Lig. Denticulado QUESTÃO 21",
       "explanation": null,
-      "reference": null,
-      "id": 20
+      "reference": null
     },
     {
+      "id": 21,
       "type": "free_response",
       "question": "Qual o nome da área marcada e apontada?",
+      "images": [],
       "correct_answer": "R: Funículo posterior QUESTÃO 22",
       "explanation": null,
-      "reference": null,
-      "id": 21
+      "reference": null
     },
     {
+      "id": 22,
       "type": "free_response",
       "question": "Qual o nome da área marcada e apontada?",
+      "images": [],
       "correct_answer": "R: Fascículo grácil QUESTÃO 23",
       "explanation": null,
-      "reference": null,
-      "id": 22
+      "reference": null
     },
     {
+      "id": 23,
       "type": "free_response",
       "question": "Qual o nome do espaço apontado?",
+      "images": [],
       "correct_answer": "R: Espaço epidural / extradural ou peridural QUESTÃO 24",
       "explanation": null,
-      "reference": null,
-      "id": 23
+      "reference": null
     },
     {
+      "id": 24,
       "type": "free_response",
       "question": "Qual o nome da estrutura apontada?",
+      "images": [],
       "correct_answer": "R: Coluna / corno lateral QUESTÃO 25",
       "explanation": null,
-      "reference": null,
-      "id": 24
+      "reference": null
     },
     {
+      "id": 25,
       "type": "free_response",
       "question": "Qual o nome da(s) estrutura(s) apontada(s)?",
+      "images": [],
       "correct_answer": "R: Ramos comunicantes",
       "explanation": null,
-      "reference": null,
-      "id": 25
+      "reference": null
     }
   ]
 }
