@@ -10,6 +10,11 @@ export const testManifest = [
     file: () => import("./forms2_26_2.json"),
   },
   {
+    id: "forms3_26_2",
+    title: "Forms3_26.2",
+    file: () => import("./forms3_26_2.json"),
+  },
+  {
     id: "p1_pediatria_t9ab_sbc_2026_1",
     title: "P1 PEDIATRIA T9A/B SBC 2026.1",
     file: () => import("./p1_pediatria_t9ab_sbc_2026_1.json"),
