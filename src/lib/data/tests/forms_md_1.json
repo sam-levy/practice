@@ -1,0 +1,285 @@
+{
+  "id": "forms_md_1",
+  "test_title": "Forms MD 1",
+  "notes": [
+    "Fonte: Forms MD 1.html (viewscore). O consentimento do aluno foi omitido.",
+    "O gabarito é a alternativa marcada nas questões pontuadas integralmente.",
+    "A pergunta 4 foi pontuada 0/5. O viewscore só marcou a alternativa escolhida como incorreta e não exibiu o gabarito."
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Na época da pandemia, além das conhecidas medidas de isolamento e uso de máscaras para controle da pandemia por Sars-Cov-2 (COVID 19), recomenda-se a também higienização das mãos para a população em geral e para profissionais de saúde que estão dentro de serviços de saúde. Em qual das situações abaixo é imperativo que seja feita a lavagem / higienização das mãos?",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Antes / depois de tirar os óculos escuros na chegada ao hospital",
+          "images": []
+        },
+        "b": {
+          "content": "Ao saudar / despedir-se de outro colega médico",
+          "images": []
+        },
+        "c": {
+          "content": "Antes / após colocar luvas para realizar um procedimento",
+          "images": []
+        },
+        "d": {
+          "content": "Logo após passar por corredores sujos / mal ventilados",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Para solicitação do exame confirmatório de COVID 19, é necessário escrever uma justificativa plausível no pedido médico, visando garantir a autorização do convênio médico ou a correta utilização dos recursos do sistema único de saúde (SUS). Marque a melhor justificativa que deve ser colocada no pedido de exames para Sars-Cov-2.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Paciente refere mau estar hoje ao acordar e necessita diagnóstico para afastamento do trabalho",
+          "images": []
+        },
+        "b": {
+          "content": "Paciente com 3 dias de tosse, coriza e espirros, contato domiciliar com caso positivo para COVID 19",
+          "images": []
+        },
+        "c": {
+          "content": "Desejo atual, paciente afirma que conhece seu corpo e que não está normal!",
+          "images": []
+        },
+        "d": {
+          "content": "Histórico de perda de peso há 3 meses, perda de força muscular, atualmente acamado, nega febre ou dor.",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Em relação ao pedido de exames laboratoriais feito ao paciente, marque o item correto.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "A hipótese diagnóstica com sua respectiva classificação internacional de doenças (CID) dispensável e considerada opcional para a solicitação de uma exame.",
+          "images": []
+        },
+        "b": {
+          "content": "A história resumida deve contar detalhes de fatores biopsicossociais do paciente, visando esclarecer as condições e fatores presentes no processo saúde / doença",
+          "images": []
+        },
+        "c": {
+          "content": "O sistema único de saúde tem obrigação de realizar os exames pedidos pelo médico da estratégia saúde da família (ESF), para isso deve-se escrever na solicitação que o paciente não tem convênio e está morando na área próxima do posto de saúde.",
+          "images": []
+        },
+        "d": {
+          "content": "O material a ser examinado deve conter informações relevantes, como por exemplo secreções ou líquidos corporais (sangue, suor, urina, fezes) ou então a parte do corpo a ser examinada. Em alguns casos esse campo pode não ser preenchido se for redundante ou houver apenas um material possível a ser examinado (obviedade da solicitação).",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "O paciente realizou jejum de 10 à 12h para coleta dos exames e manteve as suas medicações de uso habitual. Ao deslocar-se até o posto de coleta dos exames (laboratório) através do metrô, teve escurecimento visual, tontura não vertiginosa e tremor de extremidades. Sentiu muita tontura e não lembra mais de nada, vindo a cair ao chão. Foi atendido por outros usuários do metrô que passavam, sendo constatada hipoglicemia (glicemia capilar 52mg/dL). A respeito desse assunto marque o item correto.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Não se pode dar o diagnóstico de hipoglicemia, pois trata-se de um teste rápido, com grande sensibilidade, mas pouca especificidade.",
+          "images": []
+        },
+        "b": {
+          "content": "O teste de glicemia capilar deve ser confirmado pela dosagem sanguínea de glicose através de coleta do sangue venoso, portanto o paciente deve ir até o seu destino final realizar a coleta de sangue para tratamento da hipoglicemia.",
+          "images": []
+        },
+        "c": {
+          "content": "Pacientes com diabetes devem ser orientados sobre os sintomas de hipoglicemia, visando reconhecimento e tratamento precoces. Nos casos de suspeita de hipoglicemia, a primeira medida é confirmar o valor baixo da glicemia capilar (teste de glicose em ponta de dedo).",
+          "images": []
+        },
+        "d": {
+          "content": "Pacientes com tontura, mal estar, visão turva, tremores e desmaios são considerados como tendo sintomas clássicos de hipoglicemia, devendo fazer ingestão de carboidratos (glicose) como bolo, pão, arroz, macarrão ou batata para alívio dos sintomas",
+          "images": []
+        },
+        "e": {
+          "content": "Pacientes com diabetes devem ser orientados sobre os sintomas de hipoglicemia, visando reconhecimento e tratamento precoces. Nos casos de suspeita de hipoglicemia, a primeira medida é confirmar o valor baixo da glicemia capilar (teste de glicose em ponta de dedo).",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
+      "explanation": "No viewscore a alternativa marcada (sintomas clássicos tratados com bolo, pão, arroz, macarrão ou batata) recebeu 0/5 e o rótulo Incorreto. O formulário não indicou a alternativa correta. As alternativas C e E têm o mesmo texto; a C foi registrada como gabarito.",
+      "reference": null
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Paciente em tratamento de erisipela em perna D, em regime hospitalar, em uso de vancomicina. Tal medicamento pode causar injúria renal aguda. Qual exame pode auxiliar a monitorizar essa complicação?",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Ultrassonografia de rins e vias urinárias",
+          "images": []
+        },
+        "b": {
+          "content": "Uréia e Creatinina séricas",
+          "images": []
+        },
+        "c": {
+          "content": "Hemograma completo e proteinúria",
+          "images": []
+        },
+        "d": {
+          "content": "Urina tipo 1",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Identificação correta de pacientes é uma das metas internacionais de segurança de pacientes, como por exemplo a colocação de pulseiras identificadoras e método de checagem em dois passos (por exemplo nome completo e data de nascimento), em relação à solicitação de exames, marque o item correto.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Troca de exames é um incidente grave, podendo incorrer em decisões terapêuticas errôneas.",
+          "images": []
+        },
+        "b": {
+          "content": "Nos hospitais de grande porte, basta escrever o primeiro nome do paciente, pois o laboratório deve encarregar-se de colar etiqueta identificadora.",
+          "images": []
+        },
+        "c": {
+          "content": "Pacientes desacordados só podem ser atendidos após visualização de algum documento ou presença de familiar.",
+          "images": []
+        },
+        "d": {
+          "content": "Resultados laboratoriais devem ser emitidos rapidamente, pois há urgência temporal nos serviços de pronto socorro, desconsiderando casas decimais.",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Sobre a coleta de exames laboratoriais é correto afirmar:",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Após a coleta, todo o material utilizado (seringas, garrote, agulhas e etc) deve ser desprezado no lixo identificado como “infectante”",
+          "images": []
+        },
+        "b": {
+          "content": "Para uma solicitação de hemograma completo, deve-se coletar a mostra com tubo com tampa roxa (contendo EDTA)",
+          "images": []
+        },
+        "c": {
+          "content": "Para coleta de sangue, desde que o profissional tome os cuidados necessários, não há necessidade de usar luvas descartáveis",
+          "images": []
+        },
+        "d": {
+          "content": "Na identificação do paciente na amostra,, apenas as siglas do nome do paciente são necessárias",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Paciente com diagnóstico de cirrose CHILD A e colelitíase, vem ao PS por quadro de dor em hipocôndrio direito há 2 dias, associado a náuseas. Após a avaliação clínica, você solicitou exames laboratoriais (listados abaixo).Hemoglobina 14,2 g/dL (VR 13,5-17,5 g/dL)Hematócrito 42% (VR 41 - 53%)Leucócitos 7.200 /uL (VR 4.000 - 11.000 /uL)Plaquetas 243.000 /uL (VR 150.000 - 450.000 /uL)Uréia sérica 28 mg/dL (VR 15-50 mg/dL)Creatinina sérica 0,9 mg/dL (VR 0,6-1,3 mg/dL)TGO (AST): 55 U/L (VR até 40 U/L)TGP (ALT): 48 U/L (VR até 41 U/L)Bilirrubina total 5,2 mg/dL (VR 0,2-1,2 mg/dL)Bilirrubina indireta: 1,5 mg/dLBilirrubina direta: 3,7 mg/dL)Fosfatase alcalina: 350 U/dL (VR 40-129 U/L)Gama-glutamil Transferase (GGT): 280 (VR até 60)International normalized ratio (INR): 1,6 (VR: 0,8 - 1,2)De acordo com os dados acima, é correto afirmar:",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "A elevação da TGO e TGP infere disfunção hepática causada pela cirrose",
+          "images": []
+        },
+        "b": {
+          "content": "A elevação da bilirrubina direta sugere alteração da função hepática em conjugar a bilirrubina",
+          "images": []
+        },
+        "c": {
+          "content": "A elevação da fosfatase alcalina e da gama-glutamil transferase sugere lesão canalicular em vias biliares",
+          "images": []
+        },
+        "d": {
+          "content": "A elevação do INR não tem relação com a cirrose",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Sobre o hemograma, é correto afirmar:",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "A hemoglobina mostra a concentração desta proteína no interior dos glóbulos vermelhos. Já o hematócrito, mostra a concentração de glóbulos vermelhos no sangue total. Não necessariamente a elevação de um, eleva o outro",
+          "images": []
+        },
+        "b": {
+          "content": "Em qualquer paciente, sempre que houver infecção, haverá aumento dos leucócitos",
+          "images": []
+        },
+        "c": {
+          "content": "No leucograma, quando dizemos que há “desvio à esquerda”, isso significa que os leucócitos mudaram sua conformação, apresentando uma rotação em espiral à esquerda",
+          "images": []
+        },
+        "d": {
+          "content": "O volume corpuscular médio (VCM) indica o volume total de glóbulos vermelhos em uma amostra de sangue total",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Sobre o exame de urina tipo 1, é correto afirmar:",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "A presença de proteína (proteinúria) é normal, e indica a presença de permeabilidade da barreira de filtração glomerular",
+          "images": []
+        },
+        "b": {
+          "content": "A mioglobinúria com ausência de hemoglobinúria pode indicar trauma renal ou cálculo ureteral",
+          "images": []
+        },
+        "c": {
+          "content": "A leucocitúria (apesar dos valores de referência) não deve ser levada em conta para o diagnóstico de infecção do trato urinário. Os critérios devem ser clínicos com associação de nitrito positivo com bacteriúria",
+          "images": []
+        },
+        "d": {
+          "content": "Presença de nitrito sugere bacteriúria, porém a ausência não exclui infecção urinária",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
+      "explanation": null,
+      "reference": null
+    }
+  ]
+}

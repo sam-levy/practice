@@ -1,0 +1,280 @@
+{
+  "id": "forms_md_2",
+  "test_title": "Forms MD 2",
+  "notes": [
+    "Fonte: Forms MD 2.html (viewscore). O consentimento do aluno foi omitido.",
+    "O gabarito é a alternativa marcada nas questões pontuadas integralmente."
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Assinale a alternativa que correlaciona corretamente a fisiopatologia da formação do derrame pleural com um exemplo deste mecanismo:",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Aumento da pressão hidrostática capilar por processos inflamatórios reumatológicos;",
+          "images": []
+        },
+        "b": {
+          "content": "Redução da drenagem do líquido pleural por metástase pleural de adenocarcinoma;",
+          "images": []
+        },
+        "c": {
+          "content": "Aumento da pressão oncótica capilar por hipoalbuminemia",
+          "images": []
+        },
+        "d": {
+          "content": "Aumento na pressão intrapleural por atelectasia",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Paciente do sexo masculino, 23 anos, vem ao PS com queixa de dor ventilatório-dependente à direita há 1 semana, com piora progressiva, associado a febre (3 ep. até o momento), quando chega em casa após o trabalho. Refere tosse sem expectoração há aproximadamente 2 semanas. Em exame de imagem, identificado derrame pleural e optado por toracocenese diagnóstica. No dia seguinte, você retorna e avalia o resultado da análise do líquido pleural:Aspecto seroso claro, sem odorpH: 7,2Citologia: 72% mononucleares / 15% polimorfonuclearesProteínas totais: 4,0 g/dL (sérica 5,5 g/dL)DHL: 600 g/dL (sérica 880 g/dL)Glicose: 65 mg/dLAdenosina Deaminase (ADA): 65 U/LTriglicérides: 22 mg/dLBacterioscopia: negativaCulturas: parcial negativasCultura para Mycobacterium: parcial negativaBaseado nessa análise, pode-se inferir que:",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "O diagnóstico provável é tuberculose pleural",
+          "images": []
+        },
+        "b": {
+          "content": "A análise do líquido pleural é compatível com um transudato",
+          "images": []
+        },
+        "c": {
+          "content": "O valor elevado de triglicérides nesta amostra o classifica como quilotórax",
+          "images": []
+        },
+        "d": {
+          "content": "O diagnóstico provável é neoplasia metastática",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Paciente com diagnóstico de exsudato complicado. Dos achados da análise do líquido pleural, qual é compatível com tal diagnóstico?",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "pH 7,3 e relação DHL do líquido / DHL sérico 0,36",
+          "images": []
+        },
+        "b": {
+          "content": "DHL do líquido de 103 g/dL e glicose de 62 mg/dL",
+          "images": []
+        },
+        "c": {
+          "content": "73% de neutrófilos e aspecto seroso",
+          "images": []
+        },
+        "d": {
+          "content": "Relação proteína do líquido / proteína sérica de 0,71 e DHL 1.230 g/dL",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Qual das alternativas abaixo descreve corretamente os critérios de Light?",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Relação proteína do líquido / proteína sérica > 0,5 infere exsudato",
+          "images": []
+        },
+        "b": {
+          "content": "DHL do líquido < 1/3 que o DHL sérico infere exsudato",
+          "images": []
+        },
+        "c": {
+          "content": "Relação proteína do líquido / proteína sérica < 0,6 infere exsudato",
+          "images": []
+        },
+        "d": {
+          "content": "Relação glicose do líquido / glicose sérica > 0,5 infere exsudato",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Paciente refere dispnéia há 3 dias, que piora ao deitar-se. Ausculta pulmonar mostrou estertores crepitantes bilateralmente, associado a ausência de murmúrio vesicular também bilateralmente em bases. Edema em MMII 2+/+Realizou tomografia de tórax que evidenciou derrame pleural bilateral.Diante da hipótese diagnóstica de ICC descompensada, você realizou uma toracentese. Assinale a alternativa que mostra a provável análise desse líquido pleural.",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "pH 7,0; Glicose 22 mg/dL; DHL 2310 g/dL",
+          "images": []
+        },
+        "b": {
+          "content": "pH 7,3; relação proteína do líquido / proteína sérica = 0,69; relação DHL do líquido / DHL sérico = 0,32",
+          "images": []
+        },
+        "c": {
+          "content": "Relação proteína do líquido / proteína sérica = 0,34; relação DHL do líquido / DHL sérico = 0,41; ADA 17 U/L",
+          "images": []
+        },
+        "d": {
+          "content": "Relação proteína do líquido / proteína sérica = 0,45; relação DHL do líquido / DHL sérico = 0,68; Glicose 77 mg/dL",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Sobre os transudatos, é correto afiamar:",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Pode ter como etiologia insuficiência cardíaca congestiva e metástase pleural de câncer de mama",
+          "images": []
+        },
+        "b": {
+          "content": "Assim como o exsudato, possui alta concentração de proteínas",
+          "images": []
+        },
+        "c": {
+          "content": "Sua confirmação nos leva a hipóteses diagnósticas relacionadas à alterações locais na pleura",
+          "images": []
+        },
+        "d": {
+          "content": "Relação proteína do líquido / proteína sérica ≤ 0,5 e relação DHL do líquido / DHL sérico ≤ 0,6 é compatível com transudato",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Assinale a alternativa correta sobre a análise do liquido pleural",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "A citologia com predomínio neutrofílico favorece etiologia neoplásica",
+          "images": []
+        },
+        "b": {
+          "content": "A adenosina deaminase (ADA) elevada sugere tuberculose pleural",
+          "images": []
+        },
+        "c": {
+          "content": "Quilotórax refere-se à um líquido com alta concentração de colesterol",
+          "images": []
+        },
+        "d": {
+          "content": "Os derrames pleurais parapneunomônicos são considerados transutados, diferentemente dos exsudatos complicados",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Paciente em investigação de doença linfoproliferativa, evolui com derrame pleural à esquerda. Realizou toracoentese com retirada de aproximadamente 550ml de líquido de aspecto leitoso. Nessa amostra, espera-se que:",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "O triglicérides será > 110 mg/dL",
+          "images": []
+        },
+        "b": {
+          "content": "A concentração de proteínas será baixa",
+          "images": []
+        },
+        "c": {
+          "content": "O predomínio de células será de neutrófilos",
+          "images": []
+        },
+        "d": {
+          "content": "A cultura de fungos será positiva",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Sobre a análise do líquido pleural, assinale a alternativa correta:",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Em um exsudato complicado, a cultura para bactérias sempre será positiva por definição",
+          "images": []
+        },
+        "b": {
+          "content": "A presença de bacilos GRAM positivos na bacterioscopia sugere um transudato complicado",
+          "images": []
+        },
+        "c": {
+          "content": "Para pesquisa de tuberculose pleural, é possível pedir PCR para Mycobacterium",
+          "images": []
+        },
+        "d": {
+          "content": "Mesmo com a pesquisa de fungo positiva, a cultura para fungos sempre será negativa pois o líquido pleural não é um bom meio para crescimento fúngico",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
+      "explanation": null,
+      "reference": null
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Paciente em programação cirúrgica de mastectomia por neoplasia maligna de mama esquerda. Realizou exames pré-operatórios (dentre eles uma radiografia de tórax) que evidenciaram derrame pleural à esquerda. Foi realizada toracocentese diagnóstica que mostrou:Aspecto: sero-hemático, sem coágulos, sem odorpH: 7,25Citologia: 81% mononucleares / 9% polimorfonuclearesProteínas totais: 5,1 g/dL (sérica 4,0 g/dL)DHL: 810 g/dL (sérica 900 g/dL)Glicose: 72 mg/dLAdenosina Deaminase (ADA): 10 U/LTriglicérides: 10 mg/dLBacterioscopia: negativaCulturas: parcial negativasCultura para Mycobacterium: parcial negativaBaseado nessa análise, pode-se inferir que:",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "A suspeita é quilotórax",
+          "images": []
+        },
+        "b": {
+          "content": "Trata-se de um derrame pleural parapneumônico",
+          "images": []
+        },
+        "c": {
+          "content": "O diagnóstico é tuberculose pleural",
+          "images": []
+        },
+        "d": {
+          "content": "A hipótese mais provável é acometimento neoplásico secundário",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
+      "explanation": null,
+      "reference": null
+    }
+  ]
+}
