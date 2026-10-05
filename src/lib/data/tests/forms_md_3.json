@@ -1,0 +1,310 @@
+{
+  "id": "forms_md_3",
+  "test_title": "Forms MD 3",
+  "notes": [
+    "Fonte: capturas de tela da pasta Forms MD 3. O formulário não trazia gabarito.",
+    "As alternativas assinaladas nas capturas não foram usadas como gabarito. Cada resposta foi conferida pelo enunciado e, quando havia, pela figura."
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Sobre a realização das radiografias, é correto afirmar:",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Em uma radiografia de tórax antero-posterior, o paciente fica com o dorso \"encostado\" no chassi radiográfico, sendo que raios-X saem da ampola da máquina e chegam ao paciente pela região anterior do tórax.",
+          "images": []
+        },
+        "b": {
+          "content": "A radiografia de abdome é realizada em ortostase ou posição supina à depender do aparelho disponível, não influenciando na sua análise.",
+          "images": []
+        },
+        "c": {
+          "content": "A incidência de Laurell (ou posição de Hjelm-Laurell) é utilizada para avaliação de ascite, podendo ou não indicar sua punção.",
+          "images": []
+        },
+        "d": {
+          "content": "Uma radiografia de abdome de perfil, com paciente em posição supina e com raios horizontais, não identifica pneumoperitôneo.",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": "Na incidência anteroposterior o dorso fica contra o chassi e o feixe entra pela face anterior. A posição muda a análise do abdome, Laurell avalia derrame pleural (não ascite) e o raio horizontal pode mostrar pneumoperitônio.",
+      "reference": null
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Para a realização de uma radiografia, um dos parâmetros necessários é o correto posicionamento do paciente e em relação ao chassi e à emissão dos raios-X. Incoerências nessa execução podem induzir ao erro da análise. Sobre o tema, assinale a alternativa correta:",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Uma radiografia \"muito penetrada\" faz com que poucas partículas de raio-X passem pelo corpo, levando a uma imagem mais \"esbranquiçada\".",
+          "images": []
+        },
+        "b": {
+          "content": "Na radiografia de tórax, a inspiração profunda muda a localização das estruturas, o que pode atrapalhar a análise, sendo idealmente realizada em expiração máxima.",
+          "images": []
+        },
+        "c": {
+          "content": "Se o paciente virar ligeiramente o corpo para a direita (por exemplo), há um erro de rotação. Isso faz com que os eixos de raio-X, o paciente e o chassi não estejam perfeitamente alinhados no eixo horizontal.",
+          "images": []
+        },
+        "d": {
+          "content": "Realizar uma radiografia antero-posterior ou postero-anterior não gera o efeito de ampliação no coração.",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
+      "explanation": "Rotação desalinha paciente, feixe e chassi. Radiografia muito penetrada fica escura, o tórax é feito em inspiração máxima e a incidência anteroposterior amplia a silhueta cardíaca.",
+      "reference": null
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Paciente com história de dispnéia progressiva há 1 mês, associada a tosse seca. De antecedente pessoal, apresentou neoplasia de rim esquerdo, tratado com ressecção cirúrgica há 2 anos. Nega outros sintomas. Durante a investigação, foi realizada radiografia de tórax. Baseado nestes dados e imagem, é possível afirmar:",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms_md_3/q3-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "options": {
+        "a": {
+          "content": "A imagem é compatível com tumoração acometendo todo pulmão esquerdo, por provável doença metastática.",
+          "images": []
+        },
+        "b": {
+          "content": "O quadro é compatível com atelectasia de todo pulmão esquerdo.",
+          "images": []
+        },
+        "c": {
+          "content": "As alterações da radiografia mostram extensa pneumonia à esquerda.",
+          "images": []
+        },
+        "d": {
+          "content": "A imagem mostra um derrame pleural volumoso à esquerda.",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
+      "explanation": "Há opacificação de todo o hemitórax esquerdo, do lado da marca L, com desvio do mediastino para o mesmo lado. Esse desvio indica perda de volume, compatível com atelectasia total do pulmão esquerdo. Derrame volumoso empurraria o mediastino para o lado oposto.",
+      "reference": null
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Durante a investigação de uma paciente com tosse, você realizou uma radiografia de tórax e identificou uma atelectasia do lobo superior direito. Assinale a alternativa que apresente uma alteração compatível com o achado:",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Afastamento das costelas / alargamento dos espaços intercostais",
+          "images": []
+        },
+        "b": {
+          "content": "Imagem hipertransparente no ápice do hemitórax direito",
+          "images": []
+        },
+        "c": {
+          "content": "Desvio da traqueia ipsilateral",
+          "images": []
+        },
+        "d": {
+          "content": "Curva (ou parábola) de Damoiseau no hemitórax direito",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
+      "explanation": "Atelectasia reduz o volume e traciona a traqueia para o mesmo lado. Afastamento das costelas e hipertransparência sugerem aumento de volume ou ar, e a curva de Damoiseau é sinal de derrame pleural.",
+      "reference": null
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Paciente de 23 anos, vem ao PS com quadro de tosse seca há 3 dias e leve \"desconforto\" em hemitórax direito. Durante investigação, realizada radiografia de tórax (abaixo). Em relação à imagem, é possível afirmar:",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms_md_3/q5-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "options": {
+        "a": {
+          "content": "Observa-se ausência de trama vascular em região lateral de hemitórax direito",
+          "images": []
+        },
+        "b": {
+          "content": "Observa-se hipotransparência em região lateral de hemitórax direito.",
+          "images": []
+        },
+        "c": {
+          "content": "Nessa imagem, a ausência da curva de Damoiseau afasta a presença de derrame pleural",
+          "images": []
+        },
+        "d": {
+          "content": "Observa-se alargamento do seio costofrênico esquerdo",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": "Há pneumotórax apical à direita: linha pleural visceral e ausência de trama vascular periférica no hemitórax direito. Não há opacidade lateral nem borramento do seio costofrênico esquerdo.",
+      "reference": null
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Paciente de 66 anos, vem ao PS com história de dor abdominal há 1 dia. Durante investigação, realizada radiografia de abdome (abaixo). Assinale a alternativa que correlaciona corretamente o achado radiográfico deste caso com o diagnóstico correspondente:",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms_md_3/q6-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "options": {
+        "a": {
+          "content": "Posicionamento do ângulo hepático anteriormente ao fígado - Sinal de Chilaiditi",
+          "images": []
+        },
+        "b": {
+          "content": "Ar abaixo da cúpula diafragmática direita - Pneumoperitoneo",
+          "images": []
+        },
+        "c": {
+          "content": "Dilatação do cólon descendente - Abdome Agudo Obstrutivo",
+          "images": []
+        },
+        "d": {
+          "content": "Ar na topografia do estômago - Abdome Agudo Perfurativo",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
+      "explanation": "Há uma faixa de ar livre sob a cúpula diafragmática direita, sem haustrações, o que caracteriza pneumoperitônio. A bolha gástrica à esquerda é um achado normal e o sinal de Chilaiditi mostraria cólon, com haustrações, entre o fígado e o diafragma.",
+      "reference": null
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Quais achados estão destacados na imagem abaixo?",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms_md_3/q7-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "options": {
+        "a": {
+          "content": "A imagem mostra a tríade da obstrução intestinal - sinal do \"empilhamento de moedas\", imagem hipotransparente na ampola retal (fecaloma) e dilatação da câmara gástrica",
+          "images": []
+        },
+        "b": {
+          "content": "A imagem mostra os sinais clássicos de pneumoperitôneo - ar no flanco direito, ar no leito hepático e fecaloma na ampola retal",
+          "images": []
+        },
+        "c": {
+          "content": "A imagem mostra os sinais de estenose de piloro - sinal da dupla bolha, sinal do grão de café e dilatação do intestino delgado",
+          "images": []
+        },
+        "d": {
+          "content": "A imagem mostra a tríade de Rigler - Pneumobilia, dilatação de delgado (sinal de \"empilhamento de moedas\") e cálculo biliar impactado",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
+      "explanation": "As setas mostram ar na via biliar, alças de delgado dilatadas com válvulas coniventes e um cálculo calcificado na fossa ilíaca direita. Esses três achados formam a tríade de Rigler, da íleo biliar.",
+      "reference": null
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Na imagem abaixo, qual alteração é possível observar e o que ela significa?",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms_md_3/q8-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "options": {
+        "a": {
+          "content": "Dilatação de víscera oca com haustrações - Obstrução de cólons",
+          "images": []
+        },
+        "b": {
+          "content": "Dilatação de víscera oca com \"sinal de empilhamento de moedas\" - Obstrução de delgado",
+          "images": []
+        },
+        "c": {
+          "content": "Presença de ar intraperitoneal - Pneumoperitoneo",
+          "images": []
+        },
+        "d": {
+          "content": "Sinal da dupla bolha - Dilatação de delgado e cólons",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": "As alças dilatadas estão na moldura do abdome e têm haustrações, padrão de cólon. Isso corresponde a obstrução do intestino grosso, não ao empilhamento de moedas do delgado.",
+      "reference": null
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Em investigação de diarréia crônica. Realizou radiografia de abdome com contraste via retal (abaixo). Sobre a imagem, é correto afirmar:",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms_md_3/q9-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "options": {
+        "a": {
+          "content": "A imagem evidencia dilatação do cólon sigmóide, ascendente e transverso, provavelmente causada por um tumor obstrutivo de reto",
+          "images": []
+        },
+        "b": {
+          "content": "Evidencia-se o sinal do \"cano de espingarda\", típico de retocolite ulcerativa",
+          "images": []
+        },
+        "c": {
+          "content": "É possível observar extravasamento do contraste para cavidade peritoneal, decorrente de um abdome agudo perfurativo",
+          "images": []
+        },
+        "d": {
+          "content": "A imagem evidencia ausência de haustrações na parede do cólon sigmóide e ascendente, típico de Doença de Chron",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
+      "explanation": "O contraste mostra o cólon contínuo, estreitado e sem haustrações, a partir do reto: o aspecto em cano de espingarda da retocolite ulcerativa. O contraste permanece na luz e o reto está acometido, o que não é o padrão da doença de Crohn.",
+      "reference": null
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Qual das alternativas abaixo NÃO descreve um possível uso da fluoroscopia?",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Durante uma colecistectomia, injetando-se contraste na via biliar à procura de cálculos",
+          "images": []
+        },
+        "b": {
+          "content": "Após cateterização do colédoco durante uma colangiopancreatografia retrógrada endoscópica (CPRE) por coledocolitíase",
+          "images": []
+        },
+        "c": {
+          "content": "Durante o implante de um filtro de veia cava superior em paciente com histórico de trombose venosa profunda (TVP) em membro inferior",
+          "images": []
+        },
+        "d": {
+          "content": "Durante uma laparoscopia, via retal, para evidenciar-se o local de perfuração em um abdome agudo perfurativo por úlcera gástrica",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
+      "explanation": "Colangiografia intraoperatória, CPRE e implante de filtro de cava são feitos sob fluoroscopia. A laparoscopia com via retal não é fluoroscopia e não localiza perfuração de úlcera gástrica. O filtro para TVP de membro inferior é implantado na veia cava inferior, não na superior, mas o procedimento em si é fluoroscópico.",
+      "reference": null
+    }
+  ]
+}

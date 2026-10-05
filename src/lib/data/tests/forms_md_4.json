@@ -1,0 +1,305 @@
+{
+  "id": "forms_md_4",
+  "test_title": "Forms MD 4",
+  "notes": [
+    "Fonte: capturas de tela da pasta Forms MD 3, no formulário Forms MD 4. O formulário não trazia gabarito.",
+    "As alternativas assinaladas nas capturas não foram usadas como gabarito. A pergunta 6 cita uma imagem, mas ela não aparece nas capturas."
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Sobre a ultrassonografia, é correto afirmar:",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Utiliza radiação ionizante",
+          "images": []
+        },
+        "b": {
+          "content": "Emitem frequências de sons acima do som audível",
+          "images": []
+        },
+        "c": {
+          "content": "Por utilizar ecos, os tecidos pouco densos (como ar) produzem uma melhor imagem",
+          "images": []
+        },
+        "d": {
+          "content": "Como desvantagem, podemos citar o fato de sempre serem realizados por via externa",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
+      "explanation": "Ultrassom usa som acima de 20 kHz, sem radiação ionizante. O ar prejudica a imagem e o exame também pode ser endocavitário.",
+      "reference": null
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Em relação à ultrassonografia, pode-se afirmar que:",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Dizemos que uma imagem é \"anecoica\" quando ela não produz nenhum eco",
+          "images": []
+        },
+        "b": {
+          "content": "Na ultrassonografia, imagens hiperdensas referem-se a imagens formadas por tecidos com altas densidades",
+          "images": []
+        },
+        "c": {
+          "content": "Ao realizar uma ultrassonografia, uma imagem hipotransparente é uma imagem com pouca formação de eco",
+          "images": []
+        },
+        "d": {
+          "content": "As imagens geradas na ultrassonografia são decorrentes do alinhamento dos átomos dos tecidos, que são estimulados pela onda sonora emitida pelo transdutor",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": "Anecoico significa ausência de ecos. Hiperdenso e hipotransparente são termos de tomografia e radiografia, e o alinhamento de átomos descreve a ressonância magnética.",
+      "reference": null
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Ainda sobre a ultrassonografia, pode-se afirmar que:",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Por normatização (assim como radiografias e tomografias), a imagem gerada na tela do aparelho de ultrassonografia mostra o lado direito do paciente à esquerda da tela (como se o paciente estivesse de frente para o observador)",
+          "images": []
+        },
+        "b": {
+          "content": "Chamamos \"modo A\" a configuração que gera a imagem bidimensional dos tecidos analisados",
+          "images": []
+        },
+        "c": {
+          "content": "O modo B mostra os picos de onda sonora emitidos pelo tecido analisado, como fluxo sanguíneo durante sístole e diástole por exemplo",
+          "images": []
+        },
+        "d": {
+          "content": "O modo Doppler mostra a mudança de frequência causada pelo movimento do tecido analisado (como o sangue por exemplo)",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
+      "explanation": "O Doppler registra a mudança de frequência produzida por estruturas em movimento. A imagem bidimensional é o modo B, não o modo A, e a lateralidade do ultrassom depende da posição do transdutor.",
+      "reference": null
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Paciente com quadro de dor torácica há 1 dia. Durante a avaliação no PS, você possui um aparelho de ultrassonografia disponível e realizou o exame, evidenciando a seguinte imagem (abaixo). Sobre o caso, é correto afirmar:",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms_md_4/q4-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "options": {
+        "a": {
+          "content": "A imagem mostra o corte transversal de um vaso intercostal com hemotórax (sangramento melhor evidenciado se realizado modo Doppler)",
+          "images": []
+        },
+        "b": {
+          "content": "O sinal da praia (visto na imagem) confirma o diagnóstico de pneumotórax",
+          "images": []
+        },
+        "c": {
+          "content": "Na imagem, pode-se observar a parede torácica e pulmão, com reforço acústico posterior na topografia da costela",
+          "images": []
+        },
+        "d": {
+          "content": "A imagem mostra o modo B e o modo M, sendo que este último evidencia o sinal da \"estratosfera\" ou \"código de barras\"",
+          "images": []
+        }
+      },
+      "correct_answer": "d",
+      "explanation": "O modo B mostra linhas A e o modo M mostra linhas horizontais paralelas, o sinal da estratosfera (código de barras), compatível com pneumotórax. O sinal da praia é o padrão normal e afasta pneumotórax. A costela produz sombra acústica, não reforço.",
+      "reference": null
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "A ultrassonografia pode ser utilizada como auxílio para realização de diversos procedimentos médicos. Assinale a alternativa que NÃO cita um desses procedimentos:",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Punção pleural por derrame pleural à direita",
+          "images": []
+        },
+        "b": {
+          "content": "Biópsia de nódulo de tiróide em lobo esquerdo",
+          "images": []
+        },
+        "c": {
+          "content": "Biópsia de nódulo pulmonar em segmento medial de lobo médio",
+          "images": []
+        },
+        "d": {
+          "content": "Punção para acesso venoso central femoral",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
+      "explanation": "Derrame pleural, nódulo de tireoide e acesso venoso femoral são guiados por ultrassom. Um nódulo no segmento medial do lobo médio fica cercado por pulmão aerado e não é acessível ao ultrassom.",
+      "reference": null
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Você esta atendendo uma paciente com suspeita de trombose venosa profunda em perna esquerda (imagem abaixo). Qual das alternativas confirma seu diagnóstico?",
+      "images": [],
+      "options": {
+        "a": {
+          "content": "Presença de fluxo ao Doppler",
+          "images": []
+        },
+        "b": {
+          "content": "Não compressibilidade da veia poplítea",
+          "images": []
+        },
+        "c": {
+          "content": "Ausência de trombo no interior da veia",
+          "images": []
+        },
+        "d": {
+          "content": "Ausência da compressibilidade da artéria poplítea",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
+      "explanation": "O critério que confirma trombose venosa profunda é a veia que não se comprime. Fluxo ao Doppler e ausência de trombo afastam oclusão, e a artéria poplítea não é o alvo do diagnóstico.",
+      "reference": null
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Paciente realizou USG de abdome \"de rotina\", com o seguinte achado em vesícula biliar (abaixo). Qual alternativa corresponde à imagem?",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms_md_4/q7-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "options": {
+        "a": {
+          "content": "Apresenta imagem hiperecoica e com sombra acústica posterior, confirmando o diagnóstico de colelitíase",
+          "images": []
+        },
+        "b": {
+          "content": "A parede da vesícula biliar apresenta-se espessada (2,71cm), o que confirma o diagnóstico de colecistite aguda",
+          "images": []
+        },
+        "c": {
+          "content": "A presença de gás no interior da vesícula biliar nesta imagem (imagem hipoecoica) confirma o diagnóstico de empiema de vesícula biliar",
+          "images": []
+        },
+        "d": {
+          "content": "A não mobilização da imagem hiperecoica com a mudança de decúbito confirma o diagnóstico de pólipo de vesícula",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": "Há um foco hiperecogênico no interior da vesícula, com sombra acústica posterior. A medida de 2,71 cm não é a espessura da parede. Gás não é hipoecoico e pólipo não produz sombra acústica.",
+      "reference": null
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Paciente do sexo masculino, 17 anos com dor em fossa ilíaca direita há 2 dias, associado a anorexia e febre. Realizou exames laboratoriais e ultrassonografia de abdome confirmando o diangóstico de apendicite aguda. Qual das alternativas melhor descreve a imagem abaixo?",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms_md_4/q8-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "options": {
+        "a": {
+          "content": "Imagem tubulariforme, em fundo cego, com diâmetro de 7,7mm e espessamento da parede.",
+          "images": []
+        },
+        "b": {
+          "content": "Corte transversal do apêndice cecal, com compressibilidade preservada e presença de apendicolito",
+          "images": []
+        },
+        "c": {
+          "content": "Apêndice cecal com diâmetro dentro dos parâmetros de normalidade porém com ausência de fluxo ao Doppler",
+          "images": []
+        },
+        "d": {
+          "content": "A imagem mostra a artéria apendicular com ausência de fluxo ao Doppler e apêndice cecal com espessamento da sua parede",
+          "images": []
+        }
+      },
+      "correct_answer": "a",
+      "explanation": "O corte longitudinal mostra uma estrutura tubular de fundo cego. Os calipers medem 0,77 cm, ou 7,7 mm, acima do limite de 6 mm, com parede espessada.",
+      "reference": null
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Paciente procura PS após trauma torácico (queda de bicicleta) hoje. Refere dor ventilatório-dependente e leve dispnéia. Realizada ultrassonografia de tórax (abaixo). Sobre o caso e a imagem, é correto afirmar:",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms_md_4/q9-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "options": {
+        "a": {
+          "content": "A imagem anecoica acima do diafragma sugere pneumotórax",
+          "images": []
+        },
+        "b": {
+          "content": "Na imagem é possível ver o \"sinal da coluna vertebral\", o que indica a presença de derrame pleural",
+          "images": []
+        },
+        "c": {
+          "content": "Apesar da dor, não se evidencia fratura de costela(s) na imagem",
+          "images": []
+        },
+        "d": {
+          "content": "A imagem mostra uma imagem hiperecoica e alongada, profunda. Pela história de trauma, deve-se pensar em corpo estranho",
+          "images": []
+        }
+      },
+      "correct_answer": "b",
+      "explanation": "No corte do baço, a coluna vertebral continua visível acima do diafragma. Esse sinal da coluna indica líquido pleural. Área anecoica acima do diafragma é derrame, não pneumotórax.",
+      "reference": null
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Você realizou uma ultrassonografia no quadrante superior direito do abdome do seu paciente, com a imagem abaixo. Pode-se afirmar que:",
+      "images": [
+        {
+          "url": "https://pub-4018f3e9185249f7845caade0e249384.r2.dev/forms_md_4/q10-1.webp",
+          "description": "Figura da questão."
+        }
+      ],
+      "options": {
+        "a": {
+          "content": "A imagem mostra um cisto hepático, com conteúdo anacóico no seu interior",
+          "images": []
+        },
+        "b": {
+          "content": "Os achados são compatíveis com colelitíase, com vesicular biliar normal e presença de cálculo no fundo da vesícula biliar",
+          "images": []
+        },
+        "c": {
+          "content": "A imagem mostra uma vesícula biliar com colecistite, observando-se cálculo no infundíbulo",
+          "images": []
+        },
+        "d": {
+          "content": "Observa-se coledocolitíase, sendo possível observar o cálculo impactado distalmente",
+          "images": []
+        }
+      },
+      "correct_answer": "c",
+      "explanation": "A estrutura em forma de pera é a vesícula. O foco hiperecogênico com sombra está no infundíbulo, não no fundo e não no colédoco distal. Não é um cisto hepático simples.",
+      "reference": null
+    }
+  ]
+}
